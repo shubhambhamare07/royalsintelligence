@@ -1,0 +1,504 @@
+<USER_REQUEST>
+# FINAL HOME SCREEN REPAIR — ROYALS INTELLIGENCE
+## LAYOUT RECONSTRUCTION + PLAYER IMAGE CORRECTION + MANUAL DATA AUDIT
+
+The latest Home Screen is still visually incorrect.
+
+I am not approving this implementation.
+
+Look at the latest screenshot and compare it against the original `HOME SCREEN.png` reference.
+
+The following problems must be fixed:
+
+1. Player cards are excessively tall and have incorrect proportions.
+2. Player photographs look distorted or inconsistently scaled.
+3. Ranking cards are not proper square/compact dashboard cards.
+4. Model Performance does not fit properly in the right column.
+5. Key Insights is practically invisible and gets pushed below the viewport.
+6. The right column contains excessive empty space.
+7. The Rajasthan Royals logo in the upper-left corner is incorrect.
+8. Some team logos are tiny and difficult to recognize.
+9. The page does not have the balanced composition of the reference.
+10. The actual player-to-image, team, nationality and ranking mappings need manual verification.
+
+**Do not add more CSS patches on top of the broken layout. Inspect the existing components and correct the underlying layout structure.**
+
+# 1. REFERENCE IS THE DESIGN AUTHORITY
+
+Recreate the original supplied Home Screen reference.
+
+Target viewport:
+
+`1672 × 941`
+
+The visual composition must be:
+
+- Compact white sidebar.
+- White header.
+- Wide editorial hero with stadium image.
+- Five statistic cards in one row.
+- Top 10 Rankings occupying the left column.
+- Model Performance at the top of the right column.
+- Key Insights directly below Model Performance.
+
+Maintain the reference's proportions, alignment, card dimensions, typography and spacing.
+
+Do not redesign the interface.
+
+# 2. FIX THE PLAYER CARDS — PROPER PROPORTIONS
+
+This is currently the biggest visual problem.
+
+The player cards are extremely tall and do not resemble the reference.
+
+Rebuild the player card component with a proper compact structure.
+
+At the desktop target viewport:
+
+- Five cards across.
+- Equal width.
+- Consistent height.
+- Subtle rounded corners.
+- Thin light-grey border.
+- White background.
+- Properly aligned content.
+- No oversized blank portrait areas.
+
+Each card must have this exact hierarchy:
+
+1. Ranking badge at the top-left.
+2. Nationality flag at the top-right.
+3. Player photograph in the central portrait area.
+4. Player name.
+5. IPL team logo.
+6. Pressure Rating label.
+7. Pressure Rating value.
+
+## Player photograph rules
+
+Use the actual photographs from:
+
+`C:\Users\Shubham\OneDrive\Desktop\secretRR\ASSETS\TOP 10`
+
+The current images look distorted and inconsistently scaled.
+
+Fix this by:
+
+- Preserving the original image aspect ratio.
+- Using `object-fit: contain`.
+- Never stretching the image.
+- Never using arbitrary width and height combinations that distort the player.
+- Never cropping the player's head, folded hands or jersey.
+- Avoiding inconsistent image heights between cards.
+- Giving all portrait containers a consistent maximum height.
+- Using appropriate transparent backgrounds if the original images contain transparency.
+- Centering the complete person horizontally and vertically.
+
+The portrait should be large enough to identify the player but compact enough that the entire card remains balanced.
+
+Do not make the player image consume almost the entire card.
+
+Do not leave huge blank portrait areas.
+
+**The image container must adapt to the photograph while preserving consistent card geometry.**
+
+## Team logos
+
+Use:
+
+`C:\Users\Shubham\OneDrive\Desktop\secretRR\ASSETS\IPL TEAM LOGO`
+
+Show the correct team logo clearly beneath each player photograph.
+
+- Use consistent logo display dimensions.
+- Preserve recognizable team branding.
+- Only crop team logos if absolutely necessary.
+- Do not use tiny unreadable logos.
+- Do not replace them with emoji or abbreviations.
+
+## Nationality flags
+
+Every player card must show the player's correct national flag.
+
+Use actual nationality data from the canonical player registry.
+
+Flags must be visible, consistent in size and correctly positioned.
+
+Do not use IPL team nationality as a substitute for player nationality.
+
+# 3. PROPER CARD DIMENSIONS — NO GIANT VERTICAL CARDS
+
+The ranking cards must resemble the compact cards in the original reference.
+
+At 1672 × 941:
+
+- Five player cards must fit across the ranking panel.
+- All five cards must have equal dimensions.
+- The cards must fit within the available dashboard height.
+- Their portrait areas must be proportionate.
+- Names must not be pushed off-screen.
+- Team logos must be visible.
+- Ratings must be visible.
+- No unnecessary vertical whitespace.
+
+Use a clean CSS Grid implementation with equal columns.
+
+Do not create fixed oversized portrait heights.
+
+Do not make cards so narrow that player names become unreadable.
+
+Use sensible typography and spacing.
+
+The Top Batters and Top Bowlers tabs must retain all 10 players each, with a clean 1–5 / 6–10 continuation if required.
+
+# 4. REBUILD THE RIGHT COLUMN — BOTH PANELS MUST BE VISIBLE
+
+The current right column is unacceptable.
+
+Model Performance and Key Insights must both be properly visible within the initial desktop viewport.
+
+The reference has a compact two-panel vertical composition.
+
+## Model Performance
+
+Place this at the top of the right column.
+
+It must display:
+
+- Batter Model.
+- Bowler Model.
+- Chase Win Probability.
+
+Each metric row should be compact and readable.
+
+Display actual values, baseline, thresholds and status.
+
+Known chase calibration:
+
+- ECE: 0.0905.
+- Threshold: 0.0400.
+- Status: Calibration requires improvement.
+
+Never show a failed metric as validated.
+
+Remove excessive empty space from the metric cards.
+
+Use compact rows with consistent alignment.
+
+## Key Insights
+
+Place this panel DIRECTLY BELOW Model Performance.
+
+It must contain all four data-backed insights:
+
+1. Top-ranked batter.
+2. Top-ranked bowler.
+3. Hidden Gems count and role breakdown.
+4. IPL–T20I transferability metric.
+
+Use actual project values.
+
+Make every line visible and readable.
+
+Use compact pink bullet points.
+
+## Right column sizing
+
+Use a proper two-column grid:
+
+- Left: approximately 64–66%.
+- Right: approximately 34–36%.
+
+The right column must not be clipped.
+
+Both panels must fit vertically.
+
+Do not let Model Performance overlap Key Insights.
+
+Do not place Key Insights below the viewport.
+
+Do not solve this by hiding the content or using overflow clipping.
+
+The layout must genuinely fit.
+
+# 5. FIX THE RAJASTHAN ROYALS LOGO
+
+The logo in the upper-left corner is WRONG.
+
+Inspect the available assets and locate the genuine Rajasthan Royals logo.
+
+Use the actual official logo asset already available in the project or supplied assets.
+
+Do not:
+
+- Recreate the logo with text.
+- Use a generic pink icon.
+- Use an incorrect team logo.
+- Use an AI-generated imitation.
+- Use a cropped fragment of the original logo.
+
+Display the complete logo with its correct proportions.
+
+Keep it compact and aligned with:
+
+`ROYALS INTELLIGENCE`
+
+Subtitle:
+
+`SupeRR Selector · Season 02`
+
+The logo must be sharp and recognizable.
+
+# 6. STADIUM HERO
+
+Keep the generated stadium image already created for the hero.
+
+Use a wide panoramic composition similar to the reference.
+
+Do not let it become a tiny image confined to the extreme right.
+
+The hero must have a balanced text-to-image relationship.
+
+Text:
+
+`THE INTELLIGENCE`
+`BEHIND THE AUCTION.`
+
+Subtitle:
+
+`Pressure performance. Statistical evidence. Player intelligence.`
+
+Keep the navy and royal-pink typography.
+
+# 7. REUSE THE SAME PLAYER PHOTOGRAPHS ON PLAYER PROFILES
+
+IMPORTANT ADDITIONAL REQUIREMENT:
+
+The player photographs in:
+
+`C:\Users\Shubham\OneDrive\Desktop\secretRR\ASSETS\TOP 10`
+
+must not be used only on the Home Screen.
+
+After correctly mapping the images to the 20 players, use the SAME corresponding photograph on each player's existing profile page.
+
+For example:
+
+- Top 10 batter card → matching player profile photograph.
+- Top 10 bowler card → matching player profile photograph.
+
+Requirements:
+
+1. Create one central player-image mapping.
+2. Associate each image with the canonical player ID.
+3. Reuse that mapping across Home Screen cards and player profiles.
+4. Do not duplicate or separately guess image paths in different components.
+5. Do not use one player's photograph on another player's profile.
+6. Preserve the complete photograph on profile pages too.
+7. If the player has no verified image, show the existing neutral fallback rather than an incorrect photograph.
+
+Every player card must still open the correct profile when clicked.
+
+# 8. MANUAL VERIFICATION — DO NOT TRUST AUTOMATIC MAPPING
+
+I want a proper manual audit of the complete Top 10 batter and Top 10 bowler data.
+
+Inspect all 20 players individually.
+
+For EVERY player, verify:
+
+| Field | Required verification |
+|---|---|
+| Ranking | Correct frozen ranking position |
+| Player name | Exact canonical name |
+| Photograph | Correct actual player |
+| Image path | Correct local asset |
+| Nationality | Correct country |
+| Flag | Correct national flag |
+| IPL team | Correct verified team assignment |
+| Team logo | Correct corresponding logo |
+| Pressure rating | Exact frozen rating |
+| Player ID | Correct canonical registry ID |
+| Profile route | Opens the correct player profile |
+
+Do not assume that the photograph matches the filename.
+
+Inspect the actual image if necessary.
+
+Do not infer team affiliation from an old photograph.
+
+Use the authoritative project data and clearly distinguish historical team information from current or verified affiliation.
+
+If any player's team affiliation cannot be confirmed, do not invent one. Report it.
+
+## Also verify the dashboard numbers
+
+Manually verify:
+
+- Total players.
+- Batter qualifications.
+- Bowler qualifications.
+- Role qualifications.
+- Matches analysed.
+- Batter model log loss and baseline.
+- Bowler model log loss and baseline.
+- Chase Win Probability ECE and threshold.
+- Hidden Gems count.
+- Transferability values.
+
+Compare every displayed value against the actual authoritative project output.
+
+Do not silently change the frozen rankings or any model values.
+
+# 9. DESKTOP VIEWPORT — FINAL COMPOSITION
+
+At `1672 × 941`, the page must display:
+
+- Complete sidebar.
+- Complete header.
+- Complete hero.
+- Five statistic cards.
+- Top 10 Rankings heading and tabs.
+- Five complete ranking cards.
+- Player photographs.
+- Nationality flags.
+- Team logos.
+- Player names.
+- Ratings.
+- Complete Model Performance panel.
+- Complete Key Insights panel.
+
+No horizontal page scrolling.
+
+No vertical page scrolling at this target viewport.
+
+Do not use `overflow: hidden` to conceal a broken layout.
+
+Fix the actual dimensions, grid structure and content sizing.
+
+The compact sidebar must retain all 16 navigation items and must not become wider than necessary.
+
+# 10. SF PRO FONT
+
+Continue using the actual locally uploaded SF Pro files.
+
+Do not replace them.
+
+Verify the browser is loading the correct font files and weights.
+
+# 11. STRICT SCOPE
+
+Only correct the Home Screen and the shared player-image mapping needed to reuse photographs on existing player profiles.
+
+Do not redesign any other screen.
+
+Do not alter:
+
+- Frozen rankings.
+- Raw data.
+- Model formulas.
+- Pressure ratings.
+- Model outputs.
+- Validation thresholds.
+- Golden fixtures.
+- Existing player IDs.
+- Existing calculation logic.
+
+Do not add new features.
+
+Do not introduce external image services or transmit local assets to external services.
+
+# 12. ACTUAL BROWSER TESTING
+
+Run the application and inspect it at:
+
+`1672 × 941`
+
+Do not merely inspect the code.
+
+Take a screenshot.
+
+Compare it directly with the original reference.
+
+Manually verify:
+
+- Player image proportions.
+- Correct player identity.
+- Flags.
+- Team logos.
+- RR logo.
+- Card dimensions.
+- Right-side panel visibility.
+- Complete dashboard composition.
+
+Click all 20 player cards and confirm the correct profile opens.
+
+Check that the corresponding photograph appears on each profile.
+
+Switch between Top Batters and Top Bowlers.
+
+Verify the 1–5 and 6–10 continuation.
+
+Run typecheck, tests and production build.
+
+Do not weaken tests.
+
+# 13. FINAL REPORT
+
+Provide:
+
+1. Files changed.
+2. Exact Rajasthan Royals logo asset used.
+3. Stadium image asset path.
+4. 20-player image mapping audit.
+5. 20-player team and nationality audit.
+6. Team logo mapping audit.
+7. Confirmation that all 20 profile pages use the matching photographs.
+8. Confirmation that all 20 cards open the correct profile.
+9. Confirmation that Model Performance and Key Insights are fully visible.
+10. Confirmation that the complete dashboard fits at 1672 × 941.
+11. Typecheck, test and production build results.
+12. Final browser screenshot.
+
+Clearly list any unresolved mapping or data issues.
+
+Do not claim everything is verified unless it has actually been checked.
+
+---
+
+# FINAL INSTRUCTION
+
+I am not asking you to create another dashboard.
+
+I am asking you to FIX THE EXISTING HOME SCREEN TO MATCH THE REFERENCE.
+
+**PROPER COMPACT CARDS.**
+**CORRECT PLAYER IMAGE PROPORTIONS.**
+**VISIBLE FLAGS AND TEAM LOGOS.**
+**GENUINE RAJASTHAN ROYALS LOGO.**
+**MODEL PERFORMANCE FULLY VISIBLE.**
+**KEY INSIGHTS FULLY VISIBLE.**
+**SAME PLAYER PHOTOS ON THEIR PROFILES.**
+**MANUAL VERIFICATION OF ALL 20 PLAYERS.**
+
+Do not move to another screen.
+
+Do not declare completion until the browser screenshot genuinely matches the reference.
+
+ALSO NISSANKA TO DC 
+PATHIRANA TO KKR 
+ELIS TO SRH ( TRADE IN NOV 2026 )
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-11-14T02:54:57+05:30.
+
+The user's current state is as follows:
+Active Document: c:\Users\Shubham\OneDrive\Desktop\secretRR\run_all_ocr.ps1 (LANGUAGE_UNSPECIFIED)
+Cursor is on line: 1
+Other open documents:
+- c:\Users\Shubham\OneDrive\Desktop\secretRR\run_ocr.ps1 (LANGUAGE_UNSPECIFIED)
+- c:\Users\Shubham\OneDrive\Desktop\secretRR\rr-pressure-platform\site\src\features\home\HomePage.tsx (LANGUAGE_UNSPECIFIED)
+- c:\Users\Shubham\OneDrive\Desktop\secretRR\rr-pressure-platform\site\src\app\layout\AppShell.tsx (LANGUAGE_UNSPECIFIED)
+- c:\Users\Shubham\OneDrive\Desktop\secretRR\rr-pressure-platform\site\tailwind.config.js (LANGUAGE_UNSPECIFIED)
+- c:\Users\Shubham\OneDrive\Desktop\secretRR\rr-pressure-platform\site\src\styles\globals.css (LANGUAGE_UNSPECIFIED)
+</ADDITIONAL_METADATA>
