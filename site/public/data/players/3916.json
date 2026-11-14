@@ -1,0 +1,441 @@
+{
+  "player_id": "3916",
+  "player_name": "Jitesh Sharma",
+  "batting": {
+    "matches": 69,
+    "innings": 69,
+    "not_outs": 15,
+    "runs": 1364,
+    "balls": 870,
+    "average": 25.26,
+    "strike_rate": 156.78,
+    "highest_score": 85,
+    "fours": 110,
+    "sixes": 81,
+    "dots": 305,
+    "singles": 312,
+    "twos": 60,
+    "threes": 2,
+    "ducks": 4,
+    "thirties": 13,
+    "fifties": 2,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 40,
+      "LBW": 6,
+      "Bowled": 6,
+      "Hit Wicket": 1,
+      "Stump": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 78.72,
+    "tier": "Proven",
+    "p_outperform": 0.9772,
+    "pressure_value_per_100": 14.01,
+    "clutch_delta_per_100": 9.48,
+    "consistency": 0.6887
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50945,
+      "date": "2026-05-31",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "11 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50942,
+      "date": "2026-05-26",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "15 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50378,
+      "date": "2026-05-13",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "8 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50375,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "18 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 11,
+      "pressure_value": 4.37
+    },
+    {
+      "match_id": 50363,
+      "date": "2026-04-30",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50355,
+      "date": "2026-04-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "10 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50347,
+      "date": "2026-04-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "14 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -4.01
+    },
+    {
+      "match_id": 50344,
+      "date": "2026-04-15",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "23 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50144,
+      "date": "2026-04-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "10 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50140,
+      "date": "2026-04-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "5 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50125,
+      "date": "2026-03-28",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42028,
+      "date": "2025-12-11",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "27 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42027,
+      "date": "2025-12-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "10 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 3.58
+    },
+    {
+      "match_id": 48027,
+      "date": "2025-11-21",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "33 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": 7.11
+    },
+    {
+      "match_id": 48024,
+      "date": "2025-11-18",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "4 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48020,
+      "date": "2025-11-16",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "5 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48016,
+      "date": "2025-11-14",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "83 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41978,
+      "date": "2025-11-06",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "3 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41977,
+      "date": "2025-11-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "22 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": 5.61
+    },
+    {
+      "match_id": 40767,
+      "date": "2025-06-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "24 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": 3.27
+    },
+    {
+      "match_id": 40752,
+      "date": "2025-05-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "85 (33)",
+      "bowling_figures": null,
+      "pressure_balls": 27,
+      "pressure_value": 29.0
+    },
+    {
+      "match_id": 40757,
+      "date": "2025-05-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "24 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": 7.19
+    },
+    {
+      "match_id": 40745,
+      "date": "2025-05-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "7 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -5.93
+    },
+    {
+      "match_id": 40735,
+      "date": "2025-04-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "20 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": 1.32
+    },
+    {
+      "match_id": 40730,
+      "date": "2025-04-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "11 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40717,
+      "date": "2025-04-10",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "3 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40714,
+      "date": "2025-04-07",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "40 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40707,
+      "date": "2025-04-02",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "33 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40701,
+      "date": "2025-03-28",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "12 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31287,
+      "date": "2024-05-19",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "32 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": 5.49
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 3916,
+      "player_name": "Jitesh Sharma",
+      "role": "batter",
+      "match_id": 20207,
+      "n_balls": 19,
+      "match_runs": 22,
+      "match_pressure_value": 0.2052,
+      "career_expected_value": 0.5211,
+      "z_score": -6.7,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3916,
+      "player_name": "Jitesh Sharma",
+      "role": "batter",
+      "match_id": 41977,
+      "n_balls": 9,
+      "match_runs": 15,
+      "match_pressure_value": 0.8142,
+      "career_expected_value": 0.5211,
+      "z_score": 4.28,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3916,
+      "player_name": "Jitesh Sharma",
+      "role": "batter",
+      "match_id": 30072,
+      "n_balls": 7,
+      "match_runs": 15,
+      "match_pressure_value": 0.2702,
+      "career_expected_value": 0.5211,
+      "z_score": -3.23,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3916,
+      "player_name": "Jitesh Sharma",
+      "role": "batter",
+      "match_id": 48027,
+      "n_balls": 17,
+      "match_runs": 27,
+      "match_pressure_value": 0.3644,
+      "career_expected_value": 0.5211,
+      "z_score": -3.14,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3916,
+      "player_name": "Jitesh Sharma",
+      "role": "batter",
+      "match_id": 14158,
+      "n_balls": 7,
+      "match_runs": 6,
+      "match_pressure_value": 0.2871,
+      "career_expected_value": 0.5211,
+      "z_score": -3.01,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3916,
+      "player_name": "Jitesh Sharma",
+      "role": "batter",
+      "match_id": 28960,
+      "n_balls": 9,
+      "match_runs": 15,
+      "match_pressure_value": 0.7256,
+      "career_expected_value": 0.5211,
+      "z_score": 2.98,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3916,
+      "player_name": "Jitesh Sharma",
+      "role": "batter",
+      "match_id": 40757,
+      "n_balls": 13,
+      "match_runs": 24,
+      "match_pressure_value": 0.3629,
+      "career_expected_value": 0.5211,
+      "z_score": -2.77,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3916,
+      "player_name": "Jitesh Sharma",
+      "role": "batter",
+      "match_id": 31283,
+      "n_balls": 19,
+      "match_runs": 22,
+      "match_pressure_value": 0.651,
+      "career_expected_value": 0.5211,
+      "z_score": 2.75,
+      "direction": "positive"
+    }
+  ]
+}

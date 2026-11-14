@@ -1,0 +1,45 @@
+{
+  "player_id": "4900",
+  "player_name": "Wanindu Hasaranga",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 44.78,
+  "rating_ci90": [
+    16.64,
+    73.07
+  ],
+  "p_outperform": 0.3783,
+  "top10_inclusion_prob": 0.0119,
+  "rank_ci90": [
+    23,
+    146
+  ],
+  "composite": -0.0132,
+  "components": {
+    "PV": {
+      "observed": -0.1089,
+      "adjusted": -0.1089,
+      "z_score": -0.288,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.0823,
+      "adjusted": -0.0823,
+      "z_score": -0.1936,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.6208,
+      "adjusted": 0.6208,
+      "z_score": 0.4421,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 64,
+    "neff_pressure": 59.57,
+    "n_pressure_matches": 21
+  },
+  "explanation": "Wanindu Hasaranga generated a pressure value of -10.89 runs/100 balls (Clutch Delta: -8.23) at a 117.2 strike rate with 100.0% consistency across 21 pressure matches (64 balls)."
+}

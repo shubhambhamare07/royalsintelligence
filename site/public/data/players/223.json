@@ -1,0 +1,126 @@
+{
+  "player_id": "223",
+  "player_name": "Steven Smith",
+  "batting": {
+    "matches": 9,
+    "innings": 9,
+    "not_outs": 1,
+    "runs": 199,
+    "balls": 160,
+    "average": 24.88,
+    "strike_rate": 124.37,
+    "highest_score": 52,
+    "fours": 20,
+    "sixes": 5,
+    "dots": 56,
+    "singles": 69,
+    "twos": 10,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 2,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "LBW": 2,
+      "Stump": 1,
+      "Bowled": 1,
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 29983,
+      "date": "2024-02-23",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "11 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 27061,
+      "date": "2023-11-26",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "19 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 27060,
+      "date": "2023-11-23",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "52 (41)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17641,
+      "date": "2022-10-07",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "17 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17396,
+      "date": "2022-09-25",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "9 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17394,
+      "date": "2022-09-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "35 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": 3.69
+    },
+    {
+      "match_id": 15460,
+      "date": "2022-06-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "37 (27)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": 2.83
+    },
+    {
+      "match_id": 15459,
+      "date": "2022-06-08",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "5 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13613,
+      "date": "2022-02-13",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "14 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -3.92
+    }
+  ]
+}

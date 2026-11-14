@@ -1,0 +1,597 @@
+{
+  "player_id": "2639",
+  "player_name": "Marcus Stoinis",
+  "batting": {
+    "matches": 85,
+    "innings": 85,
+    "not_outs": 23,
+    "runs": 1849,
+    "balls": 1217,
+    "average": 29.82,
+    "strike_rate": 151.93,
+    "highest_score": 124,
+    "fours": 147,
+    "sixes": 107,
+    "dots": 422,
+    "singles": 467,
+    "twos": 72,
+    "threes": 1,
+    "ducks": 5,
+    "thirties": 12,
+    "fifties": 8,
+    "hundreds": 1,
+    "dismissals_by_type": {
+      "Caught": 46,
+      "Bowled": 8,
+      "LBW": 4,
+      "Stump": 2,
+      "RunOut": 2
+    }
+  },
+  "bowling": {
+    "matches": 53,
+    "legal_balls": 723,
+    "overs": 120.5,
+    "runs_charged": 1174.0,
+    "wickets": 44,
+    "economy": 9.74,
+    "average": 26.68,
+    "strike_rate": 16.43,
+    "dot_pct": 31.69,
+    "boundary_pct": 19.74,
+    "wides": 46,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 23.0,
+        "runs": 274.0,
+        "wickets": 13,
+        "economy": 11.91
+      },
+      "middle": {
+        "overs": 72.0,
+        "runs": 683.0,
+        "wickets": 21,
+        "economy": 9.49
+      },
+      "powerplay": {
+        "overs": 25.5,
+        "runs": 217.0,
+        "wickets": 10,
+        "economy": 8.51
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 53.06,
+    "tier": "Unproven",
+    "p_outperform": 0.5696,
+    "pressure_value_per_100": 2.15,
+    "clutch_delta_per_100": -4.83,
+    "consistency": 0.6062
+  },
+  "rated_bowling": {
+    "rating": 53.46,
+    "tier": "Unproven",
+    "p_outperform": 0.6002,
+    "pressure_value_per_6": 0.05,
+    "clutch_delta_per_6": -0.02,
+    "consistency": 0.4825
+  },
+  "recent_matches": [
+    {
+      "match_id": 50382,
+      "date": "2026-05-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "37 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -6.62
+    },
+    {
+      "match_id": 50376,
+      "date": "2026-05-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "1/44 (3.0)",
+      "pressure_balls": 16,
+      "pressure_value": -14.02
+    },
+    {
+      "match_id": 50370,
+      "date": "2026-05-06",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "28 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50367,
+      "date": "2026-05-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "40 (31)",
+      "bowling_figures": "1/26 (2.8)",
+      "pressure_balls": 6,
+      "pressure_value": -2.98
+    },
+    {
+      "match_id": 50361,
+      "date": "2026-04-28",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "62 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": 23.24
+    },
+    {
+      "match_id": 50356,
+      "date": "2026-04-25",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/11 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50350,
+      "date": "2026-04-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "29 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50345,
+      "date": "2026-04-16",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "10 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50131,
+      "date": "2026-04-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "9 (3)",
+      "bowling_figures": "0/17 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50128,
+      "date": "2026-03-31",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -7.16
+    },
+    {
+      "match_id": 48917,
+      "date": "2026-02-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "23 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41978,
+      "date": "2025-11-06",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "17 (19)",
+      "bowling_figures": "1/41 (4.0)",
+      "pressure_balls": 13,
+      "pressure_value": -7.75
+    },
+    {
+      "match_id": 41977,
+      "date": "2025-11-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "64 (39)",
+      "bowling_figures": "1/22 (2.0)",
+      "pressure_balls": 6,
+      "pressure_value": 8.58
+    },
+    {
+      "match_id": 41976,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "6 (6)",
+      "bowling_figures": "1/24 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46312,
+      "date": "2025-10-04",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (4)",
+      "bowling_figures": "1/39 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -8.93
+    },
+    {
+      "match_id": 46310,
+      "date": "2025-10-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "4 (1)",
+      "bowling_figures": "0/27 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40767,
+      "date": "2025-06-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "6 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -0.38
+    },
+    {
+      "match_id": 40766,
+      "date": "2025-06-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "2 (2)",
+      "bowling_figures": "1/14 (1.0)",
+      "pressure_balls": 2,
+      "pressure_value": -0.98
+    },
+    {
+      "match_id": 40764,
+      "date": "2025-05-29",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "26 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 43057,
+      "date": "2025-05-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "44 (16)",
+      "bowling_figures": "0/21 (1.5)",
+      "pressure_balls": 19,
+      "pressure_value": 3.13
+    },
+    {
+      "match_id": 40747,
+      "date": "2025-05-04",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "15 (5)",
+      "bowling_figures": "0/17 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40730,
+      "date": "2025-04-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "0/13 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40720,
+      "date": "2025-04-12",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "34 (11)",
+      "bowling_figures": "0/6 (0.7)",
+      "pressure_balls": 5,
+      "pressure_value": 2.6
+    },
+    {
+      "match_id": 40715,
+      "date": "2025-04-08",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "4 (7)",
+      "bowling_figures": "0/10 (1.0)",
+      "pressure_balls": 6,
+      "pressure_value": 6.02
+    },
+    {
+      "match_id": 40711,
+      "date": "2025-04-05",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (7)",
+      "bowling_figures": "0/48 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -6.32
+    },
+    {
+      "match_id": 40706,
+      "date": "2025-04-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/15 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40698,
+      "date": "2025-03-25",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "20 (15)",
+      "bowling_figures": "0/31 (2.0)",
+      "pressure_balls": 6,
+      "pressure_value": -7.54
+    },
+    {
+      "match_id": 37356,
+      "date": "2024-11-18",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "61 (27)",
+      "bowling_figures": "0/15 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37355,
+      "date": "2024-11-16",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "14 (15)",
+      "bowling_figures": "0/27 (3.0)",
+      "pressure_balls": 9,
+      "pressure_value": -5.53
+    },
+    {
+      "match_id": 36563,
+      "date": "2024-09-13",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "2 (5)",
+      "bowling_figures": "0/31 (2.0)",
+      "pressure_balls": 6,
+      "pressure_value": -10.86
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "batter",
+      "match_id": 25157,
+      "n_balls": 5,
+      "match_runs": 11,
+      "match_pressure_value": 0.8312,
+      "career_expected_value": 0.426,
+      "z_score": 4.41,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "batter",
+      "match_id": 50361,
+      "n_balls": 14,
+      "match_runs": 51,
+      "match_pressure_value": 0.6509,
+      "career_expected_value": 0.426,
+      "z_score": 4.09,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "batter",
+      "match_id": 14113,
+      "n_balls": 4,
+      "match_runs": 0,
+      "match_pressure_value": 0.0573,
+      "career_expected_value": 0.426,
+      "z_score": -3.59,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "bowler",
+      "match_id": 13613,
+      "n_balls": 9,
+      "match_runs_conceded": 7,
+      "match_wickets": 1,
+      "match_pressure_value": 0.8591,
+      "career_expected_value": 0.6149,
+      "z_score": 3.56,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "bowler",
+      "match_id": 17764,
+      "n_balls": 7,
+      "match_runs_conceded": 11,
+      "match_wickets": 1,
+      "match_pressure_value": 0.3504,
+      "career_expected_value": 0.6149,
+      "z_score": -3.4,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "batter",
+      "match_id": 20238,
+      "n_balls": 10,
+      "match_runs": 23,
+      "match_pressure_value": 0.2136,
+      "career_expected_value": 0.426,
+      "z_score": -3.27,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "bowler",
+      "match_id": 14139,
+      "n_balls": 6,
+      "match_runs_conceded": 8,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8808,
+      "career_expected_value": 0.6149,
+      "z_score": 3.17,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "batter",
+      "match_id": 20223,
+      "n_balls": 18,
+      "match_runs": 13,
+      "match_pressure_value": 0.5751,
+      "career_expected_value": 0.426,
+      "z_score": 3.08,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "batter",
+      "match_id": 31257,
+      "n_balls": 20,
+      "match_runs": 43,
+      "match_pressure_value": 0.2845,
+      "career_expected_value": 0.426,
+      "z_score": -3.08,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "batter",
+      "match_id": 46312,
+      "n_balls": 4,
+      "match_runs": 2,
+      "match_pressure_value": 0.7331,
+      "career_expected_value": 0.426,
+      "z_score": 2.99,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "bowler",
+      "match_id": 13616,
+      "n_balls": 11,
+      "match_runs_conceded": 12,
+      "match_wickets": 0,
+      "match_pressure_value": 0.4386,
+      "career_expected_value": 0.6149,
+      "z_score": -2.84,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "bowler",
+      "match_id": 40715,
+      "n_balls": 6,
+      "match_runs_conceded": 4,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8484,
+      "career_expected_value": 0.6149,
+      "z_score": 2.78,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "batter",
+      "match_id": 43057,
+      "n_balls": 8,
+      "match_runs": 22,
+      "match_pressure_value": 0.6222,
+      "career_expected_value": 0.426,
+      "z_score": 2.7,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "bowler",
+      "match_id": 36563,
+      "n_balls": 6,
+      "match_runs_conceded": 18,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3914,
+      "career_expected_value": 0.6149,
+      "z_score": -2.66,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "batter",
+      "match_id": 30059,
+      "n_balls": 4,
+      "match_runs": 3,
+      "match_pressure_value": 0.1534,
+      "career_expected_value": 0.426,
+      "z_score": -2.65,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "bowler",
+      "match_id": 30070,
+      "n_balls": 6,
+      "match_runs_conceded": 5,
+      "match_wickets": 1,
+      "match_pressure_value": 0.8331,
+      "career_expected_value": 0.6149,
+      "z_score": 2.6,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2639,
+      "player_name": "Marcus Stoinis",
+      "role": "bowler",
+      "match_id": 40711,
+      "n_balls": 6,
+      "match_runs_conceded": 19,
+      "match_wickets": 0,
+      "match_pressure_value": 0.4028,
+      "career_expected_value": 0.6149,
+      "z_score": -2.52,
+      "direction": "negative"
+    }
+  ]
+}

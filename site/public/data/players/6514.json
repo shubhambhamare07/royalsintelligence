@@ -1,0 +1,83 @@
+{
+  "player_id": "6514",
+  "player_name": "Anil Nidamanuru",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 0,
+    "runs": 45,
+    "balls": 43,
+    "average": 9.0,
+    "strike_rate": 104.65,
+    "highest_score": 26,
+    "fours": 3,
+    "sixes": 3,
+    "dots": 24,
+    "singles": 11,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 3,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 45907,
+      "date": "2025-09-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45906,
+      "date": "2025-08-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "26 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32621,
+      "date": "2024-05-19",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -6.68
+    },
+    {
+      "match_id": 32620,
+      "date": "2024-05-18",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "19 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": 3.87
+    },
+    {
+      "match_id": 16666,
+      "date": "2022-08-04",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -7.29
+    }
+  ]
+}

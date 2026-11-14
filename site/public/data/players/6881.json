@@ -1,0 +1,154 @@
+{
+  "player_id": "6881",
+  "player_name": "Scott Edwards",
+  "batting": {
+    "matches": 12,
+    "innings": 12,
+    "not_outs": 2,
+    "runs": 231,
+    "balls": 176,
+    "average": 23.1,
+    "strike_rate": 131.25,
+    "highest_score": 81,
+    "fours": 18,
+    "sixes": 7,
+    "dots": 58,
+    "singles": 74,
+    "twos": 14,
+    "threes": 5,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 7,
+      "Bowled": 2,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 45907,
+      "date": "2025-09-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45906,
+      "date": "2025-08-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "12 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 35429,
+      "date": "2024-08-28",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "10 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 35427,
+      "date": "2024-08-26",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -7.28
+    },
+    {
+      "match_id": 35425,
+      "date": "2024-08-25",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "81 (40)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 35423,
+      "date": "2024-08-23",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "7 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32625,
+      "date": "2024-05-24",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "12 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -5.14
+    },
+    {
+      "match_id": 32623,
+      "date": "2024-05-22",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "29 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": 4.69
+    },
+    {
+      "match_id": 32621,
+      "date": "2024-05-19",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "12 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": 0.13
+    },
+    {
+      "match_id": 32620,
+      "date": "2024-05-18",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "13 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16667,
+      "date": "2022-08-05",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "26 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -2.73
+    },
+    {
+      "match_id": 16666,
+      "date": "2022-08-04",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "20 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -10.76
+    }
+  ]
+}

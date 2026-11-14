@@ -1,0 +1,83 @@
+{
+  "player_id": "26913",
+  "player_name": "Shaik Rasheed",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 0,
+    "runs": 71,
+    "balls": 63,
+    "average": 14.2,
+    "strike_rate": 112.7,
+    "highest_score": 27,
+    "fours": 9,
+    "sixes": 2,
+    "dots": 34,
+    "singles": 13,
+    "twos": 5,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4,
+      "Stump": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 40745,
+      "date": "2025-05-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "14 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": -4.47
+    },
+    {
+      "match_id": 40742,
+      "date": "2025-04-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "11 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40736,
+      "date": "2025-04-25",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40731,
+      "date": "2025-04-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "19 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40723,
+      "date": "2025-04-14",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "27 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

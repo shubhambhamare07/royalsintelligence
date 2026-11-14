@@ -1,0 +1,63 @@
+{
+  "player_id": "7915",
+  "player_name": "Monank Patel",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 0,
+    "runs": 42,
+    "balls": 37,
+    "average": 14.0,
+    "strike_rate": 113.51,
+    "highest_score": 16,
+    "fours": 8,
+    "sixes": 1,
+    "dots": 26,
+    "singles": 0,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 35429,
+      "date": "2024-08-28",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "12 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 35428,
+      "date": "2024-08-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "16 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 35425,
+      "date": "2024-08-25",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "14 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "player_id": "68410",
+  "player_name": "Rahmatullah Zadran",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 24,
+    "balls": 21,
+    "average": 24.0,
+    "strike_rate": 114.29,
+    "highest_score": 24,
+    "fours": 2,
+    "sixes": 0,
+    "dots": 5,
+    "singles": 12,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48025,
+      "date": "2025-11-19",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "24 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

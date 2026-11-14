@@ -1,0 +1,557 @@
+{
+  "player_id": "2417",
+  "player_name": "Akeal Hosein",
+  "batting": {
+    "matches": 31,
+    "innings": 31,
+    "not_outs": 16,
+    "runs": 286,
+    "balls": 222,
+    "average": 19.07,
+    "strike_rate": 128.83,
+    "highest_score": 44,
+    "fours": 17,
+    "sixes": 18,
+    "dots": 91,
+    "singles": 83,
+    "twos": 12,
+    "threes": 1,
+    "ducks": 3,
+    "thirties": 2,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 11,
+      "Bowled": 3,
+      "LBW": 1
+    }
+  },
+  "bowling": {
+    "matches": 75,
+    "legal_balls": 1632,
+    "overs": 272.0,
+    "runs_charged": 2094.0,
+    "wickets": 75,
+    "economy": 7.7,
+    "average": 27.92,
+    "strike_rate": 21.76,
+    "dot_pct": 38.19,
+    "boundary_pct": 15.36,
+    "wides": 30,
+    "no_balls": 11,
+    "phase_splits": {
+      "death": {
+        "overs": 17.0,
+        "runs": 137.0,
+        "wickets": 12,
+        "economy": 8.06
+      },
+      "middle": {
+        "overs": 131.0,
+        "runs": 965.0,
+        "wickets": 37,
+        "economy": 7.37
+      },
+      "powerplay": {
+        "overs": 124.0,
+        "runs": 992.0,
+        "wickets": 26,
+        "economy": 8.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 65.84,
+    "tier": "Unproven",
+    "p_outperform": 0.5002,
+    "pressure_value_per_6": -0.12,
+    "clutch_delta_per_6": 0.24,
+    "consistency": 0.4881
+  },
+  "recent_matches": [
+    {
+      "match_id": 50405,
+      "date": "2026-10-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/46 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50404,
+      "date": "2026-10-06",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "15 (9)",
+      "bowling_figures": "1/37 (4.0)",
+      "pressure_balls": 8,
+      "pressure_value": 7.99
+    },
+    {
+      "match_id": 50505,
+      "date": "2026-06-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50504,
+      "date": "2026-06-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "14 (6)",
+      "bowling_figures": "0/11 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50503,
+      "date": "2026-06-12",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/28 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50384,
+      "date": "2026-05-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "3 (1)",
+      "bowling_figures": "1/21 (3.0)",
+      "pressure_balls": 17,
+      "pressure_value": 4.8
+    },
+    {
+      "match_id": 50374,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/49 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50369,
+      "date": "2026-05-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/19 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50358,
+      "date": "2026-04-26",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/46 (3.7)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50354,
+      "date": "2026-04-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (2)",
+      "bowling_figures": "4/17 (4.0)",
+      "pressure_balls": 8,
+      "pressure_value": 11.62
+    },
+    {
+      "match_id": 50343,
+      "date": "2026-04-14",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/26 (4.0)",
+      "pressure_balls": 16,
+      "pressure_value": 2.57
+    },
+    {
+      "match_id": 50142,
+      "date": "2026-04-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/20 (2.0)",
+      "pressure_balls": 13,
+      "pressure_value": -5.3
+    },
+    {
+      "match_id": 41850,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/41 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": 1.14
+    },
+    {
+      "match_id": 41849,
+      "date": "2026-01-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/31 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": -3.94
+    },
+    {
+      "match_id": 47967,
+      "date": "2025-11-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "0/50 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": 0.26
+    },
+    {
+      "match_id": 47966,
+      "date": "2025-11-06",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "0/23 (1.0)",
+      "pressure_balls": 1,
+      "pressure_value": -0.31
+    },
+    {
+      "match_id": 47965,
+      "date": "2025-11-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/4 (1.0)",
+      "pressure_balls": 6,
+      "pressure_value": 9.68
+    },
+    {
+      "match_id": 46942,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/26 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46941,
+      "date": "2025-10-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "3/22 (4.0)",
+      "pressure_balls": 22,
+      "pressure_value": 6.07
+    },
+    {
+      "match_id": 46940,
+      "date": "2025-10-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/22 (4.0)",
+      "pressure_balls": 18,
+      "pressure_value": 32.38
+    },
+    {
+      "match_id": 46251,
+      "date": "2025-09-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/26 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46250,
+      "date": "2025-09-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (3)",
+      "bowling_figures": "2/21 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46249,
+      "date": "2025-09-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "18 (9)",
+      "bowling_figures": "1/18 (4.0)",
+      "pressure_balls": 3,
+      "pressure_value": -2.04
+    },
+    {
+      "match_id": 41512,
+      "date": "2025-08-04",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/32 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41511,
+      "date": "2025-08-03",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/16 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41510,
+      "date": "2025-08-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41509,
+      "date": "2025-07-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "11 (9)",
+      "bowling_figures": "3/17 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": 5.16
+    },
+    {
+      "match_id": 41508,
+      "date": "2025-07-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "16 (10)",
+      "bowling_figures": "1/36 (3.3)",
+      "pressure_balls": 21,
+      "pressure_value": -16.21
+    },
+    {
+      "match_id": 41507,
+      "date": "2025-07-26",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/39 (4.0)",
+      "pressure_balls": 8,
+      "pressure_value": -11.92
+    },
+    {
+      "match_id": 41506,
+      "date": "2025-07-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/31 (4.0)",
+      "pressure_balls": 24,
+      "pressure_value": -11.2
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 2417,
+      "player_name": "Akeal Hosein",
+      "role": "bowler",
+      "match_id": 41509,
+      "n_balls": 6,
+      "match_runs_conceded": 4,
+      "match_wickets": 0,
+      "match_pressure_value": 0.1237,
+      "career_expected_value": 0.504,
+      "z_score": -4.53,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2417,
+      "player_name": "Akeal Hosein",
+      "role": "bowler",
+      "match_id": 20220,
+      "n_balls": 16,
+      "match_runs_conceded": 26,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7317,
+      "career_expected_value": 0.504,
+      "z_score": 4.43,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2417,
+      "player_name": "Akeal Hosein",
+      "role": "bowler",
+      "match_id": 37351,
+      "n_balls": 11,
+      "match_runs_conceded": 13,
+      "match_wickets": 2,
+      "match_pressure_value": 0.2322,
+      "career_expected_value": 0.504,
+      "z_score": -4.38,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2417,
+      "player_name": "Akeal Hosein",
+      "role": "bowler",
+      "match_id": 13515,
+      "n_balls": 16,
+      "match_runs_conceded": 19,
+      "match_wickets": 3,
+      "match_pressure_value": 0.7269,
+      "career_expected_value": 0.504,
+      "z_score": 4.33,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2417,
+      "player_name": "Akeal Hosein",
+      "role": "bowler",
+      "match_id": 50343,
+      "n_balls": 16,
+      "match_runs_conceded": 17,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7012,
+      "career_expected_value": 0.504,
+      "z_score": 3.83,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2417,
+      "player_name": "Akeal Hosein",
+      "role": "bowler",
+      "match_id": 28064,
+      "n_balls": 21,
+      "match_runs_conceded": 22,
+      "match_wickets": 2,
+      "match_pressure_value": 0.6738,
+      "career_expected_value": 0.504,
+      "z_score": 3.78,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2417,
+      "player_name": "Akeal Hosein",
+      "role": "bowler",
+      "match_id": 41849,
+      "n_balls": 6,
+      "match_runs_conceded": 11,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2109,
+      "career_expected_value": 0.504,
+      "z_score": -3.49,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2417,
+      "player_name": "Akeal Hosein",
+      "role": "batter",
+      "match_id": 38843,
+      "n_balls": 5,
+      "match_runs": 9,
+      "match_pressure_value": 0.121,
+      "career_expected_value": 0.4396,
+      "z_score": -3.47,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2417,
+      "player_name": "Akeal Hosein",
+      "role": "bowler",
+      "match_id": 50384,
+      "n_balls": 17,
+      "match_runs_conceded": 21,
+      "match_wickets": 1,
+      "match_pressure_value": 0.3476,
+      "career_expected_value": 0.504,
+      "z_score": -3.13,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2417,
+      "player_name": "Akeal Hosein",
+      "role": "bowler",
+      "match_id": 28065,
+      "n_balls": 10,
+      "match_runs_conceded": 17,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7026,
+      "career_expected_value": 0.504,
+      "z_score": 3.05,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2417,
+      "player_name": "Akeal Hosein",
+      "role": "bowler",
+      "match_id": 36200,
+      "n_balls": 7,
+      "match_runs_conceded": 9,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7355,
+      "career_expected_value": 0.504,
+      "z_score": 2.98,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2417,
+      "player_name": "Akeal Hosein",
+      "role": "bowler",
+      "match_id": 24352,
+      "n_balls": 13,
+      "match_runs_conceded": 16,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3357,
+      "career_expected_value": 0.504,
+      "z_score": -2.95,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2417,
+      "player_name": "Akeal Hosein",
+      "role": "bowler",
+      "match_id": 37350,
+      "n_balls": 15,
+      "match_runs_conceded": 18,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3518,
+      "career_expected_value": 0.504,
+      "z_score": -2.87,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2417,
+      "player_name": "Akeal Hosein",
+      "role": "bowler",
+      "match_id": 37349,
+      "n_balls": 21,
+      "match_runs_conceded": 18,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3855,
+      "career_expected_value": 0.504,
+      "z_score": -2.64,
+      "direction": "negative"
+    }
+  ]
+}

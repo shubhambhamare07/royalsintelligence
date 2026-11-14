@@ -1,0 +1,103 @@
+{
+  "match_id": 14130,
+  "competition_kind": "IPL",
+  "calendar_year": 2022,
+  "result": "Lucknow Super Giants Won 36  Runs",
+  "innings_totals": {
+    "innings_1": 164.6,
+    "innings_1_sigma": 1.91,
+    "innings_2": 126.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": true,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "High": 8,
+      "Normal": 6
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 5,
+      "Extreme": 1
+    },
+    "5": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "6": {
+      "Normal": 6,
+      "High": 6
+    },
+    "7": {
+      "Normal": 6,
+      "High": 6
+    },
+    "8": {
+      "Normal": 6,
+      "High": 6
+    },
+    "9": {
+      "Normal": 6,
+      "High": 6
+    },
+    "10": {
+      "Normal": 8,
+      "Elevated": 4
+    },
+    "11": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "12": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "13": {
+      "Elevated": 10,
+      "Normal": 7
+    },
+    "14": {
+      "Normal": 9,
+      "Elevated": 2
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "16": {
+      "Elevated": 11,
+      "Normal": 2,
+      "High": 1
+    },
+    "17": {
+      "Elevated": 8,
+      "High": 4
+    },
+    "18": {
+      "Normal": 7,
+      "High": 6
+    },
+    "19": {
+      "Normal": 7,
+      "High": 6
+    },
+    "20": {
+      "Normal": 7,
+      "High": 6
+    }
+  },
+  "turning_point_count": 5
+}

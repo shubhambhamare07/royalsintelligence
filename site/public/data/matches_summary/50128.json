@@ -1,0 +1,105 @@
+{
+  "match_id": 50128,
+  "competition_kind": "IPL",
+  "calendar_year": 2026,
+  "result": "Punjab Kings Won by 3 wickets",
+  "innings_totals": {
+    "innings_1": 161.6,
+    "innings_1_sigma": 2.02,
+    "innings_2": 165.0
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 13
+    },
+    "2": {
+      "Elevated": 8,
+      "Normal": 2,
+      "High": 2
+    },
+    "3": {
+      "Elevated": 7,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 8,
+      "Normal": 3,
+      "High": 1
+    },
+    "5": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "6": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "7": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "8": {
+      "Normal": 8,
+      "Elevated": 4
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 13
+    },
+    "11": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "12": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "13": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "14": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "15": {
+      "Elevated": 7,
+      "Extreme": 3,
+      "Normal": 2,
+      "High": 2
+    },
+    "16": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "17": {
+      "Elevated": 6,
+      "High": 5,
+      "Extreme": 2
+    },
+    "18": {
+      "Elevated": 7,
+      "Extreme": 5,
+      "High": 2
+    },
+    "19": {
+      "Normal": 6,
+      "Extreme": 3,
+      "Elevated": 2,
+      "High": 2
+    },
+    "20": {
+      "Normal": 12
+    }
+  },
+  "turning_point_count": 5
+}

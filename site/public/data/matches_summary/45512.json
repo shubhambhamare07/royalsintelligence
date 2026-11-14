@@ -1,0 +1,105 @@
+{
+  "match_id": 45512,
+  "competition_kind": "T20I",
+  "calendar_year": 2025,
+  "result": "India won the Super Over(Match Tied)",
+  "innings_totals": {
+    "innings_1": 203.5,
+    "innings_1_sigma": 4.8,
+    "innings_2": 203.1
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 4.8
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 13
+    },
+    "2": {
+      "Normal": 9,
+      "Elevated": 4
+    },
+    "3": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "4": {
+      "Elevated": 7,
+      "Normal": 3,
+      "High": 3
+    },
+    "5": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "6": {
+      "Normal": 6,
+      "High": 6
+    },
+    "7": {
+      "Normal": 6,
+      "High": 6
+    },
+    "8": {
+      "Normal": 7,
+      "High": 6
+    },
+    "9": {
+      "Normal": 6,
+      "High": 6
+    },
+    "10": {
+      "Normal": 6,
+      "High": 6
+    },
+    "11": {
+      "Normal": 6,
+      "High": 5,
+      "Elevated": 1
+    },
+    "12": {
+      "Normal": 6,
+      "High": 4,
+      "Elevated": 2
+    },
+    "13": {
+      "Normal": 6,
+      "Extreme": 4,
+      "High": 2
+    },
+    "14": {
+      "Normal": 6,
+      "Extreme": 6
+    },
+    "15": {
+      "Normal": 6,
+      "Extreme": 3,
+      "High": 3
+    },
+    "16": {
+      "Normal": 8,
+      "Extreme": 7
+    },
+    "17": {
+      "Normal": 6,
+      "Extreme": 6
+    },
+    "18": {
+      "Normal": 7,
+      "Extreme": 6
+    },
+    "19": {
+      "Extreme": 8,
+      "Normal": 7
+    },
+    "20": {
+      "Normal": 7,
+      "Extreme": 6
+    }
+  },
+  "turning_point_count": 5
+}

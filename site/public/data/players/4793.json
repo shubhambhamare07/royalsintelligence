@@ -1,0 +1,83 @@
+{
+  "player_id": "4793",
+  "player_name": "Dean Foxcroft",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 0,
+    "runs": 91,
+    "balls": 86,
+    "average": 18.2,
+    "strike_rate": 105.81,
+    "highest_score": 34,
+    "fours": 2,
+    "sixes": 5,
+    "dots": 33,
+    "singles": 39,
+    "twos": 7,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 2,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50188,
+      "date": "2026-04-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "3 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31710,
+      "date": "2024-04-25",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "34 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31709,
+      "date": "2024-04-21",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "31 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 23,
+      "pressure_value": -1.73
+    },
+    {
+      "match_id": 31708,
+      "date": "2024-04-20",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "13 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 24794,
+      "date": "2023-08-20",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "10 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -5.67
+    }
+  ]
+}

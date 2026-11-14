@@ -1,0 +1,93 @@
+{
+  "player_id": "4372",
+  "player_name": "Rony Talukder",
+  "batting": {
+    "matches": 6,
+    "innings": 6,
+    "not_outs": 0,
+    "runs": 82,
+    "balls": 72,
+    "average": 13.67,
+    "strike_rate": 113.89,
+    "highest_score": 24,
+    "fours": 12,
+    "sixes": 1,
+    "dots": 36,
+    "singles": 18,
+    "twos": 5,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4,
+      "Bowled": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 28332,
+      "date": "2023-12-27",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "10 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 23673,
+      "date": "2023-07-14",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "4 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21072,
+      "date": "2023-03-31",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "14 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20135,
+      "date": "2023-03-14",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "24 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20134,
+      "date": "2023-03-12",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "9 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20133,
+      "date": "2023-03-09",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "21 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

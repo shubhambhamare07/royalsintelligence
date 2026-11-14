@@ -1,0 +1,196 @@
+{
+  "player_id": "56817",
+  "player_name": "Shivang Kumar",
+  "batting": {
+    "matches": 6,
+    "innings": 6,
+    "not_outs": 0,
+    "runs": 53,
+    "balls": 46,
+    "average": 8.83,
+    "strike_rate": 115.22,
+    "highest_score": 27,
+    "fours": 6,
+    "sixes": 1,
+    "dots": 19,
+    "singles": 17,
+    "twos": 3,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 5,
+      "Bowled": 1
+    }
+  },
+  "bowling": {
+    "matches": 13,
+    "legal_balls": 234,
+    "overs": 39.0,
+    "runs_charged": 375.0,
+    "wickets": 9,
+    "economy": 9.62,
+    "average": 41.67,
+    "strike_rate": 26.0,
+    "dot_pct": 26.25,
+    "boundary_pct": 20.42,
+    "wides": 6,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 25.0,
+        "wickets": 2,
+        "economy": 12.5
+      },
+      "middle": {
+        "overs": 36.0,
+        "runs": 327.0,
+        "wickets": 7,
+        "economy": 9.08
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 23.0,
+        "wickets": 0,
+        "economy": 23.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50943,
+      "date": "2026-05-27",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "27 (24)",
+      "bowling_figures": "1/19 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50388,
+      "date": "2026-05-22",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/32 (2.0)",
+      "pressure_balls": 2,
+      "pressure_value": 1.42
+    },
+    {
+      "match_id": 50384,
+      "date": "2026-05-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/20 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50377,
+      "date": "2026-05-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "4 (6)",
+      "bowling_figures": "0/19 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50370,
+      "date": "2026-05-06",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/45 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50366,
+      "date": "2026-05-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50357,
+      "date": "2026-04-25",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/31 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50352,
+      "date": "2026-04-21",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/28 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50348,
+      "date": "2026-04-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "12 (8)",
+      "bowling_figures": "1/18 (3.0)",
+      "pressure_balls": 27,
+      "pressure_value": 0.06
+    },
+    {
+      "match_id": 50342,
+      "date": "2026-04-13",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/28 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50141,
+      "date": "2026-04-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "3/33 (4.0)",
+      "pressure_balls": 13,
+      "pressure_value": -0.62
+    },
+    {
+      "match_id": 50134,
+      "date": "2026-04-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "5 (4)",
+      "bowling_figures": "1/30 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50130,
+      "date": "2026-04-02",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "4 (2)",
+      "bowling_figures": "0/41 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -5.22
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "player_id": "8739",
+  "player_name": "Muhammad Irfan",
+  "batting": {
+    "matches": 12,
+    "innings": 12,
+    "not_outs": 5,
+    "runs": 237,
+    "balls": 179,
+    "average": 33.86,
+    "strike_rate": 132.4,
+    "highest_score": 44,
+    "fours": 20,
+    "sixes": 11,
+    "dots": 69,
+    "singles": 68,
+    "twos": 10,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 4,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 6,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48029,
+      "date": "2025-11-23",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "9 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48028,
+      "date": "2025-11-21",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "6 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48015,
+      "date": "2025-11-14",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "44 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 39811,
+      "date": "2025-03-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "24 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 39808,
+      "date": "2025-03-16",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 38796,
+      "date": "2024-12-13",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "30 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 38795,
+      "date": "2024-12-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -3.87
+    },
+    {
+      "match_id": 37926,
+      "date": "2024-12-01",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "27 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": 1.8
+    },
+    {
+      "match_id": 37356,
+      "date": "2024-11-18",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "10 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37355,
+      "date": "2024-11-16",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "37 (28)",
+      "bowling_figures": null,
+      "pressure_balls": 15,
+      "pressure_value": 1.48
+    },
+    {
+      "match_id": 31709,
+      "date": "2024-04-21",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "30 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -1.92
+    },
+    {
+      "match_id": 31708,
+      "date": "2024-04-20",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "18 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

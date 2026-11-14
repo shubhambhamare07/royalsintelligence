@@ -1,0 +1,155 @@
+{
+  "player_id": "5562",
+  "player_name": "Richard Gleeson",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 1,
+    "runs": 4,
+    "balls": 6,
+    "average": 2.0,
+    "strike_rate": 66.67,
+    "highest_score": 2,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 4,
+    "singles": 0,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2
+    }
+  },
+  "bowling": {
+    "matches": 9,
+    "legal_balls": 194,
+    "overs": 32.3,
+    "runs_charged": 297.0,
+    "wickets": 11,
+    "economy": 9.19,
+    "average": 27.0,
+    "strike_rate": 17.64,
+    "dot_pct": 33.99,
+    "boundary_pct": 21.18,
+    "wides": 8,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 10.3,
+        "runs": 119.0,
+        "wickets": 5,
+        "economy": 11.52
+      },
+      "middle": {
+        "overs": 10.0,
+        "runs": 78.0,
+        "wickets": 3,
+        "economy": 7.8
+      },
+      "powerplay": {
+        "overs": 12.0,
+        "runs": 100.0,
+        "wickets": 3,
+        "economy": 8.33
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 40765,
+      "date": "2025-05-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/39 (3.5)",
+      "pressure_balls": 11,
+      "pressure_value": 1.6
+    },
+    {
+      "match_id": 31271,
+      "date": "2024-05-05",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "2 (2)",
+      "bowling_figures": "0/41 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": -12.25
+    },
+    {
+      "match_id": 31267,
+      "date": "2024-05-01",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/30 (3.8)",
+      "pressure_balls": 2,
+      "pressure_value": -6.13
+    },
+    {
+      "match_id": 17558,
+      "date": "2022-09-30",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/39 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17553,
+      "date": "2022-09-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/13 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16315,
+      "date": "2022-07-28",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "3/51 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16316,
+      "date": "2022-07-28",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "1/38 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16042,
+      "date": "2022-07-10",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16041,
+      "date": "2022-07-09",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "2 (3)",
+      "bowling_figures": "3/15 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": 0.3
+    }
+  ]
+}

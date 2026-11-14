@@ -1,0 +1,35 @@
+[
+  {
+    "player_id": "6931",
+    "player_name": "Pathum Nissanka",
+    "role": "batter",
+    "team": "Delhi Capitals",
+    "asset_path": "/assets/players/player_6931.webp",
+    "asset_type": "generated_illustration",
+    "source": "High-Definition Studio Sports Editorial Illustration",
+    "verification_status": "verified",
+    "attribution": "Official ROYALS INTELLIGENCE Studio Asset"
+  },
+  {
+    "player_id": "4260",
+    "player_name": "Heinrich Klaasen",
+    "role": "batter",
+    "team": "Sunrisers Hyderabad",
+    "asset_path": "/assets/players/player_4260.webp",
+    "asset_type": "generated_illustration",
+    "source": "High-Definition Studio Sports Editorial Illustration",
+    "verification_status": "verified",
+    "attribution": "Official ROYALS INTELLIGENCE Studio Asset"
+  },
+  {
+    "player_id": "8661",
+    "player_name": "Matheesha Pathirana",
+    "role": "bowler",
+    "team": "Chennai Super Kings",
+    "asset_path": "/assets/players/player_8661.webp",
+    "asset_type": "generated_illustration",
+    "source": "High-Definition Studio Sports Editorial Illustration",
+    "verification_status": "verified",
+    "attribution": "Official ROYALS INTELLIGENCE Studio Asset"
+  }
+]

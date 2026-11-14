@@ -1,0 +1,106 @@
+{
+  "match_id": 31262,
+  "competition_kind": "IPL",
+  "calendar_year": 2024,
+  "result": "Rajasthan Royals Won by 7 wickets",
+  "innings_totals": {
+    "innings_1": 193.4,
+    "innings_1_sigma": 2.02,
+    "innings_2": 200.4
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 6
+    },
+    "2": {
+      "Normal": 6,
+      "High": 6
+    },
+    "3": {
+      "Normal": 6,
+      "High": 6
+    },
+    "4": {
+      "Normal": 6,
+      "High": 6
+    },
+    "5": {
+      "Normal": 6,
+      "High": 6
+    },
+    "6": {
+      "Normal": 6,
+      "High": 4,
+      "Elevated": 2
+    },
+    "7": {
+      "Normal": 6,
+      "High": 6
+    },
+    "8": {
+      "Normal": 6,
+      "High": 6,
+      "Elevated": 1
+    },
+    "9": {
+      "Normal": 7,
+      "High": 6
+    },
+    "10": {
+      "Normal": 6,
+      "High": 6
+    },
+    "11": {
+      "High": 6,
+      "Normal": 4,
+      "Elevated": 3
+    },
+    "12": {
+      "Normal": 7,
+      "Extreme": 5,
+      "High": 3
+    },
+    "13": {
+      "Normal": 6,
+      "Extreme": 6
+    },
+    "14": {
+      "Normal": 6,
+      "Extreme": 6
+    },
+    "15": {
+      "Elevated": 7,
+      "High": 3,
+      "Extreme": 3
+    },
+    "16": {
+      "Elevated": 7,
+      "Extreme": 3,
+      "High": 3
+    },
+    "17": {
+      "Elevated": 8,
+      "Normal": 5
+    },
+    "18": {
+      "High": 6,
+      "Normal": 6
+    },
+    "19": {
+      "High": 7,
+      "Normal": 6
+    },
+    "20": {
+      "High": 6
+    }
+  },
+  "turning_point_count": 5
+}

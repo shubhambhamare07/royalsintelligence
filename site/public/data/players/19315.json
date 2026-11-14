@@ -1,0 +1,133 @@
+{
+  "player_id": "19315",
+  "player_name": "Vijayakanth Viyaskanth",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 3,
+    "runs": 9,
+    "balls": 11,
+    "average": 9.0,
+    "strike_rate": 81.82,
+    "highest_score": 7,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 5,
+    "singles": 4,
+    "twos": 1,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 7,
+    "legal_balls": 156,
+    "overs": 26.0,
+    "runs_charged": 176.0,
+    "wickets": 7,
+    "economy": 6.77,
+    "average": 25.14,
+    "strike_rate": 22.29,
+    "dot_pct": 38.85,
+    "boundary_pct": 11.46,
+    "wides": 1,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 7.0,
+        "wickets": 0,
+        "economy": 3.5
+      },
+      "middle": {
+        "overs": 23.0,
+        "runs": 163.0,
+        "wickets": 7,
+        "economy": 7.09
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 6.0,
+        "wickets": 0,
+        "economy": 6.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 55080,
+      "date": "2026-10-13",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/23 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47978,
+      "date": "2025-11-22",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "0/28 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48021,
+      "date": "2025-11-17",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/11 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48018,
+      "date": "2025-11-15",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "2 (4)",
+      "bowling_figures": "3/28 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": 5.16
+    },
+    {
+      "match_id": 31289,
+      "date": "2024-05-21",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "7 (5)",
+      "bowling_figures": "0/22 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31287,
+      "date": "2024-05-19",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/37 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31275,
+      "date": "2024-05-08",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/27 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

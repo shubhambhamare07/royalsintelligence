@@ -1,0 +1,107 @@
+{
+  "match_id": 54214,
+  "competition_kind": "T20I",
+  "calendar_year": 2026,
+  "result": "New Zealand Won by 7 wickets",
+  "innings_totals": {
+    "innings_1": 192.4,
+    "innings_1_sigma": 3.6,
+    "innings_2": 194.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 6
+    },
+    "2": {
+      "Elevated": 5,
+      "Normal": 5,
+      "High": 4
+    },
+    "3": {
+      "Elevated": 10,
+      "Normal": 1,
+      "High": 1
+    },
+    "4": {
+      "Normal": 6,
+      "High": 6,
+      "Elevated": 1
+    },
+    "5": {
+      "High": 6,
+      "Normal": 3,
+      "Elevated": 3
+    },
+    "6": {
+      "Normal": 6,
+      "High": 6
+    },
+    "7": {
+      "High": 7,
+      "Normal": 6
+    },
+    "8": {
+      "Normal": 7,
+      "High": 6
+    },
+    "9": {
+      "Normal": 7,
+      "High": 6
+    },
+    "10": {
+      "Normal": 6,
+      "High": 6
+    },
+    "11": {
+      "Normal": 6,
+      "High": 4,
+      "Extreme": 2
+    },
+    "12": {
+      "Normal": 7,
+      "High": 4,
+      "Extreme": 2
+    },
+    "13": {
+      "Normal": 8,
+      "High": 2,
+      "Elevated": 2
+    },
+    "14": {
+      "Normal": 10,
+      "Elevated": 3
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "16": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "17": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "18": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "19": {
+      "Elevated": 6
+    },
+    "20": {
+      "Elevated": 4,
+      "High": 2
+    }
+  },
+  "turning_point_count": 5
+}

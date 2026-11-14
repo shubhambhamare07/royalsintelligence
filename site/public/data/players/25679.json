@@ -1,0 +1,143 @@
+{
+  "player_id": "25679",
+  "player_name": "Salil Arora",
+  "batting": {
+    "matches": 11,
+    "innings": 11,
+    "not_outs": 4,
+    "runs": 156,
+    "balls": 98,
+    "average": 22.29,
+    "strike_rate": 159.18,
+    "highest_score": 35,
+    "fours": 11,
+    "sixes": 11,
+    "dots": 34,
+    "singles": 39,
+    "twos": 2,
+    "threes": 1,
+    "ducks": 1,
+    "thirties": 2,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 5,
+      "Bowled": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50943,
+      "date": "2026-05-27",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "35 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50384,
+      "date": "2026-05-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "10 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -1.18
+    },
+    {
+      "match_id": 50377,
+      "date": "2026-05-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "16 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50366,
+      "date": "2026-05-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50362,
+      "date": "2026-04-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "30 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": 4.85
+    },
+    {
+      "match_id": 50357,
+      "date": "2026-04-25",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "8 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50348,
+      "date": "2026-04-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "13 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -3.95
+    },
+    {
+      "match_id": 50342,
+      "date": "2026-04-13",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "24 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": 7.77
+    },
+    {
+      "match_id": 50141,
+      "date": "2026-04-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "9 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50130,
+      "date": "2026-04-02",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50125,
+      "date": "2026-03-28",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "9 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

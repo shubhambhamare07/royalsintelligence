@@ -1,0 +1,45 @@
+{
+  "player_id": "2436",
+  "player_name": "Dasun Shanaka",
+  "role": "batter",
+  "tier": "Promising",
+  "rating": 69.13,
+  "rating_ci90": [
+    47.98,
+    90.07
+  ],
+  "p_outperform": 0.9331,
+  "top10_inclusion_prob": 0.1407,
+  "rank_ci90": [
+    6,
+    83
+  ],
+  "composite": 0.7232,
+  "components": {
+    "PV": {
+      "observed": 0.1189,
+      "adjusted": 0.1189,
+      "z_score": 0.9906,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": 0.1148,
+      "adjusted": 0.1148,
+      "z_score": 0.8509,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.6104,
+      "adjusted": 0.6104,
+      "z_score": 0.328,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 205,
+    "neff_pressure": 205.0,
+    "n_pressure_matches": 21
+  },
+  "explanation": "Dasun Shanaka generated a pressure value of +11.89 runs/100 balls (Clutch Delta: +11.48) at a 155.1 strike rate with 66.7% consistency across 21 pressure matches (205 balls)."
+}

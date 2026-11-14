@@ -1,0 +1,52 @@
+{
+  "player_id": "35133",
+  "player_name": "Sufyan Yousuf",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 5,
+    "balls": 7,
+    "average": 2.5,
+    "strike_rate": 71.43,
+    "highest_score": 3,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 3,
+    "singles": 3,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48019,
+      "date": "2025-11-16",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48015,
+      "date": "2025-11-14",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "3 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

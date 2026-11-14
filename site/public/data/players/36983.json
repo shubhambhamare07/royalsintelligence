@@ -1,0 +1,61 @@
+{
+  "player_id": "36983",
+  "player_name": "Mohit Rathee",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 1,
+    "balls": 2,
+    "average": 1.0,
+    "strike_rate": 50.0,
+    "highest_score": 1,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 1,
+    "singles": 1,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 12,
+    "overs": 2.0,
+    "runs_charged": 29.0,
+    "wickets": 0,
+    "economy": 14.5,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 25.0,
+    "boundary_pct": 41.67,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 2.0,
+        "runs": 29.0,
+        "wickets": 0,
+        "economy": 14.5
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 20194,
+      "date": "2023-04-09",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "0/29 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

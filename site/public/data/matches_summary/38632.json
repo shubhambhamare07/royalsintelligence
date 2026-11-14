@@ -1,0 +1,103 @@
+{
+  "match_id": 38632,
+  "competition_kind": "T20I",
+  "calendar_year": 2024,
+  "result": "New Zealand Won by 8 runs",
+  "innings_totals": {
+    "innings_1": 173.4,
+    "innings_1_sigma": 3.39,
+    "innings_2": 166.7
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.39
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 7,
+      "High": 6
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "High": 7,
+      "Elevated": 6
+    },
+    "5": {
+      "Normal": 6,
+      "High": 6
+    },
+    "6": {
+      "High": 7,
+      "Normal": 6
+    },
+    "7": {
+      "Normal": 6,
+      "High": 4,
+      "Elevated": 2
+    },
+    "8": {
+      "Normal": 7,
+      "Elevated": 5
+    },
+    "9": {
+      "Normal": 14
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 12
+    },
+    "12": {
+      "Normal": 13
+    },
+    "13": {
+      "Normal": 12
+    },
+    "14": {
+      "Normal": 11,
+      "High": 1
+    },
+    "15": {
+      "Extreme": 5,
+      "Normal": 4,
+      "Elevated": 3,
+      "High": 1
+    },
+    "16": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "17": {
+      "Elevated": 8,
+      "Extreme": 6
+    },
+    "18": {
+      "Extreme": 6,
+      "Elevated": 3,
+      "High": 3
+    },
+    "19": {
+      "Extreme": 6,
+      "High": 4,
+      "Elevated": 3
+    },
+    "20": {
+      "High": 6,
+      "Extreme": 3,
+      "Normal": 2,
+      "Elevated": 1
+    }
+  },
+  "turning_point_count": 5
+}

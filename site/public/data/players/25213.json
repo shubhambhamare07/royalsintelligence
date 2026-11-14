@@ -1,0 +1,377 @@
+{
+  "player_id": "25213",
+  "player_name": "Dewald Brevis",
+  "batting": {
+    "matches": 38,
+    "innings": 38,
+    "not_outs": 1,
+    "runs": 923,
+    "balls": 610,
+    "average": 24.95,
+    "strike_rate": 151.31,
+    "highest_score": 125,
+    "fours": 59,
+    "sixes": 67,
+    "dots": 230,
+    "singles": 223,
+    "twos": 31,
+    "threes": 0,
+    "ducks": 4,
+    "thirties": 10,
+    "fifties": 3,
+    "hundreds": 1,
+    "dismissals_by_type": {
+      "Caught": 27,
+      "Bowled": 7,
+      "LBW": 2,
+      "Stump": 1
+    }
+  },
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 3,
+    "overs": 0.5,
+    "runs_charged": 8.0,
+    "wickets": 1,
+    "economy": 16.0,
+    "average": 8.0,
+    "strike_rate": 3.0,
+    "dot_pct": 33.33,
+    "boundary_pct": 66.67,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 0.5,
+        "runs": 8.0,
+        "wickets": 1,
+        "economy": 16.0
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 31.79,
+    "tier": "Unproven",
+    "p_outperform": 0.1375,
+    "pressure_value_per_100": -11.84,
+    "clutch_delta_per_100": -12.14,
+    "consistency": 0.537
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50387,
+      "date": "2026-05-21",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "8 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50384,
+      "date": "2026-05-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "44 (27)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": -2.55
+    },
+    {
+      "match_id": 50380,
+      "date": "2026-05-15",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "25 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50374,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "10 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50358,
+      "date": "2026-04-26",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50354,
+      "date": "2026-04-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "21 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50348,
+      "date": "2026-04-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -9.0
+    },
+    {
+      "match_id": 50343,
+      "date": "2026-04-14",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "41 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -3.69
+    },
+    {
+      "match_id": 41850,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "4 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42031,
+      "date": "2025-12-19",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "31 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -1.47
+    },
+    {
+      "match_id": 42029,
+      "date": "2025-12-14",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42028,
+      "date": "2025-12-11",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "14 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42027,
+      "date": "2025-12-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "22 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": 12.05
+    },
+    {
+      "match_id": 46742,
+      "date": "2025-11-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "21 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46741,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "25 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46740,
+      "date": "2025-10-28",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 36209,
+      "date": "2025-09-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "4 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41971,
+      "date": "2025-08-16",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "53 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41970,
+      "date": "2025-08-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "125 (56)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41969,
+      "date": "2025-08-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": -19.78
+    },
+    {
+      "match_id": 40762,
+      "date": "2025-05-25",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "57 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40756,
+      "date": "2025-05-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "42 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40750,
+      "date": "2025-05-07",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "52 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 16,
+      "pressure_value": 8.82
+    },
+    {
+      "match_id": 40745,
+      "date": "2025-05-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -4.04
+    },
+    {
+      "match_id": 40742,
+      "date": "2025-04-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "32 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40736,
+      "date": "2025-04-25",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "42 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31285,
+      "date": "2024-05-17",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "23 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 19,
+      "pressure_value": -4.93
+    },
+    {
+      "match_id": 30069,
+      "date": "2024-04-01",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30060,
+      "date": "2024-03-24",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "46 (38)",
+      "bowling_figures": null,
+      "pressure_balls": 15,
+      "pressure_value": 3.72
+    },
+    {
+      "match_id": 25156,
+      "date": "2023-09-01",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 25213,
+      "player_name": "Dewald Brevis",
+      "role": "batter",
+      "match_id": 30060,
+      "n_balls": 15,
+      "match_runs": 15,
+      "match_pressure_value": 0.7494,
+      "career_expected_value": 0.4666,
+      "z_score": 5.33,
+      "direction": "positive"
+    }
+  ]
+}

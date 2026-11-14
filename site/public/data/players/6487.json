@@ -1,0 +1,73 @@
+{
+  "player_id": "6487",
+  "player_name": "Priyam Garg",
+  "batting": {
+    "matches": 4,
+    "innings": 4,
+    "not_outs": 0,
+    "runs": 68,
+    "balls": 56,
+    "average": 17.0,
+    "strike_rate": 121.43,
+    "highest_score": 42,
+    "fours": 5,
+    "sixes": 2,
+    "dots": 21,
+    "singles": 21,
+    "twos": 6,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 20224,
+      "date": "2023-05-02",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "10 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20220,
+      "date": "2023-04-29",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "12 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -2.09
+    },
+    {
+      "match_id": 14164,
+      "date": "2022-05-22",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "4 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14159,
+      "date": "2022-05-17",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "42 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

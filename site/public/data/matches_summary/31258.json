@@ -1,0 +1,105 @@
+{
+  "match_id": 31258,
+  "competition_kind": "IPL",
+  "calendar_year": 2024,
+  "result": "Delhi Capitals Won by 4 runs",
+  "innings_totals": {
+    "innings_1": 222.9,
+    "innings_1_sigma": 1.91,
+    "innings_2": 217.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 13
+    },
+    "2": {
+      "Elevated": 9,
+      "Normal": 4
+    },
+    "3": {
+      "Elevated": 9,
+      "Normal": 3
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "6": {
+      "Normal": 6,
+      "High": 6
+    },
+    "7": {
+      "Normal": 6,
+      "High": 6
+    },
+    "8": {
+      "High": 7,
+      "Normal": 6
+    },
+    "9": {
+      "Normal": 7,
+      "High": 6
+    },
+    "10": {
+      "Normal": 8,
+      "High": 4
+    },
+    "11": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "12": {
+      "Normal": 9,
+      "Elevated": 3
+    },
+    "13": {
+      "Normal": 6,
+      "Elevated": 6
+    },
+    "14": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "16": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "17": {
+      "High": 6,
+      "Normal": 6
+    },
+    "18": {
+      "High": 7,
+      "Normal": 5,
+      "Elevated": 1
+    },
+    "19": {
+      "High": 6,
+      "Normal": 5,
+      "Elevated": 1,
+      "Extreme": 1
+    },
+    "20": {
+      "Elevated": 7,
+      "High": 2,
+      "Normal": 2,
+      "Extreme": 2
+    }
+  },
+  "turning_point_count": 5
+}

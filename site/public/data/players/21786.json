@@ -1,0 +1,57 @@
+{
+  "player_id": "21786",
+  "player_name": "Tanaka Chivanga",
+  "batting": null,
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 27,
+    "overs": 4.5,
+    "runs_charged": 51.0,
+    "wickets": 0,
+    "economy": 11.33,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 41.94,
+    "boundary_pct": 22.58,
+    "wides": 3,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 1.5,
+        "runs": 8.0,
+        "wickets": 0,
+        "economy": 5.33
+      },
+      "powerplay": {
+        "overs": 3.0,
+        "runs": 43.0,
+        "wickets": 0,
+        "economy": 14.33
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16425,
+      "date": "2022-07-31",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/19 (1.5)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16424,
+      "date": "2022-07-30",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/32 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

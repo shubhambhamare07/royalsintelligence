@@ -1,0 +1,79 @@
+{
+  "player_id": "4881",
+  "player_name": "Dipendra Airee",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 17,
+    "balls": 19,
+    "average": 17.0,
+    "strike_rate": 89.47,
+    "highest_score": 17,
+    "fours": 0,
+    "sixes": 1,
+    "dots": 9,
+    "singles": 7,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 36,
+    "overs": 6.0,
+    "runs_charged": 24.0,
+    "wickets": 2,
+    "economy": 4.0,
+    "average": 12.0,
+    "strike_rate": 18.0,
+    "dot_pct": 72.22,
+    "boundary_pct": 11.11,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 8.0,
+        "wickets": 1,
+        "economy": 8.0
+      },
+      "powerplay": {
+        "overs": 5.0,
+        "runs": 16.0,
+        "wickets": 1,
+        "economy": 3.2
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 46250,
+      "date": "2025-09-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/4 (3.0)",
+      "pressure_balls": 8,
+      "pressure_value": 9.52
+    },
+    {
+      "match_id": 46249,
+      "date": "2025-09-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "17 (19)",
+      "bowling_figures": "1/20 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": -5.42
+    }
+  ]
+}

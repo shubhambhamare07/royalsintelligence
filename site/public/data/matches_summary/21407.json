@@ -1,0 +1,95 @@
+{
+  "match_id": 21407,
+  "competition_kind": "T20I",
+  "calendar_year": 2023,
+  "result": "New Zealand Won by 6 wickets",
+  "innings_totals": {
+    "innings_1": 193.3,
+    "innings_1_sigma": 3.6,
+    "innings_2": 194.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 12
+    },
+    "2": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "3": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "6": {
+      "Normal": 12
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 13
+    },
+    "10": {
+      "Normal": 13
+    },
+    "11": {
+      "Normal": 12
+    },
+    "12": {
+      "Normal": 12
+    },
+    "13": {
+      "Normal": 9,
+      "High": 4
+    },
+    "14": {
+      "Normal": 7,
+      "High": 5,
+      "Extreme": 1
+    },
+    "15": {
+      "Extreme": 8,
+      "Normal": 6
+    },
+    "16": {
+      "Extreme": 8,
+      "Normal": 7
+    },
+    "17": {
+      "Normal": 6,
+      "Extreme": 6
+    },
+    "18": {
+      "Normal": 6,
+      "Extreme": 3,
+      "High": 3
+    },
+    "19": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "20": {
+      "Normal": 7,
+      "Elevated": 2
+    }
+  },
+  "turning_point_count": 5
+}

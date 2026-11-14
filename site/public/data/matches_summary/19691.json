@@ -1,0 +1,98 @@
+{
+  "match_id": 19691,
+  "competition_kind": "T20I",
+  "calendar_year": 2023,
+  "result": "Ireland Won by 6 wickets",
+  "innings_totals": {
+    "innings_1": 143.3,
+    "innings_1_sigma": 3.6,
+    "innings_2": 150.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "2": {
+      "Elevated": 7,
+      "Normal": 5
+    },
+    "3": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "4": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "5": {
+      "Elevated": 11,
+      "Normal": 1
+    },
+    "6": {
+      "Normal": 13
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 10,
+      "High": 2
+    },
+    "10": {
+      "Normal": 6,
+      "Elevated": 3,
+      "High": 3
+    },
+    "11": {
+      "Normal": 6,
+      "High": 6
+    },
+    "12": {
+      "Normal": 7,
+      "High": 6
+    },
+    "13": {
+      "Normal": 6,
+      "High": 4,
+      "Elevated": 2
+    },
+    "14": {
+      "Normal": 10,
+      "High": 3
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "16": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "17": {
+      "Normal": 12
+    },
+    "18": {
+      "Normal": 13
+    },
+    "19": {
+      "Normal": 7,
+      "Elevated": 4,
+      "High": 1
+    },
+    "20": {
+      "Normal": 11
+    }
+  },
+  "turning_point_count": 5
+}

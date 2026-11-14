@@ -1,0 +1,150 @@
+{
+  "player_id": "26830",
+  "player_name": "Nishant Kumar Sindhu",
+  "batting": {
+    "matches": 7,
+    "innings": 7,
+    "not_outs": 1,
+    "runs": 92,
+    "balls": 66,
+    "average": 15.33,
+    "strike_rate": 139.39,
+    "highest_score": 23,
+    "fours": 11,
+    "sixes": 2,
+    "dots": 22,
+    "singles": 26,
+    "twos": 5,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 5,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 36,
+    "overs": 6.0,
+    "runs_charged": 44.0,
+    "wickets": 3,
+    "economy": 7.33,
+    "average": 14.67,
+    "strike_rate": 12.0,
+    "dot_pct": 38.89,
+    "boundary_pct": 13.89,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 4.0,
+        "runs": 23.0,
+        "wickets": 2,
+        "economy": 5.75
+      },
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 21.0,
+        "wickets": 1,
+        "economy": 10.5
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50945,
+      "date": "2026-05-31",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "20 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50942,
+      "date": "2026-05-26",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "5 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50381,
+      "date": "2026-05-16",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50377,
+      "date": "2026-05-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "22 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50367,
+      "date": "2026-05-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "15 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37098,
+      "date": "2024-10-25",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "23 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37096,
+      "date": "2024-10-23",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/12 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37092,
+      "date": "2024-10-21",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/17 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37088,
+      "date": "2024-10-19",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "6 (3)",
+      "bowling_figures": "2/15 (2.0)",
+      "pressure_balls": 1,
+      "pressure_value": 13.13
+    }
+  ]
+}

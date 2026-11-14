@@ -1,0 +1,93 @@
+{
+  "match_id": 14140,
+  "competition_kind": "IPL",
+  "calendar_year": 2022,
+  "result": "Chennai Super Kings won by 13 runs",
+  "innings_totals": {
+    "innings_1": 202.5,
+    "innings_1_sigma": 1.91,
+    "innings_2": 189.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 12
+    },
+    "2": {
+      "Elevated": 8,
+      "Normal": 3,
+      "High": 2
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "High": 4,
+      "Extreme": 2
+    },
+    "6": {
+      "Elevated": 7,
+      "High": 5
+    },
+    "7": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "8": {
+      "Normal": 8,
+      "Elevated": 4
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 13
+    },
+    "11": {
+      "Normal": 12
+    },
+    "12": {
+      "Normal": 13
+    },
+    "13": {
+      "Normal": 12
+    },
+    "14": {
+      "Normal": 8,
+      "High": 3,
+      "Elevated": 1
+    },
+    "15": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "16": {
+      "Normal": 13
+    },
+    "17": {
+      "Normal": 12
+    },
+    "18": {
+      "Normal": 12
+    },
+    "19": {
+      "Normal": 13
+    },
+    "20": {
+      "Normal": 13
+    }
+  },
+  "turning_point_count": 5
+}

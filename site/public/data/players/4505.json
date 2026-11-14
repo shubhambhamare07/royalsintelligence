@@ -1,0 +1,115 @@
+{
+  "player_id": "4505",
+  "player_name": "Jhye Richardson",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 1,
+    "runs": 11,
+    "balls": 22,
+    "average": 11.0,
+    "strike_rate": 50.0,
+    "highest_score": 9,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 12,
+    "singles": 9,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 5,
+    "legal_balls": 120,
+    "overs": 20.0,
+    "runs_charged": 168.0,
+    "wickets": 6,
+    "economy": 8.4,
+    "average": 28.0,
+    "strike_rate": 20.0,
+    "dot_pct": 37.1,
+    "boundary_pct": 18.55,
+    "wides": 4,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 8.0,
+        "runs": 75.0,
+        "wickets": 4,
+        "economy": 9.38
+      },
+      "middle": {
+        "overs": 3.0,
+        "runs": 21.0,
+        "wickets": 1,
+        "economy": 7.0
+      },
+      "powerplay": {
+        "overs": 9.0,
+        "runs": 72.0,
+        "wickets": 1,
+        "economy": 8.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 30075,
+      "date": "2024-04-07",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "2 (2)",
+      "bowling_figures": "0/39 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15460,
+      "date": "2022-06-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/46 (4.0)",
+      "pressure_balls": 15,
+      "pressure_value": -7.54
+    },
+    {
+      "match_id": 15459,
+      "date": "2022-06-08",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "9 (20)",
+      "bowling_figures": "3/26 (4.0)",
+      "pressure_balls": 13,
+      "pressure_value": 5.89
+    },
+    {
+      "match_id": 13616,
+      "date": "2022-02-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/37 (4.0)",
+      "pressure_balls": 26,
+      "pressure_value": -10.12
+    },
+    {
+      "match_id": 13615,
+      "date": "2022-02-18",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "2/20 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

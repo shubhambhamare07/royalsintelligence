@@ -1,0 +1,164 @@
+{
+  "player_id": "7152",
+  "player_name": "Hazratullah Zazai",
+  "batting": {
+    "matches": 13,
+    "innings": 13,
+    "not_outs": 1,
+    "runs": 292,
+    "balls": 230,
+    "average": 24.33,
+    "strike_rate": 126.96,
+    "highest_score": 45,
+    "fours": 37,
+    "sixes": 9,
+    "dots": 105,
+    "singles": 70,
+    "twos": 7,
+    "threes": 2,
+    "ducks": 1,
+    "thirties": 4,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 6,
+      "Bowled": 3,
+      "LBW": 3
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 38626,
+      "date": "2024-12-11",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "20 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 29926,
+      "date": "2024-02-21",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "45 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 29925,
+      "date": "2024-02-19",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -14.46
+    },
+    {
+      "match_id": 23673,
+      "date": "2023-07-14",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "8 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16663,
+      "date": "2022-09-08",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16662,
+      "date": "2022-09-07",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "21 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16659,
+      "date": "2022-09-03",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "13 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16655,
+      "date": "2022-08-30",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "23 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16653,
+      "date": "2022-08-27",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "37 (28)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16752,
+      "date": "2022-08-12",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "39 (40)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15611,
+      "date": "2022-06-14",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "12 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15610,
+      "date": "2022-06-12",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "28 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15609,
+      "date": "2022-06-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "45 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": 12.88
+    }
+  ]
+}

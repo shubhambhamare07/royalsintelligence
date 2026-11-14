@@ -1,0 +1,75 @@
+{
+  "player_id": "4826",
+  "player_name": "George Garton",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 2,
+    "balls": 4,
+    "average": 2.0,
+    "strike_rate": 50.0,
+    "highest_score": 2,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 2,
+    "singles": 2,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 1
+    }
+  },
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 24,
+    "overs": 4.0,
+    "runs_charged": 57.0,
+    "wickets": 1,
+    "economy": 14.25,
+    "average": 57.0,
+    "strike_rate": 24.0,
+    "dot_pct": 28.0,
+    "boundary_pct": 36.0,
+    "wides": 0,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 19.0,
+        "wickets": 0,
+        "economy": 19.0
+      },
+      "middle": {
+        "overs": 1.0,
+        "runs": 10.0,
+        "wickets": 0,
+        "economy": 10.0
+      },
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 28.0,
+        "wickets": 1,
+        "economy": 14.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 13513,
+      "date": "2022-01-27",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "2 (4)",
+      "bowling_figures": "1/57 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

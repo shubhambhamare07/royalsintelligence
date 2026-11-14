@@ -1,0 +1,154 @@
+{
+  "player_id": "20894",
+  "player_name": "Aman Khan",
+  "batting": {
+    "matches": 10,
+    "innings": 10,
+    "not_outs": 1,
+    "runs": 115,
+    "balls": 104,
+    "average": 12.78,
+    "strike_rate": 110.58,
+    "highest_score": 51,
+    "fours": 8,
+    "sixes": 6,
+    "dots": 50,
+    "singles": 33,
+    "twos": 7,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 7,
+      "Bowled": 2
+    }
+  },
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 6,
+    "overs": 1.0,
+    "runs_charged": 13.0,
+    "wickets": 0,
+    "economy": 13.0,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 16.67,
+    "boundary_pct": 33.33,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 1.0,
+        "runs": 13.0,
+        "wickets": 0,
+        "economy": 13.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 20247,
+      "date": "2023-05-20",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "7 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20239,
+      "date": "2023-05-13",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "16 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": -2.74
+    },
+    {
+      "match_id": 20235,
+      "date": "2023-05-10",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "2 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20224,
+      "date": "2023-05-02",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "51 (44)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20214,
+      "date": "2023-04-24",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "4 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20208,
+      "date": "2023-04-20",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20200,
+      "date": "2023-04-15",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "18 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20187,
+      "date": "2023-04-04",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "8 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20183,
+      "date": "2023-04-01",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "4 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14118,
+      "date": "2022-04-15",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "5 (3)",
+      "bowling_figures": "0/13 (1.0)",
+      "pressure_balls": 9,
+      "pressure_value": -8.65
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "player_id": "25501",
+  "player_name": "Meet Bhavsar",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 0,
+    "runs": 53,
+    "balls": 38,
+    "average": 17.67,
+    "strike_rate": 139.47,
+    "highest_score": 27,
+    "fours": 6,
+    "sixes": 2,
+    "dots": 17,
+    "singles": 9,
+    "twos": 4,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2,
+      "Stump": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16867,
+      "date": "2022-08-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "17 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16865,
+      "date": "2022-08-23",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "9 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16863,
+      "date": "2022-08-21",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "27 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 23,
+      "pressure_value": -3.12
+    }
+  ]
+}

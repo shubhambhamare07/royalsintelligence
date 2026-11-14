@@ -1,0 +1,45 @@
+{
+  "player_id": "4722",
+  "player_name": "Rashid Khan",
+  "role": "batter",
+  "tier": "Promising",
+  "rating": 74.5,
+  "rating_ci90": [
+    49.1,
+    99.85
+  ],
+  "p_outperform": 0.9443,
+  "top10_inclusion_prob": 0.2933,
+  "rank_ci90": [
+    2,
+    80
+  ],
+  "composite": 0.8853,
+  "components": {
+    "PV": {
+      "observed": 0.1772,
+      "adjusted": 0.1772,
+      "z_score": 1.3175,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": 0.093,
+      "adjusted": 0.093,
+      "z_score": 0.7355,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.6355,
+      "adjusted": 0.6355,
+      "z_score": 0.6029,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 120,
+    "neff_pressure": 120.0,
+    "n_pressure_matches": 26
+  },
+  "explanation": "Rashid Khan generated a pressure value of +17.72 runs/100 balls (Clutch Delta: +9.30) at a 184.2 strike rate with 85.7% consistency across 26 pressure matches (120 balls)."
+}

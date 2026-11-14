@@ -1,0 +1,41 @@
+{
+  "player_id": "8611",
+  "player_name": "Adithya Ashok",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 24,
+    "overs": 4.0,
+    "runs_charged": 28.0,
+    "wickets": 1,
+    "economy": 7.0,
+    "average": 28.0,
+    "strike_rate": 24.0,
+    "dot_pct": 36.0,
+    "boundary_pct": 12.0,
+    "wides": 1,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 4.0,
+        "runs": 28.0,
+        "wickets": 1,
+        "economy": 7.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 24794,
+      "date": "2023-08-20",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/28 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -2.33
+    }
+  ]
+}

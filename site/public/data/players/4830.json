@@ -1,0 +1,93 @@
+{
+  "player_id": "4830",
+  "player_name": "Keacy Carty",
+  "batting": {
+    "matches": 6,
+    "innings": 6,
+    "not_outs": 1,
+    "runs": 80,
+    "balls": 72,
+    "average": 16.0,
+    "strike_rate": 111.11,
+    "highest_score": 49,
+    "fours": 5,
+    "sixes": 5,
+    "dots": 37,
+    "singles": 20,
+    "twos": 5,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4,
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48598,
+      "date": "2026-01-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "10 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46250,
+      "date": "2025-09-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46249,
+      "date": "2025-09-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "16 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 15,
+      "pressure_value": 0.28
+    },
+    {
+      "match_id": 41511,
+      "date": "2025-08-03",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "3 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -5.07
+    },
+    {
+      "match_id": 41509,
+      "date": "2025-07-28",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41504,
+      "date": "2025-06-15",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "49 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

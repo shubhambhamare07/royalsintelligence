@@ -1,0 +1,97 @@
+{
+  "match_id": 20203,
+  "competition_kind": "IPL",
+  "calendar_year": 2023,
+  "result": "Rajasthan Royals Won by 3 Wickets",
+  "innings_totals": {
+    "innings_1": 177.3,
+    "innings_1_sigma": 2.02,
+    "innings_2": 179.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 7,
+      "High": 7
+    },
+    "2": {
+      "Normal": 5,
+      "Elevated": 4,
+      "High": 3
+    },
+    "3": {
+      "Elevated": 12,
+      "Normal": 1
+    },
+    "4": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "6": {
+      "Normal": 12
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 13
+    },
+    "12": {
+      "Normal": 12
+    },
+    "13": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "14": {
+      "Elevated": 8,
+      "Normal": 4
+    },
+    "15": {
+      "Elevated": 10,
+      "High": 1,
+      "Extreme": 1
+    },
+    "16": {
+      "Elevated": 7,
+      "Extreme": 4,
+      "High": 1
+    },
+    "17": {
+      "Extreme": 7,
+      "Elevated": 6
+    },
+    "18": {
+      "High": 6,
+      "Extreme": 6
+    },
+    "19": {
+      "High": 6,
+      "Extreme": 6
+    },
+    "20": {
+      "High": 7,
+      "Extreme": 2
+    }
+  },
+  "turning_point_count": 5
+}

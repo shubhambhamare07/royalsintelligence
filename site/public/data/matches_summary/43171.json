@@ -1,0 +1,111 @@
+{
+  "match_id": 43171,
+  "competition_kind": "T20I",
+  "calendar_year": 2025,
+  "result": "United Arab Emirates Won by 7 wickets",
+  "innings_totals": {
+    "innings_1": 162.3,
+    "innings_1_sigma": 3.6,
+    "innings_2": 166.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 6
+    },
+    "2": {
+      "High": 8,
+      "Normal": 5,
+      "Elevated": 1
+    },
+    "3": {
+      "Elevated": 7,
+      "High": 6
+    },
+    "4": {
+      "High": 6,
+      "Elevated": 3,
+      "Normal": 3
+    },
+    "5": {
+      "Normal": 6,
+      "High": 6
+    },
+    "6": {
+      "Normal": 6,
+      "High": 6
+    },
+    "7": {
+      "Normal": 6,
+      "High": 6
+    },
+    "8": {
+      "Normal": 6,
+      "High": 6
+    },
+    "9": {
+      "Normal": 6,
+      "High": 6
+    },
+    "10": {
+      "Normal": 6,
+      "High": 6
+    },
+    "11": {
+      "Normal": 6,
+      "High": 6
+    },
+    "12": {
+      "Normal": 6,
+      "High": 6,
+      "Extreme": 1
+    },
+    "13": {
+      "Normal": 6,
+      "Extreme": 4,
+      "High": 2
+    },
+    "14": {
+      "Normal": 8,
+      "Extreme": 6
+    },
+    "15": {
+      "Normal": 6,
+      "Extreme": 6
+    },
+    "16": {
+      "Normal": 6,
+      "Extreme": 5,
+      "High": 1
+    },
+    "17": {
+      "Normal": 8,
+      "Extreme": 5,
+      "High": 1
+    },
+    "18": {
+      "Normal": 9,
+      "High": 2,
+      "Extreme": 1,
+      "Elevated": 1
+    },
+    "19": {
+      "Normal": 9,
+      "Elevated": 3,
+      "High": 1
+    },
+    "20": {
+      "High": 5,
+      "Elevated": 3,
+      "Normal": 1
+    }
+  },
+  "turning_point_count": 5
+}

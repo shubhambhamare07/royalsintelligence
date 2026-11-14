@@ -1,0 +1,63 @@
+{
+  "player_id": "6441",
+  "player_name": "Abdullah Shafique",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 0,
+    "runs": 23,
+    "balls": 16,
+    "average": 7.67,
+    "strike_rate": 143.75,
+    "highest_score": 23,
+    "fours": 1,
+    "sixes": 2,
+    "dots": 7,
+    "singles": 5,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 2,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "LBW": 2,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 20880,
+      "date": "2023-03-27",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "23 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20879,
+      "date": "2023-03-26",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20878,
+      "date": "2023-03-24",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

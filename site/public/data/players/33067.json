@@ -1,0 +1,72 @@
+{
+  "player_id": "33067",
+  "player_name": "Ravichandran Smaran",
+  "batting": {
+    "matches": 4,
+    "innings": 4,
+    "not_outs": 1,
+    "runs": 19,
+    "balls": 25,
+    "average": 6.33,
+    "strike_rate": 76.0,
+    "highest_score": 9,
+    "fours": 3,
+    "sixes": 0,
+    "dots": 15,
+    "singles": 7,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50943,
+      "date": "2026-05-27",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50384,
+      "date": "2026-05-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "5 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50377,
+      "date": "2026-05-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "9 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 15,
+      "pressure_value": -10.89
+    },
+    {
+      "match_id": 50366,
+      "date": "2026-05-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "4 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

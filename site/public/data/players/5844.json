@@ -1,0 +1,73 @@
+{
+  "player_id": "5844",
+  "player_name": "Ebadot Hossain",
+  "batting": null,
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 72,
+    "overs": 12.0,
+    "runs_charged": 113.0,
+    "wickets": 6,
+    "economy": 9.42,
+    "average": 18.83,
+    "strike_rate": 12.0,
+    "dot_pct": 32.53,
+    "boundary_pct": 12.05,
+    "wides": 9,
+    "no_balls": 2,
+    "phase_splits": {
+      "death": {
+        "overs": 3.0,
+        "runs": 32.0,
+        "wickets": 2,
+        "economy": 10.67
+      },
+      "middle": {
+        "overs": 6.0,
+        "runs": 61.0,
+        "wickets": 2,
+        "economy": 10.17
+      },
+      "powerplay": {
+        "overs": 3.0,
+        "runs": 20.0,
+        "wickets": 2,
+        "economy": 6.67
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 17741,
+      "date": "2022-10-12",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "2/40 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17632,
+      "date": "2022-09-27",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/24 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": 1.05
+    },
+    {
+      "match_id": 16657,
+      "date": "2022-09-01",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "3/49 (4.0)",
+      "pressure_balls": 26,
+      "pressure_value": 13.61
+    }
+  ]
+}

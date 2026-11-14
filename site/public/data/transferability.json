@@ -1,0 +1,1477 @@
+{
+  "model_version": "transferability-v1.0",
+  "disclaimer": "association, not prediction",
+  "notes": "Transferability analysis compares player clutch performance across IPL and T20I leagues. Correlations reflect empirical association across historical competitions and must not be interpreted as deterministic prediction.",
+  "batter_transferability": {
+    "n_qualified": 46,
+    "limited_evidence": false,
+    "min_deliveries_threshold": 40,
+    "spearman_rho": 0.3449,
+    "p_value": 0.0189,
+    "ci95": [
+      0.0626,
+      0.5822
+    ],
+    "reliability_ipl": 0.3494,
+    "reliability_t20i": 0.0844,
+    "rho_disattenuated": 1.0,
+    "scatter_points": [
+      {
+        "player_id": 47,
+        "player_name": "Virat Kohli",
+        "ipl_exposure": 391,
+        "t20i_exposure": 79,
+        "ipl_value": 0.5546,
+        "ipl_ci90": [
+          0.5377,
+          0.5715
+        ],
+        "t20i_value": 0.6521,
+        "t20i_ci90": [
+          0.6263,
+          0.678
+        ]
+      },
+      {
+        "player_id": 126,
+        "player_name": "Rohit Sharma",
+        "ipl_exposure": 362,
+        "t20i_exposure": 44,
+        "ipl_value": 0.4908,
+        "ipl_ci90": [
+          0.4746,
+          0.5071
+        ],
+        "t20i_value": 0.5979,
+        "t20i_ci90": [
+          0.5513,
+          0.6445
+        ]
+      },
+      {
+        "player_id": 152,
+        "player_name": "Ravindra Jadeja",
+        "ipl_exposure": 180,
+        "t20i_exposure": 43,
+        "ipl_value": 0.4891,
+        "ipl_ci90": [
+          0.463,
+          0.5153
+        ],
+        "t20i_value": 0.5631,
+        "t20i_ci90": [
+          0.5404,
+          0.5859
+        ]
+      },
+      {
+        "player_id": 796,
+        "player_name": "Matthew Wade",
+        "ipl_exposure": 60,
+        "t20i_exposure": 121,
+        "ipl_value": 0.4113,
+        "ipl_ci90": [
+          0.3872,
+          0.4353
+        ],
+        "t20i_value": 0.433,
+        "t20i_ci90": [
+          0.3946,
+          0.4713
+        ]
+      },
+      {
+        "player_id": 813,
+        "player_name": "Jos Buttler",
+        "ipl_exposure": 280,
+        "t20i_exposure": 121,
+        "ipl_value": 0.5001,
+        "ipl_ci90": [
+          0.4798,
+          0.5204
+        ],
+        "t20i_value": 0.4818,
+        "t20i_ci90": [
+          0.4498,
+          0.5138
+        ]
+      },
+      {
+        "player_id": 818,
+        "player_name": "Mitchell Marsh",
+        "ipl_exposure": 224,
+        "t20i_exposure": 215,
+        "ipl_value": 0.5042,
+        "ipl_ci90": [
+          0.4822,
+          0.5261
+        ],
+        "t20i_value": 0.4993,
+        "t20i_ci90": [
+          0.4782,
+          0.5204
+        ]
+      },
+      {
+        "player_id": 838,
+        "player_name": "Glenn Maxwell",
+        "ipl_exposure": 47,
+        "t20i_exposure": 89,
+        "ipl_value": 0.5271,
+        "ipl_ci90": [
+          0.4795,
+          0.5747
+        ],
+        "t20i_value": 0.478,
+        "t20i_ci90": [
+          0.4426,
+          0.5134
+        ]
+      },
+      {
+        "player_id": 1596,
+        "player_name": "Moeen Ali",
+        "ipl_exposure": 50,
+        "t20i_exposure": 86,
+        "ipl_value": 0.3596,
+        "ipl_ci90": [
+          0.3339,
+          0.3853
+        ],
+        "t20i_value": 0.3307,
+        "t20i_ci90": [
+          0.3024,
+          0.359
+        ]
+      },
+      {
+        "player_id": 1699,
+        "player_name": "Suryakumar Yadav",
+        "ipl_exposure": 275,
+        "t20i_exposure": 178,
+        "ipl_value": 0.4297,
+        "ipl_ci90": [
+          0.4114,
+          0.448
+        ],
+        "t20i_value": 0.5713,
+        "t20i_ci90": [
+          0.5499,
+          0.5927
+        ]
+      },
+      {
+        "player_id": 2101,
+        "player_name": "Quinton de Kock",
+        "ipl_exposure": 119,
+        "t20i_exposure": 77,
+        "ipl_value": 0.4295,
+        "ipl_ci90": [
+          0.3952,
+          0.4637
+        ],
+        "t20i_value": 0.4359,
+        "t20i_ci90": [
+          0.4043,
+          0.4675
+        ]
+      },
+      {
+        "player_id": 2258,
+        "player_name": "Sanju Samson",
+        "ipl_exposure": 219,
+        "t20i_exposure": 105,
+        "ipl_value": 0.5316,
+        "ipl_ci90": [
+          0.5097,
+          0.5535
+        ],
+        "t20i_value": 0.5325,
+        "t20i_ci90": [
+          0.5096,
+          0.5554
+        ]
+      },
+      {
+        "player_id": 2367,
+        "player_name": "Travis Head",
+        "ipl_exposure": 61,
+        "t20i_exposure": 140,
+        "ipl_value": 0.4859,
+        "ipl_ci90": [
+          0.4415,
+          0.5303
+        ],
+        "t20i_value": 0.5797,
+        "t20i_ci90": [
+          0.5568,
+          0.6027
+        ]
+      },
+      {
+        "player_id": 2416,
+        "player_name": "Kyle Mayers",
+        "ipl_exposure": 58,
+        "t20i_exposure": 95,
+        "ipl_value": 0.3389,
+        "ipl_ci90": [
+          0.3143,
+          0.3635
+        ],
+        "t20i_value": 0.4344,
+        "t20i_ci90": [
+          0.4002,
+          0.4686
+        ]
+      },
+      {
+        "player_id": 2639,
+        "player_name": "Marcus Stoinis",
+        "ipl_exposure": 142,
+        "t20i_exposure": 42,
+        "ipl_value": 0.4094,
+        "ipl_ci90": [
+          0.3807,
+          0.4382
+        ],
+        "t20i_value": 0.4819,
+        "t20i_ci90": [
+          0.4235,
+          0.5403
+        ]
+      },
+      {
+        "player_id": 2876,
+        "player_name": "Axar Patel",
+        "ipl_exposure": 184,
+        "t20i_exposure": 92,
+        "ipl_value": 0.505,
+        "ipl_ci90": [
+          0.4776,
+          0.5325
+        ],
+        "t20i_value": 0.4487,
+        "t20i_ci90": [
+          0.4171,
+          0.4803
+        ]
+      },
+      {
+        "player_id": 2984,
+        "player_name": "Sikandar Raza",
+        "ipl_exposure": 59,
+        "t20i_exposure": 191,
+        "ipl_value": 0.4732,
+        "ipl_ci90": [
+          0.4418,
+          0.5047
+        ],
+        "t20i_value": 0.565,
+        "t20i_ci90": [
+          0.5425,
+          0.5875
+        ]
+      },
+      {
+        "player_id": 3125,
+        "player_name": "Nicholas Pooran",
+        "ipl_exposure": 219,
+        "t20i_exposure": 118,
+        "ipl_value": 0.5392,
+        "ipl_ci90": [
+          0.514,
+          0.5644
+        ],
+        "t20i_value": 0.4049,
+        "t20i_ci90": [
+          0.3732,
+          0.4366
+        ]
+      },
+      {
+        "player_id": 3297,
+        "player_name": "Shimron Hetmyer",
+        "ipl_exposure": 212,
+        "t20i_exposure": 71,
+        "ipl_value": 0.5279,
+        "ipl_ci90": [
+          0.5038,
+          0.5519
+        ],
+        "t20i_value": 0.515,
+        "t20i_ci90": [
+          0.4826,
+          0.5475
+        ]
+      },
+      {
+        "player_id": 3330,
+        "player_name": "Hardik Pandya",
+        "ipl_exposure": 279,
+        "t20i_exposure": 102,
+        "ipl_value": 0.4878,
+        "ipl_ci90": [
+          0.4699,
+          0.5057
+        ],
+        "t20i_value": 0.5857,
+        "t20i_ci90": [
+          0.5592,
+          0.6122
+        ]
+      },
+      {
+        "player_id": 3605,
+        "player_name": "Aiden Markram",
+        "ipl_exposure": 161,
+        "t20i_exposure": 63,
+        "ipl_value": 0.564,
+        "ipl_ci90": [
+          0.5355,
+          0.5925
+        ],
+        "t20i_value": 0.5194,
+        "t20i_ci90": [
+          0.4717,
+          0.5672
+        ]
+      },
+      {
+        "player_id": 3647,
+        "player_name": "Shreyas Iyer",
+        "ipl_exposure": 288,
+        "t20i_exposure": 75,
+        "ipl_value": 0.5524,
+        "ipl_ci90": [
+          0.5328,
+          0.5719
+        ],
+        "t20i_value": 0.4942,
+        "t20i_ci90": [
+          0.4547,
+          0.5337
+        ]
+      },
+      {
+        "player_id": 3727,
+        "player_name": "Matthew Short",
+        "ipl_exposure": 55,
+        "t20i_exposure": 75,
+        "ipl_value": 0.5225,
+        "ipl_ci90": [
+          0.4942,
+          0.5509
+        ],
+        "t20i_value": 0.5592,
+        "t20i_ci90": [
+          0.5213,
+          0.5971
+        ]
+      },
+      {
+        "player_id": 4007,
+        "player_name": "Ryan Rickelton",
+        "ipl_exposure": 91,
+        "t20i_exposure": 106,
+        "ipl_value": 0.4902,
+        "ipl_ci90": [
+          0.456,
+          0.5244
+        ],
+        "t20i_value": 0.4225,
+        "t20i_ci90": [
+          0.3992,
+          0.4459
+        ]
+      },
+      {
+        "player_id": 4117,
+        "player_name": "Ishan Kishan",
+        "ipl_exposure": 371,
+        "t20i_exposure": 81,
+        "ipl_value": 0.5162,
+        "ipl_ci90": [
+          0.5006,
+          0.5318
+        ],
+        "t20i_value": 0.5006,
+        "t20i_ci90": [
+          0.4694,
+          0.5318
+        ]
+      },
+      {
+        "player_id": 4391,
+        "player_name": "Liam Livingstone",
+        "ipl_exposure": 90,
+        "t20i_exposure": 89,
+        "ipl_value": 0.4855,
+        "ipl_ci90": [
+          0.4436,
+          0.5274
+        ],
+        "t20i_value": 0.4866,
+        "t20i_ci90": [
+          0.4441,
+          0.5291
+        ]
+      },
+      {
+        "player_id": 4409,
+        "player_name": "Sam Curran",
+        "ipl_exposure": 111,
+        "t20i_exposure": 69,
+        "ipl_value": 0.5772,
+        "ipl_ci90": [
+          0.5425,
+          0.612
+        ],
+        "t20i_value": 0.4254,
+        "t20i_ci90": [
+          0.3771,
+          0.4737
+        ]
+      },
+      {
+        "player_id": 4708,
+        "player_name": "Rinku Singh",
+        "ipl_exposure": 194,
+        "t20i_exposure": 44,
+        "ipl_value": 0.5017,
+        "ipl_ci90": [
+          0.4762,
+          0.5272
+        ],
+        "t20i_value": 0.6105,
+        "t20i_ci90": [
+          0.5749,
+          0.6462
+        ]
+      },
+      {
+        "player_id": 4722,
+        "player_name": "Rashid Khan",
+        "ipl_exposure": 79,
+        "t20i_exposure": 41,
+        "ipl_value": 0.357,
+        "ipl_ci90": [
+          0.3157,
+          0.3982
+        ],
+        "t20i_value": 0.4778,
+        "t20i_ci90": [
+          0.4259,
+          0.5297
+        ]
+      },
+      {
+        "player_id": 4736,
+        "player_name": "Josh Inglis",
+        "ipl_exposure": 70,
+        "t20i_exposure": 94,
+        "ipl_value": 0.4818,
+        "ipl_ci90": [
+          0.445,
+          0.5186
+        ],
+        "t20i_value": 0.4594,
+        "t20i_ci90": [
+          0.4256,
+          0.4932
+        ]
+      },
+      {
+        "player_id": 4755,
+        "player_name": "Shivam Dube",
+        "ipl_exposure": 224,
+        "t20i_exposure": 93,
+        "ipl_value": 0.5417,
+        "ipl_ci90": [
+          0.521,
+          0.5625
+        ],
+        "t20i_value": 0.5036,
+        "t20i_ci90": [
+          0.4734,
+          0.5338
+        ]
+      },
+      {
+        "player_id": 4823,
+        "player_name": "Washington Sundar",
+        "ipl_exposure": 85,
+        "t20i_exposure": 79,
+        "ipl_value": 0.4453,
+        "ipl_ci90": [
+          0.4004,
+          0.4902
+        ],
+        "t20i_value": 0.3306,
+        "t20i_ci90": [
+          0.2944,
+          0.3667
+        ]
+      },
+      {
+        "player_id": 4854,
+        "player_name": "Rachin Ravindra",
+        "ipl_exposure": 46,
+        "t20i_exposure": 54,
+        "ipl_value": 0.4857,
+        "ipl_ci90": [
+          0.4283,
+          0.5431
+        ],
+        "t20i_value": 0.3784,
+        "t20i_ci90": [
+          0.3397,
+          0.4171
+        ]
+      },
+      {
+        "player_id": 4986,
+        "player_name": "Rovman Powell",
+        "ipl_exposure": 103,
+        "t20i_exposure": 170,
+        "ipl_value": 0.4834,
+        "ipl_ci90": [
+          0.4464,
+          0.5204
+        ],
+        "t20i_value": 0.4348,
+        "t20i_ci90": [
+          0.4059,
+          0.4636
+        ]
+      },
+      {
+        "player_id": 5553,
+        "player_name": "Phil Salt",
+        "ipl_exposure": 105,
+        "t20i_exposure": 198,
+        "ipl_value": 0.4567,
+        "ipl_ci90": [
+          0.429,
+          0.4843
+        ],
+        "t20i_value": 0.4993,
+        "t20i_ci90": [
+          0.4758,
+          0.5228
+        ]
+      },
+      {
+        "player_id": 5939,
+        "player_name": "Cameron Green",
+        "ipl_exposure": 109,
+        "t20i_exposure": 134,
+        "ipl_value": 0.4818,
+        "ipl_ci90": [
+          0.4498,
+          0.5138
+        ],
+        "t20i_value": 0.5328,
+        "t20i_ci90": [
+          0.5029,
+          0.5627
+        ]
+      },
+      {
+        "player_id": 6272,
+        "player_name": "William Jacks",
+        "ipl_exposure": 53,
+        "t20i_exposure": 98,
+        "ipl_value": 0.5523,
+        "ipl_ci90": [
+          0.5095,
+          0.595
+        ],
+        "t20i_value": 0.5188,
+        "t20i_ci90": [
+          0.4849,
+          0.5526
+        ]
+      },
+      {
+        "player_id": 6281,
+        "player_name": "Abhishek Sharma",
+        "ipl_exposure": 302,
+        "t20i_exposure": 114,
+        "ipl_value": 0.5111,
+        "ipl_ci90": [
+          0.4929,
+          0.5294
+        ],
+        "t20i_value": 0.5255,
+        "t20i_ci90": [
+          0.5031,
+          0.5479
+        ]
+      },
+      {
+        "player_id": 6288,
+        "player_name": "Shubman Gill",
+        "ipl_exposure": 485,
+        "t20i_exposure": 98,
+        "ipl_value": 0.5462,
+        "ipl_ci90": [
+          0.5321,
+          0.5602
+        ],
+        "t20i_value": 0.5531,
+        "t20i_ci90": [
+          0.5328,
+          0.5734
+        ]
+      },
+      {
+        "player_id": 6396,
+        "player_name": "Tim David",
+        "ipl_exposure": 194,
+        "t20i_exposure": 116,
+        "ipl_value": 0.5068,
+        "ipl_ci90": [
+          0.4783,
+          0.5352
+        ],
+        "t20i_value": 0.4043,
+        "t20i_ci90": [
+          0.3741,
+          0.4345
+        ]
+      },
+      {
+        "player_id": 6725,
+        "player_name": "Sherfane Rutherford",
+        "ipl_exposure": 142,
+        "t20i_exposure": 101,
+        "ipl_value": 0.462,
+        "ipl_ci90": [
+          0.4323,
+          0.4918
+        ],
+        "t20i_value": 0.4337,
+        "t20i_ci90": [
+          0.391,
+          0.4764
+        ]
+      },
+      {
+        "player_id": 6726,
+        "player_name": "Romario Shepherd",
+        "ipl_exposure": 47,
+        "t20i_exposure": 72,
+        "ipl_value": 0.4825,
+        "ipl_ci90": [
+          0.4375,
+          0.5275
+        ],
+        "t20i_value": 0.3824,
+        "t20i_ci90": [
+          0.3328,
+          0.4321
+        ]
+      },
+      {
+        "player_id": 6819,
+        "player_name": "Yashasvi Jaiswal",
+        "ipl_exposure": 407,
+        "t20i_exposure": 40,
+        "ipl_value": 0.5507,
+        "ipl_ci90": [
+          0.5366,
+          0.5649
+        ],
+        "t20i_value": 0.5524,
+        "t20i_ci90": [
+          0.5231,
+          0.5817
+        ]
+      },
+      {
+        "player_id": 6931,
+        "player_name": "Pathum Nissanka",
+        "ipl_exposure": 98,
+        "t20i_exposure": 372,
+        "ipl_value": 0.5455,
+        "ipl_ci90": [
+          0.5238,
+          0.5672
+        ],
+        "t20i_value": 0.5066,
+        "t20i_ci90": [
+          0.4887,
+          0.5244
+        ]
+      },
+      {
+        "player_id": 7897,
+        "player_name": "Namboori Tilak Varma",
+        "ipl_exposure": 306,
+        "t20i_exposure": 308,
+        "ipl_value": 0.4555,
+        "ipl_ci90": [
+          0.4384,
+          0.4726
+        ],
+        "t20i_value": 0.4616,
+        "t20i_ci90": [
+          0.4475,
+          0.4757
+        ]
+      },
+      {
+        "player_id": 20702,
+        "player_name": "Tristan Stubbs",
+        "ipl_exposure": 185,
+        "t20i_exposure": 82,
+        "ipl_value": 0.5239,
+        "ipl_ci90": [
+          0.4977,
+          0.5502
+        ],
+        "t20i_value": 0.5445,
+        "t20i_ci90": [
+          0.5042,
+          0.5847
+        ]
+      },
+      {
+        "player_id": 23311,
+        "player_name": "Jacob Bethell",
+        "ipl_exposure": 42,
+        "t20i_exposure": 104,
+        "ipl_value": 0.6061,
+        "ipl_ci90": [
+          0.5733,
+          0.639
+        ],
+        "t20i_value": 0.5348,
+        "t20i_ci90": [
+          0.5024,
+          0.5672
+        ]
+      }
+    ]
+  },
+  "bowler_transferability": {
+    "n_qualified": 44,
+    "limited_evidence": false,
+    "min_deliveries_threshold": 40,
+    "spearman_rho": -0.0481,
+    "p_value": 0.7567,
+    "ci95": [
+      -0.3287,
+      0.2571
+    ],
+    "reliability_ipl": 0.2322,
+    "reliability_t20i": 0.0695,
+    "rho_disattenuated": -0.3784,
+    "scatter_points": [
+      {
+        "player_id": 278,
+        "player_name": "Tim Southee",
+        "ipl_exposure": 86,
+        "t20i_exposure": 123,
+        "ipl_value": 0.4526,
+        "ipl_ci90": [
+          0.416,
+          0.4891
+        ],
+        "t20i_value": 0.4387,
+        "t20i_ci90": [
+          0.4079,
+          0.4696
+        ]
+      },
+      {
+        "player_id": 360,
+        "player_name": "Bhuvneshwar Kumar",
+        "ipl_exposure": 369,
+        "t20i_exposure": 171,
+        "ipl_value": 0.5019,
+        "ipl_ci90": [
+          0.4848,
+          0.5191
+        ],
+        "t20i_value": 0.5855,
+        "t20i_ci90": [
+          0.558,
+          0.6131
+        ]
+      },
+      {
+        "player_id": 830,
+        "player_name": "Josh Hazlewood",
+        "ipl_exposure": 261,
+        "t20i_exposure": 96,
+        "ipl_value": 0.5067,
+        "ipl_ci90": [
+          0.4866,
+          0.5268
+        ],
+        "t20i_value": 0.5891,
+        "t20i_ci90": [
+          0.5575,
+          0.6207
+        ]
+      },
+      {
+        "player_id": 1318,
+        "player_name": "Andre Russell",
+        "ipl_exposure": 189,
+        "t20i_exposure": 42,
+        "ipl_value": 0.504,
+        "ipl_ci90": [
+          0.4784,
+          0.5295
+        ],
+        "t20i_value": 0.609,
+        "t20i_ci90": [
+          0.553,
+          0.6651
+        ]
+      },
+      {
+        "player_id": 1612,
+        "player_name": "Yuzvendra Chahal",
+        "ipl_exposure": 415,
+        "t20i_exposure": 79,
+        "ipl_value": 0.5122,
+        "ipl_ci90": [
+          0.4948,
+          0.5295
+        ],
+        "t20i_value": 0.5613,
+        "t20i_ci90": [
+          0.5164,
+          0.6062
+        ]
+      },
+      {
+        "player_id": 1758,
+        "player_name": "Patrick Cummins",
+        "ipl_exposure": 123,
+        "t20i_exposure": 46,
+        "ipl_value": 0.5053,
+        "ipl_ci90": [
+          0.4729,
+          0.5377
+        ],
+        "t20i_value": 0.5659,
+        "t20i_ci90": [
+          0.5157,
+          0.616
+        ]
+      },
+      {
+        "player_id": 2261,
+        "player_name": "Harshal Patel",
+        "ipl_exposure": 352,
+        "t20i_exposure": 89,
+        "ipl_value": 0.538,
+        "ipl_ci90": [
+          0.5196,
+          0.5564
+        ],
+        "t20i_value": 0.7005,
+        "t20i_ci90": [
+          0.6691,
+          0.7318
+        ]
+      },
+      {
+        "player_id": 2315,
+        "player_name": "Reece Topley",
+        "ipl_exposure": 49,
+        "t20i_exposure": 71,
+        "ipl_value": 0.6119,
+        "ipl_ci90": [
+          0.5896,
+          0.6342
+        ],
+        "t20i_value": 0.61,
+        "t20i_ci90": [
+          0.5745,
+          0.6454
+        ]
+      },
+      {
+        "player_id": 2399,
+        "player_name": "Dushmantha Chameera",
+        "ipl_exposure": 83,
+        "t20i_exposure": 146,
+        "ipl_value": 0.4582,
+        "ipl_ci90": [
+          0.4256,
+          0.4909
+        ],
+        "t20i_value": 0.4827,
+        "t20i_ci90": [
+          0.4565,
+          0.5089
+        ]
+      },
+      {
+        "player_id": 2417,
+        "player_name": "Akeal Hosein",
+        "ipl_exposure": 68,
+        "t20i_exposure": 310,
+        "ipl_value": 0.5814,
+        "ipl_ci90": [
+          0.5428,
+          0.6201
+        ],
+        "t20i_value": 0.487,
+        "t20i_ci90": [
+          0.4679,
+          0.5061
+        ]
+      },
+      {
+        "player_id": 2633,
+        "player_name": "Jason Holder",
+        "ipl_exposure": 117,
+        "t20i_exposure": 300,
+        "ipl_value": 0.5939,
+        "ipl_ci90": [
+          0.5653,
+          0.6225
+        ],
+        "t20i_value": 0.5054,
+        "t20i_ci90": [
+          0.4829,
+          0.5279
+        ]
+      },
+      {
+        "player_id": 2639,
+        "player_name": "Marcus Stoinis",
+        "ipl_exposure": 96,
+        "t20i_exposure": 90,
+        "ipl_value": 0.6311,
+        "ipl_ci90": [
+          0.5901,
+          0.6722
+        ],
+        "t20i_value": 0.5976,
+        "t20i_ci90": [
+          0.567,
+          0.6281
+        ]
+      },
+      {
+        "player_id": 2876,
+        "player_name": "Axar Patel",
+        "ipl_exposure": 192,
+        "t20i_exposure": 205,
+        "ipl_value": 0.484,
+        "ipl_ci90": [
+          0.4629,
+          0.5052
+        ],
+        "t20i_value": 0.5877,
+        "t20i_ci90": [
+          0.5678,
+          0.6077
+        ]
+      },
+      {
+        "player_id": 2933,
+        "player_name": "Jasprit Bumrah",
+        "ipl_exposure": 314,
+        "t20i_exposure": 56,
+        "ipl_value": 0.4842,
+        "ipl_ci90": [
+          0.4663,
+          0.5021
+        ],
+        "t20i_value": 0.6022,
+        "t20i_ci90": [
+          0.5741,
+          0.6303
+        ]
+      },
+      {
+        "player_id": 3174,
+        "player_name": "Matt Henry",
+        "ipl_exposure": 41,
+        "t20i_exposure": 127,
+        "ipl_value": 0.4038,
+        "ipl_ci90": [
+          0.3572,
+          0.4504
+        ],
+        "t20i_value": 0.5014,
+        "t20i_ci90": [
+          0.4765,
+          0.5264
+        ]
+      },
+      {
+        "player_id": 3275,
+        "player_name": "Alzarri Joseph",
+        "ipl_exposure": 93,
+        "t20i_exposure": 191,
+        "ipl_value": 0.5488,
+        "ipl_ci90": [
+          0.5167,
+          0.5809
+        ],
+        "t20i_value": 0.505,
+        "t20i_ci90": [
+          0.4779,
+          0.5321
+        ]
+      },
+      {
+        "player_id": 3298,
+        "player_name": "Jofra Archer",
+        "ipl_exposure": 185,
+        "t20i_exposure": 78,
+        "ipl_value": 0.4608,
+        "ipl_ci90": [
+          0.4389,
+          0.4828
+        ],
+        "t20i_value": 0.5135,
+        "t20i_ci90": [
+          0.4827,
+          0.5444
+        ]
+      },
+      {
+        "player_id": 3330,
+        "player_name": "Hardik Pandya",
+        "ipl_exposure": 158,
+        "t20i_exposure": 209,
+        "ipl_value": 0.4186,
+        "ipl_ci90": [
+          0.3921,
+          0.4451
+        ],
+        "t20i_value": 0.5699,
+        "t20i_ci90": [
+          0.5498,
+          0.59
+        ]
+      },
+      {
+        "player_id": 3629,
+        "player_name": "Corbin Bosch",
+        "ipl_exposure": 44,
+        "t20i_exposure": 46,
+        "ipl_value": 0.4266,
+        "ipl_ci90": [
+          0.3702,
+          0.4831
+        ],
+        "t20i_value": 0.3724,
+        "t20i_ci90": [
+          0.3451,
+          0.3998
+        ]
+      },
+      {
+        "player_id": 3644,
+        "player_name": "Kuldeep Yadav",
+        "ipl_exposure": 249,
+        "t20i_exposure": 84,
+        "ipl_value": 0.4768,
+        "ipl_ci90": [
+          0.4566,
+          0.4971
+        ],
+        "t20i_value": 0.5683,
+        "t20i_ci90": [
+          0.5298,
+          0.6067
+        ]
+      },
+      {
+        "player_id": 3653,
+        "player_name": "Avesh Khan",
+        "ipl_exposure": 380,
+        "t20i_exposure": 117,
+        "ipl_value": 0.506,
+        "ipl_ci90": [
+          0.4888,
+          0.5232
+        ],
+        "t20i_value": 0.589,
+        "t20i_ci90": [
+          0.5534,
+          0.6245
+        ]
+      },
+      {
+        "player_id": 4101,
+        "player_name": "Mitchell Santner",
+        "ipl_exposure": 112,
+        "t20i_exposure": 160,
+        "ipl_value": 0.4821,
+        "ipl_ci90": [
+          0.4517,
+          0.5125
+        ],
+        "t20i_value": 0.5852,
+        "t20i_ci90": [
+          0.557,
+          0.6135
+        ]
+      },
+      {
+        "player_id": 4373,
+        "player_name": "Mustafizur Rahman",
+        "ipl_exposure": 121,
+        "t20i_exposure": 235,
+        "ipl_value": 0.4236,
+        "ipl_ci90": [
+          0.3898,
+          0.4574
+        ],
+        "t20i_value": 0.5204,
+        "t20i_ci90": [
+          0.4994,
+          0.5414
+        ]
+      },
+      {
+        "player_id": 4409,
+        "player_name": "Sam Curran",
+        "ipl_exposure": 185,
+        "t20i_exposure": 111,
+        "ipl_value": 0.4089,
+        "ipl_ci90": [
+          0.3828,
+          0.4349
+        ],
+        "t20i_value": 0.5261,
+        "t20i_ci90": [
+          0.4896,
+          0.5627
+        ]
+      },
+      {
+        "player_id": 4641,
+        "player_name": "Lungi Ngidi",
+        "ipl_exposure": 47,
+        "t20i_exposure": 73,
+        "ipl_value": 0.4218,
+        "ipl_ci90": [
+          0.3867,
+          0.4569
+        ],
+        "t20i_value": 0.513,
+        "t20i_ci90": [
+          0.4814,
+          0.5445
+        ]
+      },
+      {
+        "player_id": 4692,
+        "player_name": "Lockie Ferguson",
+        "ipl_exposure": 155,
+        "t20i_exposure": 74,
+        "ipl_value": 0.5064,
+        "ipl_ci90": [
+          0.4751,
+          0.5376
+        ],
+        "t20i_value": 0.5218,
+        "t20i_ci90": [
+          0.4791,
+          0.5645
+        ]
+      },
+      {
+        "player_id": 4722,
+        "player_name": "Rashid Khan",
+        "ipl_exposure": 249,
+        "t20i_exposure": 226,
+        "ipl_value": 0.5287,
+        "ipl_ci90": [
+          0.5079,
+          0.5494
+        ],
+        "t20i_value": 0.4171,
+        "t20i_ci90": [
+          0.3942,
+          0.44
+        ]
+      },
+      {
+        "player_id": 4837,
+        "player_name": "Obed McCoy",
+        "ipl_exposure": 67,
+        "t20i_exposure": 99,
+        "ipl_value": 0.5631,
+        "ipl_ci90": [
+          0.5249,
+          0.6013
+        ],
+        "t20i_value": 0.454,
+        "t20i_ci90": [
+          0.4272,
+          0.4808
+        ]
+      },
+      {
+        "player_id": 4900,
+        "player_name": "Wanindu Hasaranga",
+        "ipl_exposure": 206,
+        "t20i_exposure": 172,
+        "ipl_value": 0.622,
+        "ipl_ci90": [
+          0.6036,
+          0.6405
+        ],
+        "t20i_value": 0.5232,
+        "t20i_ci90": [
+          0.4935,
+          0.553
+        ]
+      },
+      {
+        "player_id": 5041,
+        "player_name": "Mukesh Kumar",
+        "ipl_exposure": 180,
+        "t20i_exposure": 101,
+        "ipl_value": 0.4469,
+        "ipl_ci90": [
+          0.4188,
+          0.475
+        ],
+        "t20i_value": 0.5632,
+        "t20i_ci90": [
+          0.5338,
+          0.5926
+        ]
+      },
+      {
+        "player_id": 5738,
+        "player_name": "Xavier Bartlett",
+        "ipl_exposure": 51,
+        "t20i_exposure": 66,
+        "ipl_value": 0.3373,
+        "ipl_ci90": [
+          0.2964,
+          0.3781
+        ],
+        "t20i_value": 0.5371,
+        "t20i_ci90": [
+          0.5041,
+          0.5701
+        ]
+      },
+      {
+        "player_id": 5809,
+        "player_name": "Naveen ul Haq",
+        "ipl_exposure": 108,
+        "t20i_exposure": 108,
+        "ipl_value": 0.5336,
+        "ipl_ci90": [
+          0.4982,
+          0.569
+        ],
+        "t20i_value": 0.3397,
+        "t20i_ci90": [
+          0.3168,
+          0.3626
+        ]
+      },
+      {
+        "player_id": 6256,
+        "player_name": "Varun Chakravarthy",
+        "ipl_exposure": 239,
+        "t20i_exposure": 130,
+        "ipl_value": 0.5008,
+        "ipl_ci90": [
+          0.4783,
+          0.5234
+        ],
+        "t20i_value": 0.5155,
+        "t20i_ci90": [
+          0.4897,
+          0.5414
+        ]
+      },
+      {
+        "player_id": 6464,
+        "player_name": "Arshdeep Singh",
+        "ipl_exposure": 440,
+        "t20i_exposure": 310,
+        "ipl_value": 0.4931,
+        "ipl_ci90": [
+          0.4758,
+          0.5104
+        ],
+        "t20i_value": 0.5243,
+        "t20i_ci90": [
+          0.5059,
+          0.5426
+        ]
+      },
+      {
+        "player_id": 6676,
+        "player_name": "Azmatullah Omarzai",
+        "ipl_exposure": 130,
+        "t20i_exposure": 255,
+        "ipl_value": 0.5421,
+        "ipl_ci90": [
+          0.5195,
+          0.5648
+        ],
+        "t20i_value": 0.477,
+        "t20i_ci90": [
+          0.4576,
+          0.4963
+        ]
+      },
+      {
+        "player_id": 6726,
+        "player_name": "Romario Shepherd",
+        "ipl_exposure": 43,
+        "t20i_exposure": 270,
+        "ipl_value": 0.6246,
+        "ipl_ci90": [
+          0.5835,
+          0.6656
+        ],
+        "t20i_value": 0.4908,
+        "t20i_ci90": [
+          0.4675,
+          0.514
+        ]
+      },
+      {
+        "player_id": 7240,
+        "player_name": "FazalHaq Farooqi",
+        "ipl_exposure": 41,
+        "t20i_exposure": 225,
+        "ipl_value": 0.539,
+        "ipl_ci90": [
+          0.4837,
+          0.5943
+        ],
+        "t20i_value": 0.5012,
+        "t20i_ci90": [
+          0.4803,
+          0.5222
+        ]
+      },
+      {
+        "player_id": 7503,
+        "player_name": "Ravi Bishnoi",
+        "ipl_exposure": 346,
+        "t20i_exposure": 208,
+        "ipl_value": 0.5134,
+        "ipl_ci90": [
+          0.4969,
+          0.5299
+        ],
+        "t20i_value": 0.5761,
+        "t20i_ci90": [
+          0.5528,
+          0.5994
+        ]
+      },
+      {
+        "player_id": 7920,
+        "player_name": "Nathan Ellis",
+        "ipl_exposure": 98,
+        "t20i_exposure": 114,
+        "ipl_value": 0.5414,
+        "ipl_ci90": [
+          0.5105,
+          0.5722
+        ],
+        "t20i_value": 0.506,
+        "t20i_ci90": [
+          0.4727,
+          0.5393
+        ]
+      },
+      {
+        "player_id": 7967,
+        "player_name": "Noor Ahmad",
+        "ipl_exposure": 186,
+        "t20i_exposure": 117,
+        "ipl_value": 0.4367,
+        "ipl_ci90": [
+          0.4095,
+          0.4638
+        ],
+        "t20i_value": 0.4523,
+        "t20i_ci90": [
+          0.4205,
+          0.484
+        ]
+      },
+      {
+        "player_id": 8661,
+        "player_name": "Matheesha Pathirana",
+        "ipl_exposure": 197,
+        "t20i_exposure": 63,
+        "ipl_value": 0.5247,
+        "ipl_ci90": [
+          0.4978,
+          0.5515
+        ],
+        "t20i_value": 0.483,
+        "t20i_ci90": [
+          0.4321,
+          0.5339
+        ]
+      },
+      {
+        "player_id": 19316,
+        "player_name": "Maheesh Theekshana",
+        "ipl_exposure": 152,
+        "t20i_exposure": 210,
+        "ipl_value": 0.6132,
+        "ipl_ci90": [
+          0.587,
+          0.6394
+        ],
+        "t20i_value": 0.5121,
+        "t20i_ci90": [
+          0.4898,
+          0.5344
+        ]
+      },
+      {
+        "player_id": 29888,
+        "player_name": "Harshit Rana",
+        "ipl_exposure": 206,
+        "t20i_exposure": 64,
+        "ipl_value": 0.506,
+        "ipl_ci90": [
+          0.4848,
+          0.5272
+        ],
+        "t20i_value": 0.6911,
+        "t20i_ci90": [
+          0.6547,
+          0.7274
+        ]
+      },
+      {
+        "player_id": 39657,
+        "player_name": "Eshan Malinga",
+        "ipl_exposure": 80,
+        "t20i_exposure": 65,
+        "ipl_value": 0.5681,
+        "ipl_ci90": [
+          0.5306,
+          0.6057
+        ],
+        "t20i_value": 0.517,
+        "t20i_ci90": [
+          0.4718,
+          0.5622
+        ]
+      }
+    ]
+  }
+}

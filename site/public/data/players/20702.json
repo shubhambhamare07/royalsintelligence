@@ -1,0 +1,479 @@
+{
+  "player_id": "20702",
+  "player_name": "Tristan Stubbs",
+  "batting": {
+    "matches": 65,
+    "innings": 65,
+    "not_outs": 24,
+    "runs": 1539,
+    "balls": 1043,
+    "average": 37.54,
+    "strike_rate": 147.56,
+    "highest_score": 76,
+    "fours": 116,
+    "sixes": 68,
+    "dots": 286,
+    "singles": 486,
+    "twos": 82,
+    "threes": 4,
+    "ducks": 4,
+    "thirties": 15,
+    "fifties": 7,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 29,
+      "Bowled": 6,
+      "LBW": 5,
+      "Stump": 1
+    }
+  },
+  "bowling": {
+    "matches": 7,
+    "legal_balls": 48,
+    "overs": 8.0,
+    "runs_charged": 110.0,
+    "wickets": 4,
+    "economy": 13.75,
+    "average": 27.5,
+    "strike_rate": 12.0,
+    "dot_pct": 26.0,
+    "boundary_pct": 30.0,
+    "wides": 1,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 25.0,
+        "wickets": 0,
+        "economy": 12.5
+      },
+      "middle": {
+        "overs": 6.0,
+        "runs": 85.0,
+        "wickets": 4,
+        "economy": 14.17
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 60.12,
+    "tier": "Unproven",
+    "p_outperform": 0.7908,
+    "pressure_value_per_100": 3.12,
+    "clutch_delta_per_100": -5.86,
+    "consistency": 0.6647
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50391,
+      "date": "2026-05-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -1.91
+    },
+    {
+      "match_id": 50383,
+      "date": "2026-05-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "4 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": -8.06
+    },
+    {
+      "match_id": 50376,
+      "date": "2026-05-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "12 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50372,
+      "date": "2026-05-08",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50369,
+      "date": "2026-05-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "38 (31)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50364,
+      "date": "2026-05-01",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "18 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": 0.09
+    },
+    {
+      "match_id": 50360,
+      "date": "2026-04-27",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "5 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50352,
+      "date": "2026-04-21",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "27 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50347,
+      "date": "2026-04-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "60 (47)",
+      "bowling_figures": null,
+      "pressure_balls": 47,
+      "pressure_value": -5.9
+    },
+    {
+      "match_id": 50142,
+      "date": "2026-04-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "60 (38)",
+      "bowling_figures": null,
+      "pressure_balls": 11,
+      "pressure_value": 0.12
+    },
+    {
+      "match_id": 50138,
+      "date": "2026-04-08",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "7 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": 0.7
+    },
+    {
+      "match_id": 50132,
+      "date": "2026-04-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "3 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50129,
+      "date": "2026-04-01",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "39 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": 7.1
+    },
+    {
+      "match_id": 42029,
+      "date": "2025-12-14",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42027,
+      "date": "2025-12-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "14 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -13.61
+    },
+    {
+      "match_id": 36209,
+      "date": "2025-09-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "23 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41971,
+      "date": "2025-08-16",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "25 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41970,
+      "date": "2025-08-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "31 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41969,
+      "date": "2025-08-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "37 (27)",
+      "bowling_figures": null,
+      "pressure_balls": 15,
+      "pressure_value": 6.25
+    },
+    {
+      "match_id": 43057,
+      "date": "2025-05-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "18 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": -4.98
+    },
+    {
+      "match_id": 40759,
+      "date": "2025-05-21",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40755,
+      "date": "2025-05-18",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "21 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": 2.5
+    },
+    {
+      "match_id": 40748,
+      "date": "2025-05-05",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "41 (36)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40741,
+      "date": "2025-04-29",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -7.06
+    },
+    {
+      "match_id": 40739,
+      "date": "2025-04-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "34 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40728,
+      "date": "2025-04-19",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "31 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40725,
+      "date": "2025-04-16",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "34 (18)",
+      "bowling_figures": "0/12 (1.0)",
+      "pressure_balls": 8,
+      "pressure_value": 0.18
+    },
+    {
+      "match_id": 40722,
+      "date": "2025-04-13",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -7.57
+    },
+    {
+      "match_id": 40717,
+      "date": "2025-04-10",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "38 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": 0.83
+    },
+    {
+      "match_id": 40710,
+      "date": "2025-04-05",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "24 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": 3.77
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 20702,
+      "player_name": "Tristan Stubbs",
+      "role": "batter",
+      "match_id": 30064,
+      "n_balls": 22,
+      "match_runs": 42,
+      "match_pressure_value": 0.2317,
+      "career_expected_value": 0.5302,
+      "z_score": -6.81,
+      "direction": "negative"
+    },
+    {
+      "player_id": 20702,
+      "player_name": "Tristan Stubbs",
+      "role": "batter",
+      "match_id": 50142,
+      "n_balls": 10,
+      "match_runs": 12,
+      "match_pressure_value": 0.1137,
+      "career_expected_value": 0.5302,
+      "z_score": -6.41,
+      "direction": "negative"
+    },
+    {
+      "player_id": 20702,
+      "player_name": "Tristan Stubbs",
+      "role": "batter",
+      "match_id": 50364,
+      "n_balls": 8,
+      "match_runs": 15,
+      "match_pressure_value": 0.8743,
+      "career_expected_value": 0.5302,
+      "z_score": 4.73,
+      "direction": "positive"
+    },
+    {
+      "player_id": 20702,
+      "player_name": "Tristan Stubbs",
+      "role": "batter",
+      "match_id": 36097,
+      "n_balls": 24,
+      "match_runs": 28,
+      "match_pressure_value": 0.7136,
+      "career_expected_value": 0.5302,
+      "z_score": 4.37,
+      "direction": "positive"
+    },
+    {
+      "player_id": 20702,
+      "player_name": "Tristan Stubbs",
+      "role": "batter",
+      "match_id": 41969,
+      "n_balls": 15,
+      "match_runs": 24,
+      "match_pressure_value": 0.3316,
+      "career_expected_value": 0.5302,
+      "z_score": -3.74,
+      "direction": "negative"
+    },
+    {
+      "player_id": 20702,
+      "player_name": "Tristan Stubbs",
+      "role": "batter",
+      "match_id": 50347,
+      "n_balls": 46,
+      "match_runs": 56,
+      "match_pressure_value": 0.6194,
+      "career_expected_value": 0.5302,
+      "z_score": 2.94,
+      "direction": "positive"
+    },
+    {
+      "player_id": 20702,
+      "player_name": "Tristan Stubbs",
+      "role": "batter",
+      "match_id": 50138,
+      "n_balls": 6,
+      "match_runs": 7,
+      "match_pressure_value": 0.3032,
+      "career_expected_value": 0.5302,
+      "z_score": -2.7,
+      "direction": "negative"
+    },
+    {
+      "player_id": 20702,
+      "player_name": "Tristan Stubbs",
+      "role": "batter",
+      "match_id": 42027,
+      "n_balls": 5,
+      "match_runs": 8,
+      "match_pressure_value": 0.2826,
+      "career_expected_value": 0.5302,
+      "z_score": -2.69,
+      "direction": "negative"
+    },
+    {
+      "player_id": 20702,
+      "player_name": "Tristan Stubbs",
+      "role": "batter",
+      "match_id": 50383,
+      "n_balls": 6,
+      "match_runs": 4,
+      "match_pressure_value": 0.7542,
+      "career_expected_value": 0.5302,
+      "z_score": 2.67,
+      "direction": "positive"
+    }
+  ]
+}

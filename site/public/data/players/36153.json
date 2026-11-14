@@ -1,0 +1,63 @@
+{
+  "player_id": "36153",
+  "player_name": "Syed Haider",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 1,
+    "runs": 60,
+    "balls": 47,
+    "average": 30.0,
+    "strike_rate": 127.66,
+    "highest_score": 44,
+    "fours": 4,
+    "sixes": 3,
+    "dots": 16,
+    "singles": 22,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 1,
+      "Caught": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 37095,
+      "date": "2024-10-23",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "12 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37092,
+      "date": "2024-10-21",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "4 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37087,
+      "date": "2024-10-19",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "44 (28)",
+      "bowling_figures": null,
+      "pressure_balls": 28,
+      "pressure_value": 9.32
+    }
+  ]
+}

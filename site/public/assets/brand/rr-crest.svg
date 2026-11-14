@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="rrGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E6007E"/>
+      <stop offset="100%" stop-color="#14213D"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="28" fill="url(#rrGrad)"/>
+  <rect x="4" y="4" width="112" height="112" rx="24" fill="none" stroke="#C6A15B" stroke-width="3" opacity="0.8"/>
+  <path d="M40 45 L50 35 L60 45 L70 35 L80 45 L75 55 L45 55 Z" fill="#C6A15B"/>
+  <text x="60" y="88" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, sans-serif" font-size="34" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">RR</text>
+  <circle cx="60" cy="28" r="3.5" fill="#FFFFFF"/>
+</svg>

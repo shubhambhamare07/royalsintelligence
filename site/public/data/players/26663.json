@@ -1,0 +1,205 @@
+{
+  "player_id": "26663",
+  "player_name": "Kwena Maphaka",
+  "batting": {
+    "matches": 6,
+    "innings": 6,
+    "not_outs": 5,
+    "runs": 27,
+    "balls": 25,
+    "average": 27.0,
+    "strike_rate": 108.0,
+    "highest_score": 12,
+    "fours": 4,
+    "sixes": 0,
+    "dots": 12,
+    "singles": 7,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 14,
+    "legal_balls": 287,
+    "overs": 47.8,
+    "runs_charged": 498.0,
+    "wickets": 14,
+    "economy": 10.41,
+    "average": 35.57,
+    "strike_rate": 20.5,
+    "dot_pct": 32.37,
+    "boundary_pct": 23.08,
+    "wides": 19,
+    "no_balls": 6,
+    "phase_splits": {
+      "death": {
+        "overs": 10.8,
+        "runs": 124.0,
+        "wickets": 4,
+        "economy": 11.45
+      },
+      "middle": {
+        "overs": 20.0,
+        "runs": 195.0,
+        "wickets": 6,
+        "economy": 9.75
+      },
+      "powerplay": {
+        "overs": 17.0,
+        "runs": 179.0,
+        "wickets": 4,
+        "economy": 10.53
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 41850,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/39 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41849,
+      "date": "2026-01-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/30 (4.0)",
+      "pressure_balls": 4,
+      "pressure_value": 3.42
+    },
+    {
+      "match_id": 36209,
+      "date": "2025-09-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/41 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41971,
+      "date": "2025-08-16",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/36 (3.0)",
+      "pressure_balls": 18,
+      "pressure_value": -2.64
+    },
+    {
+      "match_id": 41970,
+      "date": "2025-08-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "3/56 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41969,
+      "date": "2025-08-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "3 (3)",
+      "bowling_figures": "4/20 (4.0)",
+      "pressure_balls": 3,
+      "pressure_value": -0.74
+    },
+    {
+      "match_id": 40756,
+      "date": "2025-05-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/22 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40760,
+      "date": "2025-05-18",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "8 (2)",
+      "bowling_figures": "1/32 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 38796,
+      "date": "2024-12-13",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/41 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 38795,
+      "date": "2024-12-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "12 (11)",
+      "bowling_figures": "2/38 (4.0)",
+      "pressure_balls": 11,
+      "pressure_value": -0.05
+    },
+    {
+      "match_id": 36097,
+      "date": "2024-08-26",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "3 (7)",
+      "bowling_figures": "0/29 (4.0)",
+      "pressure_balls": 2,
+      "pressure_value": 1.4
+    },
+    {
+      "match_id": 36096,
+      "date": "2024-08-24",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "1/25 (3.8)",
+      "pressure_balls": 9,
+      "pressure_value": -0.34
+    },
+    {
+      "match_id": 30069,
+      "date": "2024-04-01",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/23 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30063,
+      "date": "2024-03-27",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/66 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

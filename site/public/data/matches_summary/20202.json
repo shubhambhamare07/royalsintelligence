@@ -1,0 +1,102 @@
+{
+  "match_id": 20202,
+  "competition_kind": "IPL",
+  "calendar_year": 2023,
+  "result": "Mumbai Indians won by 5 wickets",
+  "innings_totals": {
+    "innings_1": 183.0,
+    "innings_1_sigma": 2.02,
+    "innings_2": 185.0
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 6
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6,
+      "Normal": 1
+    },
+    "3": {
+      "High": 6,
+      "Elevated": 4,
+      "Normal": 3
+    },
+    "4": {
+      "Elevated": 8,
+      "High": 6
+    },
+    "5": {
+      "Elevated": 8,
+      "Normal": 4,
+      "High": 1
+    },
+    "6": {
+      "Normal": 6,
+      "High": 3,
+      "Elevated": 3
+    },
+    "7": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "8": {
+      "Normal": 7,
+      "Elevated": 5
+    },
+    "9": {
+      "Normal": 6,
+      "Elevated": 6
+    },
+    "10": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "11": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "12": {
+      "Normal": 12
+    },
+    "13": {
+      "Normal": 12
+    },
+    "14": {
+      "Normal": 12
+    },
+    "15": {
+      "Normal": 11,
+      "Elevated": 2
+    },
+    "16": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "17": {
+      "Normal": 7,
+      "Elevated": 5,
+      "High": 1
+    },
+    "18": {
+      "High": 4,
+      "Normal": 4,
+      "Elevated": 2
+    },
+    "19": {
+      "High": 9
+    },
+    "20": {
+      "High": 6
+    }
+  },
+  "turning_point_count": 5
+}

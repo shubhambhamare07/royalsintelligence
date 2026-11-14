@@ -1,0 +1,40 @@
+{
+  "player_id": "6443",
+  "player_name": "Rohail Nazir",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 41,
+    "balls": 20,
+    "average": 41.0,
+    "strike_rate": 205.0,
+    "highest_score": 41,
+    "fours": 3,
+    "sixes": 2,
+    "dots": 2,
+    "singles": 10,
+    "twos": 2,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 37091,
+      "date": "2024-10-21",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "41 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": 4.77
+    }
+  ]
+}

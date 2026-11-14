@@ -1,0 +1,67 @@
+{
+  "player_id": "52338",
+  "player_name": "Usman Tariq",
+  "batting": null,
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 64,
+    "overs": 10.7,
+    "runs_charged": 60.0,
+    "wickets": 8,
+    "economy": 5.62,
+    "average": 7.5,
+    "strike_rate": 8.0,
+    "dot_pct": 39.39,
+    "boundary_pct": 6.06,
+    "wides": 2,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.7,
+        "runs": 10.0,
+        "wickets": 1,
+        "economy": 6.0
+      },
+      "middle": {
+        "overs": 9.0,
+        "runs": 50.0,
+        "wickets": 7,
+        "economy": 5.56
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48916,
+      "date": "2026-01-31",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/16 (2.7)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47979,
+      "date": "2025-11-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "4/18 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46742,
+      "date": "2025-11-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/26 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

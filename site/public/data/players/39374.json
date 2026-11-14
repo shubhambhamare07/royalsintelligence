@@ -1,0 +1,190 @@
+{
+  "player_id": "39374",
+  "player_name": "Muhammad Zohaib",
+  "batting": {
+    "matches": 10,
+    "innings": 10,
+    "not_outs": 0,
+    "runs": 160,
+    "balls": 147,
+    "average": 16.0,
+    "strike_rate": 108.84,
+    "highest_score": 38,
+    "fours": 17,
+    "sixes": 6,
+    "dots": 75,
+    "singles": 42,
+    "twos": 7,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 8,
+      "Bowled": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 23.64,
+    "tier": "Unproven",
+    "p_outperform": 0.0607,
+    "pressure_value_per_100": -1.62,
+    "clutch_delta_per_100": -40.25,
+    "consistency": 0.5532
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48467,
+      "date": "2026-01-31",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "14 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": -6.29
+    },
+    {
+      "match_id": 45504,
+      "date": "2025-09-17",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "4 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -19.79
+    },
+    {
+      "match_id": 45501,
+      "date": "2025-09-15",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "21 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45496,
+      "date": "2025-09-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45856,
+      "date": "2025-09-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "23 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 21,
+      "pressure_value": 1.59
+    },
+    {
+      "match_id": 45853,
+      "date": "2025-09-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "7 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -12.75
+    },
+    {
+      "match_id": 45852,
+      "date": "2025-08-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "13 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -10.13
+    },
+    {
+      "match_id": 43171,
+      "date": "2025-05-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "29 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 23,
+      "pressure_value": 8.51
+    },
+    {
+      "match_id": 42784,
+      "date": "2025-05-19",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "38 (34)",
+      "bowling_figures": null,
+      "pressure_balls": 23,
+      "pressure_value": -6.52
+    },
+    {
+      "match_id": 42783,
+      "date": "2025-05-17",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -4.73
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 39374,
+      "player_name": "Muhammad Zohaib",
+      "role": "batter",
+      "match_id": 42784,
+      "n_balls": 23,
+      "match_runs": 27,
+      "match_pressure_value": 0.4127,
+      "career_expected_value": 0.5801,
+      "z_score": -3.91,
+      "direction": "negative"
+    },
+    {
+      "player_id": 39374,
+      "player_name": "Muhammad Zohaib",
+      "role": "batter",
+      "match_id": 45852,
+      "n_balls": 4,
+      "match_runs": 1,
+      "match_pressure_value": 0.1812,
+      "career_expected_value": 0.5801,
+      "z_score": -3.88,
+      "direction": "negative"
+    },
+    {
+      "player_id": 39374,
+      "player_name": "Muhammad Zohaib",
+      "role": "batter",
+      "match_id": 45856,
+      "n_balls": 19,
+      "match_runs": 23,
+      "match_pressure_value": 0.7511,
+      "career_expected_value": 0.5801,
+      "z_score": 3.62,
+      "direction": "positive"
+    },
+    {
+      "player_id": 39374,
+      "player_name": "Muhammad Zohaib",
+      "role": "batter",
+      "match_id": 48467,
+      "n_balls": 14,
+      "match_runs": 14,
+      "match_pressure_value": 0.7408,
+      "career_expected_value": 0.5801,
+      "z_score": 2.92,
+      "direction": "positive"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "player_id": "4823",
+  "player_name": "Washington Sundar",
+  "role": "batter",
+  "tier": "Promising",
+  "rating": 68.63,
+  "rating_ci90": [
+    43.72,
+    93.77
+  ],
+  "p_outperform": 0.891,
+  "top10_inclusion_prob": 0.1725,
+  "rank_ci90": [
+    4,
+    95
+  ],
+  "composite": 0.708,
+  "components": {
+    "PV": {
+      "observed": 0.068,
+      "adjusted": 0.068,
+      "z_score": 0.7049,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": 0.0874,
+      "adjusted": 0.0874,
+      "z_score": 0.706,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.6456,
+      "adjusted": 0.6456,
+      "z_score": 0.7132,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 164,
+    "neff_pressure": 156.46,
+    "n_pressure_matches": 19
+  },
+  "explanation": "Washington Sundar generated a pressure value of +6.80 runs/100 balls (Clutch Delta: +8.74) at a 150.0 strike rate with 87.5% consistency across 19 pressure matches (164 balls)."
+}

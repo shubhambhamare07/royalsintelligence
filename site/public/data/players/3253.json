@@ -1,0 +1,53 @@
+{
+  "player_id": "3253",
+  "player_name": "Rohan Mustafa",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 24,
+    "overs": 4.0,
+    "runs_charged": 36.0,
+    "wickets": 1,
+    "economy": 9.0,
+    "average": 36.0,
+    "strike_rate": 24.0,
+    "dot_pct": 30.77,
+    "boundary_pct": 19.23,
+    "wides": 2,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 3.0,
+        "wickets": 1,
+        "economy": 3.0
+      },
+      "middle": {
+        "overs": 1.0,
+        "runs": 18.0,
+        "wickets": 0,
+        "economy": 18.0
+      },
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 15.0,
+        "wickets": 0,
+        "economy": 7.5
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16863,
+      "date": "2022-08-21",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/36 (4.0)",
+      "pressure_balls": 24,
+      "pressure_value": -9.16
+    }
+  ]
+}

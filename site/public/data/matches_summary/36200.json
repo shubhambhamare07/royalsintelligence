@@ -1,0 +1,111 @@
+{
+  "match_id": 36200,
+  "competition_kind": "T20I",
+  "calendar_year": 2025,
+  "result": "England Won by 4 wickets",
+  "innings_totals": {
+    "innings_1": 197.1,
+    "innings_1_sigma": 3.6,
+    "innings_2": 199.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 13
+    },
+    "2": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "3": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "4": {
+      "Elevated": 9,
+      "Normal": 3
+    },
+    "5": {
+      "Elevated": 14
+    },
+    "6": {
+      "High": 6,
+      "Elevated": 4,
+      "Normal": 3
+    },
+    "7": {
+      "Normal": 6,
+      "High": 6
+    },
+    "8": {
+      "Normal": 6,
+      "High": 5,
+      "Elevated": 3
+    },
+    "9": {
+      "Normal": 6,
+      "Elevated": 5,
+      "High": 1
+    },
+    "10": {
+      "Normal": 6,
+      "High": 3,
+      "Elevated": 3
+    },
+    "11": {
+      "Normal": 6,
+      "High": 6
+    },
+    "12": {
+      "Normal": 6,
+      "High": 5,
+      "Extreme": 3
+    },
+    "13": {
+      "Elevated": 5,
+      "High": 4,
+      "Extreme": 2,
+      "Normal": 1
+    },
+    "14": {
+      "Extreme": 7,
+      "Elevated": 5,
+      "Normal": 1,
+      "High": 1
+    },
+    "15": {
+      "Elevated": 7,
+      "Extreme": 6
+    },
+    "16": {
+      "Elevated": 6,
+      "High": 3,
+      "Extreme": 2,
+      "Normal": 1
+    },
+    "17": {
+      "High": 7,
+      "Elevated": 6
+    },
+    "18": {
+      "Normal": 7,
+      "Elevated": 6,
+      "High": 1
+    },
+    "19": {
+      "Elevated": 4,
+      "Normal": 3,
+      "High": 2
+    },
+    "20": {
+      "Normal": 6
+    }
+  },
+  "turning_point_count": 5
+}

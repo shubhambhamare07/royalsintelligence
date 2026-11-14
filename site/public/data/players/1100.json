@@ -1,0 +1,73 @@
+{
+  "player_id": "1100",
+  "player_name": "Dinesh Chandimal",
+  "batting": {
+    "matches": 4,
+    "innings": 4,
+    "not_outs": 0,
+    "runs": 50,
+    "balls": 59,
+    "average": 12.5,
+    "strike_rate": 84.75,
+    "highest_score": 25,
+    "fours": 2,
+    "sixes": 1,
+    "dots": 24,
+    "singles": 28,
+    "twos": 4,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 2,
+      "Caught": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 43595,
+      "date": "2025-07-16",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "4 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13615,
+      "date": "2022-02-18",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "2 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13614,
+      "date": "2022-02-15",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "25 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13613,
+      "date": "2022-02-13",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "19 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "match_id": 29982,
+  "competition_kind": "T20I",
+  "calendar_year": 2024,
+  "result": "Australia Won by 6 wickets",
+  "innings_totals": {
+    "innings_1": 213.0,
+    "innings_1_sigma": 3.6,
+    "innings_2": 218.0
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 13
+    },
+    "2": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "3": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "4": {
+      "Normal": 9,
+      "Elevated": 3
+    },
+    "5": {
+      "Normal": 12
+    },
+    "6": {
+      "Normal": 14
+    },
+    "7": {
+      "Normal": 12,
+      "Elevated": 1
+    },
+    "8": {
+      "Normal": 13
+    },
+    "9": {
+      "Normal": 7,
+      "Elevated": 4,
+      "High": 1
+    },
+    "10": {
+      "Normal": 6,
+      "High": 6,
+      "Elevated": 2
+    },
+    "11": {
+      "Normal": 6,
+      "Elevated": 4,
+      "High": 3
+    },
+    "12": {
+      "Normal": 6,
+      "High": 4,
+      "Elevated": 2
+    },
+    "13": {
+      "Normal": 7,
+      "High": 5,
+      "Elevated": 1
+    },
+    "14": {
+      "Normal": 6,
+      "Extreme": 6
+    },
+    "15": {
+      "Extreme": 9,
+      "Normal": 6
+    },
+    "16": {
+      "Extreme": 7,
+      "Normal": 6
+    },
+    "17": {
+      "Normal": 8,
+      "Extreme": 6
+    },
+    "18": {
+      "Normal": 6,
+      "Extreme": 6
+    },
+    "19": {
+      "Normal": 6,
+      "Extreme": 6
+    },
+    "20": {
+      "Normal": 8,
+      "Extreme": 6
+    }
+  },
+  "turning_point_count": 5
+}

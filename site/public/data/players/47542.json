@@ -1,0 +1,41 @@
+{
+  "player_id": "47542",
+  "player_name": "Charles Hinze",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 12,
+    "overs": 2.0,
+    "runs_charged": 16.0,
+    "wickets": 2,
+    "economy": 8.0,
+    "average": 8.0,
+    "strike_rate": 6.0,
+    "dot_pct": 46.15,
+    "boundary_pct": 15.38,
+    "wides": 1,
+    "no_balls": 0,
+    "phase_splits": {
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 16.0,
+        "wickets": 2,
+        "economy": 8.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 54711,
+      "date": "2026-09-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/16 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

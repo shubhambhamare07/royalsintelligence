@@ -1,0 +1,282 @@
+{
+  "player_id": "21790",
+  "player_name": "Tashinga Musekiwa",
+  "batting": {
+    "matches": 19,
+    "innings": 19,
+    "not_outs": 4,
+    "runs": 209,
+    "balls": 186,
+    "average": 13.93,
+    "strike_rate": 112.37,
+    "highest_score": 28,
+    "fours": 18,
+    "sixes": 4,
+    "dots": 79,
+    "singles": 63,
+    "twos": 18,
+    "threes": 3,
+    "ducks": 3,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 9,
+      "Bowled": 4,
+      "LBW": 1,
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 48.12,
+    "tier": "Unproven",
+    "p_outperform": 0.4618,
+    "pressure_value_per_100": -4.85,
+    "clutch_delta_per_100": -1.18,
+    "consistency": 0.5834
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 51384,
+      "date": "2026-07-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "11 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 51383,
+      "date": "2026-07-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47980,
+      "date": "2025-11-25",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "6 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47979,
+      "date": "2025-11-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47977,
+      "date": "2025-11-20",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "11 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": 2.03
+    },
+    {
+      "match_id": 47976,
+      "date": "2025-11-18",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47262,
+      "date": "2025-11-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "28 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 16,
+      "pressure_value": 8.83
+    },
+    {
+      "match_id": 47261,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "13 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47260,
+      "date": "2025-10-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "16 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45905,
+      "date": "2025-09-07",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "18 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45904,
+      "date": "2025-09-06",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "21 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45903,
+      "date": "2025-09-03",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "11 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": 0.04
+    },
+    {
+      "match_id": 39984,
+      "date": "2025-02-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "15 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": 5.33
+    },
+    {
+      "match_id": 38628,
+      "date": "2024-12-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "12 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 38627,
+      "date": "2024-12-13",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "13 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -7.52
+    },
+    {
+      "match_id": 38626,
+      "date": "2024-12-11",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "16 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 13,
+      "pressure_value": -1.25
+    },
+    {
+      "match_id": 37928,
+      "date": "2024-12-05",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "7 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": -9.79
+    },
+    {
+      "match_id": 37927,
+      "date": "2024-12-03",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37926,
+      "date": "2024-12-01",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "9 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": 1.39
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 21790,
+      "player_name": "Tashinga Musekiwa",
+      "role": "batter",
+      "match_id": 47262,
+      "n_balls": 16,
+      "match_runs": 28,
+      "match_pressure_value": 0.2162,
+      "career_expected_value": 0.4928,
+      "z_score": -5.38,
+      "direction": "negative"
+    },
+    {
+      "player_id": 21790,
+      "player_name": "Tashinga Musekiwa",
+      "role": "batter",
+      "match_id": 37928,
+      "n_balls": 17,
+      "match_runs": 7,
+      "match_pressure_value": 0.7193,
+      "career_expected_value": 0.4928,
+      "z_score": 4.54,
+      "direction": "positive"
+    },
+    {
+      "player_id": 21790,
+      "player_name": "Tashinga Musekiwa",
+      "role": "batter",
+      "match_id": 38627,
+      "n_balls": 4,
+      "match_runs": 1,
+      "match_pressure_value": 0.1451,
+      "career_expected_value": 0.4928,
+      "z_score": -3.38,
+      "direction": "negative"
+    },
+    {
+      "player_id": 21790,
+      "player_name": "Tashinga Musekiwa",
+      "role": "batter",
+      "match_id": 38626,
+      "n_balls": 13,
+      "match_runs": 16,
+      "match_pressure_value": 0.6756,
+      "career_expected_value": 0.4928,
+      "z_score": 3.21,
+      "direction": "positive"
+    }
+  ]
+}

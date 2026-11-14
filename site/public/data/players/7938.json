@@ -1,0 +1,40 @@
+{
+  "player_id": "7938",
+  "player_name": "Sandeep Goud 1",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 5,
+    "balls": 2,
+    "average": 5.0,
+    "strike_rate": 250.0,
+    "highest_score": 5,
+    "fours": 1,
+    "sixes": 0,
+    "dots": 0,
+    "singles": 1,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 37096,
+      "date": "2024-10-23",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "5 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

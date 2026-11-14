@@ -1,0 +1,45 @@
+{
+  "player_id": "1107",
+  "player_name": "Mohammad Nabi",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 48.97,
+  "rating_ci90": [
+    22.91,
+    74.9
+  ],
+  "p_outperform": 0.4639,
+  "top10_inclusion_prob": 0.0165,
+  "rank_ci90": [
+    20,
+    140
+  ],
+  "composite": 0.1137,
+  "components": {
+    "PV": {
+      "observed": 0.0132,
+      "adjusted": 0.0132,
+      "z_score": 0.3977,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.0197,
+      "adjusted": -0.0197,
+      "z_score": 0.1382,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.5626,
+      "adjusted": 0.5626,
+      "z_score": -0.1947,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 106,
+    "neff_pressure": 91.85,
+    "n_pressure_matches": 16
+  },
+  "explanation": "Mohammad Nabi generated a pressure value of +1.32 runs/100 balls (Clutch Delta: -1.97) at a 155.7 strike rate with 50.0% consistency across 16 pressure matches (106 balls)."
+}

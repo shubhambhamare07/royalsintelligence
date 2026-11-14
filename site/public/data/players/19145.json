@@ -1,0 +1,106 @@
+{
+  "player_id": "19145",
+  "player_name": "Aamer Jamal",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 1,
+    "runs": 33,
+    "balls": 22,
+    "average": 16.5,
+    "strike_rate": 150.0,
+    "highest_score": 14,
+    "fours": 2,
+    "sixes": 2,
+    "dots": 7,
+    "singles": 9,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1,
+      "Stump": 1
+    }
+  },
+  "bowling": {
+    "matches": 4,
+    "legal_balls": 72,
+    "overs": 12.0,
+    "runs_charged": 140.0,
+    "wickets": 2,
+    "economy": 11.67,
+    "average": 70.0,
+    "strike_rate": 36.0,
+    "dot_pct": 31.17,
+    "boundary_pct": 29.87,
+    "wides": 4,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 22.0,
+        "wickets": 0,
+        "economy": 11.0
+      },
+      "middle": {
+        "overs": 7.0,
+        "runs": 96.0,
+        "wickets": 1,
+        "economy": 13.71
+      },
+      "powerplay": {
+        "overs": 3.0,
+        "runs": 22.0,
+        "wickets": 1,
+        "economy": 7.33
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 28964,
+      "date": "2024-01-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "9 (8)",
+      "bowling_figures": "1/42 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28963,
+      "date": "2024-01-12",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "14 (7)",
+      "bowling_figures": "0/55 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17558,
+      "date": "2022-09-30",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/30 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17557,
+      "date": "2022-09-28",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "10 (7)",
+      "bowling_figures": "1/13 (2.0)",
+      "pressure_balls": 8,
+      "pressure_value": 8.44
+    }
+  ]
+}

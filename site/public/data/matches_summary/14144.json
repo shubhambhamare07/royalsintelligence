@@ -1,0 +1,87 @@
+{
+  "match_id": 14144,
+  "competition_kind": "IPL",
+  "calendar_year": 2022,
+  "result": "Delhi Capitals Won by 21 Runs",
+  "innings_totals": {
+    "innings_1": 203.7,
+    "innings_1_sigma": 1.91,
+    "innings_2": 182.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 13
+    },
+    "2": {
+      "Normal": 12
+    },
+    "3": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "4": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "5": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "6": {
+      "Normal": 12,
+      "Elevated": 1
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 13
+    },
+    "12": {
+      "Normal": 13
+    },
+    "13": {
+      "Normal": 12
+    },
+    "14": {
+      "Normal": 15
+    },
+    "15": {
+      "Normal": 13
+    },
+    "16": {
+      "Normal": 11,
+      "Elevated": 2
+    },
+    "17": {
+      "Normal": 10,
+      "Elevated": 3
+    },
+    "18": {
+      "Normal": 13
+    },
+    "19": {
+      "Normal": 12
+    },
+    "20": {
+      "Normal": 12
+    }
+  },
+  "turning_point_count": 5
+}

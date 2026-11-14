@@ -1,0 +1,153 @@
+{
+  "player_id": "24767",
+  "player_name": "Ripon Mondol",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 11,
+    "balls": 9,
+    "average": 11.0,
+    "strike_rate": 122.22,
+    "highest_score": 11,
+    "fours": 0,
+    "sixes": 1,
+    "dots": 4,
+    "singles": 3,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 9,
+    "legal_balls": 216,
+    "overs": 36.0,
+    "runs_charged": 260.0,
+    "wickets": 19,
+    "economy": 7.22,
+    "average": 13.68,
+    "strike_rate": 11.37,
+    "dot_pct": 42.41,
+    "boundary_pct": 12.95,
+    "wides": 7,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 16.0,
+        "runs": 136.0,
+        "wickets": 12,
+        "economy": 8.5
+      },
+      "middle": {
+        "overs": 1.0,
+        "runs": 8.0,
+        "wickets": 0,
+        "economy": 8.0
+      },
+      "powerplay": {
+        "overs": 19.0,
+        "runs": 116.0,
+        "wickets": 7,
+        "economy": 6.11
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50188,
+      "date": "2026-04-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/39 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": 5.02
+    },
+    {
+      "match_id": 48029,
+      "date": "2025-11-23",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "11 (9)",
+      "bowling_figures": "3/25 (4.0)",
+      "pressure_balls": 5,
+      "pressure_value": 1.07
+    },
+    {
+      "match_id": 48027,
+      "date": "2025-11-21",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/35 (4.0)",
+      "pressure_balls": 18,
+      "pressure_value": 12.3
+    },
+    {
+      "match_id": 48026,
+      "date": "2025-11-19",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/41 (4.0)",
+      "pressure_balls": 9,
+      "pressure_value": 1.46
+    },
+    {
+      "match_id": 48022,
+      "date": "2025-11-17",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "3/10 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48017,
+      "date": "2025-11-15",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/24 (4.0)",
+      "pressure_balls": 4,
+      "pressure_value": 1.87
+    },
+    {
+      "match_id": 37094,
+      "date": "2024-10-22",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/36 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": 1.71
+    },
+    {
+      "match_id": 37090,
+      "date": "2024-10-20",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/26 (4.0)",
+      "pressure_balls": 25,
+      "pressure_value": 17.8
+    },
+    {
+      "match_id": 37085,
+      "date": "2024-10-18",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "4/24 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

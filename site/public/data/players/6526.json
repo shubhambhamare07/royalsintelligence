@@ -1,0 +1,83 @@
+{
+  "player_id": "6526",
+  "player_name": "Himmat Singh",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 2,
+    "runs": 92,
+    "balls": 69,
+    "average": 30.67,
+    "strike_rate": 133.33,
+    "highest_score": 40,
+    "fours": 5,
+    "sixes": 5,
+    "dots": 23,
+    "singles": 31,
+    "twos": 4,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 2,
+      "Caught": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50374,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "17 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -2.35
+    },
+    {
+      "match_id": 50368,
+      "date": "2026-05-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "40 (31)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50359,
+      "date": "2026-04-26",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "19 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": 1.09
+    },
+    {
+      "match_id": 50353,
+      "date": "2026-04-22",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "15 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 16,
+      "pressure_value": -6.86
+    },
+    {
+      "match_id": 50350,
+      "date": "2026-04-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

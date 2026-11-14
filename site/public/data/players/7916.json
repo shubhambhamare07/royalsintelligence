@@ -1,0 +1,41 @@
+{
+  "player_id": "7916",
+  "player_name": "Karima Gore",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 18,
+    "overs": 3.0,
+    "runs_charged": 21.0,
+    "wickets": 0,
+    "economy": 7.0,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 50.0,
+    "boundary_pct": 10.0,
+    "wides": 2,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 3.0,
+        "runs": 21.0,
+        "wickets": 0,
+        "economy": 7.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 46251,
+      "date": "2025-09-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/21 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

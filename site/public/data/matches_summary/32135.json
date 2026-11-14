@@ -1,0 +1,105 @@
+{
+  "match_id": 32135,
+  "competition_kind": "T20I",
+  "calendar_year": 2024,
+  "result": "Bangladesh Won by 5 runs",
+  "innings_totals": {
+    "innings_1": 140.2,
+    "innings_1_sigma": 3.39,
+    "innings_2": 138.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.39
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 10,
+      "Elevated": 1,
+      "High": 1
+    },
+    "2": {
+      "Elevated": 14
+    },
+    "3": {
+      "Elevated": 10,
+      "Normal": 2
+    },
+    "4": {
+      "Elevated": 11,
+      "High": 1
+    },
+    "5": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "6": {
+      "Normal": 7,
+      "High": 6
+    },
+    "7": {
+      "Normal": 6,
+      "High": 6
+    },
+    "8": {
+      "Normal": 7,
+      "High": 6
+    },
+    "9": {
+      "Normal": 6,
+      "High": 6
+    },
+    "10": {
+      "Normal": 6,
+      "High": 6
+    },
+    "11": {
+      "Normal": 7,
+      "High": 6
+    },
+    "12": {
+      "Normal": 6,
+      "High": 6
+    },
+    "13": {
+      "Normal": 6,
+      "Extreme": 4,
+      "High": 2
+    },
+    "14": {
+      "Normal": 6,
+      "High": 4,
+      "Extreme": 2
+    },
+    "15": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "16": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "17": {
+      "Extreme": 6,
+      "Elevated": 5,
+      "Normal": 1
+    },
+    "18": {
+      "Extreme": 8,
+      "Normal": 6
+    },
+    "19": {
+      "Extreme": 6,
+      "Normal": 4,
+      "Elevated": 2
+    },
+    "20": {
+      "Normal": 6,
+      "Extreme": 5
+    }
+  },
+  "turning_point_count": 5
+}

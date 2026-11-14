@@ -1,0 +1,452 @@
+{
+  "player_id": "3297",
+  "player_name": "Shimron Hetmyer",
+  "batting": {
+    "matches": 91,
+    "innings": 91,
+    "not_outs": 21,
+    "runs": 1803,
+    "balls": 1199,
+    "average": 25.76,
+    "strike_rate": 150.38,
+    "highest_score": 75,
+    "fours": 123,
+    "sixes": 115,
+    "dots": 425,
+    "singles": 452,
+    "twos": 83,
+    "threes": 1,
+    "ducks": 5,
+    "thirties": 17,
+    "fifties": 7,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 57,
+      "Bowled": 7,
+      "RunOut": 4,
+      "LBW": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 42.3,
+    "tier": "Unproven",
+    "p_outperform": 0.2838,
+    "pressure_value_per_100": -4.89,
+    "clutch_delta_per_100": -2.84,
+    "consistency": 0.5434
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50407,
+      "date": "2026-10-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "33 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50406,
+      "date": "2026-10-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "43 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50405,
+      "date": "2026-10-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50404,
+      "date": "2026-10-06",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "5 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50505,
+      "date": "2026-06-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "32 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 20,
+      "pressure_value": 7.68
+    },
+    {
+      "match_id": 50504,
+      "date": "2026-06-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "36 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 13,
+      "pressure_value": 5.51
+    },
+    {
+      "match_id": 50503,
+      "date": "2026-06-12",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "17 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50373,
+      "date": "2026-05-09",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "6 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50357,
+      "date": "2026-04-25",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "11 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50353,
+      "date": "2026-04-22",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "22 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50349,
+      "date": "2026-04-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "15 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50140,
+      "date": "2026-04-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50133,
+      "date": "2026-04-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "18 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41850,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "75 (42)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41849,
+      "date": "2026-01-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "48 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -2.63
+    },
+    {
+      "match_id": 48598,
+      "date": "2026-01-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "13 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48597,
+      "date": "2026-01-21",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "46 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -5.16
+    },
+    {
+      "match_id": 48596,
+      "date": "2026-01-19",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "3 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41509,
+      "date": "2025-07-28",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "52 (31)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41508,
+      "date": "2025-07-26",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "16 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41507,
+      "date": "2025-07-25",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41506,
+      "date": "2025-07-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "14 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41505,
+      "date": "2025-07-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "38 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41504,
+      "date": "2025-06-15",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "15 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 36201,
+      "date": "2025-06-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "26 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40756,
+      "date": "2025-05-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "12 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40760,
+      "date": "2025-05-18",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "11 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": -8.64
+    },
+    {
+      "match_id": 40746,
+      "date": "2025-05-04",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "29 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -0.33
+    },
+    {
+      "match_id": 40743,
+      "date": "2025-05-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40735,
+      "date": "2025-04-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "11 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -2.87
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 3297,
+      "player_name": "Shimron Hetmyer",
+      "role": "batter",
+      "match_id": 14146,
+      "n_balls": 11,
+      "match_runs": 28,
+      "match_pressure_value": 0.827,
+      "career_expected_value": 0.5246,
+      "z_score": 4.88,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3297,
+      "player_name": "Shimron Hetmyer",
+      "role": "batter",
+      "match_id": 40725,
+      "n_balls": 9,
+      "match_runs": 15,
+      "match_pressure_value": 0.8519,
+      "career_expected_value": 0.5246,
+      "z_score": 4.78,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3297,
+      "player_name": "Shimron Hetmyer",
+      "role": "batter",
+      "match_id": 20212,
+      "n_balls": 9,
+      "match_runs": 3,
+      "match_pressure_value": 0.2018,
+      "career_expected_value": 0.5246,
+      "z_score": -4.71,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3297,
+      "player_name": "Shimron Hetmyer",
+      "role": "batter",
+      "match_id": 31268,
+      "n_balls": 8,
+      "match_runs": 13,
+      "match_pressure_value": 0.8374,
+      "career_expected_value": 0.5246,
+      "z_score": 4.3,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3297,
+      "player_name": "Shimron Hetmyer",
+      "role": "batter",
+      "match_id": 40760,
+      "n_balls": 12,
+      "match_runs": 11,
+      "match_pressure_value": 0.3187,
+      "career_expected_value": 0.5246,
+      "z_score": -3.47,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3297,
+      "player_name": "Shimron Hetmyer",
+      "role": "batter",
+      "match_id": 40729,
+      "n_balls": 7,
+      "match_runs": 12,
+      "match_pressure_value": 0.7646,
+      "career_expected_value": 0.5246,
+      "z_score": 3.09,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3297,
+      "player_name": "Shimron Hetmyer",
+      "role": "batter",
+      "match_id": 50504,
+      "n_balls": 12,
+      "match_runs": 15,
+      "match_pressure_value": 0.3581,
+      "career_expected_value": 0.5246,
+      "z_score": -2.81,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3297,
+      "player_name": "Shimron Hetmyer",
+      "role": "batter",
+      "match_id": 31290,
+      "n_balls": 7,
+      "match_runs": 14,
+      "match_pressure_value": 0.7402,
+      "career_expected_value": 0.5246,
+      "z_score": 2.77,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3297,
+      "player_name": "Shimron Hetmyer",
+      "role": "batter",
+      "match_id": 14141,
+      "n_balls": 8,
+      "match_runs": 13,
+      "match_pressure_value": 0.324,
+      "career_expected_value": 0.5246,
+      "z_score": -2.76,
+      "direction": "negative"
+    }
+  ]
+}

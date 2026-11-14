@@ -1,0 +1,45 @@
+{
+  "player_id": "4409",
+  "player_name": "Sam Curran",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 53.93,
+  "rating_ci90": [
+    28.69,
+    79.0
+  ],
+  "p_outperform": 0.6022,
+  "top10_inclusion_prob": 0.03,
+  "rank_ci90": [
+    15,
+    130
+  ],
+  "composite": 0.2635,
+  "components": {
+    "PV": {
+      "observed": -0.0206,
+      "adjusted": -0.0206,
+      "z_score": 0.2079,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": 0.0766,
+      "adjusted": 0.0766,
+      "z_score": 0.6486,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.5744,
+      "adjusted": 0.5744,
+      "z_score": -0.0659,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 180,
+    "neff_pressure": 125.85,
+    "n_pressure_matches": 21
+  },
+  "explanation": "Sam Curran generated a pressure value of -2.06 runs/100 balls (Clutch Delta: +7.66) at a 142.2 strike rate with 55.6% consistency across 21 pressure matches (180 balls)."
+}

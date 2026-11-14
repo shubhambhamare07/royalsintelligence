@@ -1,0 +1,493 @@
+{
+  "player_id": "2320",
+  "player_name": "Trent Boult",
+  "batting": {
+    "matches": 20,
+    "innings": 20,
+    "not_outs": 14,
+    "runs": 97,
+    "balls": 77,
+    "average": 16.17,
+    "strike_rate": 125.97,
+    "highest_score": 17,
+    "fours": 6,
+    "sixes": 4,
+    "dots": 25,
+    "singles": 35,
+    "twos": 7,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4,
+      "Bowled": 1,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 67,
+    "legal_balls": 1501,
+    "overs": 250.2,
+    "runs_charged": 2089.0,
+    "wickets": 71,
+    "economy": 8.35,
+    "average": 29.42,
+    "strike_rate": 21.14,
+    "dot_pct": 40.78,
+    "boundary_pct": 19.4,
+    "wides": 61,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 53.2,
+        "runs": 544.0,
+        "wickets": 22,
+        "economy": 10.23
+      },
+      "middle": {
+        "overs": 43.0,
+        "runs": 386.0,
+        "wickets": 8,
+        "economy": 8.98
+      },
+      "powerplay": {
+        "overs": 154.0,
+        "runs": 1159.0,
+        "wickets": 41,
+        "economy": 7.53
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 60.43,
+    "tier": "Unproven",
+    "p_outperform": 0.5774,
+    "pressure_value_per_6": 0.1,
+    "clutch_delta_per_6": -0.09,
+    "consistency": 0.4584
+  },
+  "recent_matches": [
+    {
+      "match_id": 50365,
+      "date": "2026-05-02",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "7 (2)",
+      "bowling_figures": "0/37 (3.2)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50362,
+      "date": "2026-04-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/41 (4.0)",
+      "pressure_balls": 11,
+      "pressure_value": 5.34
+    },
+    {
+      "match_id": 50144,
+      "date": "2026-04-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/50 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50126,
+      "date": "2026-03-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/38 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40766,
+      "date": "2025-06-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/38 (4.0)",
+      "pressure_balls": 22,
+      "pressure_value": 1.49
+    },
+    {
+      "match_id": 40765,
+      "date": "2025-05-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/56 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": -2.89
+    },
+    {
+      "match_id": 40754,
+      "date": "2025-05-26",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/36 (3.5)",
+      "pressure_balls": 12,
+      "pressure_value": -4.43
+    },
+    {
+      "match_id": 40759,
+      "date": "2025-05-21",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/29 (4.0)",
+      "pressure_balls": 10,
+      "pressure_value": 9.21
+    },
+    {
+      "match_id": 40743,
+      "date": "2025-05-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "3/28 (2.2)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40738,
+      "date": "2025-04-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "3/20 (4.0)",
+      "pressure_balls": 3,
+      "pressure_value": 9.94
+    },
+    {
+      "match_id": 40734,
+      "date": "2025-04-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "4/26 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40731,
+      "date": "2025-04-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/43 (4.0)",
+      "pressure_balls": 3,
+      "pressure_value": 1.22
+    },
+    {
+      "match_id": 40726,
+      "date": "2025-04-17",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/29 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40722,
+      "date": "2025-04-13",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/17 (2.0)",
+      "pressure_balls": 10,
+      "pressure_value": 0.32
+    },
+    {
+      "match_id": 40714,
+      "date": "2025-04-07",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "2/57 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40709,
+      "date": "2025-04-04",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/28 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": 0.21
+    },
+    {
+      "match_id": 40705,
+      "date": "2025-03-31",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/23 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40702,
+      "date": "2025-03-29",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/34 (4.0)",
+      "pressure_balls": 2,
+      "pressure_value": 4.22
+    },
+    {
+      "match_id": 40696,
+      "date": "2025-03-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "0/27 (3.0)",
+      "pressure_balls": 2,
+      "pressure_value": -2.06
+    },
+    {
+      "match_id": 31291,
+      "date": "2024-05-24",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "0 (3)",
+      "bowling_figures": "3/45 (4.0)",
+      "pressure_balls": 4,
+      "pressure_value": 2.71
+    },
+    {
+      "match_id": 31290,
+      "date": "2024-05-22",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/16 (4.0)",
+      "pressure_balls": 4,
+      "pressure_value": 2.81
+    },
+    {
+      "match_id": 31283,
+      "date": "2024-05-15",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "12 (9)",
+      "bowling_figures": "1/27 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": -0.59
+    },
+    {
+      "match_id": 31279,
+      "date": "2024-05-12",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/24 (2.3)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31274,
+      "date": "2024-05-07",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "2 (3)",
+      "bowling_figures": "1/48 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31268,
+      "date": "2024-05-02",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/33 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -0.73
+    },
+    {
+      "match_id": 31262,
+      "date": "2024-04-27",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/37 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": 5.74
+    },
+    {
+      "match_id": 31256,
+      "date": "2024-04-22",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/32 (4.0)",
+      "pressure_balls": 4,
+      "pressure_value": -1.79
+    },
+    {
+      "match_id": 31250,
+      "date": "2024-04-16",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": -0.9
+    },
+    {
+      "match_id": 31245,
+      "date": "2024-04-13",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/21 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31242,
+      "date": "2024-04-10",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/8 (2.0)",
+      "pressure_balls": 12,
+      "pressure_value": 3.64
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 2320,
+      "player_name": "Trent Boult",
+      "role": "bowler",
+      "match_id": 40765,
+      "n_balls": 12,
+      "match_runs_conceded": 24,
+      "match_wickets": 1,
+      "match_pressure_value": 0.771,
+      "career_expected_value": 0.4741,
+      "z_score": 5.0,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2320,
+      "player_name": "Trent Boult",
+      "role": "bowler",
+      "match_id": 50362,
+      "n_balls": 11,
+      "match_runs_conceded": 11,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2091,
+      "career_expected_value": 0.4741,
+      "z_score": -4.27,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2320,
+      "player_name": "Trent Boult",
+      "role": "bowler",
+      "match_id": 40722,
+      "n_balls": 10,
+      "match_runs_conceded": 8,
+      "match_wickets": 0,
+      "match_pressure_value": 0.736,
+      "career_expected_value": 0.4741,
+      "z_score": 4.03,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2320,
+      "player_name": "Trent Boult",
+      "role": "bowler",
+      "match_id": 14137,
+      "n_balls": 13,
+      "match_runs_conceded": 10,
+      "match_wickets": 1,
+      "match_pressure_value": 0.2513,
+      "career_expected_value": 0.4741,
+      "z_score": -3.9,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2320,
+      "player_name": "Trent Boult",
+      "role": "bowler",
+      "match_id": 14141,
+      "n_balls": 21,
+      "match_runs_conceded": 21,
+      "match_wickets": 1,
+      "match_pressure_value": 0.3043,
+      "career_expected_value": 0.4741,
+      "z_score": -3.78,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2320,
+      "player_name": "Trent Boult",
+      "role": "bowler",
+      "match_id": 17738,
+      "n_balls": 8,
+      "match_runs_conceded": 11,
+      "match_wickets": 1,
+      "match_pressure_value": 0.2206,
+      "career_expected_value": 0.4741,
+      "z_score": -3.48,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2320,
+      "player_name": "Trent Boult",
+      "role": "bowler",
+      "match_id": 30059,
+      "n_balls": 14,
+      "match_runs_conceded": 24,
+      "match_wickets": 2,
+      "match_pressure_value": 0.6585,
+      "career_expected_value": 0.4741,
+      "z_score": 3.35,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2320,
+      "player_name": "Trent Boult",
+      "role": "bowler",
+      "match_id": 14132,
+      "n_balls": 12,
+      "match_runs_conceded": 11,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2842,
+      "career_expected_value": 0.4741,
+      "z_score": -3.2,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2320,
+      "player_name": "Trent Boult",
+      "role": "bowler",
+      "match_id": 20222,
+      "n_balls": 13,
+      "match_runs_conceded": 17,
+      "match_wickets": 1,
+      "match_pressure_value": 0.6358,
+      "career_expected_value": 0.4741,
+      "z_score": 2.83,
+      "direction": "positive"
+    }
+  ]
+}

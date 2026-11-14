@@ -1,0 +1,62 @@
+{
+  "player_id": "15303",
+  "player_name": "Bilal Tahir",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 1,
+    "runs": 30,
+    "balls": 22,
+    "average": 15.0,
+    "strike_rate": 136.36,
+    "highest_score": 21,
+    "fours": 2,
+    "sixes": 2,
+    "dots": 9,
+    "singles": 8,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16867,
+      "date": "2022-08-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "21 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16865,
+      "date": "2022-08-23",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16863,
+      "date": "2022-08-21",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "9 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -5.59
+    }
+  ]
+}

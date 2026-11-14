@@ -1,0 +1,100 @@
+{
+  "match_id": 40754,
+  "competition_kind": "IPL",
+  "calendar_year": 2025,
+  "result": "Punjab Kings Won by 7 wickets",
+  "innings_totals": {
+    "innings_1": 180.7,
+    "innings_1_sigma": 2.02,
+    "innings_2": 187.7
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 6
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "3": {
+      "Elevated": 8,
+      "High": 6
+    },
+    "4": {
+      "High": 7,
+      "Elevated": 6
+    },
+    "5": {
+      "Elevated": 5,
+      "High": 5,
+      "Extreme": 2
+    },
+    "6": {
+      "Elevated": 7,
+      "High": 6
+    },
+    "7": {
+      "High": 7,
+      "Elevated": 6
+    },
+    "8": {
+      "Elevated": 6,
+      "Normal": 3,
+      "High": 3
+    },
+    "9": {
+      "Normal": 13
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Elevated": 8,
+      "Normal": 6
+    },
+    "12": {
+      "Normal": 14
+    },
+    "13": {
+      "Normal": 13,
+      "Elevated": 1
+    },
+    "14": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "16": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "17": {
+      "Normal": 6,
+      "Elevated": 4,
+      "High": 2
+    },
+    "18": {
+      "Normal": 7,
+      "High": 6
+    },
+    "19": {
+      "High": 6,
+      "Normal": 3
+    },
+    "20": {
+      "High": 6
+    }
+  },
+  "turning_point_count": 5
+}

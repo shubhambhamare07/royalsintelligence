@@ -1,0 +1,94 @@
+{
+  "player_id": "37201",
+  "player_name": "Jewel Andrew",
+  "batting": {
+    "matches": 6,
+    "innings": 6,
+    "not_outs": 0,
+    "runs": 99,
+    "balls": 96,
+    "average": 16.5,
+    "strike_rate": 103.12,
+    "highest_score": 35,
+    "fours": 7,
+    "sixes": 5,
+    "dots": 53,
+    "singles": 22,
+    "twos": 8,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4,
+      "Bowled": 1,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50407,
+      "date": "2026-10-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "21 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46250,
+      "date": "2025-09-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 11,
+      "pressure_value": -10.08
+    },
+    {
+      "match_id": 46249,
+      "date": "2025-09-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "5 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 13,
+      "pressure_value": -12.12
+    },
+    {
+      "match_id": 41512,
+      "date": "2025-08-04",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "24 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": -5.53
+    },
+    {
+      "match_id": 41511,
+      "date": "2025-08-03",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "12 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41510,
+      "date": "2025-08-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "35 (33)",
+      "bowling_figures": null,
+      "pressure_balls": 33,
+      "pressure_value": 0.42
+    }
+  ]
+}

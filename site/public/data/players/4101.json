@@ -1,0 +1,526 @@
+{
+  "player_id": "4101",
+  "player_name": "Mitchell Santner",
+  "batting": {
+    "matches": 55,
+    "innings": 55,
+    "not_outs": 26,
+    "runs": 662,
+    "balls": 517,
+    "average": 22.83,
+    "strike_rate": 128.05,
+    "highest_score": 77,
+    "fours": 66,
+    "sixes": 22,
+    "dots": 208,
+    "singles": 179,
+    "twos": 39,
+    "threes": 3,
+    "ducks": 2,
+    "thirties": 2,
+    "fifties": 2,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 18,
+      "Bowled": 8,
+      "Stump": 1,
+      "LBW": 1,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 80,
+    "legal_balls": 1695,
+    "overs": 282.5,
+    "runs_charged": 2103.0,
+    "wickets": 82,
+    "economy": 7.44,
+    "average": 25.65,
+    "strike_rate": 20.67,
+    "dot_pct": 36.02,
+    "boundary_pct": 13.49,
+    "wides": 54,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 30.5,
+        "runs": 285.0,
+        "wickets": 13,
+        "economy": 9.34
+      },
+      "middle": {
+        "overs": 200.0,
+        "runs": 1454.0,
+        "wickets": 57,
+        "economy": 7.27
+      },
+      "powerplay": {
+        "overs": 52.0,
+        "runs": 364.0,
+        "wickets": 12,
+        "economy": 7.0
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 39.65,
+    "tier": "Unproven",
+    "p_outperform": 0.2789,
+    "pressure_value_per_100": -8.96,
+    "clutch_delta_per_100": -8.65,
+    "consistency": 0.5704
+  },
+  "rated_bowling": {
+    "rating": 64.25,
+    "tier": "Unproven",
+    "p_outperform": 0.6519,
+    "pressure_value_per_6": 0.11,
+    "clutch_delta_per_6": -0.1,
+    "consistency": 0.4732
+  },
+  "recent_matches": [
+    {
+      "match_id": 54214,
+      "date": "2026-11-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/39 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54213,
+      "date": "2026-10-30",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "5 (6)",
+      "bowling_figures": "2/24 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54212,
+      "date": "2026-10-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/17 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54211,
+      "date": "2026-10-24",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "4 (5)",
+      "bowling_figures": "4/21 (4.0)",
+      "pressure_balls": 11,
+      "pressure_value": 10.37
+    },
+    {
+      "match_id": 54210,
+      "date": "2026-10-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/39 (4.0)",
+      "pressure_balls": 22,
+      "pressure_value": 12.04
+    },
+    {
+      "match_id": 50354,
+      "date": "2026-04-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/44 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50351,
+      "date": "2026-04-20",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/16 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50144,
+      "date": "2026-04-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "8 (6)",
+      "bowling_figures": "1/43 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50132,
+      "date": "2026-04-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "18 (13)",
+      "bowling_figures": "1/22 (3.0)",
+      "pressure_balls": 13,
+      "pressure_value": -9.95
+    },
+    {
+      "match_id": 49738,
+      "date": "2026-03-20",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/21 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 49737,
+      "date": "2026-03-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "20 (14)",
+      "bowling_figures": "2/19 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": 12.27
+    },
+    {
+      "match_id": 49736,
+      "date": "2026-03-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "15 (19)",
+      "bowling_figures": "1/8 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48595,
+      "date": "2026-01-31",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "1/60 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48594,
+      "date": "2026-01-28",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "11 (6)",
+      "bowling_figures": "3/26 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48593,
+      "date": "2026-01-25",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "27 (17)",
+      "bowling_figures": "0/28 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48592,
+      "date": "2026-01-23",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "47 (27)",
+      "bowling_figures": "0/27 (2.0)",
+      "pressure_balls": 7,
+      "pressure_value": -8.91
+    },
+    {
+      "match_id": 48591,
+      "date": "2026-01-21",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "20 (13)",
+      "bowling_figures": "1/37 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47969,
+      "date": "2025-11-13",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/16 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47967,
+      "date": "2025-11-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "4 (3)",
+      "bowling_figures": "1/29 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47966,
+      "date": "2025-11-06",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "18 (8)",
+      "bowling_figures": "3/31 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47965,
+      "date": "2025-11-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "55 (28)",
+      "bowling_figures": "0/40 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46748,
+      "date": "2025-10-20",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "36 (15)",
+      "bowling_figures": "0/41 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46747,
+      "date": "2025-10-18",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/20 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40766,
+      "date": "2025-06-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/15 (2.0)",
+      "pressure_balls": 7,
+      "pressure_value": -3.78
+    },
+    {
+      "match_id": 40765,
+      "date": "2025-05-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "1/10 (1.0)",
+      "pressure_balls": 2,
+      "pressure_value": 5.96
+    },
+    {
+      "match_id": 40754,
+      "date": "2025-05-26",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "2/41 (4.0)",
+      "pressure_balls": 8,
+      "pressure_value": -6.26
+    },
+    {
+      "match_id": 40759,
+      "date": "2025-05-21",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "3/11 (4.0)",
+      "pressure_balls": 11,
+      "pressure_value": 4.63
+    },
+    {
+      "match_id": 40734,
+      "date": "2025-04-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/19 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40731,
+      "date": "2025-04-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/14 (3.0)",
+      "pressure_balls": 8,
+      "pressure_value": 7.1
+    },
+    {
+      "match_id": 40726,
+      "date": "2025-04-17",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/8 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 4101,
+      "player_name": "Mitchell Santner",
+      "role": "bowler",
+      "match_id": 38633,
+      "n_balls": 20,
+      "match_runs_conceded": 14,
+      "match_wickets": 2,
+      "match_pressure_value": 0.7858,
+      "career_expected_value": 0.5428,
+      "z_score": 5.28,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4101,
+      "player_name": "Mitchell Santner",
+      "role": "bowler",
+      "match_id": 20181,
+      "n_balls": 10,
+      "match_runs_conceded": 15,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2003,
+      "career_expected_value": 0.5428,
+      "z_score": -5.26,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4101,
+      "player_name": "Mitchell Santner",
+      "role": "bowler",
+      "match_id": 37895,
+      "n_balls": 6,
+      "match_runs_conceded": 4,
+      "match_wickets": 0,
+      "match_pressure_value": 0.1747,
+      "career_expected_value": 0.5428,
+      "z_score": -4.38,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4101,
+      "player_name": "Mitchell Santner",
+      "role": "bowler",
+      "match_id": 16258,
+      "n_balls": 7,
+      "match_runs_conceded": 5,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8778,
+      "career_expected_value": 0.5428,
+      "z_score": 4.31,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4101,
+      "player_name": "Mitchell Santner",
+      "role": "bowler",
+      "match_id": 37894,
+      "n_balls": 5,
+      "match_runs_conceded": 5,
+      "match_wickets": 0,
+      "match_pressure_value": 0.1759,
+      "career_expected_value": 0.5428,
+      "z_score": -3.99,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4101,
+      "player_name": "Mitchell Santner",
+      "role": "bowler",
+      "match_id": 50132,
+      "n_balls": 13,
+      "match_runs_conceded": 15,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3232,
+      "career_expected_value": 0.5428,
+      "z_score": -3.85,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4101,
+      "player_name": "Mitchell Santner",
+      "role": "batter",
+      "match_id": 40714,
+      "n_balls": 4,
+      "match_runs": 8,
+      "match_pressure_value": 0.1308,
+      "career_expected_value": 0.4667,
+      "z_score": -3.27,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4101,
+      "player_name": "Mitchell Santner",
+      "role": "bowler",
+      "match_id": 38632,
+      "n_balls": 4,
+      "match_runs_conceded": 7,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2172,
+      "career_expected_value": 0.5428,
+      "z_score": -3.16,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4101,
+      "player_name": "Mitchell Santner",
+      "role": "batter",
+      "match_id": 16667,
+      "n_balls": 8,
+      "match_runs": 16,
+      "match_pressure_value": 0.6938,
+      "career_expected_value": 0.4667,
+      "z_score": 3.12,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4101,
+      "player_name": "Mitchell Santner",
+      "role": "bowler",
+      "match_id": 40754,
+      "n_balls": 7,
+      "match_runs_conceded": 14,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3087,
+      "career_expected_value": 0.5428,
+      "z_score": -3.01,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4101,
+      "player_name": "Mitchell Santner",
+      "role": "bowler",
+      "match_id": 54211,
+      "n_balls": 6,
+      "match_runs_conceded": 3,
+      "match_wickets": 2,
+      "match_pressure_value": 0.7959,
+      "career_expected_value": 0.5428,
+      "z_score": 3.01,
+      "direction": "positive"
+    }
+  ]
+}

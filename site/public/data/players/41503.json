@@ -1,0 +1,123 @@
+{
+  "player_id": "41503",
+  "player_name": "Yash Punja",
+  "batting": null,
+  "bowling": {
+    "matches": 8,
+    "legal_balls": 180,
+    "overs": 30.0,
+    "runs_charged": 279.0,
+    "wickets": 9,
+    "economy": 9.3,
+    "average": 31.0,
+    "strike_rate": 20.0,
+    "dot_pct": 26.34,
+    "boundary_pct": 17.2,
+    "wides": 6,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 3.0,
+        "runs": 19.0,
+        "wickets": 1,
+        "economy": 6.33
+      },
+      "middle": {
+        "overs": 26.0,
+        "runs": 248.0,
+        "wickets": 8,
+        "economy": 9.54
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 12.0,
+        "wickets": 0,
+        "economy": 12.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50944,
+      "date": "2026-05-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/29 (2.0)",
+      "pressure_balls": 6,
+      "pressure_value": -2.65
+    },
+    {
+      "match_id": 50943,
+      "date": "2026-05-27",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/39 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50390,
+      "date": "2026-05-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/44 (4.0)",
+      "pressure_balls": 3,
+      "pressure_value": 7.99
+    },
+    {
+      "match_id": 50385,
+      "date": "2026-05-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/35 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50383,
+      "date": "2026-05-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/29 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": 2.62
+    },
+    {
+      "match_id": 50373,
+      "date": "2026-05-09",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/37 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50361,
+      "date": "2026-04-28",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/41 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50349,
+      "date": "2026-04-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/25 (4.0)",
+      "pressure_balls": 22,
+      "pressure_value": 0.35
+    }
+  ]
+}

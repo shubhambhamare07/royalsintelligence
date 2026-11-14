@@ -1,0 +1,58 @@
+{
+  "match_id": 15795,
+  "competition_kind": "T20I",
+  "calendar_year": 2022,
+  "result": "India Won by 7 Wickets",
+  "innings_totals": {
+    "innings_1": 106.3,
+    "innings_1_sigma": 3.6,
+    "innings_2": 111.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": true,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 12
+    },
+    "2": {
+      "Normal": 14
+    },
+    "3": {
+      "Normal": 13
+    },
+    "4": {
+      "Normal": 12,
+      "Elevated": 1
+    },
+    "5": {
+      "Normal": 13
+    },
+    "6": {
+      "Normal": 14
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 13
+    },
+    "9": {
+      "Normal": 14
+    },
+    "10": {
+      "Normal": 8
+    },
+    "11": {
+      "Normal": 6
+    },
+    "12": {
+      "Normal": 7
+    }
+  },
+  "turning_point_count": 5
+}

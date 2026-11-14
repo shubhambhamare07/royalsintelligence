@@ -1,0 +1,73 @@
+{
+  "player_id": "33675",
+  "player_name": "Mohammad Naeem",
+  "batting": {
+    "matches": 4,
+    "innings": 4,
+    "not_outs": 0,
+    "runs": 42,
+    "balls": 35,
+    "average": 10.5,
+    "strike_rate": 120.0,
+    "highest_score": 16,
+    "fours": 5,
+    "sixes": 2,
+    "dots": 18,
+    "singles": 10,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48028,
+      "date": "2025-11-21",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "16 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48023,
+      "date": "2025-11-18",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "6 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48020,
+      "date": "2025-11-16",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "14 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48015,
+      "date": "2025-11-14",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "6 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

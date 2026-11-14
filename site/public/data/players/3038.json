@@ -1,0 +1,109 @@
+{
+  "player_id": "3038",
+  "player_name": "Hussain Talat",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 1,
+    "runs": 47,
+    "balls": 54,
+    "average": 11.75,
+    "strike_rate": 87.04,
+    "highest_score": 32,
+    "fours": 4,
+    "sixes": 0,
+    "dots": 26,
+    "singles": 18,
+    "twos": 5,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4
+    }
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 36,
+    "overs": 6.0,
+    "runs_charged": 50.0,
+    "wickets": 3,
+    "economy": 8.33,
+    "average": 16.67,
+    "strike_rate": 12.0,
+    "dot_pct": 43.59,
+    "boundary_pct": 12.82,
+    "wides": 1,
+    "no_balls": 2,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 30.0,
+        "wickets": 0,
+        "economy": 15.0
+      },
+      "middle": {
+        "overs": 4.0,
+        "runs": 20.0,
+        "wickets": 3,
+        "economy": 5.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 45513,
+      "date": "2025-09-28",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45511,
+      "date": "2025-09-25",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "3 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45509,
+      "date": "2025-09-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "32 (30)",
+      "bowling_figures": "2/18 (3.0)",
+      "pressure_balls": 28,
+      "pressure_value": 7.89
+    },
+    {
+      "match_id": 45508,
+      "date": "2025-09-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "10 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 44267,
+      "date": "2025-07-24",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (4)",
+      "bowling_figures": "1/32 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

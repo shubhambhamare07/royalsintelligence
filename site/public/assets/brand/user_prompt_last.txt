@@ -1,0 +1,100 @@
+<USER_REQUEST>
+# MASTER PROMPT — ROYALS INTELLIGENCE | HOME SCREEN PIXEL-PERFECT REBUILD
+
+You are working on the existing **ROYALS INTELLIGENCE — IPL 2027 Auction Intelligence Platform**.
+
+We are now rebuilding the application **ONE SCREEN AT A TIME**.
+
+## CURRENT TASK: HOME SCREEN ONLY
+
+Your ONLY task is to recreate the Home Screen to match the supplied reference image:
+
+`HOME SCREEN.png`
+
+This image is the single source of truth for the desired visual design.
+
+The existing website screenshot is NOT the design reference. It represents the current implementation, which must be visually transformed to match the supplied target.
+
+**I want the same UI composition, same visual hierarchy, same layout, same proportions, same alignment, same typography style, same spacing, same card design, and same overall appearance as the reference.**
+
+Do not create your own design.
+Do not reinterpret the reference.
+Do not introduce unnecessary creative changes.
+Do not simplify the design.
+Do not mix the old Home Screen design with the new reference.
+
+This is a pixel-accurate visual recreation task.
+
+---
+
+# 1. FIRST: INSPECT THE EXISTING CODEBASE
+
+Before changing anything:
+
+1. Inspect the complete existing frontend structure.
+2. Identify the current Home Screen component.
+3. Identify the existing global layout, sidebar, header, navigation and routing.
+4. Locate all existing player-ranking data sources and model-performance data.
+5. Locate the actual uploaded SF Pro font files inside the codebase.
+6. Inspect how the current player images, team logos and statistics are loaded.
+7. Identify reusable components and existing styling conventions.
+
+Do not blindly replace files.
+
+Understand the current architecture before implementing the redesign.
+
+## CRITICAL FONT REQUIREMENT
+
+**SF PRO IS ALREADY UPLOADED IN THE CODEBASE.**
+
+You MUST locate and use those actual uploaded SF Pro font files.
+
+- Use the provided SF Pro font family throughout the Home Screen.
+- Use the appropriate available weights: Regular, Medium, Semibold, Bold and Heavy,
+<truncated 15599 bytes>
+nts are being used.
+3. Confirmation that player photo areas are intentionally blank.
+4. Confirmation that all Home Screen statistics and metrics use actual project data.
+5. Typecheck result.
+6. Test result.
+7. Production build result.
+8. Browser verification result at 1672 × 941.
+9. Final screenshot path.
+10. Any remaining visual differences or limitations.
+
+Do not claim pixel-perfect completion without actually comparing the browser screenshot against the supplied reference.
+
+## FINAL INSTRUCTION
+
+**DO NOT START WORK ON ANY OTHER SCREEN.**
+
+We are proceeding screen by screen.
+
+First, make the Home Screen look like `HOME SCREEN.png`.
+
+I will personally provide and insert all Top 10 batter and Top 10 bowler photographs after the website design is complete.
+
+Use the uploaded SF Pro fonts already present in the codebase.
+
+Preserve all existing intelligence, rankings, model outputs and data integrity.
+
+**REFERENCE IMAGE = DESIGN AUTHORITY.**
+**EXISTING PROJECT DATA = DATA AUTHORITY.**
+**LOCAL SF PRO FILES = FONT AUTHORITY.**
+
+No creative reinterpretation. No shortcuts. No unnecessary changes.
+
+Build this one screen properly.
+REF IS IN C:\Users\Shubham\OneDrive\Desktop\secretRR\rr-pressure-platform\UI IMAGE REFERENCE\HOME SCREEN.png 
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-11-14T01:33:54+05:30.
+
+The user's current state is as follows:
+Other open documents:
+- c:\Users\Shubham\OneDrive\Desktop\secretRR\rr-pressure-platform\qa\phase_07b_data_integrity_report.md (LANGUAGE_UNSPECIFIED)
+- c:\Users\Shubham\OneDrive\Desktop\secretRR\rr-pressure-platform\site\src\main.tsx (LANGUAGE_UNSPECIFIED)
+- c:\Users\Shubham\OneDrive\Desktop\secretRR\rr-pressure-platform\scripts\reconcile_spotchecks.py (LANGUAGE_UNSPECIFIED)
+- c:\Users\Shubham\OneDrive\Desktop\secretRR\rr-pressure-platform\outputs\FROZEN_RANKINGS.json (LANGUAGE_UNSPECIFIED)
+- c:\Users\Shubham\OneDrive\Desktop\secretRR\rr-pressure-platform\reports\mathematical_integrity\TOP_10_RANKING_INTEGRITY.md (LANGUAGE_UNSPECIFIED)
+</ADDITIONAL_METADATA>

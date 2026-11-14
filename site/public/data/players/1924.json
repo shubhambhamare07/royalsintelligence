@@ -1,0 +1,153 @@
+{
+  "player_id": "1924",
+  "player_name": "Sam Billings",
+  "batting": {
+    "matches": 12,
+    "innings": 12,
+    "not_outs": 2,
+    "runs": 230,
+    "balls": 181,
+    "average": 23.0,
+    "strike_rate": 127.07,
+    "highest_score": 41,
+    "fours": 11,
+    "sixes": 14,
+    "dots": 71,
+    "singles": 68,
+    "twos": 17,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 3,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 8,
+      "Stump": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 14160,
+      "date": "2022-05-18",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "36 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -3.54
+    },
+    {
+      "match_id": 14155,
+      "date": "2022-05-14",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "34 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": -1.67
+    },
+    {
+      "match_id": 14128,
+      "date": "2022-04-23",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "4 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14112,
+      "date": "2022-04-10",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "15 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14107,
+      "date": "2022-04-06",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "17 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": 0.74
+    },
+    {
+      "match_id": 14101,
+      "date": "2022-04-01",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "24 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -0.65
+    },
+    {
+      "match_id": 14099,
+      "date": "2022-03-30",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "14 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14094,
+      "date": "2022-03-26",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "25 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13515,
+      "date": "2022-01-31",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "41 (28)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": -8.84
+    },
+    {
+      "match_id": 13514,
+      "date": "2022-01-30",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "13 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13512,
+      "date": "2022-01-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "5 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13511,
+      "date": "2022-01-23",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

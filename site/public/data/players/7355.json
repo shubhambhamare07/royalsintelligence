@@ -1,0 +1,102 @@
+{
+  "player_id": "7355",
+  "player_name": "Tayyab Tahir",
+  "batting": {
+    "matches": 7,
+    "innings": 7,
+    "not_outs": 1,
+    "runs": 123,
+    "balls": 104,
+    "average": 20.5,
+    "strike_rate": 118.27,
+    "highest_score": 39,
+    "fours": 12,
+    "sixes": 3,
+    "dots": 41,
+    "singles": 40,
+    "twos": 7,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 6
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 38796,
+      "date": "2024-12-13",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "6 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 38795,
+      "date": "2024-12-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "18 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -2.66
+    },
+    {
+      "match_id": 37928,
+      "date": "2024-12-05",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "21 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37926,
+      "date": "2024-12-01",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "39 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": 6.1
+    },
+    {
+      "match_id": 20880,
+      "date": "2023-03-27",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "10 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20879,
+      "date": "2023-03-26",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "13 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20878,
+      "date": "2023-03-24",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "16 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

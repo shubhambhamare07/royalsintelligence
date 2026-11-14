@@ -1,0 +1,82 @@
+{
+  "player_id": "2001",
+  "player_name": "Yashodha Lanka",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 1,
+    "runs": 106,
+    "balls": 91,
+    "average": 26.5,
+    "strike_rate": 116.48,
+    "highest_score": 56,
+    "fours": 7,
+    "sixes": 3,
+    "dots": 34,
+    "singles": 35,
+    "twos": 11,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 37099,
+      "date": "2024-10-27",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "1 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37097,
+      "date": "2024-10-25",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "11 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37094,
+      "date": "2024-10-22",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "23 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37089,
+      "date": "2024-10-20",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "56 (44)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37086,
+      "date": "2024-10-18",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "15 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 11,
+      "pressure_value": 2.62
+    }
+  ]
+}

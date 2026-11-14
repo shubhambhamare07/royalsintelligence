@@ -1,0 +1,45 @@
+{
+  "player_id": "3330",
+  "player_name": "Hardik Pandya",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 31.35,
+  "rating_ci90": [
+    12.18,
+    50.45
+  ],
+  "p_outperform": 0.0541,
+  "top10_inclusion_prob": 0.0,
+  "rank_ci90": [
+    77,
+    150
+  ],
+  "composite": -0.4191,
+  "components": {
+    "PV": {
+      "observed": -0.0517,
+      "adjusted": -0.0517,
+      "z_score": 0.0334,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.1337,
+      "adjusted": -0.1337,
+      "z_score": -0.4662,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.5051,
+      "adjusted": 0.5051,
+      "z_score": -0.8245,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 381,
+    "neff_pressure": 381.0,
+    "n_pressure_matches": 39
+  },
+  "explanation": "Hardik Pandya generated a pressure value of -5.17 runs/100 balls (Clutch Delta: -13.37) at a 140.7 strike rate with 41.7% consistency across 39 pressure matches (381 balls)."
+}

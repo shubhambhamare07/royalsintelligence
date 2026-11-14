@@ -1,0 +1,259 @@
+{
+  "player_id": "395",
+  "player_name": "Karn Sharma",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 1,
+    "runs": 34,
+    "balls": 20,
+    "average": 8.5,
+    "strike_rate": 170.0,
+    "highest_score": 20,
+    "fours": 2,
+    "sixes": 3,
+    "dots": 8,
+    "singles": 6,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4
+    }
+  },
+  "bowling": {
+    "matches": 20,
+    "legal_balls": 351,
+    "overs": 58.5,
+    "runs_charged": 592.0,
+    "wickets": 24,
+    "economy": 10.12,
+    "average": 24.67,
+    "strike_rate": 14.62,
+    "dot_pct": 28.89,
+    "boundary_pct": 21.67,
+    "wides": 9,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 6.0,
+        "runs": 56.0,
+        "wickets": 4,
+        "economy": 9.33
+      },
+      "middle": {
+        "overs": 52.5,
+        "runs": 536.0,
+        "wickets": 20,
+        "economy": 10.21
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 40759,
+      "date": "2025-05-21",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/31 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40743,
+      "date": "2025-05-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "3/23 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40738,
+      "date": "2025-04-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/25 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40722,
+      "date": "2025-04-13",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "3/36 (4.0)",
+      "pressure_balls": 24,
+      "pressure_value": 0.24
+    },
+    {
+      "match_id": 31290,
+      "date": "2024-05-22",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "5 (4)",
+      "bowling_figures": "1/19 (2.0)",
+      "pressure_balls": 4,
+      "pressure_value": -6.37
+    },
+    {
+      "match_id": 31286,
+      "date": "2024-05-18",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/14 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31280,
+      "date": "2024-05-12",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "6 (4)",
+      "bowling_figures": "0/19 (2.0)",
+      "pressure_balls": 4,
+      "pressure_value": -0.24
+    },
+    {
+      "match_id": 31276,
+      "date": "2024-05-09",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/36 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31270,
+      "date": "2024-05-04",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/42 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31263,
+      "date": "2024-04-28",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/38 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31259,
+      "date": "2024-04-25",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/29 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31254,
+      "date": "2024-04-21",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "20 (7)",
+      "bowling_figures": "0/33 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": 7.03
+    },
+    {
+      "match_id": 30056,
+      "date": "2024-03-22",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/24 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20245,
+      "date": "2023-05-18",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/45 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20240,
+      "date": "2023-05-14",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "2/19 (1.5)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20230,
+      "date": "2023-05-06",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/33 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20223,
+      "date": "2023-05-01",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "2 (2)",
+      "bowling_figures": "2/20 (4.0)",
+      "pressure_balls": 24,
+      "pressure_value": 28.89
+    },
+    {
+      "match_id": 20195,
+      "date": "2023-04-10",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/48 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20189,
+      "date": "2023-04-06",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "1 (3)",
+      "bowling_figures": "2/26 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20185,
+      "date": "2023-04-02",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "2/32 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

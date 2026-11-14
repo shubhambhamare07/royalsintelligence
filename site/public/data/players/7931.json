@@ -1,0 +1,62 @@
+{
+  "player_id": "7931",
+  "player_name": "Aritra Dutta",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 1,
+    "runs": 92,
+    "balls": 62,
+    "average": 46.0,
+    "strike_rate": 148.39,
+    "highest_score": 42,
+    "fours": 6,
+    "sixes": 6,
+    "dots": 24,
+    "singles": 20,
+    "twos": 6,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16867,
+      "date": "2022-08-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "21 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16864,
+      "date": "2022-08-22",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "42 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 29,
+      "pressure_value": 15.85
+    },
+    {
+      "match_id": 16862,
+      "date": "2022-08-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "29 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

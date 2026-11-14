@@ -1,0 +1,447 @@
+{
+  "player_id": "7094",
+  "player_name": "Curtis Campher",
+  "batting": {
+    "matches": 32,
+    "innings": 32,
+    "not_outs": 5,
+    "runs": 541,
+    "balls": 461,
+    "average": 20.04,
+    "strike_rate": 117.35,
+    "highest_score": 54,
+    "fours": 45,
+    "sixes": 15,
+    "dots": 175,
+    "singles": 182,
+    "twos": 43,
+    "threes": 1,
+    "ducks": 4,
+    "thirties": 3,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 19,
+      "Bowled": 6,
+      "LBW": 2
+    }
+  },
+  "bowling": {
+    "matches": 25,
+    "legal_balls": 348,
+    "overs": 58.0,
+    "runs_charged": 500.0,
+    "wickets": 9,
+    "economy": 8.62,
+    "average": 55.56,
+    "strike_rate": 38.67,
+    "dot_pct": 28.3,
+    "boundary_pct": 15.93,
+    "wides": 15,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 8.0,
+        "runs": 71.0,
+        "wickets": 0,
+        "economy": 8.88
+      },
+      "middle": {
+        "overs": 39.0,
+        "runs": 324.0,
+        "wickets": 6,
+        "economy": 8.31
+      },
+      "powerplay": {
+        "overs": 11.0,
+        "runs": 105.0,
+        "wickets": 3,
+        "economy": 9.55
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 44.54,
+    "tier": "Unproven",
+    "p_outperform": 0.3854,
+    "pressure_value_per_100": -6.32,
+    "clutch_delta_per_100": -3.07,
+    "consistency": 0.5704
+  },
+  "rated_bowling": {
+    "rating": 0.0,
+    "tier": "Unproven",
+    "p_outperform": 0.1875,
+    "pressure_value_per_6": -0.26,
+    "clutch_delta_per_6": 0.39,
+    "consistency": 0.3937
+  },
+  "recent_matches": [
+    {
+      "match_id": 48467,
+      "date": "2026-01-31",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "54 (41)",
+      "bowling_figures": "0/12 (2.0)",
+      "pressure_balls": 14,
+      "pressure_value": -0.85
+    },
+    {
+      "match_id": 48466,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "25 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47243,
+      "date": "2025-12-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47241,
+      "date": "2025-11-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "24 (17)",
+      "bowling_figures": "0/22 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46009,
+      "date": "2025-09-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (3)",
+      "bowling_figures": "1/24 (2.0)",
+      "pressure_balls": 4,
+      "pressure_value": -10.71
+    },
+    {
+      "match_id": 46007,
+      "date": "2025-09-17",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/13 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 39984,
+      "date": "2025-02-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "26 (25)",
+      "bowling_figures": "0/22 (3.0)",
+      "pressure_balls": 18,
+      "pressure_value": -7.01
+    },
+    {
+      "match_id": 37015,
+      "date": "2024-09-29",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/19 (2.0)",
+      "pressure_balls": 12,
+      "pressure_value": -2.11
+    },
+    {
+      "match_id": 37014,
+      "date": "2024-09-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "49 (36)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32625,
+      "date": "2024-05-24",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "37 (30)",
+      "bowling_figures": "0/13 (1.0)",
+      "pressure_balls": 6,
+      "pressure_value": -3.6
+    },
+    {
+      "match_id": 32624,
+      "date": "2024-05-23",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32621,
+      "date": "2024-05-19",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "10 (12)",
+      "bowling_figures": "2/33 (4.0)",
+      "pressure_balls": 23,
+      "pressure_value": -7.93
+    },
+    {
+      "match_id": 32292,
+      "date": "2024-05-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "0/31 (3.0)",
+      "pressure_balls": 13,
+      "pressure_value": -3.97
+    },
+    {
+      "match_id": 32291,
+      "date": "2024-05-12",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "22 (13)",
+      "bowling_figures": "0/33 (3.0)",
+      "pressure_balls": 13,
+      "pressure_value": -6.99
+    },
+    {
+      "match_id": 32290,
+      "date": "2024-05-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "15 (7)",
+      "bowling_figures": "0/30 (3.0)",
+      "pressure_balls": 7,
+      "pressure_value": 3.97
+    },
+    {
+      "match_id": 30730,
+      "date": "2024-03-18",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "28 (23)",
+      "bowling_figures": "1/23 (3.0)",
+      "pressure_balls": 4,
+      "pressure_value": -3.18
+    },
+    {
+      "match_id": 30729,
+      "date": "2024-03-17",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "6 (10)",
+      "bowling_figures": "0/17 (2.0)",
+      "pressure_balls": 10,
+      "pressure_value": -8.55
+    },
+    {
+      "match_id": 30728,
+      "date": "2024-03-15",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28059,
+      "date": "2023-12-10",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "5 (9)",
+      "bowling_figures": "0/8 (1.0)",
+      "pressure_balls": 10,
+      "pressure_value": -9.03
+    },
+    {
+      "match_id": 28058,
+      "date": "2023-12-09",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "37 (24)",
+      "bowling_figures": "1/28 (4.0)",
+      "pressure_balls": 30,
+      "pressure_value": 14.76
+    },
+    {
+      "match_id": 28057,
+      "date": "2023-12-07",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "8 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 24823,
+      "date": "2023-08-20",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "18 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21072,
+      "date": "2023-03-31",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "16 (9)",
+      "bowling_figures": "1/23 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 19692,
+      "date": "2023-01-15",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "27 (28)",
+      "bowling_figures": "0/22 (2.0)",
+      "pressure_balls": 11,
+      "pressure_value": -12.53
+    },
+    {
+      "match_id": 19691,
+      "date": "2023-01-14",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "6 (6)",
+      "bowling_figures": "0/14 (2.0)",
+      "pressure_balls": 1,
+      "pressure_value": 2.27
+    },
+    {
+      "match_id": 19690,
+      "date": "2023-01-12",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "20 (20)",
+      "bowling_figures": "0/18 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16752,
+      "date": "2022-08-12",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "8 (12)",
+      "bowling_figures": "0/14 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16751,
+      "date": "2022-08-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "7 (7)",
+      "bowling_figures": "2/13 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16647,
+      "date": "2022-08-06",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "19 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16646,
+      "date": "2022-08-03",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "0/11 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 7094,
+      "player_name": "Curtis Campher",
+      "role": "bowler",
+      "match_id": 32291,
+      "n_balls": 13,
+      "match_runs_conceded": 21,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7067,
+      "career_expected_value": 0.4496,
+      "z_score": 4.51,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7094,
+      "player_name": "Curtis Campher",
+      "role": "batter",
+      "match_id": 30730,
+      "n_balls": 4,
+      "match_runs": 0,
+      "match_pressure_value": 0.2312,
+      "career_expected_value": 0.5942,
+      "z_score": -3.53,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7094,
+      "player_name": "Curtis Campher",
+      "role": "bowler",
+      "match_id": 32625,
+      "n_balls": 6,
+      "match_runs_conceded": 13,
+      "match_wickets": 0,
+      "match_pressure_value": 0.1542,
+      "career_expected_value": 0.4496,
+      "z_score": -3.52,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7094,
+      "player_name": "Curtis Campher",
+      "role": "bowler",
+      "match_id": 19692,
+      "n_balls": 11,
+      "match_runs_conceded": 22,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2845,
+      "career_expected_value": 0.4496,
+      "z_score": -2.66,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7094,
+      "player_name": "Curtis Campher",
+      "role": "bowler",
+      "match_id": 32292,
+      "n_balls": 13,
+      "match_runs_conceded": 19,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3011,
+      "career_expected_value": 0.4496,
+      "z_score": -2.6,
+      "direction": "negative"
+    }
+  ]
+}

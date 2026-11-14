@@ -1,0 +1,57 @@
+{
+  "player_id": "7403",
+  "player_name": "Lalit Rajbanshi",
+  "batting": null,
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 30,
+    "overs": 5.0,
+    "runs_charged": 19.0,
+    "wickets": 2,
+    "economy": 3.8,
+    "average": 9.5,
+    "strike_rate": 15.0,
+    "dot_pct": 48.39,
+    "boundary_pct": 3.23,
+    "wides": 1,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 3.0,
+        "wickets": 1,
+        "economy": 3.0
+      },
+      "middle": {
+        "overs": 4.0,
+        "runs": 16.0,
+        "wickets": 1,
+        "economy": 4.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 46250,
+      "date": "2025-09-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/13 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46249,
+      "date": "2025-09-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/6 (2.0)",
+      "pressure_balls": 12,
+      "pressure_value": 13.45
+    }
+  ]
+}

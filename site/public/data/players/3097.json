@@ -1,0 +1,133 @@
+{
+  "player_id": "3097",
+  "player_name": "Shan Masood",
+  "batting": {
+    "matches": 10,
+    "innings": 10,
+    "not_outs": 1,
+    "runs": 220,
+    "balls": 176,
+    "average": 24.44,
+    "strike_rate": 125.0,
+    "highest_score": 65,
+    "fours": 18,
+    "sixes": 6,
+    "dots": 57,
+    "singles": 78,
+    "twos": 17,
+    "threes": 0,
+    "ducks": 2,
+    "thirties": 1,
+    "fifties": 2,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 7,
+      "LBW": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 17743,
+      "date": "2022-10-14",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "19 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 22,
+      "pressure_value": -7.69
+    },
+    {
+      "match_id": 17740,
+      "date": "2022-10-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "14 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17738,
+      "date": "2022-10-08",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -9.96
+    },
+    {
+      "match_id": 17737,
+      "date": "2022-10-07",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "31 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17559,
+      "date": "2022-10-02",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "56 (43)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17558,
+      "date": "2022-09-30",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17557,
+      "date": "2022-09-28",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "7 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17556,
+      "date": "2022-09-25",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "21 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -3.71
+    },
+    {
+      "match_id": 17555,
+      "date": "2022-09-23",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "65 (40)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17553,
+      "date": "2022-09-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "7 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

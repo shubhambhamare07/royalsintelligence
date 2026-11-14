@@ -1,0 +1,40 @@
+{
+  "player_id": "43774",
+  "player_name": "Shivam Singh",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 2,
+    "balls": 3,
+    "average": 2.0,
+    "strike_rate": 66.67,
+    "highest_score": 2,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 1,
+    "singles": 2,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 31287,
+      "date": "2024-05-19",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "2 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -2.71
+    }
+  ]
+}

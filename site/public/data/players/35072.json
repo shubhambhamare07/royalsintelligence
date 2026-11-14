@@ -1,0 +1,41 @@
+{
+  "player_id": "35072",
+  "player_name": "Ramakrishna Ghosh",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 18,
+    "overs": 3.0,
+    "runs_charged": 24.0,
+    "wickets": 1,
+    "economy": 8.0,
+    "average": 24.0,
+    "strike_rate": 18.0,
+    "dot_pct": 33.33,
+    "boundary_pct": 22.22,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 3.0,
+        "runs": 24.0,
+        "wickets": 1,
+        "economy": 8.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50365,
+      "date": "2026-05-02",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/24 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "player_id": "3323",
+  "player_name": "Jimmy Neesham",
+  "batting": {
+    "matches": 36,
+    "innings": 36,
+    "not_outs": 10,
+    "runs": 535,
+    "balls": 394,
+    "average": 20.58,
+    "strike_rate": 135.79,
+    "highest_score": 48,
+    "fours": 46,
+    "sixes": 19,
+    "dots": 130,
+    "singles": 161,
+    "twos": 38,
+    "threes": 0,
+    "ducks": 2,
+    "thirties": 4,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 22,
+      "Bowled": 2,
+      "RunOut": 1,
+      "LBW": 1
+    }
+  },
+  "bowling": {
+    "matches": 36,
+    "legal_balls": 508,
+    "overs": 84.7,
+    "runs_charged": 761.0,
+    "wickets": 32,
+    "economy": 8.99,
+    "average": 23.78,
+    "strike_rate": 15.88,
+    "dot_pct": 33.78,
+    "boundary_pct": 20.11,
+    "wides": 18,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 21.7,
+        "runs": 239.0,
+        "wickets": 14,
+        "economy": 11.03
+      },
+      "middle": {
+        "overs": 53.0,
+        "runs": 424.0,
+        "wickets": 15,
+        "economy": 8.0
+      },
+      "powerplay": {
+        "overs": 10.0,
+        "runs": 98.0,
+        "wickets": 3,
+        "economy": 9.8
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 60.94,
+    "tier": "Unproven",
+    "p_outperform": 0.7494,
+    "pressure_value_per_100": 6.22,
+    "clutch_delta_per_100": 6.52,
+    "consistency": 0.5956
+  },
+  "rated_bowling": {
+    "rating": 47.24,
+    "tier": "Unproven",
+    "p_outperform": 0.3325,
+    "pressure_value_per_6": -0.09,
+    "clutch_delta_per_6": 0.19,
+    "consistency": 0.4143
+  },
+  "recent_matches": [
+    {
+      "match_id": 49740,
+      "date": "2026-03-25",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "24 (24)",
+      "bowling_figures": "0/21 (2.0)",
+      "pressure_balls": 1,
+      "pressure_value": -0.17
+    },
+    {
+      "match_id": 49739,
+      "date": "2026-03-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "6 (8)",
+      "bowling_figures": "0/49 (4.0)",
+      "pressure_balls": 8,
+      "pressure_value": -7.48
+    },
+    {
+      "match_id": 49738,
+      "date": "2026-03-20",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/22 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 49737,
+      "date": "2026-03-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "8 (11)",
+      "bowling_figures": "1/10 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 49736,
+      "date": "2026-03-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "26 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47969,
+      "date": "2025-11-13",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/31 (3.7)",
+      "pressure_balls": 4,
+      "pressure_value": 6.1
+    },
+    {
+      "match_id": 47968,
+      "date": "2025-11-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/5 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47967,
+      "date": "2025-11-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (4)",
+      "bowling_figures": "0/25 (2.0)",
+      "pressure_balls": 1,
+      "pressure_value": 0.34
+    },
+    {
+      "match_id": 47965,
+      "date": "2025-11-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "11 (11)",
+      "bowling_figures": "1/23 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46748,
+      "date": "2025-10-20",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "17 (13)",
+      "bowling_figures": "0/20 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46747,
+      "date": "2025-10-18",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/20 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46312,
+      "date": "2025-10-04",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "25 (18)",
+      "bowling_figures": "4/26 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": 0.21
+    },
+    {
+      "match_id": 39812,
+      "date": "2025-03-26",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "5/18 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 39811,
+      "date": "2025-03-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "3 (5)",
+      "bowling_figures": "1/14 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 39810,
+      "date": "2025-03-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "3 (7)",
+      "bowling_figures": "0/9 (1.0)",
+      "pressure_balls": 7,
+      "pressure_value": -0.92
+    },
+    {
+      "match_id": 31711,
+      "date": "2024-04-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "16 (8)",
+      "bowling_figures": "1/13 (1.0)",
+      "pressure_balls": 10,
+      "pressure_value": 0.45
+    },
+    {
+      "match_id": 31710,
+      "date": "2024-04-25",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "11 (11)",
+      "bowling_figures": "1/21 (2.0)",
+      "pressure_balls": 13,
+      "pressure_value": -4.86
+    },
+    {
+      "match_id": 31709,
+      "date": "2024-04-21",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "6 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31708,
+      "date": "2024-04-20",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28332,
+      "date": "2023-12-27",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "48 (29)",
+      "bowling_figures": "1/7 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 24793,
+      "date": "2023-08-19",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "21 (17)",
+      "bowling_figures": "0/24 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 24792,
+      "date": "2023-08-17",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "25 (22)",
+      "bowling_figures": "2/15 (3.0)",
+      "pressure_balls": 19,
+      "pressure_value": 17.16
+    },
+    {
+      "match_id": 21407,
+      "date": "2023-04-24",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "45 (25)",
+      "bowling_figures": "0/42 (3.0)",
+      "pressure_balls": 16,
+      "pressure_value": 14.08
+    },
+    {
+      "match_id": 21405,
+      "date": "2023-04-17",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "10 (6)",
+      "bowling_figures": "3/38 (4.0)",
+      "pressure_balls": 10,
+      "pressure_value": 11.5
+    },
+    {
+      "match_id": 21404,
+      "date": "2023-04-15",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "1/48 (4.0)",
+      "pressure_balls": 5,
+      "pressure_value": -4.45
+    },
+    {
+      "match_id": 21403,
+      "date": "2023-04-14",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "15 (8)",
+      "bowling_figures": "1/18 (3.0)",
+      "pressure_balls": 1,
+      "pressure_value": 0.02
+    },
+    {
+      "match_id": 21178,
+      "date": "2023-04-08",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/22 (2.0)",
+      "pressure_balls": 1,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21177,
+      "date": "2023-04-05",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/20 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21176,
+      "date": "2023-04-02",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "19 (10)",
+      "bowling_figures": "2/30 (4.0)",
+      "pressure_balls": 10,
+      "pressure_value": 5.05
+    },
+    {
+      "match_id": 18531,
+      "date": "2022-11-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (3)",
+      "bowling_figures": "0/9 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 3323,
+      "player_name": "Jimmy Neesham",
+      "role": "bowler",
+      "match_id": 31710,
+      "n_balls": 13,
+      "match_runs_conceded": 20,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7941,
+      "career_expected_value": 0.4603,
+      "z_score": 5.85,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3323,
+      "player_name": "Jimmy Neesham",
+      "role": "batter",
+      "match_id": 21176,
+      "n_balls": 10,
+      "match_runs": 19,
+      "match_pressure_value": 0.1783,
+      "career_expected_value": 0.4936,
+      "z_score": -4.85,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3323,
+      "player_name": "Jimmy Neesham",
+      "role": "batter",
+      "match_id": 16260,
+      "n_balls": 4,
+      "match_runs": 16,
+      "match_pressure_value": 0.8361,
+      "career_expected_value": 0.4936,
+      "z_score": 3.33,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3323,
+      "player_name": "Jimmy Neesham",
+      "role": "bowler",
+      "match_id": 46312,
+      "n_balls": 12,
+      "match_runs_conceded": 20,
+      "match_wickets": 1,
+      "match_pressure_value": 0.2699,
+      "career_expected_value": 0.4603,
+      "z_score": -3.21,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3323,
+      "player_name": "Jimmy Neesham",
+      "role": "bowler",
+      "match_id": 24792,
+      "n_balls": 19,
+      "match_runs_conceded": 15,
+      "match_wickets": 2,
+      "match_pressure_value": 0.3199,
+      "career_expected_value": 0.4603,
+      "z_score": -2.97,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3323,
+      "player_name": "Jimmy Neesham",
+      "role": "batter",
+      "match_id": 31711,
+      "n_balls": 7,
+      "match_runs": 12,
+      "match_pressure_value": 0.2824,
+      "career_expected_value": 0.4936,
+      "z_score": -2.72,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3323,
+      "player_name": "Jimmy Neesham",
+      "role": "bowler",
+      "match_id": 16258,
+      "n_balls": 8,
+      "match_runs_conceded": 12,
+      "match_wickets": 1,
+      "match_pressure_value": 0.6484,
+      "career_expected_value": 0.4603,
+      "z_score": 2.59,
+      "direction": "positive"
+    }
+  ]
+}

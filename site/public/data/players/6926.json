@@ -1,0 +1,53 @@
+{
+  "player_id": "6926",
+  "player_name": "Matty Potts",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 24,
+    "overs": 4.0,
+    "runs_charged": 48.0,
+    "wickets": 2,
+    "economy": 12.0,
+    "average": 24.0,
+    "strike_rate": 12.0,
+    "dot_pct": 18.18,
+    "boundary_pct": 12.12,
+    "wides": 8,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 23.0,
+        "wickets": 1,
+        "economy": 11.5
+      },
+      "middle": {
+        "overs": 1.0,
+        "runs": 13.0,
+        "wickets": 0,
+        "economy": 13.0
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 12.0,
+        "wickets": 1,
+        "economy": 12.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 36199,
+      "date": "2025-06-06",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/48 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

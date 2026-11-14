@@ -1,0 +1,134 @@
+{
+  "player_id": "6457",
+  "player_name": "Urvil Patel",
+  "batting": {
+    "matches": 10,
+    "innings": 10,
+    "not_outs": 0,
+    "runs": 197,
+    "balls": 96,
+    "average": 19.7,
+    "strike_rate": 205.21,
+    "highest_score": 65,
+    "fours": 11,
+    "sixes": 20,
+    "dots": 38,
+    "singles": 22,
+    "twos": 4,
+    "threes": 1,
+    "ducks": 2,
+    "thirties": 2,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 7,
+      "Bowled": 2,
+      "Stump": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50387,
+      "date": "2026-05-21",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50384,
+      "date": "2026-05-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "13 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50380,
+      "date": "2026-05-15",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "6 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50374,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "65 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": 14.26
+    },
+    {
+      "match_id": 50369,
+      "date": "2026-05-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "17 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -0.17
+    },
+    {
+      "match_id": 50365,
+      "date": "2026-05-02",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "24 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50358,
+      "date": "2026-04-26",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "4 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40762,
+      "date": "2025-05-25",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "37 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40756,
+      "date": "2025-05-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40750,
+      "date": "2025-05-07",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "31 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": -1.46
+    }
+  ]
+}

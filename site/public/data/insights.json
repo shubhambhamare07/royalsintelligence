@@ -1,0 +1,112 @@
+{
+  "model_version": "insights-v1.0",
+  "generated_at": "2026-11-13T13:45:00Z",
+  "count": 10,
+  "insights": [
+    {
+      "id": "pressure_share_by_innings",
+      "label": "Pressure Exposure by Innings",
+      "value": {
+        "innings_1_pressure_pct": 4.7,
+        "innings_2_pressure_pct": 36.9
+      },
+      "source_key": "outputs/interim/delivery_pressure.parquet",
+      "text": "Second-innings chases exhibit significantly higher leverage and pressure concentration: 36.9% of chase deliveries reach PI >= P80 compared to 4.7% in the first innings."
+    },
+    {
+      "id": "eligible_player_cohort",
+      "label": "Strict Pressure Sample Thresholds",
+      "value": {
+        "total_eligible": 306,
+        "eligible_batters": 155,
+        "eligible_bowlers": 151
+      },
+      "source_key": "outputs/FROZEN_RANKINGS.json",
+      "text": "Out of 881 batters and 640 bowlers in the historical database, exactly 306 players (155 batters, 151 bowlers) meet the pre-registered minimum exposure threshold of >= 60 pressure deliveries across >= 8 distinct matches."
+    },
+    {
+      "id": "evidence_proven_tier",
+      "label": "Proven Tier Selectivity",
+      "value": {
+        "proven_batters": 7,
+        "proven_bowlers": 2,
+        "median_neff_proven": 136.23
+      },
+      "source_key": "config/model_v1_1.yaml",
+      "text": "Only 7 batters and 2 bowlers satisfied the dual requirement for Proven tier status: posterior P(outperform) >= 95.0% and effective pressure sample size n_eff >= 136.23 (the empirical population median)."
+    },
+    {
+      "id": "largest_clutch_delta_batter",
+      "label": "Top Proven Clutch Batter",
+      "value": {
+        "player_name": "Pathum Nissanka",
+        "clutch_delta": 0.2699,
+        "runs_per_100_balls": 27.0
+      },
+      "source_key": "outputs/FROZEN_RANKINGS.json",
+      "text": "Pathum Nissanka recorded the highest Clutch Delta among Proven batters, elevating his scoring rate by +27.0 runs per 100 balls under high pressure relative to normal match conditions."
+    },
+    {
+      "id": "largest_clutch_delta_bowler",
+      "label": "Top Proven Clutch Bowler",
+      "value": {
+        "player_name": "Sunil Narine",
+        "clutch_delta": -0.0869,
+        "runs_saved_per_over": 0.52
+      },
+      "source_key": "outputs/FROZEN_RANKINGS.json",
+      "text": "Sunil Narine recorded the largest clutch saving among Proven bowlers, conceding 0.52 fewer runs per over under pressure compared to his normal match baseline."
+    },
+    {
+      "id": "ranking_stability",
+      "label": "Ranking Stability Across Sensitivity Grid",
+      "value": {
+        "batters_mean_overlap": 8.8,
+        "bowlers_mean_overlap": 8.4
+      },
+      "source_key": "outputs/site_data/sensitivity/summary.json",
+      "text": "Across 500 joint perturbations of pressure definitions, value metrics, weights, and outlier sigmas, the primary Top 10 retains an average overlap of 8.8/10 for batters and 8.4/10 for bowlers."
+    },
+    {
+      "id": "league_transferability",
+      "label": "IPL to T20I Transferability Divergence",
+      "value": {
+        "batter_spearman_rho": 0.3449,
+        "bowler_spearman_rho": -0.0481
+      },
+      "source_key": "outputs/site_data/transferability.json",
+      "text": "Batting clutch skill displays statistically significant positive transfer between IPL and T20I (Spearman rho = +0.345), whereas bowling clutch value displays near-zero correlation (rho = -0.048), highlighting the outsized influence of ground dimensions and pitch conditions on bowling."
+    },
+    {
+      "id": "hidden_gems_identified",
+      "label": "Concealed Clutch Value (Hidden Gems)",
+      "value": {
+        "gem_batters": 10,
+        "gem_bowlers": 1,
+        "total_gems": 11
+      },
+      "source_key": "outputs/site_data/hidden_gems.json",
+      "text": "The platform uncovered 11 Hidden Gems (10 batters, 1 bowlers) who achieve P(outperform) >= 80% despite falling below median raw volume or conventional strike-rate / economy ranks."
+    },
+    {
+      "id": "target_reconstruction_precision",
+      "label": "Reconstruction Precision Across Competitions",
+      "value": {
+        "ipl_sigma": 1.874,
+        "t20i_sigma": 2.177,
+        "pooled_sigma": 2.0687
+      },
+      "source_key": "config/model_v1_1.yaml",
+      "text": "Bayesian target reconstruction achieves a pooled standard error of 2.0687 runs (IPL sigma = 1.874, T20I sigma = 2.177), well within the pre-registered <= 6.0 SD tolerance."
+    },
+    {
+      "id": "chase_feasibility_validation",
+      "label": "Chase End Feasibility Rate",
+      "value": {
+        "raw_feasible_share_pct": 96.8
+      },
+      "source_key": "reports/phase_02_closure_report.md",
+      "text": "96.8% of eligible non-DLS chases cleanly achieve their official result on or before the final legal delivery, exceeding the strict pre-registered gate of >= 95.0%."
+    }
+  ]
+}

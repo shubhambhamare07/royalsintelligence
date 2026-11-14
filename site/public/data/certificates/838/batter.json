@@ -1,0 +1,45 @@
+{
+  "player_id": "838",
+  "player_name": "Glenn Maxwell",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 46.37,
+  "rating_ci90": [
+    19.43,
+    74.94
+  ],
+  "p_outperform": 0.4146,
+  "top10_inclusion_prob": 0.0171,
+  "rank_ci90": [
+    20,
+    143
+  ],
+  "composite": 0.035,
+  "components": {
+    "PV": {
+      "observed": -0.0596,
+      "adjusted": -0.0596,
+      "z_score": -0.0109,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.1584,
+      "adjusted": -0.1584,
+      "z_score": -0.5972,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.6456,
+      "adjusted": 0.6456,
+      "z_score": 0.7132,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 136,
+    "neff_pressure": 75.66,
+    "n_pressure_matches": 24
+  },
+  "explanation": "Glenn Maxwell generated a pressure value of -5.96 runs/100 balls (Clutch Delta: -15.84) at a 156.6 strike rate with 87.5% consistency across 24 pressure matches (136 balls)."
+}

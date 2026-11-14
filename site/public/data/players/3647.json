@@ -1,0 +1,463 @@
+{
+  "player_id": "3647",
+  "player_name": "Shreyas Iyer",
+  "batting": {
+    "matches": 93,
+    "innings": 93,
+    "not_outs": 19,
+    "runs": 2811,
+    "balls": 1827,
+    "average": 37.99,
+    "strike_rate": 153.86,
+    "highest_score": 102,
+    "fours": 234,
+    "sixes": 134,
+    "dots": 527,
+    "singles": 800,
+    "twos": 125,
+    "threes": 7,
+    "ducks": 3,
+    "thirties": 14,
+    "fifties": 21,
+    "hundreds": 2,
+    "dismissals_by_type": {
+      "Caught": 52,
+      "Bowled": 12,
+      "LBW": 6,
+      "Stump": 2,
+      "Hit Wicket": 1,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 8,
+    "overs": 1.3,
+    "runs_charged": 9.0,
+    "wickets": 0,
+    "economy": 6.75,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 62.5,
+    "boundary_pct": 12.5,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.3,
+        "runs": 9.0,
+        "wickets": 0,
+        "economy": 6.75
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 64.93,
+    "tier": "Promising",
+    "p_outperform": 0.873,
+    "pressure_value_per_100": 16.62,
+    "clutch_delta_per_100": 1.21,
+    "consistency": 0.601
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 54214,
+      "date": "2026-11-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "50 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54213,
+      "date": "2026-10-30",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "22 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54212,
+      "date": "2026-10-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "5 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54211,
+      "date": "2026-10-24",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "7 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -0.43
+    },
+    {
+      "match_id": 54210,
+      "date": "2026-10-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "42 (28)",
+      "bowling_figures": null,
+      "pressure_balls": 23,
+      "pressure_value": 1.24
+    },
+    {
+      "match_id": 50407,
+      "date": "2026-10-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "16 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50406,
+      "date": "2026-10-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50405,
+      "date": "2026-10-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "40 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50404,
+      "date": "2026-10-06",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "102 (43)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": 19.49
+    },
+    {
+      "match_id": 54410,
+      "date": "2026-09-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "29 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54409,
+      "date": "2026-09-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "11 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54408,
+      "date": "2026-09-13",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "8 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50509,
+      "date": "2026-07-26",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "27 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50508,
+      "date": "2026-07-25",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "25 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50507,
+      "date": "2026-07-23",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "28 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45394,
+      "date": "2026-07-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "28 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45393,
+      "date": "2026-07-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "80 (49)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45392,
+      "date": "2026-07-07",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "5 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45391,
+      "date": "2026-07-04",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "37 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45390,
+      "date": "2026-07-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "68 (47)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50341,
+      "date": "2026-06-28",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "10 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": -18.46
+    },
+    {
+      "match_id": 50340,
+      "date": "2026-06-26",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "3 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -22.54
+    },
+    {
+      "match_id": 50389,
+      "date": "2026-05-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "101 (51)",
+      "bowling_figures": null,
+      "pressure_balls": 31,
+      "pressure_value": 23.73
+    },
+    {
+      "match_id": 50382,
+      "date": "2026-05-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50379,
+      "date": "2026-05-14",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "4 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50376,
+      "date": "2026-05-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "59 (36)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": 1.33
+    },
+    {
+      "match_id": 50370,
+      "date": "2026-05-06",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "5 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50367,
+      "date": "2026-05-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "19 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50361,
+      "date": "2026-04-28",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "30 (27)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": -6.39
+    },
+    {
+      "match_id": 50356,
+      "date": "2026-04-25",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "71 (36)",
+      "bowling_figures": null,
+      "pressure_balls": 33,
+      "pressure_value": 24.45
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 3647,
+      "player_name": "Shreyas Iyer",
+      "role": "batter",
+      "match_id": 14160,
+      "n_balls": 9,
+      "match_runs": 11,
+      "match_pressure_value": 0.1649,
+      "career_expected_value": 0.5403,
+      "z_score": -5.48,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3647,
+      "player_name": "Shreyas Iyer",
+      "role": "batter",
+      "match_id": 54210,
+      "n_balls": 23,
+      "match_runs": 37,
+      "match_pressure_value": 0.3162,
+      "career_expected_value": 0.5403,
+      "z_score": -5.23,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3647,
+      "player_name": "Shreyas Iyer",
+      "role": "batter",
+      "match_id": 50141,
+      "n_balls": 22,
+      "match_runs": 43,
+      "match_pressure_value": 0.7687,
+      "career_expected_value": 0.5403,
+      "z_score": 5.21,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3647,
+      "player_name": "Shreyas Iyer",
+      "role": "batter",
+      "match_id": 50131,
+      "n_balls": 18,
+      "match_runs": 35,
+      "match_pressure_value": 0.7724,
+      "career_expected_value": 0.5403,
+      "z_score": 4.79,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3647,
+      "player_name": "Shreyas Iyer",
+      "role": "batter",
+      "match_id": 40742,
+      "n_balls": 37,
+      "match_runs": 66,
+      "match_pressure_value": 0.7005,
+      "career_expected_value": 0.5403,
+      "z_score": 4.74,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3647,
+      "player_name": "Shreyas Iyer",
+      "role": "batter",
+      "match_id": 14123,
+      "n_balls": 27,
+      "match_runs": 46,
+      "match_pressure_value": 0.3677,
+      "career_expected_value": 0.5403,
+      "z_score": -4.36,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3647,
+      "player_name": "Shreyas Iyer",
+      "role": "batter",
+      "match_id": 54211,
+      "n_balls": 8,
+      "match_runs": 5,
+      "match_pressure_value": 0.2808,
+      "career_expected_value": 0.5403,
+      "z_score": -3.57,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3647,
+      "player_name": "Shreyas Iyer",
+      "role": "batter",
+      "match_id": 16064,
+      "n_balls": 11,
+      "match_runs": 9,
+      "match_pressure_value": 0.7294,
+      "career_expected_value": 0.5403,
+      "z_score": 3.05,
+      "direction": "positive"
+    }
+  ]
+}

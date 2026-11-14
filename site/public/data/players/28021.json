@@ -1,0 +1,97 @@
+{
+  "player_id": "28021",
+  "player_name": "Saurabh Dubey",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 4,
+    "balls": 2,
+    "average": 4.0,
+    "strike_rate": 200.0,
+    "highest_score": 4,
+    "fours": 1,
+    "sixes": 0,
+    "dots": 1,
+    "singles": 0,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 4,
+    "legal_balls": 77,
+    "overs": 12.8,
+    "runs_charged": 102.0,
+    "wickets": 5,
+    "economy": 7.95,
+    "average": 20.4,
+    "strike_rate": 15.4,
+    "dot_pct": 47.13,
+    "boundary_pct": 17.24,
+    "wides": 10,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 4.2,
+        "runs": 44.0,
+        "wickets": 2,
+        "economy": 10.56
+      },
+      "powerplay": {
+        "overs": 8.7,
+        "runs": 58.0,
+        "wickets": 3,
+        "economy": 6.69
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50391,
+      "date": "2026-05-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "4 (2)",
+      "bowling_figures": "2/28 (4.0)",
+      "pressure_balls": 14,
+      "pressure_value": 2.9
+    },
+    {
+      "match_id": 50386,
+      "date": "2026-05-20",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/34 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50381,
+      "date": "2026-05-16",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/19 (2.7)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50378,
+      "date": "2026-05-13",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/21 (2.2)",
+      "pressure_balls": 11,
+      "pressure_value": -5.46
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "match_id": 40701,
+  "competition_kind": "IPL",
+  "calendar_year": 2025,
+  "result": "Royal Challengers Bengaluru Won by 50 runs",
+  "innings_totals": {
+    "innings_1": 197.0,
+    "innings_1_sigma": 1.91,
+    "innings_2": 147.1
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 6
+    },
+    "2": {
+      "Elevated": 7,
+      "High": 5
+    },
+    "3": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "5": {
+      "Elevated": 7,
+      "Normal": 7
+    },
+    "6": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "7": {
+      "Normal": 8,
+      "Elevated": 4
+    },
+    "8": {
+      "Normal": 13
+    },
+    "9": {
+      "Normal": 13
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "12": {
+      "Normal": 12
+    },
+    "13": {
+      "Normal": 8,
+      "Elevated": 4
+    },
+    "14": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "16": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "17": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "18": {
+      "Normal": 7,
+      "Elevated": 4,
+      "High": 2
+    },
+    "19": {
+      "High": 7,
+      "Normal": 6
+    },
+    "20": {
+      "High": 7,
+      "Normal": 6
+    }
+  },
+  "turning_point_count": 5
+}

@@ -1,0 +1,93 @@
+{
+  "player_id": "4695",
+  "player_name": "Nick Kelly",
+  "batting": {
+    "matches": 6,
+    "innings": 6,
+    "not_outs": 1,
+    "runs": 96,
+    "balls": 83,
+    "average": 19.2,
+    "strike_rate": 115.66,
+    "highest_score": 39,
+    "fours": 12,
+    "sixes": 1,
+    "dots": 32,
+    "singles": 34,
+    "twos": 4,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 3,
+      "Caught": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50188,
+      "date": "2026-04-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "39 (27)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": 2.23
+    },
+    {
+      "match_id": 49740,
+      "date": "2026-03-25",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "14 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 11,
+      "pressure_value": -1.64
+    },
+    {
+      "match_id": 49739,
+      "date": "2026-03-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "19 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 15,
+      "pressure_value": -10.73
+    },
+    {
+      "match_id": 49738,
+      "date": "2026-03-20",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 49737,
+      "date": "2026-03-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "21 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 49736,
+      "date": "2026-03-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "2 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

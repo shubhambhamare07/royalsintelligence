@@ -1,0 +1,108 @@
+{
+  "match_id": 14121,
+  "competition_kind": "IPL",
+  "calendar_year": 2022,
+  "result": "Sunrisers Hyderabad won by 7 wicket",
+  "innings_totals": {
+    "innings_1": 147.3,
+    "innings_1_sigma": 2.02,
+    "innings_2": 148.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "2": {
+      "Elevated": 10,
+      "High": 2
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "6": {
+      "Normal": 6,
+      "High": 6
+    },
+    "7": {
+      "Normal": 6,
+      "Elevated": 6,
+      "High": 1
+    },
+    "8": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "9": {
+      "Normal": 8,
+      "High": 4
+    },
+    "10": {
+      "Normal": 6,
+      "High": 3,
+      "Elevated": 3
+    },
+    "11": {
+      "Normal": 6,
+      "High": 5,
+      "Elevated": 1
+    },
+    "12": {
+      "High": 7,
+      "Normal": 6
+    },
+    "13": {
+      "Normal": 7,
+      "High": 6
+    },
+    "14": {
+      "High": 6,
+      "Normal": 3,
+      "Elevated": 3
+    },
+    "15": {
+      "Elevated": 10,
+      "High": 3
+    },
+    "16": {
+      "Elevated": 10,
+      "High": 7
+    },
+    "17": {
+      "Elevated": 7,
+      "High": 3,
+      "Normal": 2
+    },
+    "18": {
+      "High": 9,
+      "Normal": 2,
+      "Elevated": 1
+    },
+    "19": {
+      "High": 9,
+      "Elevated": 1,
+      "Normal": 1
+    },
+    "20": {
+      "High": 4,
+      "Elevated": 2
+    }
+  },
+  "turning_point_count": 5
+}

@@ -1,0 +1,404 @@
+{
+  "player_id": "2003",
+  "player_name": "Bhanuka Rajapaksa",
+  "batting": {
+    "matches": 30,
+    "innings": 30,
+    "not_outs": 6,
+    "runs": 526,
+    "balls": 389,
+    "average": 21.92,
+    "strike_rate": 135.22,
+    "highest_score": 71,
+    "fours": 42,
+    "sixes": 24,
+    "dots": 140,
+    "singles": 154,
+    "twos": 27,
+    "threes": 2,
+    "ducks": 2,
+    "thirties": 6,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 16,
+      "Bowled": 5,
+      "LBW": 2,
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 46.84,
+    "tier": "Unproven",
+    "p_outperform": 0.4262,
+    "pressure_value_per_100": -3.53,
+    "clutch_delta_per_100": -3.78,
+    "consistency": 0.5786
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 47977,
+      "date": "2025-11-20",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "11 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": 0.99
+    },
+    {
+      "match_id": 38634,
+      "date": "2025-01-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "6 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 38632,
+      "date": "2024-12-28",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "8 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -0.28
+    },
+    {
+      "match_id": 37895,
+      "date": "2024-11-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "15 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 1.09
+    },
+    {
+      "match_id": 37894,
+      "date": "2024-11-09",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "4 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37554,
+      "date": "2024-10-15",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "5 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": -7.93
+    },
+    {
+      "match_id": 37553,
+      "date": "2024-10-13",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "17 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20233,
+      "date": "2023-05-08",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "0 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20198,
+      "date": "2023-04-13",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "20 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20188,
+      "date": "2023-04-05",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "1 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 19557,
+      "date": "2023-01-05",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "2 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 19556,
+      "date": "2023-01-03",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "10 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16665,
+      "date": "2022-09-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "71 (45)",
+      "bowling_figures": null,
+      "pressure_balls": 11,
+      "pressure_value": 4.19
+    },
+    {
+      "match_id": 16664,
+      "date": "2022-09-09",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "24 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16661,
+      "date": "2022-09-06",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "25 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": 3.11
+    },
+    {
+      "match_id": 16659,
+      "date": "2022-09-03",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "31 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": 13.77
+    },
+    {
+      "match_id": 16657,
+      "date": "2022-09-01",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -13.23
+    },
+    {
+      "match_id": 16653,
+      "date": "2022-08-27",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "38 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15460,
+      "date": "2022-06-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "17 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": -8.99
+    },
+    {
+      "match_id": 15459,
+      "date": "2022-06-08",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "13 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15458,
+      "date": "2022-06-07",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14158,
+      "date": "2022-05-16",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "4 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -2.68
+    },
+    {
+      "match_id": 14154,
+      "date": "2022-05-13",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "1 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14146,
+      "date": "2022-05-07",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "27 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14142,
+      "date": "2022-05-03",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "40 (28)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": 6.62
+    },
+    {
+      "match_id": 14135,
+      "date": "2022-04-29",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "9 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -6.72
+    },
+    {
+      "match_id": 14131,
+      "date": "2022-04-25",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "42 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14104,
+      "date": "2022-04-03",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "9 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14101,
+      "date": "2022-04-01",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "31 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14096,
+      "date": "2022-03-27",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "43 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 20,
+      "pressure_value": 10.78
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 2003,
+      "player_name": "Bhanuka Rajapaksa",
+      "role": "batter",
+      "match_id": 15460,
+      "n_balls": 12,
+      "match_runs": 11,
+      "match_pressure_value": 0.2957,
+      "career_expected_value": 0.4841,
+      "z_score": -3.17,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2003,
+      "player_name": "Bhanuka Rajapaksa",
+      "role": "batter",
+      "match_id": 47977,
+      "n_balls": 5,
+      "match_runs": 0,
+      "match_pressure_value": 0.2157,
+      "career_expected_value": 0.4841,
+      "z_score": -2.92,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2003,
+      "player_name": "Bhanuka Rajapaksa",
+      "role": "batter",
+      "match_id": 14135,
+      "n_balls": 7,
+      "match_runs": 9,
+      "match_pressure_value": 0.7033,
+      "career_expected_value": 0.4841,
+      "z_score": 2.82,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2003,
+      "player_name": "Bhanuka Rajapaksa",
+      "role": "batter",
+      "match_id": 14142,
+      "n_balls": 5,
+      "match_runs": 9,
+      "match_pressure_value": 0.7321,
+      "career_expected_value": 0.4841,
+      "z_score": 2.7,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2003,
+      "player_name": "Bhanuka Rajapaksa",
+      "role": "batter",
+      "match_id": 16659,
+      "n_balls": 10,
+      "match_runs": 24,
+      "match_pressure_value": 0.6482,
+      "career_expected_value": 0.4841,
+      "z_score": 2.52,
+      "direction": "positive"
+    }
+  ]
+}

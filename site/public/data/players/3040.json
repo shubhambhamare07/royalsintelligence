@@ -1,0 +1,79 @@
+{
+  "player_id": "3040",
+  "player_name": "Kashif Daud",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 1,
+    "balls": 2,
+    "average": 1.0,
+    "strike_rate": 50.0,
+    "highest_score": 1,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 1,
+    "singles": 1,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 11,
+    "overs": 1.8,
+    "runs_charged": 21.0,
+    "wickets": 0,
+    "economy": 11.45,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 27.27,
+    "boundary_pct": 27.27,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 0.8,
+        "runs": 12.0,
+        "wickets": 0,
+        "economy": 14.4
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 9.0,
+        "wickets": 0,
+        "economy": 9.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16866,
+      "date": "2022-08-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16863,
+      "date": "2022-08-21",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/21 (1.8)",
+      "pressure_balls": 11,
+      "pressure_value": -11.36
+    }
+  ]
+}

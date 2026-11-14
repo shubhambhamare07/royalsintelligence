@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="30" height="20">
+  <rect width="1000" height="500" fill="#FFBE29"/>
+  <rect x="30" y="30" width="940" height="440" fill="#000000" opacity="0.1"/>
+  <rect x="60" y="40" width="130" height="420" fill="#005A36"/>
+  <rect x="210" y="40" width="130" height="420" fill="#EB7400"/>
+  <rect x="360" y="40" width="580" height="420" fill="#8D153A"/>
+  <!-- Lion symbol stylized -->
+  <circle cx="650" cy="230" r="80" fill="#FFBE29"/>
+  <path d="M 600,280 Q 650,220 700,280 L 680,320 L 620,320 Z" fill="#FFBE29"/>
+  <rect x="710" y="190" width="10" height="80" fill="#FFBE29" transform="rotate(30 710 190)"/>
+  <!-- Corner leaves -->
+  <polygon points="380,60 410,70 390,100" fill="#FFBE29"/>
+  <polygon points="920,60 890,70 910,100" fill="#FFBE29"/>
+  <polygon points="380,440 410,430 390,400" fill="#FFBE29"/>
+  <polygon points="920,440 890,430 910,400" fill="#FFBE29"/>
+</svg>

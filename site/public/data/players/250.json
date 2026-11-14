@@ -1,0 +1,215 @@
+{
+  "player_id": "250",
+  "player_name": "Aaron Finch",
+  "batting": {
+    "matches": 18,
+    "innings": 18,
+    "not_outs": 1,
+    "runs": 397,
+    "balls": 318,
+    "average": 23.35,
+    "strike_rate": 124.84,
+    "highest_score": 61,
+    "fours": 42,
+    "sixes": 9,
+    "dots": 127,
+    "singles": 107,
+    "twos": 31,
+    "threes": 2,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 3,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 11,
+      "Bowled": 4,
+      "Stump": 1,
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 17764,
+      "date": "2022-10-12",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "13 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": -6.1
+    },
+    {
+      "match_id": 17763,
+      "date": "2022-10-09",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "12 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -2.67
+    },
+    {
+      "match_id": 17641,
+      "date": "2022-10-07",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "15 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17640,
+      "date": "2022-10-05",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "58 (53)",
+      "bowling_figures": null,
+      "pressure_balls": 42,
+      "pressure_value": 14.17
+    },
+    {
+      "match_id": 17396,
+      "date": "2022-09-25",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "7 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17394,
+      "date": "2022-09-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "22 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -5.55
+    },
+    {
+      "match_id": 15460,
+      "date": "2022-06-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "29 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15459,
+      "date": "2022-06-08",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "24 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15458,
+      "date": "2022-06-07",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "61 (40)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14147,
+      "date": "2022-05-07",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "14 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14141,
+      "date": "2022-05-02",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "4 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -10.48
+    },
+    {
+      "match_id": 14134,
+      "date": "2022-04-28",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "3 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14123,
+      "date": "2022-04-18",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "58 (28)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -0.76
+    },
+    {
+      "match_id": 14118,
+      "date": "2022-04-15",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "7 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13616,
+      "date": "2022-02-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "8 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13615,
+      "date": "2022-02-18",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "2 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": -7.2
+    },
+    {
+      "match_id": 13614,
+      "date": "2022-02-15",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "35 (36)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13613,
+      "date": "2022-02-13",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "25 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

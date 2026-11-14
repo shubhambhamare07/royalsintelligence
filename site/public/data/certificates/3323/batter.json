@@ -1,0 +1,45 @@
+{
+  "player_id": "3323",
+  "player_name": "Jimmy Neesham",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 60.94,
+  "rating_ci90": [
+    34.23,
+    87.98
+  ],
+  "p_outperform": 0.7494,
+  "top10_inclusion_prob": 0.0903,
+  "rank_ci90": [
+    7,
+    119
+  ],
+  "composite": 0.4754,
+  "components": {
+    "PV": {
+      "observed": 0.0622,
+      "adjusted": 0.0622,
+      "z_score": 0.6726,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": 0.0652,
+      "adjusted": 0.0652,
+      "z_score": 0.5879,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.5956,
+      "adjusted": 0.5956,
+      "z_score": 0.1658,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 70,
+    "neff_pressure": 68.38,
+    "n_pressure_matches": 11
+  },
+  "explanation": "Jimmy Neesham generated a pressure value of +6.22 runs/100 balls (Clutch Delta: +6.52) at a 187.1 strike rate with 66.7% consistency across 11 pressure matches (70 balls)."
+}

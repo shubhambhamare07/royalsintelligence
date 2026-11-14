@@ -1,0 +1,338 @@
+{
+  "player_id": "7250",
+  "player_name": "Mukesh Choudhary",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 3,
+    "runs": 8,
+    "balls": 8,
+    "average": 8.0,
+    "strike_rate": 100.0,
+    "highest_score": 4,
+    "fours": 1,
+    "sixes": 0,
+    "dots": 4,
+    "singles": 2,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 24,
+    "legal_balls": 483,
+    "overs": 80.5,
+    "runs_charged": 771.0,
+    "wickets": 25,
+    "economy": 9.58,
+    "average": 30.84,
+    "strike_rate": 19.32,
+    "dot_pct": 39.84,
+    "boundary_pct": 23.05,
+    "wides": 28,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 13.5,
+        "runs": 169.0,
+        "wickets": 4,
+        "economy": 12.52
+      },
+      "middle": {
+        "overs": 12.0,
+        "runs": 106.0,
+        "wickets": 4,
+        "economy": 8.83
+      },
+      "powerplay": {
+        "overs": 55.0,
+        "runs": 496.0,
+        "wickets": 17,
+        "economy": 9.02
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 52.76,
+    "tier": "Unproven",
+    "p_outperform": 0.5059,
+    "pressure_value_per_6": 0.01,
+    "clutch_delta_per_6": 0.04,
+    "consistency": 0.4585
+  },
+  "recent_matches": [
+    {
+      "match_id": 50387,
+      "date": "2026-05-21",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (2)",
+      "bowling_figures": "1/36 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50384,
+      "date": "2026-05-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/36 (4.0)",
+      "pressure_balls": 21,
+      "pressure_value": 6.39
+    },
+    {
+      "match_id": 50380,
+      "date": "2026-05-15",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/24 (3.0)",
+      "pressure_balls": 7,
+      "pressure_value": -5.5
+    },
+    {
+      "match_id": 50374,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/45 (4.0)",
+      "pressure_balls": 5,
+      "pressure_value": -2.41
+    },
+    {
+      "match_id": 50369,
+      "date": "2026-05-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50365,
+      "date": "2026-05-02",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/25 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50354,
+      "date": "2026-04-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50348,
+      "date": "2026-04-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/21 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40715,
+      "date": "2025-04-08",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/21 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40710,
+      "date": "2025-04-05",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/50 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -3.69
+    },
+    {
+      "match_id": 30073,
+      "date": "2024-04-05",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/27 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14162,
+      "date": "2022-05-20",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/41 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -2.59
+    },
+    {
+      "match_id": 14156,
+      "date": "2022-05-15",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/28 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14153,
+      "date": "2022-05-12",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "4 (4)",
+      "bowling_figures": "3/23 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14149,
+      "date": "2022-05-08",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "2/22 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14143,
+      "date": "2022-05-04",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/30 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14140,
+      "date": "2022-05-01",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "4/46 (4.0)",
+      "pressure_balls": 5,
+      "pressure_value": 6.16
+    },
+    {
+      "match_id": 14131,
+      "date": "2022-04-25",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/36 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14126,
+      "date": "2022-04-21",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "3/19 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14122,
+      "date": "2022-04-17",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/18 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": 17.96
+    },
+    {
+      "match_id": 14115,
+      "date": "2022-04-12",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/40 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14110,
+      "date": "2022-04-09",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/30 (4.0)",
+      "pressure_balls": 11,
+      "pressure_value": -3.88
+    },
+    {
+      "match_id": 14104,
+      "date": "2022-04-03",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "2 (2)",
+      "bowling_figures": "1/52 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14100,
+      "date": "2022-03-31",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/39 (3.5)",
+      "pressure_balls": 7,
+      "pressure_value": -4.09
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 7250,
+      "player_name": "Mukesh Choudhary",
+      "role": "bowler",
+      "match_id": 14140,
+      "n_balls": 5,
+      "match_runs_conceded": 6,
+      "match_wickets": 1,
+      "match_pressure_value": 0.6682,
+      "career_expected_value": 0.3729,
+      "z_score": 3.21,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7250,
+      "player_name": "Mukesh Choudhary",
+      "role": "bowler",
+      "match_id": 50384,
+      "n_balls": 21,
+      "match_runs_conceded": 30,
+      "match_wickets": 2,
+      "match_pressure_value": 0.2464,
+      "career_expected_value": 0.3729,
+      "z_score": -2.82,
+      "direction": "negative"
+    }
+  ]
+}

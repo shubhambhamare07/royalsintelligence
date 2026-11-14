@@ -1,0 +1,90 @@
+{
+  "match_id": 16658,
+  "competition_kind": "T20I",
+  "calendar_year": 2022,
+  "result": "Pakistan Won by 155 Runs",
+  "innings_totals": {
+    "innings_1": 186.2,
+    "innings_1_sigma": 3.39,
+    "innings_2": 33.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.39
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Elevated": 8,
+      "Normal": 5
+    },
+    "2": {
+      "Elevated": 9,
+      "High": 3
+    },
+    "3": {
+      "Elevated": 6,
+      "Normal": 5,
+      "High": 2
+    },
+    "4": {
+      "Elevated": 8,
+      "Normal": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "6": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "7": {
+      "Normal": 14
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 13
+    },
+    "11": {
+      "Elevated": 6,
+      "Normal": 4
+    },
+    "12": {
+      "Elevated": 7
+    },
+    "13": {
+      "Elevated": 6
+    },
+    "14": {
+      "Elevated": 6
+    },
+    "15": {
+      "High": 5,
+      "Elevated": 1
+    },
+    "16": {
+      "High": 6
+    },
+    "17": {
+      "Elevated": 6
+    },
+    "18": {
+      "Elevated": 10
+    },
+    "19": {
+      "High": 6
+    },
+    "20": {
+      "High": 7
+    }
+  },
+  "turning_point_count": 5
+}

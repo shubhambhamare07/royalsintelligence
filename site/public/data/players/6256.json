@@ -1,0 +1,518 @@
+{
+  "player_id": "6256",
+  "player_name": "Varun Chakravarthy",
+  "batting": {
+    "matches": 14,
+    "innings": 14,
+    "not_outs": 9,
+    "runs": 26,
+    "balls": 49,
+    "average": 5.2,
+    "strike_rate": 53.06,
+    "highest_score": 10,
+    "fours": 4,
+    "sixes": 0,
+    "dots": 35,
+    "singles": 10,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 3,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "Bowled": 2
+    }
+  },
+  "bowling": {
+    "matches": 94,
+    "legal_balls": 2104,
+    "overs": 350.7,
+    "runs_charged": 2810.0,
+    "wickets": 134,
+    "economy": 8.01,
+    "average": 20.97,
+    "strike_rate": 15.7,
+    "dot_pct": 38.25,
+    "boundary_pct": 15.86,
+    "wides": 46,
+    "no_balls": 7,
+    "phase_splits": {
+      "death": {
+        "overs": 51.7,
+        "runs": 439.0,
+        "wickets": 23,
+        "economy": 8.5
+      },
+      "middle": {
+        "overs": 241.0,
+        "runs": 1910.0,
+        "wickets": 93,
+        "economy": 7.93
+      },
+      "powerplay": {
+        "overs": 58.0,
+        "runs": 461.0,
+        "wickets": 18,
+        "economy": 7.95
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 56.65,
+    "tier": "Promising",
+    "p_outperform": 0.8218,
+    "pressure_value_per_6": 0.46,
+    "clutch_delta_per_6": -0.62,
+    "consistency": 0.4432
+  },
+  "recent_matches": [
+    {
+      "match_id": 54214,
+      "date": "2026-11-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/45 (4.0)",
+      "pressure_balls": 15,
+      "pressure_value": -0.56
+    },
+    {
+      "match_id": 54408,
+      "date": "2026-09-13",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/16 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45392,
+      "date": "2026-07-07",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "5 (7)",
+      "bowling_figures": "0/35 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45391,
+      "date": "2026-07-04",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/37 (4.0)",
+      "pressure_balls": 24,
+      "pressure_value": -3.23
+    },
+    {
+      "match_id": 50391,
+      "date": "2026-05-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "5 (5)",
+      "bowling_figures": "1/35 (4.0)",
+      "pressure_balls": 2,
+      "pressure_value": -8.6
+    },
+    {
+      "match_id": 50386,
+      "date": "2026-05-20",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/28 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50381,
+      "date": "2026-05-16",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/47 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50372,
+      "date": "2026-05-08",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/28 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50366,
+      "date": "2026-05-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "3/36 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50359,
+      "date": "2026-04-26",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/33 (4.0)",
+      "pressure_balls": 13,
+      "pressure_value": 5.44
+    },
+    {
+      "match_id": 50349,
+      "date": "2026-04-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "3/14 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50346,
+      "date": "2026-04-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/34 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50343,
+      "date": "2026-04-14",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/26 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50130,
+      "date": "2026-04-02",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/31 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50126,
+      "date": "2026-03-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/48 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": -4.17
+    },
+    {
+      "match_id": 48595,
+      "date": "2026-01-31",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/36 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48592,
+      "date": "2026-01-23",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/35 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48591,
+      "date": "2026-01-21",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/37 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42031,
+      "date": "2025-12-19",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "4/53 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42029,
+      "date": "2025-12-14",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/11 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42028,
+      "date": "2025-12-11",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "2/29 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42027,
+      "date": "2025-12-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/19 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": -12.17
+    },
+    {
+      "match_id": 41978,
+      "date": "2025-11-06",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "1/26 (4.0)",
+      "pressure_balls": 18,
+      "pressure_value": -0.44
+    },
+    {
+      "match_id": 41977,
+      "date": "2025-11-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/33 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41976,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "2/23 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45513,
+      "date": "2025-09-28",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/30 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -2.15
+    },
+    {
+      "match_id": 45512,
+      "date": "2025-09-26",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 24,
+      "pressure_value": 5.91
+    },
+    {
+      "match_id": 45510,
+      "date": "2025-09-24",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/29 (4.0)",
+      "pressure_balls": 8,
+      "pressure_value": -0.2
+    },
+    {
+      "match_id": 45508,
+      "date": "2025-09-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/25 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45500,
+      "date": "2025-09-14",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/24 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 6256,
+      "player_name": "Varun Chakravarthy",
+      "role": "bowler",
+      "match_id": 14099,
+      "n_balls": 16,
+      "match_runs_conceded": 27,
+      "match_wickets": 1,
+      "match_pressure_value": 0.2624,
+      "career_expected_value": 0.506,
+      "z_score": -4.74,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6256,
+      "player_name": "Varun Chakravarthy",
+      "role": "bowler",
+      "match_id": 14150,
+      "n_balls": 17,
+      "match_runs_conceded": 16,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7208,
+      "career_expected_value": 0.506,
+      "z_score": 4.3,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6256,
+      "player_name": "Varun Chakravarthy",
+      "role": "bowler",
+      "match_id": 20216,
+      "n_balls": 12,
+      "match_runs_conceded": 18,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7546,
+      "career_expected_value": 0.506,
+      "z_score": 4.19,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6256,
+      "player_name": "Varun Chakravarthy",
+      "role": "bowler",
+      "match_id": 45512,
+      "n_balls": 24,
+      "match_runs_conceded": 31,
+      "match_wickets": 1,
+      "match_pressure_value": 0.3321,
+      "career_expected_value": 0.506,
+      "z_score": -4.14,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6256,
+      "player_name": "Varun Chakravarthy",
+      "role": "bowler",
+      "match_id": 31250,
+      "n_balls": 6,
+      "match_runs_conceded": 9,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2318,
+      "career_expected_value": 0.506,
+      "z_score": -3.26,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6256,
+      "player_name": "Varun Chakravarthy",
+      "role": "bowler",
+      "match_id": 50126,
+      "n_balls": 12,
+      "match_runs_conceded": 23,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3136,
+      "career_expected_value": 0.506,
+      "z_score": -3.24,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6256,
+      "player_name": "Varun Chakravarthy",
+      "role": "bowler",
+      "match_id": 31254,
+      "n_balls": 15,
+      "match_runs_conceded": 19,
+      "match_wickets": 0,
+      "match_pressure_value": 0.6739,
+      "career_expected_value": 0.506,
+      "z_score": 3.16,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6256,
+      "player_name": "Varun Chakravarthy",
+      "role": "bowler",
+      "match_id": 20219,
+      "n_balls": 19,
+      "match_runs_conceded": 28,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3673,
+      "career_expected_value": 0.506,
+      "z_score": -2.94,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6256,
+      "player_name": "Varun Chakravarthy",
+      "role": "bowler",
+      "match_id": 45391,
+      "n_balls": 24,
+      "match_runs_conceded": 37,
+      "match_wickets": 1,
+      "match_pressure_value": 0.6284,
+      "career_expected_value": 0.506,
+      "z_score": 2.91,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6256,
+      "player_name": "Varun Chakravarthy",
+      "role": "bowler",
+      "match_id": 42027,
+      "n_balls": 6,
+      "match_runs_conceded": 12,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7467,
+      "career_expected_value": 0.506,
+      "z_score": 2.87,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6256,
+      "player_name": "Varun Chakravarthy",
+      "role": "bowler",
+      "match_id": 40746,
+      "n_balls": 8,
+      "match_runs_conceded": 10,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7046,
+      "career_expected_value": 0.506,
+      "z_score": 2.73,
+      "direction": "positive"
+    }
+  ]
+}

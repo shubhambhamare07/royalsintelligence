@@ -1,0 +1,303 @@
+{
+  "player_id": "6160",
+  "player_name": "Chamika Karunaratne",
+  "batting": {
+    "matches": 16,
+    "innings": 16,
+    "not_outs": 9,
+    "runs": 155,
+    "balls": 150,
+    "average": 22.14,
+    "strike_rate": 103.33,
+    "highest_score": 31,
+    "fours": 12,
+    "sixes": 5,
+    "dots": 67,
+    "singles": 55,
+    "twos": 11,
+    "threes": 0,
+    "ducks": 4,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4,
+      "RunOut": 1,
+      "Bowled": 1,
+      "LBW": 1
+    }
+  },
+  "bowling": {
+    "matches": 19,
+    "legal_balls": 312,
+    "overs": 52.0,
+    "runs_charged": 464.0,
+    "wickets": 11,
+    "economy": 8.92,
+    "average": 42.18,
+    "strike_rate": 28.36,
+    "dot_pct": 26.23,
+    "boundary_pct": 16.05,
+    "wides": 12,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 9.2,
+        "runs": 95.0,
+        "wickets": 5,
+        "economy": 10.36
+      },
+      "middle": {
+        "overs": 33.0,
+        "runs": 289.0,
+        "wickets": 3,
+        "economy": 8.76
+      },
+      "powerplay": {
+        "overs": 9.8,
+        "runs": 80.0,
+        "wickets": 3,
+        "economy": 8.14
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 43.59,
+    "tier": "Unproven",
+    "p_outperform": 0.205,
+    "pressure_value_per_6": -0.45,
+    "clutch_delta_per_6": 0.71,
+    "consistency": 0.4552
+  },
+  "recent_matches": [
+    {
+      "match_id": 45509,
+      "date": "2025-09-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "17 (21)",
+      "bowling_figures": "0/11 (1.0)",
+      "pressure_balls": 8,
+      "pressure_value": -5.25
+    },
+    {
+      "match_id": 43594,
+      "date": "2025-07-13",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "0/18 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 43592,
+      "date": "2025-07-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/8 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21176,
+      "date": "2023-04-02",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/36 (3.0)",
+      "pressure_balls": 2,
+      "pressure_value": -7.5
+    },
+    {
+      "match_id": 19558,
+      "date": "2023-01-07",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "1/52 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 19557,
+      "date": "2023-01-05",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "11 (10)",
+      "bowling_figures": "1/41 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 19556,
+      "date": "2023-01-03",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "23 (16)",
+      "bowling_figures": "1/22 (3.0)",
+      "pressure_balls": 13,
+      "pressure_value": 8.34
+    },
+    {
+      "match_id": 16665,
+      "date": "2022-09-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "14 (14)",
+      "bowling_figures": "2/33 (4.0)",
+      "pressure_balls": 9,
+      "pressure_value": 0.13
+    },
+    {
+      "match_id": 16664,
+      "date": "2022-09-09",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/4 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16661,
+      "date": "2022-09-06",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "2/27 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -3.21
+    },
+    {
+      "match_id": 16659,
+      "date": "2022-09-03",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "5 (2)",
+      "bowling_figures": "0/25 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16657,
+      "date": "2022-09-01",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "16 (10)",
+      "bowling_figures": "2/32 (4.0)",
+      "pressure_balls": 15,
+      "pressure_value": 3.62
+    },
+    {
+      "match_id": 16653,
+      "date": "2022-08-27",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "31 (38)",
+      "bowling_figures": "0/20 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15460,
+      "date": "2022-06-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "14 (10)",
+      "bowling_figures": "0/19 (3.0)",
+      "pressure_balls": 9,
+      "pressure_value": 0.42
+    },
+    {
+      "match_id": 15459,
+      "date": "2022-06-08",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15458,
+      "date": "2022-06-07",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "0/13 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13616,
+      "date": "2022-02-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": 4.79
+    },
+    {
+      "match_id": 13615,
+      "date": "2022-02-18",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "14 (7)",
+      "bowling_figures": "0/22 (2.2)",
+      "pressure_balls": 12,
+      "pressure_value": -6.7
+    },
+    {
+      "match_id": 13614,
+      "date": "2022-02-15",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "8 (11)",
+      "bowling_figures": "0/22 (2.8)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13613,
+      "date": "2022-02-13",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "0/28 (4.0)",
+      "pressure_balls": 10,
+      "pressure_value": 7.73
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 6160,
+      "player_name": "Chamika Karunaratne",
+      "role": "bowler",
+      "match_id": 16665,
+      "n_balls": 6,
+      "match_runs_conceded": 6,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8169,
+      "career_expected_value": 0.4596,
+      "z_score": 4.25,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6160,
+      "player_name": "Chamika Karunaratne",
+      "role": "bowler",
+      "match_id": 13615,
+      "n_balls": 12,
+      "match_runs_conceded": 18,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2881,
+      "career_expected_value": 0.4596,
+      "z_score": -2.89,
+      "direction": "negative"
+    }
+  ]
+}

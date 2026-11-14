@@ -1,0 +1,103 @@
+{
+  "match_id": 50355,
+  "competition_kind": "IPL",
+  "calendar_year": 2026,
+  "result": "Royal Challengers Bengaluru Won by 5 wickets",
+  "innings_totals": {
+    "innings_1": 204.6,
+    "innings_1_sigma": 2.02,
+    "innings_2": 206.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 6
+    },
+    "2": {
+      "Elevated": 7,
+      "High": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "5": {
+      "Extreme": 5,
+      "High": 4,
+      "Elevated": 3
+    },
+    "6": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "7": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "8": {
+      "High": 6,
+      "Elevated": 3,
+      "Normal": 3
+    },
+    "9": {
+      "Normal": 7,
+      "High": 6
+    },
+    "10": {
+      "Normal": 11,
+      "Elevated": 3
+    },
+    "11": {
+      "Normal": 12
+    },
+    "12": {
+      "Normal": 12
+    },
+    "13": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "14": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "16": {
+      "Elevated": 7,
+      "Normal": 5
+    },
+    "17": {
+      "Normal": 5,
+      "High": 5,
+      "Elevated": 2,
+      "Extreme": 1
+    },
+    "18": {
+      "Elevated": 5,
+      "Normal": 5,
+      "High": 2
+    },
+    "19": {
+      "High": 6,
+      "Normal": 5
+    },
+    "20": {
+      "High": 6
+    }
+  },
+  "turning_point_count": 5
+}

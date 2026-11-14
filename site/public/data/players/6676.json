@@ -1,0 +1,588 @@
+{
+  "player_id": "6676",
+  "player_name": "Azmatullah Omarzai",
+  "batting": {
+    "matches": 50,
+    "innings": 50,
+    "not_outs": 9,
+    "runs": 869,
+    "balls": 623,
+    "average": 21.2,
+    "strike_rate": 139.49,
+    "highest_score": 116,
+    "fours": 50,
+    "sixes": 54,
+    "dots": 221,
+    "singles": 252,
+    "twos": 45,
+    "threes": 1,
+    "ducks": 6,
+    "thirties": 5,
+    "fifties": 2,
+    "hundreds": 1,
+    "dismissals_by_type": {
+      "Caught": 35,
+      "Bowled": 5,
+      "Stump": 1
+    }
+  },
+  "bowling": {
+    "matches": 63,
+    "legal_balls": 1037,
+    "overs": 172.8,
+    "runs_charged": 1505.0,
+    "wickets": 52,
+    "economy": 8.71,
+    "average": 28.94,
+    "strike_rate": 19.94,
+    "dot_pct": 38.45,
+    "boundary_pct": 19.23,
+    "wides": 50,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 33.8,
+        "runs": 362.0,
+        "wickets": 16,
+        "economy": 10.7
+      },
+      "middle": {
+        "overs": 43.0,
+        "runs": 339.0,
+        "wickets": 14,
+        "economy": 7.88
+      },
+      "powerplay": {
+        "overs": 96.0,
+        "runs": 804.0,
+        "wickets": 22,
+        "economy": 8.38
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 36.29,
+    "tier": "Unproven",
+    "p_outperform": 0.2313,
+    "pressure_value_per_100": -11.46,
+    "clutch_delta_per_100": -11.74,
+    "consistency": 0.5704
+  },
+  "rated_bowling": {
+    "rating": 12.54,
+    "tier": "Unproven",
+    "p_outperform": 0.2391,
+    "pressure_value_per_6": -0.08,
+    "clutch_delta_per_6": 0.13,
+    "consistency": 0.3886
+  },
+  "recent_matches": [
+    {
+      "match_id": 55561,
+      "date": "2026-11-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "18 (12)",
+      "bowling_figures": "1/13 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 55560,
+      "date": "2026-10-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "116 (50)",
+      "bowling_figures": "1/17 (2.0)",
+      "pressure_balls": 3,
+      "pressure_value": 3.52
+    },
+    {
+      "match_id": 55559,
+      "date": "2026-10-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "7 (8)",
+      "bowling_figures": "2/39 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": -14.1
+    },
+    {
+      "match_id": 54410,
+      "date": "2026-09-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "17 (13)",
+      "bowling_figures": "2/27 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54409,
+      "date": "2026-09-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "11 (10)",
+      "bowling_figures": "0/25 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54408,
+      "date": "2026-09-13",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "64 (44)",
+      "bowling_figures": "1/14 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50389,
+      "date": "2026-05-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/29 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50382,
+      "date": "2026-05-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "14 (10)",
+      "bowling_figures": "0/38 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50379,
+      "date": "2026-05-14",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "38 (17)",
+      "bowling_figures": "2/36 (4.0)",
+      "pressure_balls": 26,
+      "pressure_value": 0.14
+    },
+    {
+      "match_id": 48597,
+      "date": "2026-01-21",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "26 (13)",
+      "bowling_figures": "2/20 (3.0)",
+      "pressure_balls": 18,
+      "pressure_value": 5.92
+    },
+    {
+      "match_id": 48596,
+      "date": "2026-01-19",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/12 (3.0)",
+      "pressure_balls": 14,
+      "pressure_value": 1.66
+    },
+    {
+      "match_id": 47261,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "25 (13)",
+      "bowling_figures": "0/9 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47260,
+      "date": "2025-10-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "27 (21)",
+      "bowling_figures": "3/29 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": -9.13
+    },
+    {
+      "match_id": 46755,
+      "date": "2025-10-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "3 (6)",
+      "bowling_figures": "1/12 (3.0)",
+      "pressure_balls": 3,
+      "pressure_value": -3.48
+    },
+    {
+      "match_id": 46754,
+      "date": "2025-10-03",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "19 (17)",
+      "bowling_figures": "4/23 (3.2)",
+      "pressure_balls": 18,
+      "pressure_value": 20.63
+    },
+    {
+      "match_id": 46753,
+      "date": "2025-10-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "18 (18)",
+      "bowling_figures": "0/32 (2.7)",
+      "pressure_balls": 9,
+      "pressure_value": -15.0
+    },
+    {
+      "match_id": 45505,
+      "date": "2025-09-18",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "6 (4)",
+      "bowling_figures": "1/10 (2.0)",
+      "pressure_balls": 12,
+      "pressure_value": 6.99
+    },
+    {
+      "match_id": 45503,
+      "date": "2025-09-16",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "30 (16)",
+      "bowling_figures": "1/19 (3.0)",
+      "pressure_balls": 18,
+      "pressure_value": 9.38
+    },
+    {
+      "match_id": 45495,
+      "date": "2025-09-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "53 (21)",
+      "bowling_figures": "1/4 (2.0)",
+      "pressure_balls": 1,
+      "pressure_value": 4.35
+    },
+    {
+      "match_id": 45857,
+      "date": "2025-09-07",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/5 (1.0)",
+      "pressure_balls": 1,
+      "pressure_value": -6.52
+    },
+    {
+      "match_id": 45856,
+      "date": "2025-09-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "14 (9)",
+      "bowling_figures": "0/10 (1.0)",
+      "pressure_balls": 15,
+      "pressure_value": -5.19
+    },
+    {
+      "match_id": 45854,
+      "date": "2025-09-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "4 (6)",
+      "bowling_figures": "0/30 (2.0)",
+      "pressure_balls": 6,
+      "pressure_value": -12.98
+    },
+    {
+      "match_id": 45853,
+      "date": "2025-09-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "20 (12)",
+      "bowling_figures": "0/36 (3.0)",
+      "pressure_balls": 12,
+      "pressure_value": -6.8
+    },
+    {
+      "match_id": 45851,
+      "date": "2025-08-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (5)",
+      "bowling_figures": "1/28 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40767,
+      "date": "2025-06-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "1/35 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": -5.0
+    },
+    {
+      "match_id": 40766,
+      "date": "2025-06-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/43 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": 3.42
+    },
+    {
+      "match_id": 40764,
+      "date": "2025-05-29",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "18 (12)",
+      "bowling_figures": "0/10 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 43057,
+      "date": "2025-05-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (3)",
+      "bowling_figures": "0/46 (4.0)",
+      "pressure_balls": 26,
+      "pressure_value": -19.53
+    },
+    {
+      "match_id": 40760,
+      "date": "2025-05-18",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "21 (9)",
+      "bowling_figures": "2/44 (4.0)",
+      "pressure_balls": 24,
+      "pressure_value": -6.07
+    },
+    {
+      "match_id": 40747,
+      "date": "2025-05-04",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/32 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 6676,
+      "player_name": "Azmatullah Omarzai",
+      "role": "bowler",
+      "match_id": 38626,
+      "n_balls": 23,
+      "match_runs_conceded": 33,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2714,
+      "career_expected_value": 0.499,
+      "z_score": -5.3,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6676,
+      "player_name": "Azmatullah Omarzai",
+      "role": "bowler",
+      "match_id": 29926,
+      "n_balls": 21,
+      "match_runs_conceded": 36,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7355,
+      "career_expected_value": 0.499,
+      "z_score": 5.27,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6676,
+      "player_name": "Azmatullah Omarzai",
+      "role": "bowler",
+      "match_id": 15610,
+      "n_balls": 18,
+      "match_runs_conceded": 30,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7366,
+      "career_expected_value": 0.499,
+      "z_score": 4.9,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6676,
+      "player_name": "Azmatullah Omarzai",
+      "role": "batter",
+      "match_id": 45503,
+      "n_balls": 11,
+      "match_runs": 19,
+      "match_pressure_value": 0.2467,
+      "career_expected_value": 0.5284,
+      "z_score": -4.54,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6676,
+      "player_name": "Azmatullah Omarzai",
+      "role": "bowler",
+      "match_id": 46753,
+      "n_balls": 9,
+      "match_runs_conceded": 25,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2197,
+      "career_expected_value": 0.499,
+      "z_score": -4.07,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6676,
+      "player_name": "Azmatullah Omarzai",
+      "role": "bowler",
+      "match_id": 30060,
+      "n_balls": 15,
+      "match_runs_conceded": 27,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3028,
+      "career_expected_value": 0.499,
+      "z_score": -3.69,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6676,
+      "player_name": "Azmatullah Omarzai",
+      "role": "bowler",
+      "match_id": 40760,
+      "n_balls": 24,
+      "match_runs_conceded": 44,
+      "match_wickets": 2,
+      "match_pressure_value": 0.6465,
+      "career_expected_value": 0.499,
+      "z_score": 3.51,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6676,
+      "player_name": "Azmatullah Omarzai",
+      "role": "bowler",
+      "match_id": 16750,
+      "n_balls": 12,
+      "match_runs_conceded": 25,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2973,
+      "career_expected_value": 0.499,
+      "z_score": -3.39,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6676,
+      "player_name": "Azmatullah Omarzai",
+      "role": "bowler",
+      "match_id": 28960,
+      "n_balls": 11,
+      "match_runs_conceded": 15,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2925,
+      "career_expected_value": 0.499,
+      "z_score": -3.33,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6676,
+      "player_name": "Azmatullah Omarzai",
+      "role": "batter",
+      "match_id": 31255,
+      "n_balls": 4,
+      "match_runs": 9,
+      "match_pressure_value": 0.8664,
+      "career_expected_value": 0.5284,
+      "z_score": 3.29,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6676,
+      "player_name": "Azmatullah Omarzai",
+      "role": "bowler",
+      "match_id": 45856,
+      "n_balls": 6,
+      "match_runs_conceded": 10,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2377,
+      "career_expected_value": 0.499,
+      "z_score": -3.11,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6676,
+      "player_name": "Azmatullah Omarzai",
+      "role": "batter",
+      "match_id": 38628,
+      "n_balls": 7,
+      "match_runs": 7,
+      "match_pressure_value": 0.7577,
+      "career_expected_value": 0.5284,
+      "z_score": 2.95,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6676,
+      "player_name": "Azmatullah Omarzai",
+      "role": "bowler",
+      "match_id": 16662,
+      "n_balls": 6,
+      "match_runs_conceded": 6,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2745,
+      "career_expected_value": 0.499,
+      "z_score": -2.67,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6676,
+      "player_name": "Azmatullah Omarzai",
+      "role": "bowler",
+      "match_id": 30072,
+      "n_balls": 18,
+      "match_runs_conceded": 37,
+      "match_wickets": 0,
+      "match_pressure_value": 0.6279,
+      "career_expected_value": 0.499,
+      "z_score": 2.66,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6676,
+      "player_name": "Azmatullah Omarzai",
+      "role": "bowler",
+      "match_id": 48596,
+      "n_balls": 14,
+      "match_runs_conceded": 7,
+      "match_wickets": 0,
+      "match_pressure_value": 0.6454,
+      "career_expected_value": 0.499,
+      "z_score": 2.66,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6676,
+      "player_name": "Azmatullah Omarzai",
+      "role": "bowler",
+      "match_id": 45505,
+      "n_balls": 12,
+      "match_runs_conceded": 10,
+      "match_wickets": 1,
+      "match_pressure_value": 0.3488,
+      "career_expected_value": 0.499,
+      "z_score": -2.53,
+      "direction": "negative"
+    }
+  ]
+}

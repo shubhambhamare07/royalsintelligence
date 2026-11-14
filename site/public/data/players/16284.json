@@ -1,0 +1,83 @@
+{
+  "player_id": "16284",
+  "player_name": "Habibur Rahman Sohan",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 1,
+    "runs": 228,
+    "balls": 125,
+    "average": 57.0,
+    "strike_rate": 182.4,
+    "highest_score": 100,
+    "fours": 15,
+    "sixes": 21,
+    "dots": 51,
+    "singles": 34,
+    "twos": 4,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 1,
+    "hundreds": 1,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48029,
+      "date": "2025-11-23",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "26 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48027,
+      "date": "2025-11-21",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "65 (46)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48026,
+      "date": "2025-11-19",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "27 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": 11.84
+    },
+    {
+      "match_id": 48022,
+      "date": "2025-11-17",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "10 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48017,
+      "date": "2025-11-15",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "100 (35)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": 35.16
+    }
+  ]
+}

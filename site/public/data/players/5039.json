@@ -1,0 +1,380 @@
+{
+  "player_id": "5039",
+  "player_name": "Rajat Patidar",
+  "batting": {
+    "matches": 46,
+    "innings": 46,
+    "not_outs": 5,
+    "runs": 1457,
+    "balls": 869,
+    "average": 35.54,
+    "strike_rate": 167.66,
+    "highest_score": 112,
+    "fours": 99,
+    "sixes": 100,
+    "dots": 257,
+    "singles": 366,
+    "twos": 46,
+    "threes": 1,
+    "ducks": 1,
+    "thirties": 6,
+    "fifties": 13,
+    "hundreds": 1,
+    "dismissals_by_type": {
+      "Caught": 36,
+      "Bowled": 2,
+      "LBW": 2,
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 30.2,
+    "tier": "Unproven",
+    "p_outperform": 0.1085,
+    "pressure_value_per_100": -5.73,
+    "clutch_delta_per_100": -26.62,
+    "consistency": 0.5626
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50945,
+      "date": "2026-05-31",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "15 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50942,
+      "date": "2026-05-26",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "93 (33)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50388,
+      "date": "2026-05-22",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "56 (39)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50378,
+      "date": "2026-05-13",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "11 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": 2.06
+    },
+    {
+      "match_id": 50375,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "8 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -17.9
+    },
+    {
+      "match_id": 50363,
+      "date": "2026-04-30",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "19 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50355,
+      "date": "2026-04-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "8 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50347,
+      "date": "2026-04-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "8 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50344,
+      "date": "2026-04-15",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "27 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50144,
+      "date": "2026-04-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "53 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50140,
+      "date": "2026-04-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "63 (40)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50135,
+      "date": "2026-04-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "48 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50125,
+      "date": "2026-03-28",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "31 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40767,
+      "date": "2025-06-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "26 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40764,
+      "date": "2025-05-29",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "15 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40752,
+      "date": "2025-05-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "14 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": 0.22
+    },
+    {
+      "match_id": 40757,
+      "date": "2025-05-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "18 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 16,
+      "pressure_value": -7.33
+    },
+    {
+      "match_id": 40745,
+      "date": "2025-05-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "11 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -6.0
+    },
+    {
+      "match_id": 40739,
+      "date": "2025-04-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "6 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": 5.07
+    },
+    {
+      "match_id": 40735,
+      "date": "2025-04-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -3.89
+    },
+    {
+      "match_id": 40730,
+      "date": "2025-04-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "12 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40717,
+      "date": "2025-04-10",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "25 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40714,
+      "date": "2025-04-07",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "64 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40707,
+      "date": "2025-04-02",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "12 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40701,
+      "date": "2025-03-28",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "51 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -3.87
+    },
+    {
+      "match_id": 40694,
+      "date": "2025-03-22",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "34 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31290,
+      "date": "2024-05-22",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "34 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31286,
+      "date": "2024-05-18",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "41 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31280,
+      "date": "2024-05-12",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "52 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31276,
+      "date": "2024-05-09",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "55 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 5039,
+      "player_name": "Rajat Patidar",
+      "role": "batter",
+      "match_id": 40752,
+      "n_balls": 7,
+      "match_runs": 14,
+      "match_pressure_value": 0.2447,
+      "career_expected_value": 0.5252,
+      "z_score": -3.61,
+      "direction": "negative"
+    },
+    {
+      "player_id": 5039,
+      "player_name": "Rajat Patidar",
+      "role": "batter",
+      "match_id": 50378,
+      "n_balls": 4,
+      "match_runs": 9,
+      "match_pressure_value": 0.8933,
+      "career_expected_value": 0.5252,
+      "z_score": 3.58,
+      "direction": "positive"
+    },
+    {
+      "player_id": 5039,
+      "player_name": "Rajat Patidar",
+      "role": "batter",
+      "match_id": 40757,
+      "n_balls": 16,
+      "match_runs": 18,
+      "match_pressure_value": 0.3555,
+      "career_expected_value": 0.5252,
+      "z_score": -3.3,
+      "direction": "negative"
+    }
+  ]
+}

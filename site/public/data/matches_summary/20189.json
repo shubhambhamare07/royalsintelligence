@@ -1,0 +1,99 @@
+{
+  "match_id": 20189,
+  "competition_kind": "IPL",
+  "calendar_year": 2023,
+  "result": "Kolkata Knight Riders Won By 81 Runs",
+  "innings_totals": {
+    "innings_1": 199.2,
+    "innings_1_sigma": 1.91,
+    "innings_2": 121.4
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 8,
+      "Elevated": 5
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "3": {
+      "Elevated": 7,
+      "High": 6
+    },
+    "4": {
+      "High": 4,
+      "Elevated": 3,
+      "Normal": 3,
+      "Extreme": 2
+    },
+    "5": {
+      "Normal": 7,
+      "Extreme": 5,
+      "Elevated": 1,
+      "High": 1
+    },
+    "6": {
+      "Normal": 10,
+      "High": 2
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 12
+    },
+    "12": {
+      "Normal": 12
+    },
+    "13": {
+      "Normal": 13,
+      "Elevated": 1
+    },
+    "14": {
+      "Normal": 12
+    },
+    "15": {
+      "Normal": 7,
+      "Elevated": 5
+    },
+    "16": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "17": {
+      "Normal": 6,
+      "Elevated": 4,
+      "High": 2
+    },
+    "18": {
+      "High": 6,
+      "Normal": 4,
+      "Elevated": 2
+    },
+    "19": {
+      "Elevated": 5,
+      "High": 2
+    },
+    "20": {
+      "Elevated": 6
+    }
+  },
+  "turning_point_count": 5
+}

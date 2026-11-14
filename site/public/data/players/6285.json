@@ -1,0 +1,47 @@
+{
+  "player_id": "6285",
+  "player_name": "Kamlesh Nagarkoti",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 12,
+    "overs": 2.0,
+    "runs_charged": 29.0,
+    "wickets": 0,
+    "economy": 14.5,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 30.77,
+    "boundary_pct": 46.15,
+    "wides": 1,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 1.0,
+        "runs": 13.0,
+        "wickets": 0,
+        "economy": 13.0
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 16.0,
+        "wickets": 0,
+        "economy": 16.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 14095,
+      "date": "2022-03-27",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/29 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

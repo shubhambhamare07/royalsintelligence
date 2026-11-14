@@ -1,0 +1,73 @@
+{
+  "player_id": "7406",
+  "player_name": "Rizwan CP",
+  "batting": {
+    "matches": 4,
+    "innings": 4,
+    "not_outs": 1,
+    "runs": 118,
+    "balls": 102,
+    "average": 39.33,
+    "strike_rate": 115.69,
+    "highest_score": 51,
+    "fours": 7,
+    "sixes": 2,
+    "dots": 25,
+    "singles": 58,
+    "twos": 10,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2,
+      "Stump": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 17632,
+      "date": "2022-09-27",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "51 (36)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17631,
+      "date": "2022-09-25",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "5 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": -7.96
+    },
+    {
+      "match_id": 16866,
+      "date": "2022-08-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "49 (44)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16864,
+      "date": "2022-08-22",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "13 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

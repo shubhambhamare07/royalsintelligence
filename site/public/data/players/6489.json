@@ -1,0 +1,126 @@
+{
+  "player_id": "6489",
+  "player_name": "Darshan Nalkande",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 12,
+    "balls": 12,
+    "average": 6.0,
+    "strike_rate": 100.0,
+    "highest_score": 12,
+    "fours": 0,
+    "sixes": 1,
+    "dots": 5,
+    "singles": 6,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "RunOut": 1,
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 6,
+    "legal_balls": 84,
+    "overs": 14.0,
+    "runs_charged": 148.0,
+    "wickets": 6,
+    "economy": 10.57,
+    "average": 24.67,
+    "strike_rate": 14.0,
+    "dot_pct": 26.97,
+    "boundary_pct": 20.22,
+    "wides": 4,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 3.0,
+        "runs": 30.0,
+        "wickets": 1,
+        "economy": 10.0
+      },
+      "middle": {
+        "overs": 9.0,
+        "runs": 96.0,
+        "wickets": 5,
+        "economy": 10.67
+      },
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 22.0,
+        "wickets": 0,
+        "economy": 11.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 30076,
+      "date": "2024-04-07",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "12 (11)",
+      "bowling_figures": "2/21 (2.0)",
+      "pressure_balls": 11,
+      "pressure_value": -2.68
+    },
+    {
+      "match_id": 30072,
+      "date": "2024-04-04",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/6 (0.8)",
+      "pressure_balls": 5,
+      "pressure_value": 2.65
+    },
+    {
+      "match_id": 30067,
+      "date": "2024-03-31",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/18 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21583,
+      "date": "2023-05-23",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "1/44 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14114,
+      "date": "2022-04-11",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/22 (2.2)",
+      "pressure_balls": 13,
+      "pressure_value": 1.52
+    },
+    {
+      "match_id": 14109,
+      "date": "2022-04-08",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "2/37 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

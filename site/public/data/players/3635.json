@@ -1,0 +1,93 @@
+{
+  "player_id": "3635",
+  "player_name": "Jason Smith",
+  "batting": {
+    "matches": 6,
+    "innings": 6,
+    "not_outs": 2,
+    "runs": 58,
+    "balls": 53,
+    "average": 14.5,
+    "strike_rate": 109.43,
+    "highest_score": 19,
+    "fours": 7,
+    "sixes": 1,
+    "dots": 23,
+    "singles": 20,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "Stump": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 49740,
+      "date": "2026-03-25",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -3.16
+    },
+    {
+      "match_id": 49739,
+      "date": "2026-03-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "19 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 49738,
+      "date": "2026-03-20",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "10 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 49737,
+      "date": "2026-03-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "12 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 49736,
+      "date": "2026-03-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "10 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41850,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "6 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

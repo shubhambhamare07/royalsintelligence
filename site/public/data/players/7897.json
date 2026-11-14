@@ -1,0 +1,546 @@
+{
+  "player_id": "7897",
+  "player_name": "Namboori Tilak Varma",
+  "batting": {
+    "matches": 121,
+    "innings": 121,
+    "not_outs": 39,
+    "runs": 3538,
+    "balls": 2468,
+    "average": 43.15,
+    "strike_rate": 143.35,
+    "highest_score": 120,
+    "fours": 270,
+    "sixes": 171,
+    "dots": 772,
+    "singles": 1083,
+    "twos": 167,
+    "threes": 5,
+    "ducks": 5,
+    "thirties": 30,
+    "fifties": 19,
+    "hundreds": 3,
+    "dismissals_by_type": {
+      "Caught": 61,
+      "Bowled": 11,
+      "RunOut": 6,
+      "LBW": 3,
+      "Stump": 1
+    }
+  },
+  "bowling": {
+    "matches": 12,
+    "legal_balls": 85,
+    "overs": 14.2,
+    "runs_charged": 107.0,
+    "wickets": 3,
+    "economy": 7.55,
+    "average": 35.67,
+    "strike_rate": 28.33,
+    "dot_pct": 38.64,
+    "boundary_pct": 14.77,
+    "wides": 3,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.2,
+        "runs": 21.0,
+        "wickets": 1,
+        "economy": 9.69
+      },
+      "middle": {
+        "overs": 11.0,
+        "runs": 79.0,
+        "wickets": 2,
+        "economy": 7.18
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 7.0,
+        "wickets": 0,
+        "economy": 7.0
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 64.51,
+    "tier": "Promising",
+    "p_outperform": 0.9123,
+    "pressure_value_per_100": 18.31,
+    "clutch_delta_per_100": 2.93,
+    "consistency": 0.5805
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 54214,
+      "date": "2026-11-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "6 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54213,
+      "date": "2026-10-30",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "35 (35)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54212,
+      "date": "2026-10-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54211,
+      "date": "2026-10-24",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "51 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 16,
+      "pressure_value": 10.72
+    },
+    {
+      "match_id": 54210,
+      "date": "2026-10-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "6 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 11,
+      "pressure_value": -13.08
+    },
+    {
+      "match_id": 50407,
+      "date": "2026-10-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "43 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -1.52
+    },
+    {
+      "match_id": 50406,
+      "date": "2026-10-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "28 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50405,
+      "date": "2026-10-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "44 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54410,
+      "date": "2026-09-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "2 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54409,
+      "date": "2026-09-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "15 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54408,
+      "date": "2026-09-13",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "3 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50509,
+      "date": "2026-07-26",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "11 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -2.74
+    },
+    {
+      "match_id": 50508,
+      "date": "2026-07-25",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "60 (29)",
+      "bowling_figures": "1/9 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50507,
+      "date": "2026-07-23",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "6 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45394,
+      "date": "2026-07-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "53 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45393,
+      "date": "2026-07-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "11 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45392,
+      "date": "2026-07-07",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "3 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45391,
+      "date": "2026-07-04",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "24 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": 3.57
+    },
+    {
+      "match_id": 45390,
+      "date": "2026-07-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "13 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50341,
+      "date": "2026-06-28",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "55 (46)",
+      "bowling_figures": null,
+      "pressure_balls": 45,
+      "pressure_value": 7.15
+    },
+    {
+      "match_id": 50340,
+      "date": "2026-06-26",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "19 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 22,
+      "pressure_value": -9.65
+    },
+    {
+      "match_id": 50390,
+      "date": "2026-05-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "3 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50386,
+      "date": "2026-05-20",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "20 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50379,
+      "date": "2026-05-14",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "75 (33)",
+      "bowling_figures": null,
+      "pressure_balls": 34,
+      "pressure_value": 21.12
+    },
+    {
+      "match_id": 50375,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "57 (42)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50368,
+      "date": "2026-05-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "11 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50365,
+      "date": "2026-05-02",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "5 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50362,
+      "date": "2026-04-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "7 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50354,
+      "date": "2026-04-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "37 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50351,
+      "date": "2026-04-20",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "101 (45)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": 22.05
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 7897,
+      "player_name": "Namboori Tilak Varma",
+      "role": "batter",
+      "match_id": 24350,
+      "n_balls": 16,
+      "match_runs": 31,
+      "match_pressure_value": 0.6995,
+      "career_expected_value": 0.4586,
+      "z_score": 4.69,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7897,
+      "player_name": "Namboori Tilak Varma",
+      "role": "batter",
+      "match_id": 20196,
+      "n_balls": 5,
+      "match_runs": 11,
+      "match_pressure_value": 0.8674,
+      "career_expected_value": 0.4586,
+      "z_score": 4.45,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7897,
+      "player_name": "Namboori Tilak Varma",
+      "role": "batter",
+      "match_id": 31278,
+      "n_balls": 10,
+      "match_runs": 22,
+      "match_pressure_value": 0.7432,
+      "career_expected_value": 0.4586,
+      "z_score": 4.38,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7897,
+      "player_name": "Namboori Tilak Varma",
+      "role": "batter",
+      "match_id": 14137,
+      "n_balls": 9,
+      "match_runs": 15,
+      "match_pressure_value": 0.7455,
+      "career_expected_value": 0.4586,
+      "z_score": 4.19,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7897,
+      "player_name": "Namboori Tilak Varma",
+      "role": "batter",
+      "match_id": 20225,
+      "n_balls": 5,
+      "match_runs": 16,
+      "match_pressure_value": 0.8381,
+      "career_expected_value": 0.4586,
+      "z_score": 4.13,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7897,
+      "player_name": "Namboori Tilak Varma",
+      "role": "batter",
+      "match_id": 50341,
+      "n_balls": 45,
+      "match_runs": 49,
+      "match_pressure_value": 0.3581,
+      "career_expected_value": 0.4586,
+      "z_score": -3.28,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7897,
+      "player_name": "Namboori Tilak Varma",
+      "role": "batter",
+      "match_id": 40714,
+      "n_balls": 12,
+      "match_runs": 24,
+      "match_pressure_value": 0.2786,
+      "career_expected_value": 0.4586,
+      "z_score": -3.03,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7897,
+      "player_name": "Namboori Tilak Varma",
+      "role": "batter",
+      "match_id": 40702,
+      "n_balls": 36,
+      "match_runs": 39,
+      "match_pressure_value": 0.3556,
+      "career_expected_value": 0.4586,
+      "z_score": -3.01,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7897,
+      "player_name": "Namboori Tilak Varma",
+      "role": "batter",
+      "match_id": 50407,
+      "n_balls": 5,
+      "match_runs": 9,
+      "match_pressure_value": 0.1868,
+      "career_expected_value": 0.4586,
+      "z_score": -2.96,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7897,
+      "player_name": "Namboori Tilak Varma",
+      "role": "batter",
+      "match_id": 54211,
+      "n_balls": 15,
+      "match_runs": 36,
+      "match_pressure_value": 0.3015,
+      "career_expected_value": 0.4586,
+      "z_score": -2.96,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7897,
+      "player_name": "Namboori Tilak Varma",
+      "role": "batter",
+      "match_id": 31273,
+      "n_balls": 16,
+      "match_runs": 21,
+      "match_pressure_value": 0.6029,
+      "career_expected_value": 0.4586,
+      "z_score": 2.81,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7897,
+      "player_name": "Namboori Tilak Varma",
+      "role": "batter",
+      "match_id": 30060,
+      "n_balls": 6,
+      "match_runs": 8,
+      "match_pressure_value": 0.6912,
+      "career_expected_value": 0.4586,
+      "z_score": 2.77,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7897,
+      "player_name": "Namboori Tilak Varma",
+      "role": "batter",
+      "match_id": 40722,
+      "n_balls": 6,
+      "match_runs": 9,
+      "match_pressure_value": 0.6786,
+      "career_expected_value": 0.4586,
+      "z_score": 2.62,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7897,
+      "player_name": "Namboori Tilak Varma",
+      "role": "batter",
+      "match_id": 40709,
+      "n_balls": 23,
+      "match_runs": 25,
+      "match_pressure_value": 0.3506,
+      "career_expected_value": 0.4586,
+      "z_score": -2.52,
+      "direction": "negative"
+    }
+  ]
+}

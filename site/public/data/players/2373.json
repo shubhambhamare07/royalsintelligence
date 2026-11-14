@@ -1,0 +1,63 @@
+{
+  "player_id": "2373",
+  "player_name": "Ashton Turner",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 1,
+    "runs": 23,
+    "balls": 20,
+    "average": 11.5,
+    "strike_rate": 115.0,
+    "highest_score": 16,
+    "fours": 0,
+    "sixes": 2,
+    "dots": 7,
+    "singles": 11,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 1,
+      "Caught": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 31272,
+      "date": "2024-05-05",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "16 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31266,
+      "date": "2024-04-30",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "5 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 25157,
+      "date": "2023-09-03",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "2 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

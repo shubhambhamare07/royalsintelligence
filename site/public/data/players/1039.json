@@ -1,0 +1,83 @@
+{
+  "player_id": "1039",
+  "player_name": "Mandeep Singh",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 0,
+    "runs": 30,
+    "balls": 35,
+    "average": 6.0,
+    "strike_rate": 85.71,
+    "highest_score": 18,
+    "fours": 4,
+    "sixes": 1,
+    "dots": 23,
+    "singles": 6,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 3,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "Bowled": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 20208,
+      "date": "2023-04-20",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "12 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20189,
+      "date": "2023-04-06",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14144,
+      "date": "2022-05-05",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "0 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14103,
+      "date": "2022-04-02",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "18 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": -12.14
+    },
+    {
+      "match_id": 14095,
+      "date": "2022-03-27",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -12.31
+    }
+  ]
+}

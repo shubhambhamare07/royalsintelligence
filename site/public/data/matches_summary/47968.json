@@ -1,0 +1,43 @@
+{
+  "match_id": 47968,
+  "competition_kind": "T20I",
+  "calendar_year": 2025,
+  "result": "No Result",
+  "innings_totals": {
+    "innings_1": 38.0,
+    "innings_1_sigma": 4.8,
+    "innings_2": null
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": true,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 4.8
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6
+    },
+    "2": {
+      "Elevated": 6
+    },
+    "3": {
+      "Elevated": 7
+    },
+    "4": {
+      "Elevated": 7
+    },
+    "5": {
+      "Elevated": 6
+    },
+    "6": {
+      "Normal": 4,
+      "Elevated": 2
+    },
+    "7": {
+      "Normal": 3
+    }
+  },
+  "turning_point_count": 5
+}

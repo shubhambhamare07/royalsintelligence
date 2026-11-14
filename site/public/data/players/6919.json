@@ -1,0 +1,42 @@
+{
+  "player_id": "6919",
+  "player_name": "Tyrone Kane",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 9,
+    "balls": 11,
+    "average": 9.0,
+    "strike_rate": 81.82,
+    "highest_score": 9,
+    "fours": 1,
+    "sixes": 0,
+    "dots": 6,
+    "singles": 3,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 19690,
+      "date": "2023-01-12",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "9 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "player_id": "19012",
+  "player_name": "Zeeshan Ali",
+  "batting": {
+    "matches": 12,
+    "innings": 12,
+    "not_outs": 1,
+    "runs": 164,
+    "balls": 158,
+    "average": 14.91,
+    "strike_rate": 103.8,
+    "highest_score": 30,
+    "fours": 18,
+    "sixes": 3,
+    "dots": 77,
+    "singles": 47,
+    "twos": 12,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 9,
+      "Bowled": 1,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48025,
+      "date": "2025-11-19",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "10 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48021,
+      "date": "2025-11-17",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "8 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48017,
+      "date": "2025-11-15",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "5 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45502,
+      "date": "2025-09-15",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "23 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45497,
+      "date": "2025-09-11",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "30 (34)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45495,
+      "date": "2025-09-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "5 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37093,
+      "date": "2024-10-22",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "12 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -3.71
+    },
+    {
+      "match_id": 37089,
+      "date": "2024-10-20",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "18 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": 8.41
+    },
+    {
+      "match_id": 37085,
+      "date": "2024-10-18",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "4 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16658,
+      "date": "2022-09-02",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "3 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16656,
+      "date": "2022-08-31",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "26 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16862,
+      "date": "2022-08-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "20 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

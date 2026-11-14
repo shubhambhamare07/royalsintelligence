@@ -1,0 +1,77 @@
+{
+  "player_id": "988",
+  "player_name": "Graeme Cremer",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 3,
+    "balls": 4,
+    "average": 3.0,
+    "strike_rate": 75.0,
+    "highest_score": 3,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 1,
+    "singles": 3,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 42,
+    "overs": 7.0,
+    "runs_charged": 44.0,
+    "wickets": 2,
+    "economy": 6.29,
+    "average": 22.0,
+    "strike_rate": 21.0,
+    "dot_pct": 45.24,
+    "boundary_pct": 11.9,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 3.0,
+        "wickets": 1,
+        "economy": 1.5
+      },
+      "middle": {
+        "overs": 5.0,
+        "runs": 41.0,
+        "wickets": 1,
+        "economy": 8.2
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 47977,
+      "date": "2025-11-20",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "3 (4)",
+      "bowling_figures": "1/17 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47976,
+      "date": "2025-11-18",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/27 (3.0)",
+      "pressure_balls": 18,
+      "pressure_value": -1.73
+    }
+  ]
+}

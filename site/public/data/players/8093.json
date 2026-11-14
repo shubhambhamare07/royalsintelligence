@@ -1,0 +1,96 @@
+{
+  "player_id": "8093",
+  "player_name": "Nikhil Chaudhary",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 26,
+    "balls": 19,
+    "average": 13.0,
+    "strike_rate": 136.84,
+    "highest_score": 18,
+    "fours": 2,
+    "sixes": 0,
+    "dots": 3,
+    "singles": 10,
+    "twos": 4,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1,
+      "LBW": 1
+    }
+  },
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 42,
+    "overs": 7.0,
+    "runs_charged": 48.0,
+    "wickets": 2,
+    "economy": 6.86,
+    "average": 24.0,
+    "strike_rate": 21.0,
+    "dot_pct": 47.73,
+    "boundary_pct": 15.91,
+    "wides": 2,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 11.0,
+        "wickets": 1,
+        "economy": 11.0
+      },
+      "middle": {
+        "overs": 4.0,
+        "runs": 29.0,
+        "wickets": 1,
+        "economy": 7.25
+      },
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 8.0,
+        "wickets": 0,
+        "economy": 4.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50599,
+      "date": "2026-06-21",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/27 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50598,
+      "date": "2026-06-19",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "8 (6)",
+      "bowling_figures": "0/7 (1.0)",
+      "pressure_balls": 6,
+      "pressure_value": -1.33
+    },
+    {
+      "match_id": 50597,
+      "date": "2026-06-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "18 (13)",
+      "bowling_figures": "1/14 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

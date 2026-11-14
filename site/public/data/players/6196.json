@@ -1,0 +1,93 @@
+{
+  "player_id": "6196",
+  "player_name": "Josh Tongue",
+  "batting": null,
+  "bowling": {
+    "matches": 5,
+    "legal_balls": 120,
+    "overs": 20.0,
+    "runs_charged": 183.0,
+    "wickets": 8,
+    "economy": 9.15,
+    "average": 22.88,
+    "strike_rate": 15.0,
+    "dot_pct": 45.24,
+    "boundary_pct": 19.84,
+    "wides": 5,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 3.0,
+        "runs": 36.0,
+        "wickets": 2,
+        "economy": 12.0
+      },
+      "middle": {
+        "overs": 7.0,
+        "runs": 48.0,
+        "wickets": 3,
+        "economy": 6.86
+      },
+      "powerplay": {
+        "overs": 10.0,
+        "runs": 99.0,
+        "wickets": 3,
+        "economy": 9.9
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 45489,
+      "date": "2026-09-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/24 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45394,
+      "date": "2026-07-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/53 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45393,
+      "date": "2026-07-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/36 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45392,
+      "date": "2026-07-07",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "4/28 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": 2.07
+    },
+    {
+      "match_id": 45391,
+      "date": "2026-07-04",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/42 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": 1.37
+    }
+  ]
+}

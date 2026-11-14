@@ -1,0 +1,90 @@
+{
+  "match_id": 20236,
+  "competition_kind": "IPL",
+  "calendar_year": 2023,
+  "result": "Rajasthan Royals Won by 9 Wickets",
+  "innings_totals": {
+    "innings_1": 149.6,
+    "innings_1_sigma": 2.02,
+    "innings_2": 152.4
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 12
+    },
+    "2": {
+      "Normal": 8,
+      "Elevated": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "4": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "5": {
+      "Normal": 7,
+      "Elevated": 5
+    },
+    "6": {
+      "Normal": 12
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "12": {
+      "Normal": 13
+    },
+    "13": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "14": {
+      "Elevated": 6,
+      "Normal": 1
+    },
+    "15": {
+      "Elevated": 6
+    },
+    "16": {
+      "Elevated": 6
+    },
+    "17": {
+      "Elevated": 6
+    },
+    "18": {
+      "Elevated": 5,
+      "Normal": 1
+    },
+    "19": {
+      "Elevated": 6
+    },
+    "20": {
+      "Elevated": 4,
+      "Normal": 2
+    }
+  },
+  "turning_point_count": 5
+}

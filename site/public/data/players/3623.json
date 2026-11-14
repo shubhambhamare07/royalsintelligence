@@ -1,0 +1,145 @@
+{
+  "player_id": "3623",
+  "player_name": "Hasan Ali",
+  "batting": {
+    "matches": 4,
+    "innings": 4,
+    "not_outs": 1,
+    "runs": 18,
+    "balls": 19,
+    "average": 6.0,
+    "strike_rate": 94.74,
+    "highest_score": 9,
+    "fours": 0,
+    "sixes": 1,
+    "dots": 8,
+    "singles": 8,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3
+    }
+  },
+  "bowling": {
+    "matches": 8,
+    "legal_balls": 158,
+    "overs": 26.3,
+    "runs_charged": 289.0,
+    "wickets": 12,
+    "economy": 10.97,
+    "average": 24.08,
+    "strike_rate": 13.17,
+    "dot_pct": 36.9,
+    "boundary_pct": 26.79,
+    "wides": 6,
+    "no_balls": 4,
+    "phase_splits": {
+      "death": {
+        "overs": 9.3,
+        "runs": 107.0,
+        "wickets": 8,
+        "economy": 11.46
+      },
+      "middle": {
+        "overs": 3.0,
+        "runs": 46.0,
+        "wickets": 0,
+        "economy": 15.33
+      },
+      "powerplay": {
+        "overs": 14.0,
+        "runs": 136.0,
+        "wickets": 4,
+        "economy": 9.71
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 45852,
+      "date": "2025-08-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (6)",
+      "bowling_figures": "3/47 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41512,
+      "date": "2025-08-04",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/38 (3.0)",
+      "pressure_balls": 8,
+      "pressure_value": -4.93
+    },
+    {
+      "match_id": 41511,
+      "date": "2025-08-03",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "8 (10)",
+      "bowling_figures": "0/48 (4.0)",
+      "pressure_balls": 22,
+      "pressure_value": -11.43
+    },
+    {
+      "match_id": 42744,
+      "date": "2025-06-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/38 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42743,
+      "date": "2025-05-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/21 (2.0)",
+      "pressure_balls": 7,
+      "pressure_value": -6.05
+    },
+    {
+      "match_id": 42742,
+      "date": "2025-05-28",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "5/30 (3.3)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32292,
+      "date": "2024-05-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/42 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16664,
+      "date": "2022-09-09",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "0/25 (3.0)",
+      "pressure_balls": 1,
+      "pressure_value": -4.21
+    }
+  ]
+}

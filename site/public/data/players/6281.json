@@ -1,0 +1,568 @@
+{
+  "player_id": "6281",
+  "player_name": "Abhishek Sharma",
+  "batting": {
+    "matches": 131,
+    "innings": 131,
+    "not_outs": 7,
+    "runs": 4307,
+    "balls": 2298,
+    "average": 34.73,
+    "strike_rate": 187.42,
+    "highest_score": 141,
+    "fours": 416,
+    "sixes": 282,
+    "dots": 793,
+    "singles": 670,
+    "twos": 130,
+    "threes": 7,
+    "ducks": 10,
+    "thirties": 30,
+    "fifties": 26,
+    "hundreds": 6,
+    "dismissals_by_type": {
+      "Caught": 112,
+      "Bowled": 8,
+      "LBW": 3,
+      "Stump": 1
+    }
+  },
+  "bowling": {
+    "matches": 46,
+    "legal_balls": 457,
+    "overs": 76.2,
+    "runs_charged": 672.0,
+    "wickets": 14,
+    "economy": 8.82,
+    "average": 48.0,
+    "strike_rate": 32.64,
+    "dot_pct": 29.81,
+    "boundary_pct": 18.36,
+    "wides": 6,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 9.2,
+        "runs": 104.0,
+        "wickets": 4,
+        "economy": 11.35
+      },
+      "middle": {
+        "overs": 54.0,
+        "runs": 438.0,
+        "wickets": 10,
+        "economy": 8.11
+      },
+      "powerplay": {
+        "overs": 13.0,
+        "runs": 130.0,
+        "wickets": 0,
+        "economy": 10.0
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 70.77,
+    "tier": "Promising",
+    "p_outperform": 0.9365,
+    "pressure_value_per_100": 21.47,
+    "clutch_delta_per_100": -0.75,
+    "consistency": 0.6341
+  },
+  "rated_bowling": {
+    "rating": 28.3,
+    "tier": "Unproven",
+    "p_outperform": 0.1461,
+    "pressure_value_per_6": -0.4,
+    "clutch_delta_per_6": 0.62,
+    "consistency": 0.3966
+  },
+  "recent_matches": [
+    {
+      "match_id": 54214,
+      "date": "2026-11-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "0/13 (1.0)",
+      "pressure_balls": 6,
+      "pressure_value": -5.61
+    },
+    {
+      "match_id": 54213,
+      "date": "2026-10-30",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "27 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54212,
+      "date": "2026-10-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "113 (38)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": 26.98
+    },
+    {
+      "match_id": 54211,
+      "date": "2026-10-24",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "27 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 21,
+      "pressure_value": -6.29
+    },
+    {
+      "match_id": 54210,
+      "date": "2026-10-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "29 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": 4.67
+    },
+    {
+      "match_id": 50407,
+      "date": "2026-10-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "29 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -1.85
+    },
+    {
+      "match_id": 50406,
+      "date": "2026-10-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "69 (30)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50405,
+      "date": "2026-10-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "20 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50404,
+      "date": "2026-10-06",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "21 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 6.51
+    },
+    {
+      "match_id": 54410,
+      "date": "2026-09-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "108 (34)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54409,
+      "date": "2026-09-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "39 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54408,
+      "date": "2026-09-13",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "82 (32)",
+      "bowling_figures": "0/8 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50509,
+      "date": "2026-07-26",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "2 (4)",
+      "bowling_figures": "0/18 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50508,
+      "date": "2026-07-25",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "8 (8)",
+      "bowling_figures": "3/17 (2.8)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50507,
+      "date": "2026-07-23",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45394,
+      "date": "2026-07-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "3 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45393,
+      "date": "2026-07-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "16 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45392,
+      "date": "2026-07-07",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "10 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -6.84
+    },
+    {
+      "match_id": 45391,
+      "date": "2026-07-04",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "43 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45390,
+      "date": "2026-07-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "59 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50341,
+      "date": "2026-06-28",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50340,
+      "date": "2026-06-26",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "50 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 22,
+      "pressure_value": 28.61
+    },
+    {
+      "match_id": 50943,
+      "date": "2026-05-27",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50388,
+      "date": "2026-05-22",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "56 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50384,
+      "date": "2026-05-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "26 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 15,
+      "pressure_value": -0.56
+    },
+    {
+      "match_id": 50377,
+      "date": "2026-05-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "6 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -16.24
+    },
+    {
+      "match_id": 50370,
+      "date": "2026-05-06",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "35 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50366,
+      "date": "2026-05-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "15 (10)",
+      "bowling_figures": "0/14 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50362,
+      "date": "2026-04-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "45 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": 4.71
+    },
+    {
+      "match_id": 50357,
+      "date": "2026-04-25",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "57 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 19,
+      "pressure_value": 22.84
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 6281,
+      "player_name": "Abhishek Sharma",
+      "role": "batter",
+      "match_id": 20232,
+      "n_balls": 6,
+      "match_runs": 8,
+      "match_pressure_value": 0.1357,
+      "career_expected_value": 0.5151,
+      "z_score": -4.52,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6281,
+      "player_name": "Abhishek Sharma",
+      "role": "batter",
+      "match_id": 14110,
+      "n_balls": 19,
+      "match_runs": 31,
+      "match_pressure_value": 0.7265,
+      "career_expected_value": 0.5151,
+      "z_score": 4.48,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6281,
+      "player_name": "Abhishek Sharma",
+      "role": "batter",
+      "match_id": 14140,
+      "n_balls": 18,
+      "match_runs": 29,
+      "match_pressure_value": 0.3005,
+      "career_expected_value": 0.5151,
+      "z_score": -4.43,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6281,
+      "player_name": "Abhishek Sharma",
+      "role": "bowler",
+      "match_id": 20245,
+      "n_balls": 19,
+      "match_runs_conceded": 28,
+      "match_wickets": 0,
+      "match_pressure_value": 0.296,
+      "career_expected_value": 0.504,
+      "z_score": -4.41,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6281,
+      "player_name": "Abhishek Sharma",
+      "role": "batter",
+      "match_id": 14121,
+      "n_balls": 13,
+      "match_runs": 22,
+      "match_pressure_value": 0.7633,
+      "career_expected_value": 0.5151,
+      "z_score": 4.35,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6281,
+      "player_name": "Abhishek Sharma",
+      "role": "bowler",
+      "match_id": 45506,
+      "n_balls": 4,
+      "match_runs_conceded": 5,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8642,
+      "career_expected_value": 0.504,
+      "z_score": 3.5,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6281,
+      "player_name": "Abhishek Sharma",
+      "role": "batter",
+      "match_id": 31259,
+      "n_balls": 7,
+      "match_runs": 14,
+      "match_pressure_value": 0.2642,
+      "career_expected_value": 0.5151,
+      "z_score": -3.23,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6281,
+      "player_name": "Abhishek Sharma",
+      "role": "batter",
+      "match_id": 40744,
+      "n_balls": 6,
+      "match_runs": 13,
+      "match_pressure_value": 0.2521,
+      "career_expected_value": 0.5151,
+      "z_score": -3.13,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6281,
+      "player_name": "Abhishek Sharma",
+      "role": "batter",
+      "match_id": 14114,
+      "n_balls": 30,
+      "match_runs": 41,
+      "match_pressure_value": 0.6313,
+      "career_expected_value": 0.5151,
+      "z_score": 3.1,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6281,
+      "player_name": "Abhishek Sharma",
+      "role": "batter",
+      "match_id": 50384,
+      "n_balls": 15,
+      "match_runs": 21,
+      "match_pressure_value": 0.6754,
+      "career_expected_value": 0.5151,
+      "z_score": 3.02,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6281,
+      "player_name": "Abhishek Sharma",
+      "role": "batter",
+      "match_id": 14155,
+      "n_balls": 16,
+      "match_runs": 28,
+      "match_pressure_value": 0.3653,
+      "career_expected_value": 0.5151,
+      "z_score": -2.91,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6281,
+      "player_name": "Abhishek Sharma",
+      "role": "bowler",
+      "match_id": 33807,
+      "n_balls": 9,
+      "match_runs_conceded": 9,
+      "match_wickets": 0,
+      "match_pressure_value": 0.6975,
+      "career_expected_value": 0.504,
+      "z_score": 2.82,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6281,
+      "player_name": "Abhishek Sharma",
+      "role": "bowler",
+      "match_id": 50130,
+      "n_balls": 6,
+      "match_runs_conceded": 15,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7362,
+      "career_expected_value": 0.504,
+      "z_score": 2.76,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6281,
+      "player_name": "Abhishek Sharma",
+      "role": "batter",
+      "match_id": 45508,
+      "n_balls": 16,
+      "match_runs": 28,
+      "match_pressure_value": 0.6565,
+      "career_expected_value": 0.5151,
+      "z_score": 2.75,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6281,
+      "player_name": "Abhishek Sharma",
+      "role": "batter",
+      "match_id": 30058,
+      "n_balls": 19,
+      "match_runs": 32,
+      "match_pressure_value": 0.3932,
+      "career_expected_value": 0.5151,
+      "z_score": -2.58,
+      "direction": "negative"
+    }
+  ]
+}

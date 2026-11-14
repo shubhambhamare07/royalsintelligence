@@ -1,0 +1,63 @@
+{
+  "player_id": "26909",
+  "player_name": "Yash Dhull",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 0,
+    "runs": 16,
+    "balls": 23,
+    "average": 5.33,
+    "strike_rate": 69.57,
+    "highest_score": 13,
+    "fours": 1,
+    "sixes": 0,
+    "dots": 10,
+    "singles": 12,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 20247,
+      "date": "2023-05-20",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "13 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20200,
+      "date": "2023-04-15",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "1 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20196,
+      "date": "2023-04-11",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "player_id": "4101",
+  "player_name": "Mitchell Santner",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 39.65,
+  "rating_ci90": [
+    10.39,
+    68.67
+  ],
+  "p_outperform": 0.2789,
+  "top10_inclusion_prob": 0.0073,
+  "rank_ci90": [
+    30,
+    151
+  ],
+  "composite": -0.1683,
+  "components": {
+    "PV": {
+      "observed": -0.0896,
+      "adjusted": -0.0896,
+      "z_score": -0.1795,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.0865,
+      "adjusted": -0.0865,
+      "z_score": -0.2159,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.5704,
+      "adjusted": 0.5704,
+      "z_score": -0.1095,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 62,
+    "neff_pressure": 62.0,
+    "n_pressure_matches": 16
+  },
+  "explanation": "Mitchell Santner generated a pressure value of -8.96 runs/100 balls (Clutch Delta: -8.65) at a 129.0 strike rate with 50.0% consistency across 16 pressure matches (62 balls)."
+}

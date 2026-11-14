@@ -1,0 +1,63 @@
+{
+  "player_id": "3967",
+  "player_name": "Tom Kohler",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 0,
+    "runs": 48,
+    "balls": 54,
+    "average": 16.0,
+    "strike_rate": 88.89,
+    "highest_score": 20,
+    "fours": 7,
+    "sixes": 1,
+    "dots": 33,
+    "singles": 12,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 31291,
+      "date": "2024-05-24",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "10 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 16,
+      "pressure_value": -17.19
+    },
+    {
+      "match_id": 31290,
+      "date": "2024-05-22",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "20 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": 0.21
+    },
+    {
+      "match_id": 31283,
+      "date": "2024-05-15",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "18 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "match_id": 20239,
+  "competition_kind": "IPL",
+  "calendar_year": 2023,
+  "result": "Punjab Kings Won by 31 Runs",
+  "innings_totals": {
+    "innings_1": 165.4,
+    "innings_1_sigma": 1.91,
+    "innings_2": 136.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 8,
+      "Elevated": 5,
+      "High": 1
+    },
+    "2": {
+      "High": 6,
+      "Elevated": 4,
+      "Normal": 2
+    },
+    "3": {
+      "Elevated": 9,
+      "High": 3
+    },
+    "4": {
+      "Elevated": 13
+    },
+    "5": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "6": {
+      "Normal": 12
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 13
+    },
+    "9": {
+      "Normal": 9,
+      "Elevated": 5
+    },
+    "10": {
+      "Normal": 7,
+      "High": 6
+    },
+    "11": {
+      "Normal": 7,
+      "High": 4,
+      "Elevated": 2
+    },
+    "12": {
+      "Normal": 6,
+      "High": 5,
+      "Elevated": 1
+    },
+    "13": {
+      "Normal": 6,
+      "High": 6
+    },
+    "14": {
+      "Normal": 7,
+      "Elevated": 5
+    },
+    "15": {
+      "Elevated": 9,
+      "High": 3
+    },
+    "16": {
+      "Elevated": 7,
+      "Extreme": 4,
+      "High": 1
+    },
+    "17": {
+      "Elevated": 6,
+      "Normal": 4,
+      "High": 2
+    },
+    "18": {
+      "Normal": 7,
+      "High": 6
+    },
+    "19": {
+      "High": 6,
+      "Normal": 6
+    },
+    "20": {
+      "High": 7,
+      "Normal": 6
+    }
+  },
+  "turning_point_count": 5
+}

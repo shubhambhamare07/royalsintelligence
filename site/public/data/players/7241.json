@@ -1,0 +1,63 @@
+{
+  "player_id": "7241",
+  "player_name": "Ziaur Rahman",
+  "batting": null,
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 48,
+    "overs": 8.0,
+    "runs_charged": 81.0,
+    "wickets": 5,
+    "economy": 10.12,
+    "average": 16.2,
+    "strike_rate": 9.6,
+    "dot_pct": 36.0,
+    "boundary_pct": 22.0,
+    "wides": 1,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 3.0,
+        "runs": 34.0,
+        "wickets": 3,
+        "economy": 11.33
+      },
+      "middle": {
+        "overs": 2.0,
+        "runs": 16.0,
+        "wickets": 1,
+        "economy": 8.0
+      },
+      "powerplay": {
+        "overs": 3.0,
+        "runs": 31.0,
+        "wickets": 1,
+        "economy": 10.33
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48598,
+      "date": "2026-01-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/45 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48596,
+      "date": "2026-01-19",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "3/36 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": 0.26
+    }
+  ]
+}

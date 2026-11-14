@@ -1,0 +1,122 @@
+{
+  "player_id": "3986",
+  "player_name": "Matthew Renshaw",
+  "batting": {
+    "matches": 6,
+    "innings": 6,
+    "not_outs": 2,
+    "runs": 131,
+    "balls": 108,
+    "average": 32.75,
+    "strike_rate": 121.3,
+    "highest_score": 89,
+    "fours": 5,
+    "sixes": 6,
+    "dots": 33,
+    "singles": 54,
+    "twos": 9,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "RunOut": 1,
+      "LBW": 1,
+      "Bowled": 1,
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 36,
+    "overs": 6.0,
+    "runs_charged": 43.0,
+    "wickets": 3,
+    "economy": 7.17,
+    "average": 14.33,
+    "strike_rate": 12.0,
+    "dot_pct": 36.11,
+    "boundary_pct": 13.89,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 3.0,
+        "runs": 18.0,
+        "wickets": 1,
+        "economy": 6.0
+      },
+      "powerplay": {
+        "overs": 3.0,
+        "runs": 25.0,
+        "wickets": 2,
+        "economy": 8.33
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50599,
+      "date": "2026-06-21",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "6 (6)",
+      "bowling_figures": "0/4 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50598,
+      "date": "2026-06-19",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "89 (52)",
+      "bowling_figures": "1/13 (2.0)",
+      "pressure_balls": 21,
+      "pressure_value": 5.24
+    },
+    {
+      "match_id": 50597,
+      "date": "2026-06-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "18 (28)",
+      "bowling_figures": "2/26 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48917,
+      "date": "2026-02-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48916,
+      "date": "2026-01-31",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "2 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48915,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "15 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": 12.57
+    }
+  ]
+}

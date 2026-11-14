@@ -1,0 +1,107 @@
+{
+  "match_id": 41509,
+  "competition_kind": "T20I",
+  "calendar_year": 2025,
+  "result": "Australia Won by 3 wickets",
+  "innings_totals": {
+    "innings_1": 170.6,
+    "innings_1_sigma": 3.6,
+    "innings_2": 173.0
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 6
+    },
+    "2": {
+      "High": 7,
+      "Elevated": 4,
+      "Normal": 2
+    },
+    "3": {
+      "Elevated": 6,
+      "Normal": 4,
+      "High": 2
+    },
+    "4": {
+      "Normal": 6,
+      "Elevated": 5,
+      "High": 2
+    },
+    "5": {
+      "Elevated": 5,
+      "High": 5,
+      "Normal": 3
+    },
+    "6": {
+      "Normal": 6,
+      "Elevated": 4,
+      "High": 4
+    },
+    "7": {
+      "Normal": 6,
+      "High": 6
+    },
+    "8": {
+      "Normal": 6,
+      "High": 6
+    },
+    "9": {
+      "Normal": 9,
+      "Elevated": 5
+    },
+    "10": {
+      "Normal": 8,
+      "Elevated": 3,
+      "High": 1
+    },
+    "11": {
+      "Elevated": 6,
+      "Normal": 4,
+      "High": 3
+    },
+    "12": {
+      "Normal": 12,
+      "Elevated": 1
+    },
+    "13": {
+      "High": 6,
+      "Normal": 3,
+      "Elevated": 3
+    },
+    "14": {
+      "Elevated": 8,
+      "High": 5
+    },
+    "15": {
+      "Elevated": 9,
+      "Normal": 3
+    },
+    "16": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "17": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "18": {
+      "Elevated": 6
+    },
+    "19": {
+      "High": 5,
+      "Elevated": 1
+    },
+    "20": {
+      "High": 4
+    }
+  },
+  "turning_point_count": 5
+}

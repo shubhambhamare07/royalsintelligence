@@ -1,0 +1,93 @@
+{
+  "player_id": "26530",
+  "player_name": "Treveen Mathew",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 4,
+    "balls": 12,
+    "average": 4.0,
+    "strike_rate": 33.33,
+    "highest_score": 4,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 8,
+    "singles": 4,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 72,
+    "overs": 12.0,
+    "runs_charged": 68.0,
+    "wickets": 7,
+    "economy": 5.67,
+    "average": 9.71,
+    "strike_rate": 10.29,
+    "dot_pct": 44.16,
+    "boundary_pct": 9.09,
+    "wides": 5,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 9.0,
+        "wickets": 1,
+        "economy": 9.0
+      },
+      "middle": {
+        "overs": 2.0,
+        "runs": 7.0,
+        "wickets": 1,
+        "economy": 3.5
+      },
+      "powerplay": {
+        "overs": 9.0,
+        "runs": 52.0,
+        "wickets": 5,
+        "economy": 5.78
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48028,
+      "date": "2025-11-21",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "4 (12)",
+      "bowling_figures": "3/22 (4.0)",
+      "pressure_balls": 2,
+      "pressure_value": -0.87
+    },
+    {
+      "match_id": 48026,
+      "date": "2025-11-19",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/25 (4.0)",
+      "pressure_balls": 27,
+      "pressure_value": 2.28
+    },
+    {
+      "match_id": 48021,
+      "date": "2025-11-17",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "3/21 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

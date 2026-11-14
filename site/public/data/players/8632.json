@@ -1,0 +1,63 @@
+{
+  "player_id": "8632",
+  "player_name": "Aaqib Khan",
+  "batting": null,
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 48,
+    "overs": 8.0,
+    "runs_charged": 86.0,
+    "wickets": 2,
+    "economy": 10.75,
+    "average": 43.0,
+    "strike_rate": 24.0,
+    "dot_pct": 36.0,
+    "boundary_pct": 26.0,
+    "wides": 2,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 3.0,
+        "runs": 41.0,
+        "wickets": 0,
+        "economy": 13.67
+      },
+      "middle": {
+        "overs": 1.0,
+        "runs": 6.0,
+        "wickets": 1,
+        "economy": 6.0
+      },
+      "powerplay": {
+        "overs": 4.0,
+        "runs": 39.0,
+        "wickets": 1,
+        "economy": 9.75
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 37098,
+      "date": "2024-10-25",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/48 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37096,
+      "date": "2024-10-23",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/38 (4.0)",
+      "pressure_balls": 2,
+      "pressure_value": 2.04
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "player_id": "39657",
+  "player_name": "Eshan Malinga",
+  "batting": {
+    "matches": 11,
+    "innings": 11,
+    "not_outs": 8,
+    "runs": 26,
+    "balls": 38,
+    "average": 8.67,
+    "strike_rate": 68.42,
+    "highest_score": 13,
+    "fours": 1,
+    "sixes": 1,
+    "dots": 23,
+    "singles": 11,
+    "twos": 1,
+    "threes": 1,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 42,
+    "legal_balls": 902,
+    "overs": 150.3,
+    "runs_charged": 1357.0,
+    "wickets": 53,
+    "economy": 9.03,
+    "average": 25.6,
+    "strike_rate": 17.02,
+    "dot_pct": 32.95,
+    "boundary_pct": 17.77,
+    "wides": 65,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 49.5,
+        "runs": 472.0,
+        "wickets": 21,
+        "economy": 9.54
+      },
+      "middle": {
+        "overs": 54.8,
+        "runs": 447.0,
+        "wickets": 15,
+        "economy": 8.15
+      },
+      "powerplay": {
+        "overs": 46.0,
+        "runs": 438.0,
+        "wickets": 17,
+        "economy": 9.52
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 59.76,
+    "tier": "Unproven",
+    "p_outperform": 0.7202,
+    "pressure_value_per_6": 0.25,
+    "clutch_delta_per_6": -0.32,
+    "consistency": 0.4669
+  },
+  "recent_matches": [
+    {
+      "match_id": 55080,
+      "date": "2026-10-13",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/38 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 55079,
+      "date": "2026-10-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/41 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 55078,
+      "date": "2026-10-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (3)",
+      "bowling_figures": "2/33 (3.8)",
+      "pressure_balls": 10,
+      "pressure_value": -2.94
+    },
+    {
+      "match_id": 45491,
+      "date": "2026-09-19",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "0/34 (1.7)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45490,
+      "date": "2026-09-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "1/27 (2.2)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45489,
+      "date": "2026-09-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "13 (5)",
+      "bowling_figures": "1/39 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50505,
+      "date": "2026-06-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "0/30 (4.0)",
+      "pressure_balls": 19,
+      "pressure_value": 2.03
+    },
+    {
+      "match_id": 50504,
+      "date": "2026-06-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/41 (3.0)",
+      "pressure_balls": 5,
+      "pressure_value": -6.22
+    },
+    {
+      "match_id": 50503,
+      "date": "2026-06-12",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "3 (2)",
+      "bowling_figures": "1/26 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50943,
+      "date": "2026-05-27",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "5 (8)",
+      "bowling_figures": "1/40 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50388,
+      "date": "2026-05-22",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/33 (4.0)",
+      "pressure_balls": 3,
+      "pressure_value": 8.55
+    },
+    {
+      "match_id": 50384,
+      "date": "2026-05-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/26 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": 2.9
+    },
+    {
+      "match_id": 50377,
+      "date": "2026-05-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (3)",
+      "bowling_figures": "0/46 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50370,
+      "date": "2026-05-06",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/36 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50366,
+      "date": "2026-05-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (6)",
+      "bowling_figures": "0/42 (3.3)",
+      "pressure_balls": 2,
+      "pressure_value": -0.53
+    },
+    {
+      "match_id": 50362,
+      "date": "2026-04-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/29 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50357,
+      "date": "2026-04-25",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/38 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50352,
+      "date": "2026-04-21",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "4/32 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50348,
+      "date": "2026-04-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "3/29 (4.0)",
+      "pressure_balls": 25,
+      "pressure_value": 32.4
+    },
+    {
+      "match_id": 50342,
+      "date": "2026-04-13",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/31 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50141,
+      "date": "2026-04-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/46 (3.0)",
+      "pressure_balls": 13,
+      "pressure_value": -8.67
+    },
+    {
+      "match_id": 50134,
+      "date": "2026-04-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/30 (4.0)",
+      "pressure_balls": 2,
+      "pressure_value": 0.4
+    },
+    {
+      "match_id": 50130,
+      "date": "2026-04-02",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/14 (2.0)",
+      "pressure_balls": 9,
+      "pressure_value": -1.12
+    },
+    {
+      "match_id": 50125,
+      "date": "2026-03-28",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/35 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48514,
+      "date": "2026-01-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/27 (2.0)",
+      "pressure_balls": 12,
+      "pressure_value": -12.63
+    },
+    {
+      "match_id": 47982,
+      "date": "2025-11-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "1/16 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47981,
+      "date": "2025-11-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/54 (4.0)",
+      "pressure_balls": 15,
+      "pressure_value": -3.49
+    },
+    {
+      "match_id": 47980,
+      "date": "2025-11-25",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/33 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47978,
+      "date": "2025-11-22",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/24 (2.5)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47977,
+      "date": "2025-11-20",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (6)",
+      "bowling_figures": "2/27 (4.0)",
+      "pressure_balls": 5,
+      "pressure_value": -2.48
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 39657,
+      "player_name": "Eshan Malinga",
+      "role": "bowler",
+      "match_id": 37099,
+      "n_balls": 10,
+      "match_runs_conceded": 8,
+      "match_wickets": 0,
+      "match_pressure_value": 0.1365,
+      "career_expected_value": 0.5066,
+      "z_score": -5.69,
+      "direction": "negative"
+    },
+    {
+      "player_id": 39657,
+      "player_name": "Eshan Malinga",
+      "role": "bowler",
+      "match_id": 55078,
+      "n_balls": 10,
+      "match_runs_conceded": 15,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2604,
+      "career_expected_value": 0.5066,
+      "z_score": -3.78,
+      "direction": "negative"
+    },
+    {
+      "player_id": 39657,
+      "player_name": "Eshan Malinga",
+      "role": "bowler",
+      "match_id": 50130,
+      "n_balls": 9,
+      "match_runs_conceded": 7,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7487,
+      "career_expected_value": 0.5066,
+      "z_score": 3.53,
+      "direction": "positive"
+    },
+    {
+      "player_id": 39657,
+      "player_name": "Eshan Malinga",
+      "role": "bowler",
+      "match_id": 40757,
+      "n_balls": 18,
+      "match_runs_conceded": 30,
+      "match_wickets": 1,
+      "match_pressure_value": 0.6617,
+      "career_expected_value": 0.5066,
+      "z_score": 3.2,
+      "direction": "positive"
+    },
+    {
+      "player_id": 39657,
+      "player_name": "Eshan Malinga",
+      "role": "bowler",
+      "match_id": 37094,
+      "n_balls": 11,
+      "match_runs_conceded": 11,
+      "match_wickets": 1,
+      "match_pressure_value": 0.3339,
+      "career_expected_value": 0.5066,
+      "z_score": -2.78,
+      "direction": "negative"
+    },
+    {
+      "player_id": 39657,
+      "player_name": "Eshan Malinga",
+      "role": "bowler",
+      "match_id": 50504,
+      "n_balls": 5,
+      "match_runs_conceded": 9,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7544,
+      "career_expected_value": 0.5066,
+      "z_score": 2.69,
+      "direction": "positive"
+    },
+    {
+      "player_id": 39657,
+      "player_name": "Eshan Malinga",
+      "role": "bowler",
+      "match_id": 47981,
+      "n_balls": 15,
+      "match_runs_conceded": 25,
+      "match_wickets": 1,
+      "match_pressure_value": 0.6481,
+      "career_expected_value": 0.5066,
+      "z_score": 2.66,
+      "direction": "positive"
+    },
+    {
+      "player_id": 39657,
+      "player_name": "Eshan Malinga",
+      "role": "bowler",
+      "match_id": 48514,
+      "n_balls": 12,
+      "match_runs_conceded": 15,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3543,
+      "career_expected_value": 0.5066,
+      "z_score": -2.56,
+      "direction": "negative"
+    }
+  ]
+}

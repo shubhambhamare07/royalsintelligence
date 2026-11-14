@@ -1,0 +1,85 @@
+{
+  "player_id": "6035",
+  "player_name": "Chirag Suri",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 0,
+    "runs": 136,
+    "balls": 103,
+    "average": 27.2,
+    "strike_rate": 132.04,
+    "highest_score": 88,
+    "fours": 18,
+    "sixes": 2,
+    "dots": 43,
+    "singles": 30,
+    "twos": 8,
+    "threes": 2,
+    "ducks": 1,
+    "thirties": 1,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Stump": 2,
+      "RunOut": 1,
+      "Bowled": 1,
+      "Caught": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 17632,
+      "date": "2022-09-27",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "5 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -7.09
+    },
+    {
+      "match_id": 17631,
+      "date": "2022-09-25",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "39 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 20,
+      "pressure_value": 12.36
+    },
+    {
+      "match_id": 16866,
+      "date": "2022-08-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "4 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16864,
+      "date": "2022-08-22",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16863,
+      "date": "2022-08-21",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "88 (61)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 0.74
+    }
+  ]
+}

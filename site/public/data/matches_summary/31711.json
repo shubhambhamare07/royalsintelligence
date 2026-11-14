@@ -1,0 +1,112 @@
+{
+  "match_id": 31711,
+  "competition_kind": "T20I",
+  "calendar_year": 2024,
+  "result": "Pakistan Won by 9 runs",
+  "innings_totals": {
+    "innings_1": 177.9,
+    "innings_1_sigma": 3.39,
+    "innings_2": 168.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.39
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 9,
+      "High": 4,
+      "Elevated": 2
+    },
+    "2": {
+      "Elevated": 6,
+      "Normal": 3,
+      "High": 3
+    },
+    "3": {
+      "Elevated": 7,
+      "High": 7
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "5": {
+      "Elevated": 7,
+      "High": 7
+    },
+    "6": {
+      "High": 8,
+      "Normal": 6
+    },
+    "7": {
+      "Normal": 6,
+      "High": 6
+    },
+    "8": {
+      "High": 7,
+      "Normal": 6
+    },
+    "9": {
+      "Normal": 6,
+      "High": 6
+    },
+    "10": {
+      "Normal": 7,
+      "High": 6
+    },
+    "11": {
+      "Normal": 6,
+      "High": 6
+    },
+    "12": {
+      "Normal": 6,
+      "High": 6
+    },
+    "13": {
+      "Elevated": 5,
+      "Normal": 4,
+      "High": 3
+    },
+    "14": {
+      "High": 6,
+      "Elevated": 5,
+      "Normal": 1,
+      "Extreme": 1
+    },
+    "15": {
+      "Elevated": 7,
+      "Extreme": 2,
+      "Normal": 2,
+      "High": 1
+    },
+    "16": {
+      "Elevated": 11,
+      "Normal": 1
+    },
+    "17": {
+      "Elevated": 8,
+      "Normal": 5,
+      "High": 1
+    },
+    "18": {
+      "Elevated": 7,
+      "High": 4,
+      "Normal": 3
+    },
+    "19": {
+      "Extreme": 7,
+      "Elevated": 4,
+      "High": 2
+    },
+    "20": {
+      "High": 5,
+      "Extreme": 3,
+      "Elevated": 1
+    }
+  },
+  "turning_point_count": 5
+}

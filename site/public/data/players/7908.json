@@ -1,0 +1,104 @@
+{
+  "player_id": "7908",
+  "player_name": "Mohammad Akbar Ali",
+  "batting": {
+    "matches": 7,
+    "innings": 7,
+    "not_outs": 1,
+    "runs": 135,
+    "balls": 99,
+    "average": 22.5,
+    "strike_rate": 136.36,
+    "highest_score": 45,
+    "fours": 7,
+    "sixes": 10,
+    "dots": 38,
+    "singles": 41,
+    "twos": 3,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 2,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "Bowled": 2,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48029,
+      "date": "2025-11-23",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "2 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48027,
+      "date": "2025-11-21",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "9 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48026,
+      "date": "2025-11-19",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "25 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 25,
+      "pressure_value": -1.71
+    },
+    {
+      "match_id": 48017,
+      "date": "2025-11-15",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "41 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37094,
+      "date": "2024-10-22",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "9 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -5.05
+    },
+    {
+      "match_id": 37090,
+      "date": "2024-10-20",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "4 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37085,
+      "date": "2024-10-18",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "45 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": 14.96
+    }
+  ]
+}

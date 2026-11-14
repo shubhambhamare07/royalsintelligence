@@ -1,0 +1,77 @@
+{
+  "player_id": "7914",
+  "player_name": "Clayton Floyd",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 1,
+    "balls": 1,
+    "average": 1.0,
+    "strike_rate": 100.0,
+    "highest_score": 1,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 0,
+    "singles": 1,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 36,
+    "overs": 6.0,
+    "runs_charged": 51.0,
+    "wickets": 1,
+    "economy": 8.5,
+    "average": 51.0,
+    "strike_rate": 36.0,
+    "dot_pct": 44.44,
+    "boundary_pct": 22.22,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 20.0,
+        "wickets": 0,
+        "economy": 20.0
+      },
+      "powerplay": {
+        "overs": 5.0,
+        "runs": 31.0,
+        "wickets": 1,
+        "economy": 6.2
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16667,
+      "date": "2022-08-05",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/15 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16666,
+      "date": "2022-08-04",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "1/36 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "player_id": "2687",
+  "player_name": "Roston Chase",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 38.8,
+  "rating_ci90": [
+    10.35,
+    66.49
+  ],
+  "p_outperform": 0.2546,
+  "top10_inclusion_prob": 0.0051,
+  "rank_ci90": [
+    35,
+    151
+  ],
+  "composite": -0.1937,
+  "components": {
+    "PV": {
+      "observed": -0.0788,
+      "adjusted": -0.0788,
+      "z_score": -0.1186,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.0706,
+      "adjusted": -0.0706,
+      "z_score": -0.1316,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.5502,
+      "adjusted": 0.5502,
+      "z_score": -0.3309,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 97,
+    "neff_pressure": 70.22,
+    "n_pressure_matches": 11
+  },
+  "explanation": "Roston Chase generated a pressure value of -7.88 runs/100 balls (Clutch Delta: -7.06) at a 107.2 strike rate with 42.9% consistency across 11 pressure matches (97 balls)."
+}

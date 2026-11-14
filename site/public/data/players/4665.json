@@ -1,0 +1,53 @@
+{
+  "player_id": "4665",
+  "player_name": "Tom Blundell",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 32,
+    "balls": 19,
+    "average": 16.0,
+    "strike_rate": 168.42,
+    "highest_score": 28,
+    "fours": 6,
+    "sixes": 0,
+    "dots": 6,
+    "singles": 6,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 31711,
+      "date": "2024-04-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "4 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -11.39
+    },
+    {
+      "match_id": 31710,
+      "date": "2024-04-25",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "28 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

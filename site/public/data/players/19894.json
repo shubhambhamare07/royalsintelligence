@@ -1,0 +1,114 @@
+{
+  "player_id": "19894",
+  "player_name": "Mitchell Hay",
+  "batting": {
+    "matches": 8,
+    "innings": 8,
+    "not_outs": 1,
+    "runs": 66,
+    "balls": 52,
+    "average": 9.43,
+    "strike_rate": 126.92,
+    "highest_score": 41,
+    "fours": 4,
+    "sixes": 3,
+    "dots": 18,
+    "singles": 22,
+    "twos": 5,
+    "threes": 0,
+    "ducks": 2,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "Bowled": 3,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 47967,
+      "date": "2025-11-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 39811,
+      "date": "2025-03-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "3 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 39810,
+      "date": "2025-03-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 38634,
+      "date": "2025-01-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "8 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -6.79
+    },
+    {
+      "match_id": 38633,
+      "date": "2024-12-30",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "41 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": 11.09
+    },
+    {
+      "match_id": 38632,
+      "date": "2024-12-28",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37895,
+      "date": "2024-11-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "3 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37894,
+      "date": "2024-11-09",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

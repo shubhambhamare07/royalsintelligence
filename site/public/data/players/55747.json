@@ -1,0 +1,94 @@
+{
+  "player_id": "55747",
+  "player_name": "Benjamin Calitz",
+  "batting": {
+    "matches": 6,
+    "innings": 6,
+    "not_outs": 1,
+    "runs": 121,
+    "balls": 81,
+    "average": 24.2,
+    "strike_rate": 149.38,
+    "highest_score": 37,
+    "fours": 8,
+    "sixes": 7,
+    "dots": 25,
+    "singles": 35,
+    "twos": 6,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "Stump": 1,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50341,
+      "date": "2026-06-28",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "37 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50340,
+      "date": "2026-06-26",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "15 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48467,
+      "date": "2026-01-31",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "14 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48466,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "26 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": 1.86
+    },
+    {
+      "match_id": 47242,
+      "date": "2025-11-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "7 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46009,
+      "date": "2025-09-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "22 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "player_id": "26646",
+  "player_name": "Rahul Chopra",
+  "batting": {
+    "matches": 14,
+    "innings": 14,
+    "not_outs": 1,
+    "runs": 236,
+    "balls": 224,
+    "average": 18.15,
+    "strike_rate": 105.36,
+    "highest_score": 52,
+    "fours": 16,
+    "sixes": 9,
+    "dots": 100,
+    "singles": 81,
+    "twos": 17,
+    "threes": 1,
+    "ducks": 3,
+    "thirties": 2,
+    "fifties": 2,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 10,
+      "LBW": 2,
+      "Stump": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 30.49,
+    "tier": "Unproven",
+    "p_outperform": 0.1191,
+    "pressure_value_per_100": -12.62,
+    "clutch_delta_per_100": -14.02,
+    "consistency": 0.5393
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48466,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "8 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -1.37
+    },
+    {
+      "match_id": 45504,
+      "date": "2025-09-17",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "35 (35)",
+      "bowling_figures": null,
+      "pressure_balls": 36,
+      "pressure_value": -1.0
+    },
+    {
+      "match_id": 45501,
+      "date": "2025-09-15",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -1.96
+    },
+    {
+      "match_id": 45496,
+      "date": "2025-09-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "3 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45856,
+      "date": "2025-09-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "7 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -7.01
+    },
+    {
+      "match_id": 45855,
+      "date": "2025-09-04",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -0.84
+    },
+    {
+      "match_id": 45853,
+      "date": "2025-09-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "52 (35)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": 1.99
+    },
+    {
+      "match_id": 45852,
+      "date": "2025-08-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "11 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 43171,
+      "date": "2025-05-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "13 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 13,
+      "pressure_value": -2.26
+    },
+    {
+      "match_id": 42784,
+      "date": "2025-05-19",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -8.63
+    },
+    {
+      "match_id": 42783,
+      "date": "2025-05-17",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "35 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 18,
+      "pressure_value": 6.44
+    },
+    {
+      "match_id": 37095,
+      "date": "2024-10-23",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "20 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37092,
+      "date": "2024-10-21",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "50 (50)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37087,
+      "date": "2024-10-19",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -12.51
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 26646,
+      "player_name": "Rahul Chopra",
+      "role": "batter",
+      "match_id": 45856,
+      "n_balls": 9,
+      "match_runs": 7,
+      "match_pressure_value": 0.6964,
+      "career_expected_value": 0.4773,
+      "z_score": 3.2,
+      "direction": "positive"
+    },
+    {
+      "player_id": 26646,
+      "player_name": "Rahul Chopra",
+      "role": "batter",
+      "match_id": 43171,
+      "n_balls": 13,
+      "match_runs": 13,
+      "match_pressure_value": 0.64,
+      "career_expected_value": 0.4773,
+      "z_score": 2.85,
+      "direction": "positive"
+    }
+  ]
+}

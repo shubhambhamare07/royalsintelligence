@@ -1,0 +1,126 @@
+{
+  "player_id": "27373",
+  "player_name": "Muhammad Farooq",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 0,
+    "runs": 10,
+    "balls": 30,
+    "average": 3.33,
+    "strike_rate": 33.33,
+    "highest_score": 7,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 21,
+    "singles": 8,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2,
+      "Bowled": 1
+    }
+  },
+  "bowling": {
+    "matches": 5,
+    "legal_balls": 96,
+    "overs": 16.0,
+    "runs_charged": 121.0,
+    "wickets": 8,
+    "economy": 7.56,
+    "average": 15.12,
+    "strike_rate": 12.0,
+    "dot_pct": 34.95,
+    "boundary_pct": 10.68,
+    "wides": 7,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 2.0,
+        "wickets": 1,
+        "economy": 2.0
+      },
+      "middle": {
+        "overs": 14.0,
+        "runs": 111.0,
+        "wickets": 6,
+        "economy": 7.93
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 8.0,
+        "wickets": 1,
+        "economy": 8.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48023,
+      "date": "2025-11-18",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "0 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48019,
+      "date": "2025-11-16",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/25 (3.0)",
+      "pressure_balls": 13,
+      "pressure_value": -10.19
+    },
+    {
+      "match_id": 45856,
+      "date": "2025-09-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/32 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37095,
+      "date": "2024-10-23",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "3 (17)",
+      "bowling_figures": "3/27 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37092,
+      "date": "2024-10-21",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "7 (9)",
+      "bowling_figures": "1/16 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37087,
+      "date": "2024-10-19",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/21 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

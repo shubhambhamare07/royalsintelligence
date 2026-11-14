@@ -1,0 +1,52 @@
+{
+  "player_id": "778",
+  "player_name": "Darren Bravo",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 1,
+    "runs": 26,
+    "balls": 28,
+    "average": 26.0,
+    "strike_rate": 92.86,
+    "highest_score": 23,
+    "fours": 1,
+    "sixes": 1,
+    "dots": 10,
+    "singles": 16,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 13514,
+      "date": "2022-01-30",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "3 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13512,
+      "date": "2022-01-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "23 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

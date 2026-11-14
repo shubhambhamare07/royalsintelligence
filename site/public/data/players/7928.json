@@ -1,0 +1,89 @@
+{
+  "player_id": "7928",
+  "player_name": "Vinoth Baskaran",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 5,
+    "balls": 9,
+    "average": 2.5,
+    "strike_rate": 55.56,
+    "highest_score": 3,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 4,
+    "singles": 5,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2
+    }
+  },
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 65,
+    "overs": 10.8,
+    "runs_charged": 91.0,
+    "wickets": 6,
+    "economy": 8.4,
+    "average": 15.17,
+    "strike_rate": 10.83,
+    "dot_pct": 33.85,
+    "boundary_pct": 13.85,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 6.8,
+        "runs": 49.0,
+        "wickets": 3,
+        "economy": 7.17
+      },
+      "powerplay": {
+        "overs": 4.0,
+        "runs": 42.0,
+        "wickets": 3,
+        "economy": 10.5
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16867,
+      "date": "2022-08-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "2 (4)",
+      "bowling_figures": "3/39 (2.8)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16864,
+      "date": "2022-08-22",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "3 (5)",
+      "bowling_figures": "2/23 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16862,
+      "date": "2022-08-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/29 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

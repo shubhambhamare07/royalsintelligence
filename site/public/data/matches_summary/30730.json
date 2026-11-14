@@ -1,0 +1,102 @@
+{
+  "match_id": 30730,
+  "competition_kind": "T20I",
+  "calendar_year": 2024,
+  "result": "Afghanistan won by 57 runs",
+  "innings_totals": {
+    "innings_1": 156.4,
+    "innings_1_sigma": 3.39,
+    "innings_2": 99.8
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.39
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "Elevated": 4,
+      "High": 2
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 4,
+      "Normal": 2
+    },
+    "4": {
+      "Elevated": 10,
+      "Normal": 2
+    },
+    "5": {
+      "Elevated": 10,
+      "High": 2
+    },
+    "6": {
+      "Normal": 6,
+      "High": 5,
+      "Elevated": 1
+    },
+    "7": {
+      "Normal": 8,
+      "Elevated": 4,
+      "High": 2
+    },
+    "8": {
+      "Normal": 11,
+      "Elevated": 3
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 12
+    },
+    "12": {
+      "Normal": 13
+    },
+    "13": {
+      "Normal": 7,
+      "Elevated": 4,
+      "High": 2
+    },
+    "14": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "15": {
+      "Normal": 9,
+      "Elevated": 3
+    },
+    "16": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "17": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "18": {
+      "Elevated": 7,
+      "Normal": 2
+    },
+    "19": {
+      "High": 5,
+      "Elevated": 2
+    },
+    "20": {
+      "Elevated": 6,
+      "High": 1
+    }
+  },
+  "turning_point_count": 5
+}

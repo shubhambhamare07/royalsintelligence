@@ -1,0 +1,429 @@
+{
+  "player_id": "2258",
+  "player_name": "Sanju Samson",
+  "batting": {
+    "matches": 120,
+    "innings": 120,
+    "not_outs": 16,
+    "runs": 3425,
+    "balls": 2216,
+    "average": 32.93,
+    "strike_rate": 154.56,
+    "highest_score": 115,
+    "fours": 317,
+    "sixes": 186,
+    "dots": 780,
+    "singles": 833,
+    "twos": 94,
+    "threes": 5,
+    "ducks": 10,
+    "thirties": 18,
+    "fifties": 20,
+    "hundreds": 5,
+    "dismissals_by_type": {
+      "Caught": 75,
+      "Bowled": 20,
+      "LBW": 4,
+      "Stump": 4,
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 29.97,
+    "tier": "Unproven",
+    "p_outperform": 0.0609,
+    "pressure_value_per_100": -9.08,
+    "clutch_delta_per_100": -19.85,
+    "consistency": 0.5451
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 54214,
+      "date": "2026-11-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "4 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54213,
+      "date": "2026-10-30",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "4 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54212,
+      "date": "2026-10-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "18 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54211,
+      "date": "2026-10-24",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "14 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": -6.3
+    },
+    {
+      "match_id": 54210,
+      "date": "2026-10-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "67 (33)",
+      "bowling_figures": null,
+      "pressure_balls": 22,
+      "pressure_value": 16.7
+    },
+    {
+      "match_id": 50407,
+      "date": "2026-10-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "56 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -4.63
+    },
+    {
+      "match_id": 50406,
+      "date": "2026-10-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "3 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50405,
+      "date": "2026-10-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "82 (41)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50404,
+      "date": "2026-10-06",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "11 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -12.91
+    },
+    {
+      "match_id": 54410,
+      "date": "2026-09-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "50 (35)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54409,
+      "date": "2026-09-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "57 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54408,
+      "date": "2026-09-13",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "10 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45394,
+      "date": "2026-07-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "27 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45390,
+      "date": "2026-07-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50341,
+      "date": "2026-06-28",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50340,
+      "date": "2026-06-26",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "5 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -12.47
+    },
+    {
+      "match_id": 50387,
+      "date": "2026-05-21",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50384,
+      "date": "2026-05-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "27 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50380,
+      "date": "2026-05-15",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "20 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50374,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "28 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": 5.6
+    },
+    {
+      "match_id": 50369,
+      "date": "2026-05-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "87 (52)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50365,
+      "date": "2026-05-02",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "11 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50358,
+      "date": "2026-04-26",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "11 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50354,
+      "date": "2026-04-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "101 (54)",
+      "bowling_figures": null,
+      "pressure_balls": 11,
+      "pressure_value": -2.81
+    },
+    {
+      "match_id": 50348,
+      "date": "2026-04-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "7 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -10.66
+    },
+    {
+      "match_id": 50343,
+      "date": "2026-04-14",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "48 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50142,
+      "date": "2026-04-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "115 (56)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": 2.8
+    },
+    {
+      "match_id": 50135,
+      "date": "2026-04-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "9 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50131,
+      "date": "2026-04-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "7 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50127,
+      "date": "2026-03-30",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "6 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 2258,
+      "player_name": "Sanju Samson",
+      "role": "batter",
+      "match_id": 20212,
+      "n_balls": 15,
+      "match_runs": 22,
+      "match_pressure_value": 0.2647,
+      "career_expected_value": 0.5319,
+      "z_score": -5.03,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2258,
+      "player_name": "Sanju Samson",
+      "role": "batter",
+      "match_id": 31274,
+      "n_balls": 17,
+      "match_runs": 27,
+      "match_pressure_value": 0.3058,
+      "career_expected_value": 0.5319,
+      "z_score": -4.53,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2258,
+      "player_name": "Sanju Samson",
+      "role": "batter",
+      "match_id": 50407,
+      "n_balls": 5,
+      "match_runs": 9,
+      "match_pressure_value": 0.1912,
+      "career_expected_value": 0.5319,
+      "z_score": -3.71,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2258,
+      "player_name": "Sanju Samson",
+      "role": "batter",
+      "match_id": 40725,
+      "n_balls": 15,
+      "match_runs": 24,
+      "match_pressure_value": 0.7189,
+      "career_expected_value": 0.5319,
+      "z_score": 3.52,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2258,
+      "player_name": "Sanju Samson",
+      "role": "batter",
+      "match_id": 31250,
+      "n_balls": 6,
+      "match_runs": 10,
+      "match_pressure_value": 0.2453,
+      "career_expected_value": 0.5319,
+      "z_score": -3.41,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2258,
+      "player_name": "Sanju Samson",
+      "role": "batter",
+      "match_id": 40756,
+      "n_balls": 14,
+      "match_runs": 18,
+      "match_pressure_value": 0.7176,
+      "career_expected_value": 0.5319,
+      "z_score": 3.38,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2258,
+      "player_name": "Sanju Samson",
+      "role": "batter",
+      "match_id": 40760,
+      "n_balls": 16,
+      "match_runs": 20,
+      "match_pressure_value": 0.6956,
+      "career_expected_value": 0.5319,
+      "z_score": 3.19,
+      "direction": "positive"
+    }
+  ]
+}

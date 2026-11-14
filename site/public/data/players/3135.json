@@ -1,0 +1,71 @@
+{
+  "player_id": "3135",
+  "player_name": "Yannic Cariah",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 2,
+    "runs": 3,
+    "balls": 4,
+    "average": 3.0,
+    "strike_rate": 75.0,
+    "highest_score": 2,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 1,
+    "singles": 3,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 36,
+    "overs": 6.0,
+    "runs_charged": 43.0,
+    "wickets": 1,
+    "economy": 7.17,
+    "average": 43.0,
+    "strike_rate": 36.0,
+    "dot_pct": 41.67,
+    "boundary_pct": 13.89,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 6.0,
+        "runs": 43.0,
+        "wickets": 1,
+        "economy": 7.17
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 17641,
+      "date": "2022-10-07",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "2 (2)",
+      "bowling_figures": "0/28 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17640,
+      "date": "2022-10-05",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "1/15 (4.0)",
+      "pressure_balls": 20,
+      "pressure_value": 1.43
+    }
+  ]
+}

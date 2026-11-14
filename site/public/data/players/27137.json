@@ -1,0 +1,123 @@
+{
+  "player_id": "27137",
+  "player_name": "Hammad Mirza",
+  "batting": {
+    "matches": 9,
+    "innings": 9,
+    "not_outs": 1,
+    "runs": 220,
+    "balls": 160,
+    "average": 27.5,
+    "strike_rate": 137.5,
+    "highest_score": 51,
+    "fours": 18,
+    "sixes": 10,
+    "dots": 59,
+    "singles": 60,
+    "twos": 11,
+    "threes": 2,
+    "ducks": 0,
+    "thirties": 2,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 7,
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48024,
+      "date": "2025-11-18",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "32 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48019,
+      "date": "2025-11-16",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "28 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 13,
+      "pressure_value": -6.46
+    },
+    {
+      "match_id": 48015,
+      "date": "2025-11-14",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "34 (27)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45506,
+      "date": "2025-09-19",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "51 (33)",
+      "bowling_figures": null,
+      "pressure_balls": 15,
+      "pressure_value": 0.77
+    },
+    {
+      "match_id": 45501,
+      "date": "2025-09-15",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "5 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": 3.48
+    },
+    {
+      "match_id": 45498,
+      "date": "2025-09-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "27 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 19,
+      "pressure_value": 21.82
+    },
+    {
+      "match_id": 37096,
+      "date": "2024-10-23",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "28 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -1.57
+    },
+    {
+      "match_id": 37091,
+      "date": "2024-10-21",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "14 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37087,
+      "date": "2024-10-19",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "1 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

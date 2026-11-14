@@ -1,0 +1,491 @@
+{
+  "player_id": "4986",
+  "player_name": "Rovman Powell",
+  "batting": {
+    "matches": 98,
+    "innings": 98,
+    "not_outs": 17,
+    "runs": 2232,
+    "balls": 1534,
+    "average": 27.56,
+    "strike_rate": 145.5,
+    "highest_score": 107,
+    "fours": 138,
+    "sixes": 154,
+    "dots": 585,
+    "singles": 564,
+    "twos": 87,
+    "threes": 6,
+    "ducks": 3,
+    "thirties": 22,
+    "fifties": 8,
+    "hundreds": 1,
+    "dismissals_by_type": {
+      "Caught": 57,
+      "Bowled": 14,
+      "LBW": 9,
+      "Stump": 1
+    }
+  },
+  "bowling": {
+    "matches": 11,
+    "legal_balls": 73,
+    "overs": 12.2,
+    "runs_charged": 144.0,
+    "wickets": 2,
+    "economy": 11.84,
+    "average": 72.0,
+    "strike_rate": 36.5,
+    "dot_pct": 17.07,
+    "boundary_pct": 23.17,
+    "wides": 6,
+    "no_balls": 3,
+    "phase_splits": {
+      "death": {
+        "overs": 2.2,
+        "runs": 31.0,
+        "wickets": 0,
+        "economy": 14.31
+      },
+      "middle": {
+        "overs": 10.0,
+        "runs": 113.0,
+        "wickets": 2,
+        "economy": 11.3
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 60.63,
+    "tier": "Unproven",
+    "p_outperform": 0.7858,
+    "pressure_value_per_100": 11.06,
+    "clutch_delta_per_100": 4.78,
+    "consistency": 0.5766
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50407,
+      "date": "2026-10-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "24 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50406,
+      "date": "2026-10-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "5 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50405,
+      "date": "2026-10-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "24 (13)",
+      "bowling_figures": "0/7 (0.3)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50404,
+      "date": "2026-10-06",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "0 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50505,
+      "date": "2026-06-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "33 (27)",
+      "bowling_figures": null,
+      "pressure_balls": 20,
+      "pressure_value": -3.4
+    },
+    {
+      "match_id": 50504,
+      "date": "2026-06-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "43 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": 3.05
+    },
+    {
+      "match_id": 50503,
+      "date": "2026-06-12",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "10 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 3.15
+    },
+    {
+      "match_id": 50391,
+      "date": "2026-05-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "29 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": 4.94
+    },
+    {
+      "match_id": 50386,
+      "date": "2026-05-20",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "40 (30)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50359,
+      "date": "2026-04-26",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50349,
+      "date": "2026-04-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "23 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": -1.37
+    },
+    {
+      "match_id": 50346,
+      "date": "2026-04-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "27 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50343,
+      "date": "2026-04-14",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "31 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50139,
+      "date": "2026-04-09",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "39 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -8.41
+    },
+    {
+      "match_id": 41850,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "2 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41849,
+      "date": "2026-01-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "29 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": -4.03
+    },
+    {
+      "match_id": 47969,
+      "date": "2025-11-13",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "11 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47967,
+      "date": "2025-11-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47966,
+      "date": "2025-11-06",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "45 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": 4.95
+    },
+    {
+      "match_id": 47965,
+      "date": "2025-11-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "33 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": -6.63
+    },
+    {
+      "match_id": 46942,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "5 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46941,
+      "date": "2025-10-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "3 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46940,
+      "date": "2025-10-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "44 (28)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": 14.1
+    },
+    {
+      "match_id": 41507,
+      "date": "2025-07-26",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41508,
+      "date": "2025-07-26",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "28 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41506,
+      "date": "2025-07-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "12 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -0.94
+    },
+    {
+      "match_id": 41505,
+      "date": "2025-07-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41504,
+      "date": "2025-06-15",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 36201,
+      "date": "2025-06-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "79 (45)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 36200,
+      "date": "2025-06-08",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "34 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 4986,
+      "player_name": "Rovman Powell",
+      "role": "batter",
+      "match_id": 13523,
+      "n_balls": 19,
+      "match_runs": 29,
+      "match_pressure_value": 0.1307,
+      "career_expected_value": 0.4531,
+      "z_score": -6.83,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4986,
+      "player_name": "Rovman Powell",
+      "role": "batter",
+      "match_id": 37352,
+      "n_balls": 15,
+      "match_runs": 33,
+      "match_pressure_value": 0.7583,
+      "career_expected_value": 0.4531,
+      "z_score": 5.75,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4986,
+      "player_name": "Rovman Powell",
+      "role": "batter",
+      "match_id": 16063,
+      "n_balls": 6,
+      "match_runs": 5,
+      "match_pressure_value": 0.8588,
+      "career_expected_value": 0.4531,
+      "z_score": 4.83,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4986,
+      "player_name": "Rovman Powell",
+      "role": "batter",
+      "match_id": 14134,
+      "n_balls": 15,
+      "match_runs": 32,
+      "match_pressure_value": 0.6981,
+      "career_expected_value": 0.4531,
+      "z_score": 4.62,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4986,
+      "player_name": "Rovman Powell",
+      "role": "batter",
+      "match_id": 50505,
+      "n_balls": 18,
+      "match_runs": 19,
+      "match_pressure_value": 0.2429,
+      "career_expected_value": 0.4531,
+      "z_score": -4.34,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4986,
+      "player_name": "Rovman Powell",
+      "role": "batter",
+      "match_id": 38842,
+      "n_balls": 11,
+      "match_runs": 19,
+      "match_pressure_value": 0.2224,
+      "career_expected_value": 0.4531,
+      "z_score": -3.72,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4986,
+      "player_name": "Rovman Powell",
+      "role": "batter",
+      "match_id": 14139,
+      "n_balls": 7,
+      "match_runs": 15,
+      "match_pressure_value": 0.1857,
+      "career_expected_value": 0.4531,
+      "z_score": -3.44,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4986,
+      "player_name": "Rovman Powell",
+      "role": "batter",
+      "match_id": 28063,
+      "n_balls": 14,
+      "match_runs": 31,
+      "match_pressure_value": 0.6364,
+      "career_expected_value": 0.4531,
+      "z_score": 3.34,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4986,
+      "player_name": "Rovman Powell",
+      "role": "batter",
+      "match_id": 31274,
+      "n_balls": 4,
+      "match_runs": 6,
+      "match_pressure_value": 0.17,
+      "career_expected_value": 0.4531,
+      "z_score": -2.75,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4986,
+      "player_name": "Rovman Powell",
+      "role": "batter",
+      "match_id": 47966,
+      "n_balls": 4,
+      "match_runs": 11,
+      "match_pressure_value": 0.1739,
+      "career_expected_value": 0.4531,
+      "z_score": -2.72,
+      "direction": "negative"
+    }
+  ]
+}

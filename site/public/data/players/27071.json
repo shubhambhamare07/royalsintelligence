@@ -1,0 +1,63 @@
+{
+  "player_id": "27071",
+  "player_name": "Vinayak Shukla",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 0,
+    "runs": 23,
+    "balls": 23,
+    "average": 7.67,
+    "strike_rate": 100.0,
+    "highest_score": 20,
+    "fours": 2,
+    "sixes": 0,
+    "dots": 6,
+    "singles": 15,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2,
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 45506,
+      "date": "2025-09-19",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45501,
+      "date": "2025-09-15",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "20 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45498,
+      "date": "2025-09-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

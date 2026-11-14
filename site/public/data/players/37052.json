@@ -1,0 +1,463 @@
+{
+  "player_id": "37052",
+  "player_name": "Naman Dhir",
+  "batting": {
+    "matches": 43,
+    "innings": 43,
+    "not_outs": 10,
+    "runs": 936,
+    "balls": 560,
+    "average": 28.36,
+    "strike_rate": 167.14,
+    "highest_score": 62,
+    "fours": 90,
+    "sixes": 49,
+    "dots": 174,
+    "singles": 214,
+    "twos": 31,
+    "threes": 2,
+    "ducks": 6,
+    "thirties": 12,
+    "fifties": 3,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 23,
+      "Bowled": 6,
+      "LBW": 3,
+      "Stump": 1
+    }
+  },
+  "bowling": {
+    "matches": 15,
+    "legal_balls": 162,
+    "overs": 27.0,
+    "runs_charged": 283.0,
+    "wickets": 7,
+    "economy": 10.48,
+    "average": 40.43,
+    "strike_rate": 23.14,
+    "dot_pct": 29.59,
+    "boundary_pct": 21.3,
+    "wides": 7,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 6.0,
+        "runs": 50.0,
+        "wickets": 2,
+        "economy": 8.33
+      },
+      "middle": {
+        "overs": 20.0,
+        "runs": 227.0,
+        "wickets": 5,
+        "economy": 11.35
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 6.0,
+        "wickets": 0,
+        "economy": 6.0
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 46.05,
+    "tier": "Unproven",
+    "p_outperform": 0.4141,
+    "pressure_value_per_100": -1.47,
+    "clutch_delta_per_100": -9.72,
+    "consistency": 0.5903
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 54214,
+      "date": "2026-11-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "33 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54213,
+      "date": "2026-10-30",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "28 (13)",
+      "bowling_figures": "0/16 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54212,
+      "date": "2026-10-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "4 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54211,
+      "date": "2026-10-24",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "31 (17)",
+      "bowling_figures": "0/7 (1.0)",
+      "pressure_balls": 1,
+      "pressure_value": -3.98
+    },
+    {
+      "match_id": 54210,
+      "date": "2026-10-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "42 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 16,
+      "pressure_value": 21.6
+    },
+    {
+      "match_id": 50407,
+      "date": "2026-10-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/19 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50406,
+      "date": "2026-10-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "10 (5)",
+      "bowling_figures": "2/39 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50405,
+      "date": "2026-10-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "4 (1)",
+      "bowling_figures": "0/25 (2.0)",
+      "pressure_balls": 7,
+      "pressure_value": -10.45
+    },
+    {
+      "match_id": 50404,
+      "date": "2026-10-06",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "3/31 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50390,
+      "date": "2026-05-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "6 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -17.56
+    },
+    {
+      "match_id": 50386,
+      "date": "2026-05-20",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50379,
+      "date": "2026-05-14",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "9 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": -4.54
+    },
+    {
+      "match_id": 50375,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "47 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50368,
+      "date": "2026-05-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "23 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": 2.39
+    },
+    {
+      "match_id": 50365,
+      "date": "2026-05-02",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "57 (37)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50362,
+      "date": "2026-04-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "22 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50354,
+      "date": "2026-04-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50351,
+      "date": "2026-04-20",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "45 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50345,
+      "date": "2026-04-16",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "50 (31)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50144,
+      "date": "2026-04-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50132,
+      "date": "2026-04-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "28 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50126,
+      "date": "2026-03-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "5 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48027,
+      "date": "2025-11-21",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "7 (12)",
+      "bowling_figures": "1/33 (2.0)",
+      "pressure_balls": 12,
+      "pressure_value": -8.34
+    },
+    {
+      "match_id": 48024,
+      "date": "2025-11-18",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "30 (19)",
+      "bowling_figures": "1/5 (2.0)",
+      "pressure_balls": 4,
+      "pressure_value": 5.26
+    },
+    {
+      "match_id": 48020,
+      "date": "2025-11-16",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "35 (20)",
+      "bowling_figures": "0/23 (1.3)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48016,
+      "date": "2025-11-14",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "34 (23)",
+      "bowling_figures": "0/9 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40766,
+      "date": "2025-06-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "37 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -1.21
+    },
+    {
+      "match_id": 40765,
+      "date": "2025-05-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "9 (6)",
+      "bowling_figures": "0/9 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40754,
+      "date": "2025-05-26",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "20 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": 2.47
+    },
+    {
+      "match_id": 40759,
+      "date": "2025-05-21",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "24 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 37052,
+      "player_name": "Naman Dhir",
+      "role": "bowler",
+      "match_id": 40696,
+      "n_balls": 6,
+      "match_runs_conceded": 6,
+      "match_wickets": 0,
+      "match_pressure_value": 0.1146,
+      "career_expected_value": 0.4915,
+      "z_score": -4.49,
+      "direction": "negative"
+    },
+    {
+      "player_id": 37052,
+      "player_name": "Naman Dhir",
+      "role": "bowler",
+      "match_id": 50405,
+      "n_balls": 7,
+      "match_runs_conceded": 18,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8146,
+      "career_expected_value": 0.4915,
+      "z_score": 4.15,
+      "direction": "positive"
+    },
+    {
+      "player_id": 37052,
+      "player_name": "Naman Dhir",
+      "role": "batter",
+      "match_id": 48027,
+      "n_balls": 12,
+      "match_runs": 7,
+      "match_pressure_value": 0.2837,
+      "career_expected_value": 0.5106,
+      "z_score": -3.82,
+      "direction": "negative"
+    },
+    {
+      "player_id": 37052,
+      "player_name": "Naman Dhir",
+      "role": "batter",
+      "match_id": 31269,
+      "n_balls": 10,
+      "match_runs": 11,
+      "match_pressure_value": 0.7256,
+      "career_expected_value": 0.5106,
+      "z_score": 3.31,
+      "direction": "positive"
+    },
+    {
+      "player_id": 37052,
+      "player_name": "Naman Dhir",
+      "role": "batter",
+      "match_id": 40709,
+      "n_balls": 18,
+      "match_runs": 25,
+      "match_pressure_value": 0.3556,
+      "career_expected_value": 0.5106,
+      "z_score": -3.2,
+      "direction": "negative"
+    },
+    {
+      "player_id": 37052,
+      "player_name": "Naman Dhir",
+      "role": "batter",
+      "match_id": 31278,
+      "n_balls": 4,
+      "match_runs": 16,
+      "match_pressure_value": 0.8178,
+      "career_expected_value": 0.5106,
+      "z_score": 2.99,
+      "direction": "positive"
+    },
+    {
+      "player_id": 37052,
+      "player_name": "Naman Dhir",
+      "role": "batter",
+      "match_id": 40714,
+      "n_balls": 4,
+      "match_runs": 7,
+      "match_pressure_value": 0.2299,
+      "career_expected_value": 0.5106,
+      "z_score": -2.73,
+      "direction": "negative"
+    }
+  ]
+}

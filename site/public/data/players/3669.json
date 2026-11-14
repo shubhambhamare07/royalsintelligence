@@ -1,0 +1,115 @@
+{
+  "player_id": "3669",
+  "player_name": "Sadeera Samarawickrama",
+  "batting": {
+    "matches": 8,
+    "innings": 8,
+    "not_outs": 2,
+    "runs": 199,
+    "balls": 163,
+    "average": 33.17,
+    "strike_rate": 122.09,
+    "highest_score": 61,
+    "fours": 23,
+    "sixes": 2,
+    "dots": 51,
+    "singles": 79,
+    "twos": 8,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 2,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "Bowled": 1,
+      "RunOut": 1,
+      "Hit Wicket": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 30343,
+      "date": "2024-03-09",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "7 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -0.61
+    },
+    {
+      "match_id": 30342,
+      "date": "2024-03-06",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "7 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30341,
+      "date": "2024-03-04",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "61 (48)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 29926,
+      "date": "2024-02-21",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "23 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": 2.51
+    },
+    {
+      "match_id": 29925,
+      "date": "2024-02-19",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "51 (42)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": 2.34
+    },
+    {
+      "match_id": 29924,
+      "date": "2024-02-17",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "25 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28958,
+      "date": "2024-01-16",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "16 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28957,
+      "date": "2024-01-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "9 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": -2.71
+    }
+  ]
+}

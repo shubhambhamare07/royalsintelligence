@@ -1,0 +1,103 @@
+{
+  "match_id": 40720,
+  "competition_kind": "IPL",
+  "calendar_year": 2025,
+  "result": "Sunrisers Hyderabad Won by 8 wickets",
+  "innings_totals": {
+    "innings_1": 242.3,
+    "innings_1_sigma": 2.02,
+    "innings_2": 247.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 12
+    },
+    "2": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "3": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "4": {
+      "Normal": 7,
+      "High": 7,
+      "Elevated": 2
+    },
+    "5": {
+      "Normal": 7,
+      "High": 5,
+      "Extreme": 3
+    },
+    "6": {
+      "High": 7,
+      "Normal": 6
+    },
+    "7": {
+      "Normal": 6,
+      "Extreme": 5,
+      "High": 2
+    },
+    "8": {
+      "Normal": 6,
+      "High": 3,
+      "Extreme": 3
+    },
+    "9": {
+      "Normal": 7,
+      "Extreme": 3,
+      "High": 3
+    },
+    "10": {
+      "Normal": 6,
+      "High": 6
+    },
+    "11": {
+      "Normal": 6,
+      "High": 4,
+      "Elevated": 2
+    },
+    "12": {
+      "Normal": 8,
+      "Elevated": 5
+    },
+    "13": {
+      "Normal": 8,
+      "Elevated": 4
+    },
+    "14": {
+      "Normal": 9,
+      "High": 3,
+      "Elevated": 2
+    },
+    "15": {
+      "Normal": 11,
+      "High": 2,
+      "Elevated": 1
+    },
+    "16": {
+      "Normal": 13
+    },
+    "17": {
+      "Normal": 12
+    },
+    "18": {
+      "Normal": 12
+    },
+    "19": {
+      "Normal": 9
+    },
+    "20": {
+      "Normal": 6
+    }
+  },
+  "turning_point_count": 5
+}

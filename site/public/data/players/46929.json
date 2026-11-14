@@ -1,0 +1,104 @@
+{
+  "player_id": "46929",
+  "player_name": "Dian Forrester",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 2,
+    "runs": 83,
+    "balls": 77,
+    "average": 27.67,
+    "strike_rate": 107.79,
+    "highest_score": 21,
+    "fours": 4,
+    "sixes": 4,
+    "dots": 32,
+    "singles": 31,
+    "twos": 6,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2,
+      "LBW": 1
+    }
+  },
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 6,
+    "overs": 1.0,
+    "runs_charged": 4.0,
+    "wickets": 0,
+    "economy": 4.0,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 50.0,
+    "boundary_pct": 0.0,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 1.0,
+        "runs": 4.0,
+        "wickets": 0,
+        "economy": 4.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 49740,
+      "date": "2026-03-25",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "21 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": 1.39
+    },
+    {
+      "match_id": 49739,
+      "date": "2026-03-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "19 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 49738,
+      "date": "2026-03-20",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "17 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 49737,
+      "date": "2026-03-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "10 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 49736,
+      "date": "2026-03-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "16 (25)",
+      "bowling_figures": "0/4 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

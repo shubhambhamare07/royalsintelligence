@@ -1,0 +1,53 @@
+{
+  "player_id": "58135",
+  "player_name": "Tejasvi Dahiya",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 12,
+    "balls": 15,
+    "average": 6.0,
+    "strike_rate": 80.0,
+    "highest_score": 11,
+    "fours": 2,
+    "sixes": 0,
+    "dots": 9,
+    "singles": 4,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50391,
+      "date": "2026-05-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -7.22
+    },
+    {
+      "match_id": 50386,
+      "date": "2026-05-20",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "11 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

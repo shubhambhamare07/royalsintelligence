@@ -1,0 +1,72 @@
+{
+  "player_id": "37879",
+  "player_name": "Khawaja Nafay",
+  "batting": {
+    "matches": 4,
+    "innings": 4,
+    "not_outs": 1,
+    "runs": 62,
+    "balls": 39,
+    "average": 20.67,
+    "strike_rate": 158.97,
+    "highest_score": 26,
+    "fours": 2,
+    "sixes": 4,
+    "dots": 9,
+    "singles": 18,
+    "twos": 6,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 55080,
+      "date": "2026-10-13",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "3 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 55078,
+      "date": "2026-10-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "12 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48917,
+      "date": "2026-02-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "21 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48514,
+      "date": "2026-01-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "26 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": 1.8
+    }
+  ]
+}

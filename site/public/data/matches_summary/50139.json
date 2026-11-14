@@ -1,0 +1,112 @@
+{
+  "match_id": 50139,
+  "competition_kind": "IPL",
+  "calendar_year": 2026,
+  "result": "Lucknow Super Giants Won by 3 wickets",
+  "innings_totals": {
+    "innings_1": 182.0,
+    "innings_1_sigma": 2.02,
+    "innings_2": 183.7
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "Elevated": 3,
+      "High": 3
+    },
+    "2": {
+      "High": 8,
+      "Elevated": 6,
+      "Normal": 1
+    },
+    "3": {
+      "Elevated": 9,
+      "High": 3
+    },
+    "4": {
+      "Elevated": 13
+    },
+    "5": {
+      "Elevated": 6,
+      "High": 5,
+      "Normal": 1
+    },
+    "6": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "7": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "8": {
+      "High": 6,
+      "Elevated": 3,
+      "Normal": 3
+    },
+    "9": {
+      "High": 8,
+      "Normal": 6
+    },
+    "10": {
+      "Normal": 7,
+      "High": 6
+    },
+    "11": {
+      "Elevated": 6,
+      "High": 6,
+      "Extreme": 1
+    },
+    "12": {
+      "Extreme": 6,
+      "Elevated": 5,
+      "Normal": 1
+    },
+    "13": {
+      "Extreme": 7,
+      "Elevated": 6,
+      "High": 1
+    },
+    "14": {
+      "Extreme": 5,
+      "Normal": 4,
+      "Elevated": 2,
+      "High": 1
+    },
+    "15": {
+      "Normal": 6,
+      "Extreme": 6
+    },
+    "16": {
+      "Extreme": 6,
+      "Normal": 5,
+      "Elevated": 1
+    },
+    "17": {
+      "Elevated": 8,
+      "Normal": 2,
+      "High": 2
+    },
+    "18": {
+      "Elevated": 5,
+      "Extreme": 5,
+      "High": 3
+    },
+    "19": {
+      "High": 8,
+      "Extreme": 5
+    },
+    "20": {
+      "High": 7,
+      "Extreme": 6
+    }
+  },
+  "turning_point_count": 5
+}

@@ -1,0 +1,451 @@
+{
+  "player_id": "88",
+  "player_name": "Faf du Plessis",
+  "batting": {
+    "matches": 54,
+    "innings": 54,
+    "not_outs": 3,
+    "runs": 1838,
+    "balls": 1276,
+    "average": 36.04,
+    "strike_rate": 144.04,
+    "highest_score": 96,
+    "fours": 174,
+    "sixes": 78,
+    "dots": 438,
+    "singles": 503,
+    "twos": 78,
+    "threes": 5,
+    "ducks": 2,
+    "thirties": 6,
+    "fifties": 17,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 47,
+      "Bowled": 2,
+      "RunOut": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 54.87,
+    "tier": "Unproven",
+    "p_outperform": 0.6434,
+    "pressure_value_per_100": 5.03,
+    "clutch_delta_per_100": 0.34,
+    "consistency": 0.5813
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 43057,
+      "date": "2025-05-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "23 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 15,
+      "pressure_value": -0.71
+    },
+    {
+      "match_id": 40759,
+      "date": "2025-05-21",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "6 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": -11.96
+    },
+    {
+      "match_id": 40755,
+      "date": "2025-05-18",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "5 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40748,
+      "date": "2025-05-05",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "3 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40741,
+      "date": "2025-04-29",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "62 (45)",
+      "bowling_figures": null,
+      "pressure_balls": 30,
+      "pressure_value": -0.22
+    },
+    {
+      "match_id": 40739,
+      "date": "2025-04-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "22 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40717,
+      "date": "2025-04-10",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "2 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40703,
+      "date": "2025-03-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "50 (27)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40697,
+      "date": "2025-03-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "29 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": 0.43
+    },
+    {
+      "match_id": 31290,
+      "date": "2024-05-22",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "17 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31286,
+      "date": "2024-05-18",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "54 (39)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -0.3
+    },
+    {
+      "match_id": 31280,
+      "date": "2024-05-12",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "6 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31276,
+      "date": "2024-05-09",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "9 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31270,
+      "date": "2024-05-04",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "64 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31263,
+      "date": "2024-04-28",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "24 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 13,
+      "pressure_value": 3.03
+    },
+    {
+      "match_id": 31259,
+      "date": "2024-04-25",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "25 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31254,
+      "date": "2024-04-21",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "7 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 1.96
+    },
+    {
+      "match_id": 31248,
+      "date": "2024-04-15",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "62 (28)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31243,
+      "date": "2024-04-11",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "61 (40)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -3.97
+    },
+    {
+      "match_id": 30074,
+      "date": "2024-04-06",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "44 (33)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -2.28
+    },
+    {
+      "match_id": 30070,
+      "date": "2024-04-02",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "19 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 13,
+      "pressure_value": -4.02
+    },
+    {
+      "match_id": 30065,
+      "date": "2024-03-29",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "8 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30061,
+      "date": "2024-03-25",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "3 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30056,
+      "date": "2024-03-22",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "35 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20250,
+      "date": "2023-05-21",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "28 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20245,
+      "date": "2023-05-18",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "71 (47)",
+      "bowling_figures": null,
+      "pressure_balls": 28,
+      "pressure_value": 13.59
+    },
+    {
+      "match_id": 20240,
+      "date": "2023-05-14",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "55 (44)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": 2.8
+    },
+    {
+      "match_id": 20234,
+      "date": "2023-05-09",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "65 (41)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20230,
+      "date": "2023-05-06",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "45 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": 2.56
+    },
+    {
+      "match_id": 20223,
+      "date": "2023-05-01",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "44 (40)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 88,
+      "player_name": "Faf du Plessis",
+      "role": "batter",
+      "match_id": 40741,
+      "n_balls": 29,
+      "match_runs": 34,
+      "match_pressure_value": 0.2862,
+      "career_expected_value": 0.5588,
+      "z_score": -7.14,
+      "direction": "negative"
+    },
+    {
+      "player_id": 88,
+      "player_name": "Faf du Plessis",
+      "role": "batter",
+      "match_id": 20245,
+      "n_balls": 28,
+      "match_runs": 54,
+      "match_pressure_value": 0.7275,
+      "career_expected_value": 0.5588,
+      "z_score": 4.34,
+      "direction": "positive"
+    },
+    {
+      "player_id": 88,
+      "player_name": "Faf du Plessis",
+      "role": "batter",
+      "match_id": 20189,
+      "n_balls": 10,
+      "match_runs": 22,
+      "match_pressure_value": 0.306,
+      "career_expected_value": 0.5588,
+      "z_score": -3.89,
+      "direction": "negative"
+    },
+    {
+      "player_id": 88,
+      "player_name": "Faf du Plessis",
+      "role": "batter",
+      "match_id": 20204,
+      "n_balls": 9,
+      "match_runs": 11,
+      "match_pressure_value": 0.319,
+      "career_expected_value": 0.5588,
+      "z_score": -3.5,
+      "direction": "negative"
+    },
+    {
+      "player_id": 88,
+      "player_name": "Faf du Plessis",
+      "role": "batter",
+      "match_id": 14132,
+      "n_balls": 19,
+      "match_runs": 22,
+      "match_pressure_value": 0.7192,
+      "career_expected_value": 0.5588,
+      "z_score": 3.4,
+      "direction": "positive"
+    },
+    {
+      "player_id": 88,
+      "player_name": "Faf du Plessis",
+      "role": "batter",
+      "match_id": 20185,
+      "n_balls": 15,
+      "match_runs": 24,
+      "match_pressure_value": 0.7151,
+      "career_expected_value": 0.5588,
+      "z_score": 2.94,
+      "direction": "positive"
+    },
+    {
+      "player_id": 88,
+      "player_name": "Faf du Plessis",
+      "role": "batter",
+      "match_id": 43057,
+      "n_balls": 15,
+      "match_runs": 23,
+      "match_pressure_value": 0.4069,
+      "career_expected_value": 0.5588,
+      "z_score": -2.86,
+      "direction": "negative"
+    },
+    {
+      "player_id": 88,
+      "player_name": "Faf du Plessis",
+      "role": "batter",
+      "match_id": 30070,
+      "n_balls": 13,
+      "match_runs": 19,
+      "match_pressure_value": 0.7191,
+      "career_expected_value": 0.5588,
+      "z_score": 2.81,
+      "direction": "positive"
+    },
+    {
+      "player_id": 88,
+      "player_name": "Faf du Plessis",
+      "role": "batter",
+      "match_id": 14111,
+      "n_balls": 5,
+      "match_runs": 1,
+      "match_pressure_value": 0.793,
+      "career_expected_value": 0.5588,
+      "z_score": 2.55,
+      "direction": "positive"
+    }
+  ]
+}

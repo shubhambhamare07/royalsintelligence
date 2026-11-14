@@ -1,0 +1,426 @@
+{
+  "player_id": "3648",
+  "player_name": "Deepak Hooda",
+  "batting": {
+    "matches": 54,
+    "innings": 54,
+    "not_outs": 8,
+    "runs": 1049,
+    "balls": 788,
+    "average": 22.8,
+    "strike_rate": 133.12,
+    "highest_score": 104,
+    "fours": 85,
+    "sixes": 41,
+    "dots": 261,
+    "singles": 343,
+    "twos": 54,
+    "threes": 4,
+    "ducks": 3,
+    "thirties": 7,
+    "fifties": 5,
+    "hundreds": 1,
+    "dismissals_by_type": {
+      "Caught": 35,
+      "LBW": 4,
+      "Bowled": 3,
+      "Stump": 3,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 12,
+    "legal_balls": 125,
+    "overs": 20.8,
+    "runs_charged": 137.0,
+    "wickets": 7,
+    "economy": 6.58,
+    "average": 19.57,
+    "strike_rate": 17.86,
+    "dot_pct": 33.07,
+    "boundary_pct": 10.24,
+    "wides": 2,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.8,
+        "runs": 27.0,
+        "wickets": 3,
+        "economy": 9.53
+      },
+      "middle": {
+        "overs": 16.0,
+        "runs": 105.0,
+        "wickets": 4,
+        "economy": 6.56
+      },
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 5.0,
+        "wickets": 0,
+        "economy": 2.5
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 41.29,
+    "tier": "Unproven",
+    "p_outperform": 0.2949,
+    "pressure_value_per_100": -4.54,
+    "clutch_delta_per_100": -9.67,
+    "consistency": 0.5663
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 40762,
+      "date": "2025-05-25",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/15 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40742,
+      "date": "2025-04-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "2 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -3.81
+    },
+    {
+      "match_id": 40736,
+      "date": "2025-04-25",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "22 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40718,
+      "date": "2025-04-11",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40701,
+      "date": "2025-03-28",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "4 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40696,
+      "date": "2025-03-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "3 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31285,
+      "date": "2024-05-17",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "11 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31282,
+      "date": "2024-05-14",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "0/9 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31272,
+      "date": "2024-05-05",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "5 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31266,
+      "date": "2024-04-30",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "18 (18)",
+      "bowling_figures": "0/13 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31262,
+      "date": "2024-04-27",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "50 (31)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31257,
+      "date": "2024-04-23",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "17 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": 5.99
+    },
+    {
+      "match_id": 31246,
+      "date": "2024-04-14",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "8 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31244,
+      "date": "2024-04-12",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "10 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30059,
+      "date": "2024-03-24",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "26 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21584,
+      "date": "2023-05-24",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "15 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20243,
+      "date": "2023-05-16",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "5 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20231,
+      "date": "2023-05-07",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "11 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20223,
+      "date": "2023-05-01",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20218,
+      "date": "2023-04-28",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "11 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20210,
+      "date": "2023-04-22",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "2 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -1.69
+    },
+    {
+      "match_id": 20206,
+      "date": "2023-04-19",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20201,
+      "date": "2023-04-15",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "2 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20195,
+      "date": "2023-04-10",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "9 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20190,
+      "date": "2023-04-07",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "7 (8)",
+      "bowling_figures": "0/8 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20186,
+      "date": "2023-04-03",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "2 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": -7.51
+    },
+    {
+      "match_id": 20183,
+      "date": "2023-04-01",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "17 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 19717,
+      "date": "2023-02-01",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "2 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 19716,
+      "date": "2023-01-29",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/17 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 19715,
+      "date": "2023-01-27",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "10 (10)",
+      "bowling_figures": "0/14 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 3648,
+      "player_name": "Deepak Hooda",
+      "role": "batter",
+      "match_id": 14108,
+      "n_balls": 8,
+      "match_runs": 7,
+      "match_pressure_value": 0.8394,
+      "career_expected_value": 0.4,
+      "z_score": 6.04,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3648,
+      "player_name": "Deepak Hooda",
+      "role": "batter",
+      "match_id": 14100,
+      "n_balls": 8,
+      "match_runs": 13,
+      "match_pressure_value": 0.1548,
+      "career_expected_value": 0.4,
+      "z_score": -3.37,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3648,
+      "player_name": "Deepak Hooda",
+      "role": "batter",
+      "match_id": 14124,
+      "n_balls": 9,
+      "match_runs": 8,
+      "match_pressure_value": 0.2059,
+      "career_expected_value": 0.4,
+      "z_score": -2.83,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3648,
+      "player_name": "Deepak Hooda",
+      "role": "batter",
+      "match_id": 15188,
+      "n_balls": 5,
+      "match_runs": 13,
+      "match_pressure_value": 0.152,
+      "career_expected_value": 0.4,
+      "z_score": -2.7,
+      "direction": "negative"
+    }
+  ]
+}

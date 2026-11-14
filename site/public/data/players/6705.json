@@ -1,0 +1,63 @@
+{
+  "player_id": "6705",
+  "player_name": "Scott McKechnie",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 1,
+    "runs": 31,
+    "balls": 26,
+    "average": 15.5,
+    "strike_rate": 119.23,
+    "highest_score": 16,
+    "fours": 2,
+    "sixes": 1,
+    "dots": 8,
+    "singles": 13,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 1,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16658,
+      "date": "2022-09-02",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "4 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16656,
+      "date": "2022-08-31",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "16 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16862,
+      "date": "2022-08-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "11 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

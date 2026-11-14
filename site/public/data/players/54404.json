@@ -1,0 +1,61 @@
+{
+  "player_id": "54404",
+  "player_name": "Benjamin Ito",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 9,
+    "balls": 8,
+    "average": 9.0,
+    "strike_rate": 112.5,
+    "highest_score": 9,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 1,
+    "singles": 5,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 6,
+    "overs": 1.0,
+    "runs_charged": 2.0,
+    "wickets": 1,
+    "economy": 2.0,
+    "average": 2.0,
+    "strike_rate": 6.0,
+    "dot_pct": 83.33,
+    "boundary_pct": 0.0,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 2.0,
+        "wickets": 1,
+        "economy": 2.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 54711,
+      "date": "2026-09-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "9 (8)",
+      "bowling_figures": "1/2 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "match_id": 28333,
+  "competition_kind": "T20I",
+  "calendar_year": 2023,
+  "result": "No Result",
+  "innings_totals": {
+    "innings_1": 72.0,
+    "innings_1_sigma": 4.8,
+    "innings_2": null
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": true,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 4.8
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6
+    },
+    "2": {
+      "Elevated": 3,
+      "Normal": 3
+    },
+    "3": {
+      "Elevated": 6
+    },
+    "4": {
+      "Elevated": 6
+    },
+    "5": {
+      "Elevated": 6
+    },
+    "6": {
+      "Normal": 6
+    },
+    "7": {
+      "Normal": 6
+    },
+    "8": {
+      "Normal": 6
+    },
+    "9": {
+      "Normal": 6
+    },
+    "10": {
+      "Normal": 6
+    },
+    "11": {
+      "Normal": 6
+    }
+  },
+  "turning_point_count": 5
+}

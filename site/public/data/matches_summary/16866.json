@@ -1,0 +1,93 @@
+{
+  "match_id": 16866,
+  "competition_kind": "T20I",
+  "calendar_year": 2022,
+  "result": "Hong Kong Won by 8 Wickets",
+  "innings_totals": {
+    "innings_1": 145.1,
+    "innings_1_sigma": 3.6,
+    "innings_2": 146.1
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 12
+    },
+    "2": {
+      "Normal": 9,
+      "Elevated": 3
+    },
+    "3": {
+      "Normal": 11,
+      "Elevated": 2
+    },
+    "4": {
+      "Normal": 12
+    },
+    "5": {
+      "Normal": 12
+    },
+    "6": {
+      "Normal": 12
+    },
+    "7": {
+      "Normal": 13
+    },
+    "8": {
+      "Normal": 13
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 12
+    },
+    "12": {
+      "Normal": 12
+    },
+    "13": {
+      "Normal": 12
+    },
+    "14": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "15": {
+      "Normal": 12
+    },
+    "16": {
+      "Normal": 10,
+      "Elevated": 1,
+      "High": 1
+    },
+    "17": {
+      "Elevated": 7,
+      "Extreme": 3,
+      "High": 2
+    },
+    "18": {
+      "Elevated": 8,
+      "Normal": 3,
+      "High": 1
+    },
+    "19": {
+      "Normal": 7,
+      "Elevated": 5,
+      "High": 1
+    },
+    "20": {
+      "Elevated": 2,
+      "High": 1
+    }
+  },
+  "turning_point_count": 5
+}

@@ -1,0 +1,544 @@
+{
+  "player_id": "3653",
+  "player_name": "Avesh Khan",
+  "batting": {
+    "matches": 19,
+    "innings": 19,
+    "not_outs": 14,
+    "runs": 86,
+    "balls": 57,
+    "average": 17.2,
+    "strike_rate": 150.88,
+    "highest_score": 19,
+    "fours": 8,
+    "sixes": 5,
+    "dots": 23,
+    "singles": 18,
+    "twos": 3,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 3,
+      "Caught": 2
+    }
+  },
+  "bowling": {
+    "matches": 79,
+    "legal_balls": 1672,
+    "overs": 278.7,
+    "runs_charged": 2672.0,
+    "wickets": 86,
+    "economy": 9.59,
+    "average": 31.07,
+    "strike_rate": 19.44,
+    "dot_pct": 34.38,
+    "boundary_pct": 22.01,
+    "wides": 68,
+    "no_balls": 5,
+    "phase_splits": {
+      "death": {
+        "overs": 99.8,
+        "runs": 1027.0,
+        "wickets": 36,
+        "economy": 10.29
+      },
+      "middle": {
+        "overs": 86.0,
+        "runs": 767.0,
+        "wickets": 25,
+        "economy": 8.92
+      },
+      "powerplay": {
+        "overs": 92.8,
+        "runs": 878.0,
+        "wickets": 25,
+        "economy": 9.46
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 59.06,
+    "tier": "Unproven",
+    "p_outperform": 0.4885,
+    "pressure_value_per_6": -0.08,
+    "clutch_delta_per_6": 0.18,
+    "consistency": 0.4738
+  },
+  "recent_matches": [
+    {
+      "match_id": 50374,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/44 (4.0)",
+      "pressure_balls": 21,
+      "pressure_value": -3.73
+    },
+    {
+      "match_id": 50368,
+      "date": "2026-05-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/56 (3.7)",
+      "pressure_balls": 13,
+      "pressure_value": -10.21
+    },
+    {
+      "match_id": 50350,
+      "date": "2026-04-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/46 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50344,
+      "date": "2026-04-15",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "2/23 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50143,
+      "date": "2026-04-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "4 (1)",
+      "bowling_figures": "0/24 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50139,
+      "date": "2026-04-09",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (3)",
+      "bowling_figures": "1/44 (4.0)",
+      "pressure_balls": 5,
+      "pressure_value": -0.25
+    },
+    {
+      "match_id": 50134,
+      "date": "2026-04-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/36 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40752,
+      "date": "2025-05-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/32 (3.0)",
+      "pressure_balls": 16,
+      "pressure_value": 8.11
+    },
+    {
+      "match_id": 40758,
+      "date": "2025-05-22",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/51 (3.8)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40763,
+      "date": "2025-05-19",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/25 (3.0)",
+      "pressure_balls": 8,
+      "pressure_value": -2.5
+    },
+    {
+      "match_id": 40747,
+      "date": "2025-05-04",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "19 (10)",
+      "bowling_figures": "0/57 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40738,
+      "date": "2025-04-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "2/42 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40733,
+      "date": "2025-04-22",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/19 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40729,
+      "date": "2025-04-19",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "3/37 (4.0)",
+      "pressure_balls": 15,
+      "pressure_value": -0.22
+    },
+    {
+      "match_id": 40723,
+      "date": "2025-04-14",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/32 (3.5)",
+      "pressure_balls": 16,
+      "pressure_value": -0.62
+    },
+    {
+      "match_id": 40719,
+      "date": "2025-04-12",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/32 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -0.55
+    },
+    {
+      "match_id": 40712,
+      "date": "2025-04-08",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/45 (4.0)",
+      "pressure_balls": 19,
+      "pressure_value": 0.91
+    },
+    {
+      "match_id": 40709,
+      "date": "2025-04-04",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "2 (1)",
+      "bowling_figures": "1/40 (4.0)",
+      "pressure_balls": 25,
+      "pressure_value": -6.53
+    },
+    {
+      "match_id": 40706,
+      "date": "2025-04-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/30 (3.0)",
+      "pressure_balls": 4,
+      "pressure_value": -4.42
+    },
+    {
+      "match_id": 40700,
+      "date": "2025-03-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/45 (4.0)",
+      "pressure_balls": 11,
+      "pressure_value": -0.06
+    },
+    {
+      "match_id": 37941,
+      "date": "2024-11-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/23 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": -6.14
+    },
+    {
+      "match_id": 37940,
+      "date": "2024-11-08",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/28 (2.8)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 33805,
+      "date": "2024-07-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/39 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": 15.87
+    },
+    {
+      "match_id": 33804,
+      "date": "2024-07-07",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/15 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 33803,
+      "date": "2024-07-06",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "16 (12)",
+      "bowling_figures": "1/29 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": 6.6
+    },
+    {
+      "match_id": 31291,
+      "date": "2024-05-24",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/27 (4.0)",
+      "pressure_balls": 3,
+      "pressure_value": 4.85
+    },
+    {
+      "match_id": 31290,
+      "date": "2024-05-22",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/44 (4.0)",
+      "pressure_balls": 2,
+      "pressure_value": 5.35
+    },
+    {
+      "match_id": 31283,
+      "date": "2024-05-15",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "3 (2)",
+      "bowling_figures": "2/28 (3.8)",
+      "pressure_balls": 14,
+      "pressure_value": 0.24
+    },
+    {
+      "match_id": 31279,
+      "date": "2024-05-12",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/12 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31274,
+      "date": "2024-05-07",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "7 (3)",
+      "bowling_figures": "0/42 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 3653,
+      "player_name": "Avesh Khan",
+      "role": "bowler",
+      "match_id": 40729,
+      "n_balls": 15,
+      "match_runs_conceded": 28,
+      "match_wickets": 2,
+      "match_pressure_value": 0.2399,
+      "career_expected_value": 0.5255,
+      "z_score": -5.38,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3653,
+      "player_name": "Avesh Khan",
+      "role": "bowler",
+      "match_id": 13524,
+      "n_balls": 13,
+      "match_runs_conceded": 19,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8286,
+      "career_expected_value": 0.5255,
+      "z_score": 5.31,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3653,
+      "player_name": "Avesh Khan",
+      "role": "bowler",
+      "match_id": 31283,
+      "n_balls": 14,
+      "match_runs_conceded": 18,
+      "match_wickets": 0,
+      "match_pressure_value": 0.256,
+      "career_expected_value": 0.5255,
+      "z_score": -4.9,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3653,
+      "player_name": "Avesh Khan",
+      "role": "bowler",
+      "match_id": 28962,
+      "n_balls": 12,
+      "match_runs_conceded": 21,
+      "match_wickets": 1,
+      "match_pressure_value": 0.8025,
+      "career_expected_value": 0.5255,
+      "z_score": 4.66,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3653,
+      "player_name": "Avesh Khan",
+      "role": "bowler",
+      "match_id": 50374,
+      "n_balls": 21,
+      "match_runs_conceded": 39,
+      "match_wickets": 1,
+      "match_pressure_value": 0.3227,
+      "career_expected_value": 0.5255,
+      "z_score": -4.52,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3653,
+      "player_name": "Avesh Khan",
+      "role": "bowler",
+      "match_id": 40712,
+      "n_balls": 19,
+      "match_runs_conceded": 31,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7342,
+      "career_expected_value": 0.5255,
+      "z_score": 4.42,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3653,
+      "player_name": "Avesh Khan",
+      "role": "bowler",
+      "match_id": 15406,
+      "n_balls": 7,
+      "match_runs_conceded": 8,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8675,
+      "career_expected_value": 0.5255,
+      "z_score": 4.4,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3653,
+      "player_name": "Avesh Khan",
+      "role": "bowler",
+      "match_id": 40709,
+      "n_balls": 23,
+      "match_runs_conceded": 39,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7015,
+      "career_expected_value": 0.5255,
+      "z_score": 4.1,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3653,
+      "player_name": "Avesh Khan",
+      "role": "bowler",
+      "match_id": 27062,
+      "n_balls": 7,
+      "match_runs_conceded": 6,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8275,
+      "career_expected_value": 0.5255,
+      "z_score": 3.88,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3653,
+      "player_name": "Avesh Khan",
+      "role": "bowler",
+      "match_id": 40706,
+      "n_balls": 4,
+      "match_runs_conceded": 8,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2259,
+      "career_expected_value": 0.5255,
+      "z_score": -2.91,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3653,
+      "player_name": "Avesh Khan",
+      "role": "bowler",
+      "match_id": 15407,
+      "n_balls": 16,
+      "match_runs_conceded": 16,
+      "match_wickets": 0,
+      "match_pressure_value": 0.377,
+      "career_expected_value": 0.5255,
+      "z_score": -2.89,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3653,
+      "player_name": "Avesh Khan",
+      "role": "bowler",
+      "match_id": 37941,
+      "n_balls": 6,
+      "match_runs_conceded": 12,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3042,
+      "career_expected_value": 0.5255,
+      "z_score": -2.64,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3653,
+      "player_name": "Avesh Khan",
+      "role": "bowler",
+      "match_id": 31242,
+      "n_balls": 26,
+      "match_runs_conceded": 48,
+      "match_wickets": 1,
+      "match_pressure_value": 0.6307,
+      "career_expected_value": 0.5255,
+      "z_score": 2.61,
+      "direction": "positive"
+    }
+  ]
+}

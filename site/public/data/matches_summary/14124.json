@@ -1,0 +1,106 @@
+{
+  "match_id": 14124,
+  "competition_kind": "IPL",
+  "calendar_year": 2022,
+  "result": "Royal Challengers Bengaluru won by 18 runs",
+  "innings_totals": {
+    "innings_1": 179.2,
+    "innings_1_sigma": 1.91,
+    "innings_2": 160.2
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 7,
+      "High": 4,
+      "Elevated": 2
+    },
+    "2": {
+      "High": 7,
+      "Normal": 6
+    },
+    "3": {
+      "Normal": 6,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "6": {
+      "Normal": 12
+    },
+    "7": {
+      "Normal": 9,
+      "Elevated": 5
+    },
+    "8": {
+      "Normal": 6,
+      "Elevated": 5,
+      "High": 2
+    },
+    "9": {
+      "Normal": 12,
+      "Elevated": 1
+    },
+    "10": {
+      "Normal": 12,
+      "Elevated": 1
+    },
+    "11": {
+      "Normal": 6,
+      "High": 6
+    },
+    "12": {
+      "High": 7,
+      "Normal": 6
+    },
+    "13": {
+      "Normal": 7,
+      "High": 3,
+      "Elevated": 2
+    },
+    "14": {
+      "Normal": 5,
+      "High": 4,
+      "Elevated": 3
+    },
+    "15": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "16": {
+      "Elevated": 8,
+      "Normal": 5
+    },
+    "17": {
+      "Elevated": 7,
+      "High": 3,
+      "Normal": 3
+    },
+    "18": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "19": {
+      "Elevated": 7,
+      "Normal": 7
+    },
+    "20": {
+      "Normal": 6,
+      "Elevated": 4,
+      "High": 2
+    }
+  },
+  "turning_point_count": 5
+}

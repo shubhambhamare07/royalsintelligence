@@ -1,0 +1,53 @@
+{
+  "player_id": "3320",
+  "player_name": "Jayant Yadav",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 24,
+    "overs": 4.0,
+    "runs_charged": 26.0,
+    "wickets": 0,
+    "economy": 6.5,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 33.33,
+    "boundary_pct": 8.33,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 3.0,
+        "wickets": 0,
+        "economy": 3.0
+      },
+      "middle": {
+        "overs": 1.0,
+        "runs": 7.0,
+        "wickets": 0,
+        "economy": 7.0
+      },
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 16.0,
+        "wickets": 0,
+        "economy": 8.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 20210,
+      "date": "2023-04-22",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/26 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

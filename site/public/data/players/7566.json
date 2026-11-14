@@ -1,0 +1,72 @@
+{
+  "player_id": "7566",
+  "player_name": "Ben Curran",
+  "batting": {
+    "matches": 4,
+    "innings": 4,
+    "not_outs": 0,
+    "runs": 38,
+    "balls": 40,
+    "average": 9.5,
+    "strike_rate": 95.0,
+    "highest_score": 20,
+    "fours": 5,
+    "sixes": 0,
+    "dots": 21,
+    "singles": 11,
+    "twos": 2,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 55559,
+      "date": "2026-10-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "7 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -6.8
+    },
+    {
+      "match_id": 50509,
+      "date": "2026-07-26",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "20 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": 3.62
+    },
+    {
+      "match_id": 50508,
+      "date": "2026-07-25",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50507,
+      "date": "2026-07-23",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "10 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

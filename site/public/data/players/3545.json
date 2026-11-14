@@ -1,0 +1,42 @@
+{
+  "player_id": "3545",
+  "player_name": "Ihsanullah Janat",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 20,
+    "balls": 14,
+    "average": 20.0,
+    "strike_rate": 142.86,
+    "highest_score": 20,
+    "fours": 4,
+    "sixes": 0,
+    "dots": 7,
+    "singles": 2,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 15611,
+      "date": "2022-06-14",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "20 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

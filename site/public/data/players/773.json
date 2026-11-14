@@ -1,0 +1,106 @@
+{
+  "player_id": "773",
+  "player_name": "Shadley Van Schalkwyk",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 1,
+    "runs": 20,
+    "balls": 14,
+    "average": 10.0,
+    "strike_rate": 142.86,
+    "highest_score": 15,
+    "fours": 0,
+    "sixes": 1,
+    "dots": 2,
+    "singles": 8,
+    "twos": 3,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1,
+      "Bowled": 1
+    }
+  },
+  "bowling": {
+    "matches": 4,
+    "legal_balls": 90,
+    "overs": 15.0,
+    "runs_charged": 141.0,
+    "wickets": 7,
+    "economy": 9.4,
+    "average": 20.14,
+    "strike_rate": 12.86,
+    "dot_pct": 28.57,
+    "boundary_pct": 18.68,
+    "wides": 1,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 7.0,
+        "runs": 68.0,
+        "wickets": 3,
+        "economy": 9.71
+      },
+      "middle": {
+        "overs": 5.0,
+        "runs": 54.0,
+        "wickets": 0,
+        "economy": 10.8
+      },
+      "powerplay": {
+        "overs": 3.0,
+        "runs": 19.0,
+        "wickets": 4,
+        "economy": 6.33
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 35429,
+      "date": "2024-08-28",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "5 (6)",
+      "bowling_figures": "1/27 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": -9.43
+    },
+    {
+      "match_id": 35428,
+      "date": "2024-08-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "15 (7)",
+      "bowling_figures": "2/35 (4.0)",
+      "pressure_balls": 17,
+      "pressure_value": 0.52
+    },
+    {
+      "match_id": 35425,
+      "date": "2024-08-25",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "3/35 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 35424,
+      "date": "2024-08-24",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/44 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -6.07
+    }
+  ]
+}

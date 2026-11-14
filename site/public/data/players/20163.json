@@ -1,0 +1,52 @@
+{
+  "player_id": "20163",
+  "player_name": "Aasif Sheikh",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 1,
+    "runs": 71,
+    "balls": 51,
+    "average": 71.0,
+    "strike_rate": 139.22,
+    "highest_score": 68,
+    "fours": 8,
+    "sixes": 2,
+    "dots": 15,
+    "singles": 25,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 46250,
+      "date": "2025-09-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "68 (47)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": -1.43
+    },
+    {
+      "match_id": 46249,
+      "date": "2025-09-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "3 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

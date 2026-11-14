@@ -1,0 +1,174 @@
+{
+  "player_id": "3377",
+  "player_name": "Babar Hayat",
+  "batting": {
+    "matches": 14,
+    "innings": 14,
+    "not_outs": 2,
+    "runs": 450,
+    "balls": 380,
+    "average": 37.5,
+    "strike_rate": 118.42,
+    "highest_score": 85,
+    "fours": 17,
+    "sixes": 29,
+    "dots": 150,
+    "singles": 162,
+    "twos": 20,
+    "threes": 2,
+    "ducks": 2,
+    "thirties": 6,
+    "fifties": 3,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 5,
+      "Bowled": 5,
+      "Stump": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48025,
+      "date": "2025-11-19",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "30 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 26,
+      "pressure_value": 2.68
+    },
+    {
+      "match_id": 48021,
+      "date": "2025-11-17",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48017,
+      "date": "2025-11-15",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "63 (49)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45502,
+      "date": "2025-09-15",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "4 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45497,
+      "date": "2025-09-11",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "14 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45495,
+      "date": "2025-09-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "39 (43)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37093,
+      "date": "2024-10-22",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "39 (37)",
+      "bowling_figures": null,
+      "pressure_balls": 37,
+      "pressure_value": -1.29
+    },
+    {
+      "match_id": 37089,
+      "date": "2024-10-20",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "38 (41)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37085,
+      "date": "2024-10-18",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "85 (61)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16658,
+      "date": "2022-09-02",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16656,
+      "date": "2022-08-31",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "41 (35)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16866,
+      "date": "2022-08-25",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "38 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 6.65
+    },
+    {
+      "match_id": 16865,
+      "date": "2022-08-23",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "53 (30)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16862,
+      "date": "2022-08-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "6 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

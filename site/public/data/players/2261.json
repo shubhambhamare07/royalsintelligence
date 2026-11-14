@@ -1,0 +1,570 @@
+{
+  "player_id": "2261",
+  "player_name": "Harshal Patel",
+  "batting": {
+    "matches": 29,
+    "innings": 29,
+    "not_outs": 11,
+    "runs": 152,
+    "balls": 145,
+    "average": 8.44,
+    "strike_rate": 104.83,
+    "highest_score": 17,
+    "fours": 14,
+    "sixes": 6,
+    "dots": 70,
+    "singles": 50,
+    "twos": 5,
+    "threes": 0,
+    "ducks": 5,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 13,
+      "Bowled": 4,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 77,
+    "legal_balls": 1609,
+    "overs": 268.2,
+    "runs_charged": 2473.0,
+    "wickets": 95,
+    "economy": 9.22,
+    "average": 26.03,
+    "strike_rate": 16.94,
+    "dot_pct": 31.33,
+    "boundary_pct": 18.14,
+    "wides": 91,
+    "no_balls": 14,
+    "phase_splits": {
+      "death": {
+        "overs": 110.2,
+        "runs": 1128.0,
+        "wickets": 56,
+        "economy": 10.24
+      },
+      "middle": {
+        "overs": 131.0,
+        "runs": 1075.0,
+        "wickets": 33,
+        "economy": 8.21
+      },
+      "powerplay": {
+        "overs": 27.0,
+        "runs": 270.0,
+        "wickets": 6,
+        "economy": 10.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 44.87,
+    "tier": "Unproven",
+    "p_outperform": 0.6502,
+    "pressure_value_per_6": 0.1,
+    "clutch_delta_per_6": -0.1,
+    "consistency": 0.471
+  },
+  "recent_matches": [
+    {
+      "match_id": 50388,
+      "date": "2026-05-22",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/37 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50366,
+      "date": "2026-05-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "6 (5)",
+      "bowling_figures": "0/17 (2.0)",
+      "pressure_balls": 3,
+      "pressure_value": -7.78
+    },
+    {
+      "match_id": 50141,
+      "date": "2026-04-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/39 (2.0)",
+      "pressure_balls": 8,
+      "pressure_value": -17.74
+    },
+    {
+      "match_id": 50134,
+      "date": "2026-04-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "4 (2)",
+      "bowling_figures": "0/16 (3.0)",
+      "pressure_balls": 4,
+      "pressure_value": 4.98
+    },
+    {
+      "match_id": 50125,
+      "date": "2026-03-28",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "0/39 (2.7)",
+      "pressure_balls": 2,
+      "pressure_value": -6.25
+    },
+    {
+      "match_id": 40753,
+      "date": "2025-05-25",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/21 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40757,
+      "date": "2025-05-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/39 (3.8)",
+      "pressure_balls": 20,
+      "pressure_value": -8.45
+    },
+    {
+      "match_id": 40763,
+      "date": "2025-05-19",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/49 (4.0)",
+      "pressure_balls": 9,
+      "pressure_value": 3.14
+    },
+    {
+      "match_id": 40748,
+      "date": "2025-05-05",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/36 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40744,
+      "date": "2025-05-02",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/41 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40736,
+      "date": "2025-04-25",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "4/28 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40734,
+      "date": "2025-04-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "0/21 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40726,
+      "date": "2025-04-17",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/31 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40720,
+      "date": "2025-04-12",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "4/38 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40708,
+      "date": "2025-04-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "3 (5)",
+      "bowling_figures": "1/43 (4.0)",
+      "pressure_balls": 9,
+      "pressure_value": 2.37
+    },
+    {
+      "match_id": 40703,
+      "date": "2025-03-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "5 (9)",
+      "bowling_figures": "0/17 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40700,
+      "date": "2025-03-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "12 (11)",
+      "bowling_figures": "1/28 (2.0)",
+      "pressure_balls": 7,
+      "pressure_value": 2.32
+    },
+    {
+      "match_id": 40695,
+      "date": "2025-03-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/34 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31287,
+      "date": "2024-05-19",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/49 (4.0)",
+      "pressure_balls": 14,
+      "pressure_value": -6.41
+    },
+    {
+      "match_id": 31283,
+      "date": "2024-05-15",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/28 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31276,
+      "date": "2024-05-09",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "3/38 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31271,
+      "date": "2024-05-05",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "12 (13)",
+      "bowling_figures": "3/24 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31267,
+      "date": "2024-05-01",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/8 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31260,
+      "date": "2024-04-26",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/48 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31255,
+      "date": "2024-04-21",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "3/15 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": 9.27
+    },
+    {
+      "match_id": 31251,
+      "date": "2024-04-18",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "1 (4)",
+      "bowling_figures": "3/31 (4.0)",
+      "pressure_balls": 17,
+      "pressure_value": 11.86
+    },
+    {
+      "match_id": 31245,
+      "date": "2024-04-13",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/21 (2.0)",
+      "pressure_balls": 6,
+      "pressure_value": -1.69
+    },
+    {
+      "match_id": 31241,
+      "date": "2024-04-09",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/30 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30072,
+      "date": "2024-04-04",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/44 (4.0)",
+      "pressure_balls": 15,
+      "pressure_value": -4.98
+    },
+    {
+      "match_id": 30066,
+      "date": "2024-03-30",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/45 (4.0)",
+      "pressure_balls": 10,
+      "pressure_value": -3.36
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 2261,
+      "player_name": "Harshal Patel",
+      "role": "bowler",
+      "match_id": 50141,
+      "n_balls": 8,
+      "match_runs_conceded": 30,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2013,
+      "career_expected_value": 0.5708,
+      "z_score": -5.08,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2261,
+      "player_name": "Harshal Patel",
+      "role": "bowler",
+      "match_id": 50134,
+      "n_balls": 4,
+      "match_runs_conceded": 2,
+      "match_wickets": 0,
+      "match_pressure_value": 0.0631,
+      "career_expected_value": 0.5708,
+      "z_score": -4.93,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2261,
+      "player_name": "Harshal Patel",
+      "role": "bowler",
+      "match_id": 20250,
+      "n_balls": 26,
+      "match_runs_conceded": 29,
+      "match_wickets": 1,
+      "match_pressure_value": 0.3824,
+      "career_expected_value": 0.5708,
+      "z_score": -4.67,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2261,
+      "player_name": "Harshal Patel",
+      "role": "bowler",
+      "match_id": 20212,
+      "n_balls": 25,
+      "match_runs_conceded": 32,
+      "match_wickets": 3,
+      "match_pressure_value": 0.7495,
+      "career_expected_value": 0.5708,
+      "z_score": 4.34,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2261,
+      "player_name": "Harshal Patel",
+      "role": "bowler",
+      "match_id": 13523,
+      "n_balls": 12,
+      "match_runs_conceded": 13,
+      "match_wickets": 0,
+      "match_pressure_value": 0.827,
+      "career_expected_value": 0.5708,
+      "z_score": 4.31,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2261,
+      "player_name": "Harshal Patel",
+      "role": "bowler",
+      "match_id": 19556,
+      "n_balls": 12,
+      "match_runs_conceded": 26,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8167,
+      "career_expected_value": 0.5708,
+      "z_score": 4.14,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2261,
+      "player_name": "Harshal Patel",
+      "role": "bowler",
+      "match_id": 31255,
+      "n_balls": 6,
+      "match_runs_conceded": 4,
+      "match_wickets": 1,
+      "match_pressure_value": 0.2267,
+      "career_expected_value": 0.5708,
+      "z_score": -4.1,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2261,
+      "player_name": "Harshal Patel",
+      "role": "bowler",
+      "match_id": 15796,
+      "n_balls": 13,
+      "match_runs_conceded": 28,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8041,
+      "career_expected_value": 0.5708,
+      "z_score": 4.09,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2261,
+      "player_name": "Harshal Patel",
+      "role": "bowler",
+      "match_id": 40757,
+      "n_balls": 20,
+      "match_runs_conceded": 37,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7533,
+      "career_expected_value": 0.5708,
+      "z_score": 3.97,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2261,
+      "player_name": "Harshal Patel",
+      "role": "bowler",
+      "match_id": 20223,
+      "n_balls": 10,
+      "match_runs_conceded": 6,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8168,
+      "career_expected_value": 0.5708,
+      "z_score": 3.78,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2261,
+      "player_name": "Harshal Patel",
+      "role": "batter",
+      "match_id": 14106,
+      "n_balls": 4,
+      "match_runs": 9,
+      "match_pressure_value": 0.8131,
+      "career_expected_value": 0.4713,
+      "z_score": 3.33,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2261,
+      "player_name": "Harshal Patel",
+      "role": "bowler",
+      "match_id": 30066,
+      "n_balls": 10,
+      "match_runs_conceded": 18,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3654,
+      "career_expected_value": 0.5708,
+      "z_score": -3.16,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2261,
+      "player_name": "Harshal Patel",
+      "role": "bowler",
+      "match_id": 20207,
+      "n_balls": 10,
+      "match_runs_conceded": 8,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7661,
+      "career_expected_value": 0.5708,
+      "z_score": 3.0,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2261,
+      "player_name": "Harshal Patel",
+      "role": "bowler",
+      "match_id": 14124,
+      "n_balls": 9,
+      "match_runs_conceded": 12,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7748,
+      "career_expected_value": 0.5708,
+      "z_score": 2.97,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2261,
+      "player_name": "Harshal Patel",
+      "role": "bowler",
+      "match_id": 31251,
+      "n_balls": 13,
+      "match_runs_conceded": 14,
+      "match_wickets": 3,
+      "match_pressure_value": 0.4051,
+      "career_expected_value": 0.5708,
+      "z_score": -2.9,
+      "direction": "negative"
+    }
+  ]
+}

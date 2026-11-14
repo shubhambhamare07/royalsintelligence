@@ -1,0 +1,133 @@
+{
+  "player_id": "45749",
+  "player_name": "Mukul Choudhary",
+  "batting": {
+    "matches": 10,
+    "innings": 10,
+    "not_outs": 4,
+    "runs": 170,
+    "balls": 120,
+    "average": 28.33,
+    "strike_rate": 141.67,
+    "highest_score": 54,
+    "fours": 11,
+    "sixes": 12,
+    "dots": 48,
+    "singles": 44,
+    "twos": 5,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 5,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50389,
+      "date": "2026-05-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -5.58
+    },
+    {
+      "match_id": 50380,
+      "date": "2026-05-15",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "13 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50359,
+      "date": "2026-04-26",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -6.67
+    },
+    {
+      "match_id": 50353,
+      "date": "2026-04-22",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "7 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -2.18
+    },
+    {
+      "match_id": 50350,
+      "date": "2026-04-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "21 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50344,
+      "date": "2026-04-15",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "39 (28)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50143,
+      "date": "2026-04-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "18 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50139,
+      "date": "2026-04-09",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "54 (27)",
+      "bowling_figures": null,
+      "pressure_balls": 23,
+      "pressure_value": 14.95
+    },
+    {
+      "match_id": 50134,
+      "date": "2026-04-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -6.06
+    },
+    {
+      "match_id": 50129,
+      "date": "2026-04-01",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "14 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

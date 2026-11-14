@@ -1,0 +1,144 @@
+{
+  "player_id": "19309",
+  "player_name": "Lahiru Udara",
+  "batting": {
+    "matches": 11,
+    "innings": 11,
+    "not_outs": 0,
+    "runs": 236,
+    "balls": 162,
+    "average": 21.45,
+    "strike_rate": 145.68,
+    "highest_score": 91,
+    "fours": 29,
+    "sixes": 7,
+    "dots": 62,
+    "singles": 51,
+    "twos": 12,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 2,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 8,
+      "Bowled": 2,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 55080,
+      "date": "2026-10-13",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 55079,
+      "date": "2026-10-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "5 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 55078,
+      "date": "2026-10-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "91 (55)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -2.65
+    },
+    {
+      "match_id": 45491,
+      "date": "2026-09-19",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "10 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45490,
+      "date": "2026-09-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "21 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45489,
+      "date": "2026-09-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "5 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37099,
+      "date": "2024-10-27",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "5 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37097,
+      "date": "2024-10-25",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "43 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37094,
+      "date": "2024-10-22",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "35 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37089,
+      "date": "2024-10-20",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "14 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37086,
+      "date": "2024-10-18",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "6 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -9.99
+    }
+  ]
+}

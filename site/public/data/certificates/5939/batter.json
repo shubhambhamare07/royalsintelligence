@@ -1,0 +1,45 @@
+{
+  "player_id": "5939",
+  "player_name": "Cameron Green",
+  "role": "batter",
+  "tier": "Promising",
+  "rating": 61.83,
+  "rating_ci90": [
+    38.68,
+    85.52
+  ],
+  "p_outperform": 0.8024,
+  "top10_inclusion_prob": 0.0724,
+  "rank_ci90": [
+    8,
+    108
+  ],
+  "composite": 0.5023,
+  "components": {
+    "PV": {
+      "observed": 0.0984,
+      "adjusted": 0.0984,
+      "z_score": 0.8753,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": 0.0487,
+      "adjusted": 0.0487,
+      "z_score": 0.5007,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.5924,
+      "adjusted": 0.5924,
+      "z_score": 0.1309,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 243,
+    "neff_pressure": 218.76,
+    "n_pressure_matches": 25
+  },
+  "explanation": "Cameron Green generated a pressure value of +9.84 runs/100 balls (Clutch Delta: +4.87) at a 152.7 strike rate with 61.1% consistency across 25 pressure matches (243 balls)."
+}

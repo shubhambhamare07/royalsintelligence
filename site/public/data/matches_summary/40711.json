@@ -1,0 +1,102 @@
+{
+  "match_id": 40711,
+  "competition_kind": "IPL",
+  "calendar_year": 2025,
+  "result": "Rajasthan Royals Won by 50 runs",
+  "innings_totals": {
+    "innings_1": 202.0,
+    "innings_1_sigma": 1.91,
+    "innings_2": 153.4
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 10,
+      "Elevated": 3,
+      "High": 1
+    },
+    "2": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "5": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "6": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "7": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "8": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "9": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "10": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "11": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "12": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "13": {
+      "Normal": 9,
+      "Elevated": 6
+    },
+    "14": {
+      "Elevated": 10,
+      "Normal": 3
+    },
+    "15": {
+      "Elevated": 8,
+      "High": 6
+    },
+    "16": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "17": {
+      "High": 7,
+      "Normal": 7
+    },
+    "18": {
+      "Normal": 7,
+      "High": 6
+    },
+    "19": {
+      "High": 6,
+      "Normal": 6
+    },
+    "20": {
+      "High": 6,
+      "Normal": 6
+    }
+  },
+  "turning_point_count": 5
+}

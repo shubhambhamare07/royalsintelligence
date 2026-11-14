@@ -1,0 +1,96 @@
+{
+  "match_id": 20215,
+  "competition_kind": "IPL",
+  "calendar_year": 2023,
+  "result": "Gujarat Titans Won by 55 runs",
+  "innings_totals": {
+    "innings_1": 206.0,
+    "innings_1_sigma": 1.91,
+    "innings_2": 150.1
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 13
+    },
+    "2": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "5": {
+      "Elevated": 8,
+      "Normal": 6
+    },
+    "6": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "7": {
+      "Normal": 13
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 9,
+      "Elevated": 3
+    },
+    "12": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "13": {
+      "Normal": 12
+    },
+    "14": {
+      "Normal": 8,
+      "Elevated": 4
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "16": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "17": {
+      "Normal": 6,
+      "Elevated": 4,
+      "High": 2
+    },
+    "18": {
+      "Normal": 6,
+      "Elevated": 4,
+      "High": 2
+    },
+    "19": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "20": {
+      "Normal": 13
+    }
+  },
+  "turning_point_count": 5
+}

@@ -1,0 +1,52 @@
+{
+  "player_id": "478",
+  "player_name": "Eoin Morgan",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 30,
+    "balls": 41,
+    "average": 15.0,
+    "strike_rate": 73.17,
+    "highest_score": 17,
+    "fours": 2,
+    "sixes": 1,
+    "dots": 24,
+    "singles": 12,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 13512,
+      "date": "2022-01-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "13 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -3.78
+    },
+    {
+      "match_id": 13511,
+      "date": "2022-01-23",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "17 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

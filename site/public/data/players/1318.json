@@ -1,0 +1,537 @@
+{
+  "player_id": "1318",
+  "player_name": "Andre Russell",
+  "batting": {
+    "matches": 56,
+    "innings": 56,
+    "not_outs": 13,
+    "runs": 1219,
+    "balls": 714,
+    "average": 28.35,
+    "strike_rate": 170.73,
+    "highest_score": 71,
+    "fours": 79,
+    "sixes": 107,
+    "dots": 304,
+    "singles": 190,
+    "twos": 31,
+    "threes": 3,
+    "ducks": 4,
+    "thirties": 12,
+    "fifties": 5,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 28,
+      "Bowled": 10,
+      "Stump": 2,
+      "RunOut": 2,
+      "LBW": 1
+    }
+  },
+  "bowling": {
+    "matches": 57,
+    "legal_balls": 754,
+    "overs": 125.7,
+    "runs_charged": 1368.0,
+    "wickets": 62,
+    "economy": 10.89,
+    "average": 22.06,
+    "strike_rate": 12.16,
+    "dot_pct": 32.07,
+    "boundary_pct": 24.62,
+    "wides": 29,
+    "no_balls": 9,
+    "phase_splits": {
+      "death": {
+        "overs": 46.8,
+        "runs": 527.0,
+        "wickets": 27,
+        "economy": 11.25
+      },
+      "middle": {
+        "overs": 57.8,
+        "runs": 604.0,
+        "wickets": 27,
+        "economy": 10.44
+      },
+      "powerplay": {
+        "overs": 21.0,
+        "runs": 237.0,
+        "wickets": 8,
+        "economy": 11.29
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 83.87,
+    "tier": "Proven",
+    "p_outperform": 0.9895,
+    "pressure_value_per_100": 27.21,
+    "clutch_delta_per_100": 9.34,
+    "consistency": 0.6644
+  },
+  "rated_bowling": {
+    "rating": 52.09,
+    "tier": "Unproven",
+    "p_outperform": 0.5405,
+    "pressure_value_per_6": -0.14,
+    "clutch_delta_per_6": 0.25,
+    "consistency": 0.5028
+  },
+  "recent_matches": [
+    {
+      "match_id": 41506,
+      "date": "2025-07-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "36 (15)",
+      "bowling_figures": "0/16 (1.0)",
+      "pressure_balls": 1,
+      "pressure_value": -4.6
+    },
+    {
+      "match_id": 41505,
+      "date": "2025-07-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "8 (9)",
+      "bowling_figures": "0/37 (2.0)",
+      "pressure_balls": 4,
+      "pressure_value": -7.14
+    },
+    {
+      "match_id": 36199,
+      "date": "2025-06-06",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "15 (13)",
+      "bowling_figures": "1/25 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40753,
+      "date": "2025-05-25",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/34 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40750,
+      "date": "2025-05-07",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "38 (21)",
+      "bowling_figures": "0/22 (2.7)",
+      "pressure_balls": 19,
+      "pressure_value": -5.03
+    },
+    {
+      "match_id": 40746,
+      "date": "2025-05-04",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "57 (25)",
+      "bowling_figures": "0/11 (1.0)",
+      "pressure_balls": 18,
+      "pressure_value": 20.27
+    },
+    {
+      "match_id": 40741,
+      "date": "2025-04-29",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "17 (9)",
+      "bowling_figures": "1/22 (2.0)",
+      "pressure_balls": 8,
+      "pressure_value": -3.43
+    },
+    {
+      "match_id": 40737,
+      "date": "2025-04-26",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/27 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": 4.73
+    },
+    {
+      "match_id": 40732,
+      "date": "2025-04-21",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "21 (15)",
+      "bowling_figures": "1/13 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40724,
+      "date": "2025-04-15",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "17 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": 7.67
+    },
+    {
+      "match_id": 40712,
+      "date": "2025-04-08",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "7 (4)",
+      "bowling_figures": "1/32 (2.0)",
+      "pressure_balls": 1,
+      "pressure_value": 0.01
+    },
+    {
+      "match_id": 40708,
+      "date": "2025-04-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "2/21 (1.7)",
+      "pressure_balls": 2,
+      "pressure_value": -2.96
+    },
+    {
+      "match_id": 40705,
+      "date": "2025-03-31",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "5 (11)",
+      "bowling_figures": "2/35 (2.8)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40694,
+      "date": "2025-03-22",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "4 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37349,
+      "date": "2024-11-09",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "30 (17)",
+      "bowling_figures": "0/27 (2.0)",
+      "pressure_balls": 9,
+      "pressure_value": -11.1
+    },
+    {
+      "match_id": 31292,
+      "date": "2024-05-26",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/19 (2.5)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31289,
+      "date": "2024-05-21",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/15 (1.5)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31278,
+      "date": "2024-05-11",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "24 (14)",
+      "bowling_figures": "2/34 (3.0)",
+      "pressure_balls": 13,
+      "pressure_value": -11.89
+    },
+    {
+      "match_id": 31272,
+      "date": "2024-05-05",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "12 (8)",
+      "bowling_figures": "2/17 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31269,
+      "date": "2024-05-03",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "7 (2)",
+      "bowling_figures": "2/30 (4.0)",
+      "pressure_balls": 8,
+      "pressure_value": 9.38
+    },
+    {
+      "match_id": 31265,
+      "date": "2024-04-29",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/10 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31260,
+      "date": "2024-04-26",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "24 (12)",
+      "bowling_figures": "0/36 (2.0)",
+      "pressure_balls": 10,
+      "pressure_value": -10.91
+    },
+    {
+      "match_id": 31254,
+      "date": "2024-04-21",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "27 (20)",
+      "bowling_figures": "3/25 (3.0)",
+      "pressure_balls": 18,
+      "pressure_value": 12.65
+    },
+    {
+      "match_id": 31250,
+      "date": "2024-04-16",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "13 (10)",
+      "bowling_figures": "0/17 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31246,
+      "date": "2024-04-14",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/16 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31240,
+      "date": "2024-04-08",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "10 (10)",
+      "bowling_figures": "0/8 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30071,
+      "date": "2024-04-03",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "41 (19)",
+      "bowling_figures": "1/14 (1.3)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30065,
+      "date": "2024-03-29",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/29 (4.0)",
+      "pressure_balls": 11,
+      "pressure_value": 6.94
+    },
+    {
+      "match_id": 30058,
+      "date": "2024-03-23",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "64 (25)",
+      "bowling_figures": "2/25 (2.0)",
+      "pressure_balls": 13,
+      "pressure_value": 11.52
+    },
+    {
+      "match_id": 29817,
+      "date": "2024-02-13",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "71 (29)",
+      "bowling_figures": "0/11 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 1318,
+      "player_name": "Andre Russell",
+      "role": "batter",
+      "match_id": 14128,
+      "n_balls": 17,
+      "match_runs": 31,
+      "match_pressure_value": 0.1564,
+      "career_expected_value": 0.5142,
+      "z_score": -7.18,
+      "direction": "negative"
+    },
+    {
+      "player_id": 1318,
+      "player_name": "Andre Russell",
+      "role": "bowler",
+      "match_id": 40750,
+      "n_balls": 16,
+      "match_runs_conceded": 22,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2713,
+      "career_expected_value": 0.5231,
+      "z_score": -4.89,
+      "direction": "negative"
+    },
+    {
+      "player_id": 1318,
+      "player_name": "Andre Russell",
+      "role": "batter",
+      "match_id": 28067,
+      "n_balls": 6,
+      "match_runs": 2,
+      "match_pressure_value": 0.903,
+      "career_expected_value": 0.5142,
+      "z_score": 4.63,
+      "direction": "positive"
+    },
+    {
+      "player_id": 1318,
+      "player_name": "Andre Russell",
+      "role": "batter",
+      "match_id": 20248,
+      "n_balls": 9,
+      "match_runs": 7,
+      "match_pressure_value": 0.1979,
+      "career_expected_value": 0.5142,
+      "z_score": -4.62,
+      "direction": "negative"
+    },
+    {
+      "player_id": 1318,
+      "player_name": "Andre Russell",
+      "role": "bowler",
+      "match_id": 20219,
+      "n_balls": 19,
+      "match_runs_conceded": 29,
+      "match_wickets": 1,
+      "match_pressure_value": 0.3173,
+      "career_expected_value": 0.5231,
+      "z_score": -4.36,
+      "direction": "negative"
+    },
+    {
+      "player_id": 1318,
+      "player_name": "Andre Russell",
+      "role": "bowler",
+      "match_id": 31278,
+      "n_balls": 13,
+      "match_runs_conceded": 27,
+      "match_wickets": 1,
+      "match_pressure_value": 0.2878,
+      "career_expected_value": 0.5231,
+      "z_score": -4.12,
+      "direction": "negative"
+    },
+    {
+      "player_id": 1318,
+      "player_name": "Andre Russell",
+      "role": "bowler",
+      "match_id": 14099,
+      "n_balls": 15,
+      "match_runs_conceded": 32,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3143,
+      "career_expected_value": 0.5231,
+      "z_score": -3.93,
+      "direction": "negative"
+    },
+    {
+      "player_id": 1318,
+      "player_name": "Andre Russell",
+      "role": "bowler",
+      "match_id": 31269,
+      "n_balls": 8,
+      "match_runs_conceded": 5,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7993,
+      "career_expected_value": 0.5231,
+      "z_score": 3.8,
+      "direction": "positive"
+    },
+    {
+      "player_id": 1318,
+      "player_name": "Andre Russell",
+      "role": "bowler",
+      "match_id": 31254,
+      "n_balls": 18,
+      "match_runs_conceded": 19,
+      "match_wickets": 3,
+      "match_pressure_value": 0.6963,
+      "career_expected_value": 0.5231,
+      "z_score": 3.57,
+      "direction": "positive"
+    },
+    {
+      "player_id": 1318,
+      "player_name": "Andre Russell",
+      "role": "bowler",
+      "match_id": 14134,
+      "n_balls": 6,
+      "match_runs_conceded": 14,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2459,
+      "career_expected_value": 0.5231,
+      "z_score": -3.3,
+      "direction": "negative"
+    },
+    {
+      "player_id": 1318,
+      "player_name": "Andre Russell",
+      "role": "bowler",
+      "match_id": 28064,
+      "n_balls": 14,
+      "match_runs_conceded": 34,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7009,
+      "career_expected_value": 0.5231,
+      "z_score": 3.23,
+      "direction": "positive"
+    },
+    {
+      "player_id": 1318,
+      "player_name": "Andre Russell",
+      "role": "batter",
+      "match_id": 14101,
+      "n_balls": 14,
+      "match_runs": 20,
+      "match_pressure_value": 0.6683,
+      "career_expected_value": 0.5142,
+      "z_score": 2.8,
+      "direction": "positive"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "player_id": "31836",
+  "player_name": "Aman Desai",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 26,
+    "balls": 27,
+    "average": 13.0,
+    "strike_rate": 96.3,
+    "highest_score": 13,
+    "fours": 3,
+    "sixes": 0,
+    "dots": 11,
+    "singles": 12,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16867,
+      "date": "2022-08-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "13 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16864,
+      "date": "2022-08-22",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "13 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": 3.75
+    }
+  ]
+}

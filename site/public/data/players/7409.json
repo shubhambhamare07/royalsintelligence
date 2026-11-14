@@ -1,0 +1,62 @@
+{
+  "player_id": "7409",
+  "player_name": "Sundeep Jora",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 0,
+    "runs": 86,
+    "balls": 60,
+    "average": 28.67,
+    "strike_rate": 143.33,
+    "highest_score": 63,
+    "fours": 3,
+    "sixes": 7,
+    "dots": 23,
+    "singles": 22,
+    "twos": 5,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 46251,
+      "date": "2025-09-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "14 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46250,
+      "date": "2025-09-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "63 (39)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": 3.72
+    },
+    {
+      "match_id": 46249,
+      "date": "2025-09-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "player_id": "64604",
+  "player_name": "Kalhan Challu",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 1,
+    "runs": 8,
+    "balls": 11,
+    "average": 8.0,
+    "strike_rate": 72.73,
+    "highest_score": 4,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 5,
+    "singles": 4,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 45497,
+      "date": "2025-09-11",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "4 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45495,
+      "date": "2025-09-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "4 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

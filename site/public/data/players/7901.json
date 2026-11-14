@@ -1,0 +1,367 @@
+{
+  "player_id": "7901",
+  "player_name": "Parvez Emon",
+  "batting": {
+    "matches": 38,
+    "innings": 38,
+    "not_outs": 2,
+    "runs": 795,
+    "balls": 584,
+    "average": 22.08,
+    "strike_rate": 136.13,
+    "highest_score": 100,
+    "fours": 63,
+    "sixes": 52,
+    "dots": 271,
+    "singles": 166,
+    "twos": 31,
+    "threes": 1,
+    "ducks": 6,
+    "thirties": 5,
+    "fifties": 4,
+    "hundreds": 1,
+    "dismissals_by_type": {
+      "Caught": 28,
+      "Bowled": 5,
+      "LBW": 3
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 51.56,
+    "tier": "Unproven",
+    "p_outperform": 0.5413,
+    "pressure_value_per_100": -6.68,
+    "clutch_delta_per_100": -0.49,
+    "consistency": 0.618
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 51385,
+      "date": "2026-07-19",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "24 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 51384,
+      "date": "2026-07-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 51383,
+      "date": "2026-07-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "5 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -21.03
+    },
+    {
+      "match_id": 50599,
+      "date": "2026-06-21",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50598,
+      "date": "2026-06-19",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "36 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 22,
+      "pressure_value": 9.71
+    },
+    {
+      "match_id": 50597,
+      "date": "2026-06-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "10 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50188,
+      "date": "2026-04-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "28 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": 10.36
+    },
+    {
+      "match_id": 47243,
+      "date": "2025-12-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "33 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47242,
+      "date": "2025-11-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "43 (28)",
+      "bowling_figures": null,
+      "pressure_balls": 21,
+      "pressure_value": 16.98
+    },
+    {
+      "match_id": 47241,
+      "date": "2025-11-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46942,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46755,
+      "date": "2025-10-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "14 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": 5.25
+    },
+    {
+      "match_id": 46754,
+      "date": "2025-10-03",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -15.45
+    },
+    {
+      "match_id": 46753,
+      "date": "2025-10-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "54 (37)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": 4.93
+    },
+    {
+      "match_id": 45511,
+      "date": "2025-09-25",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45510,
+      "date": "2025-09-24",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "21 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 20,
+      "pressure_value": 3.46
+    },
+    {
+      "match_id": 45499,
+      "date": "2025-09-13",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45497,
+      "date": "2025-09-11",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "19 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45907,
+      "date": "2025-09-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "23 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45906,
+      "date": "2025-08-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "15 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 44266,
+      "date": "2025-07-22",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "13 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 44265,
+      "date": "2025-07-20",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "56 (39)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 43595,
+      "date": "2025-07-16",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 43594,
+      "date": "2025-07-13",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 43592,
+      "date": "2025-07-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "38 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42744,
+      "date": "2025-06-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "66 (34)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42743,
+      "date": "2025-05-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "8 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": -7.56
+    },
+    {
+      "match_id": 42742,
+      "date": "2025-05-28",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "4 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 43171,
+      "date": "2025-05-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42783,
+      "date": "2025-05-17",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "100 (54)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 7901,
+      "player_name": "Parvez Emon",
+      "role": "batter",
+      "match_id": 45510,
+      "n_balls": 19,
+      "match_runs": 21,
+      "match_pressure_value": 0.3843,
+      "career_expected_value": 0.6124,
+      "z_score": -4.84,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7901,
+      "player_name": "Parvez Emon",
+      "role": "batter",
+      "match_id": 42743,
+      "n_balls": 7,
+      "match_runs": 8,
+      "match_pressure_value": 0.3665,
+      "career_expected_value": 0.6124,
+      "z_score": -3.16,
+      "direction": "negative"
+    }
+  ]
+}

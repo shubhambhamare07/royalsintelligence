@@ -1,0 +1,93 @@
+{
+  "player_id": "7227",
+  "player_name": "Nijat Masood",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 4,
+    "balls": 5,
+    "average": 4.0,
+    "strike_rate": 80.0,
+    "highest_score": 4,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 2,
+    "singles": 2,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 66,
+    "overs": 11.0,
+    "runs_charged": 95.0,
+    "wickets": 4,
+    "economy": 8.64,
+    "average": 23.75,
+    "strike_rate": 16.5,
+    "dot_pct": 23.94,
+    "boundary_pct": 12.68,
+    "wides": 3,
+    "no_balls": 2,
+    "phase_splits": {
+      "death": {
+        "overs": 4.0,
+        "runs": 34.0,
+        "wickets": 2,
+        "economy": 8.5
+      },
+      "middle": {
+        "overs": 2.0,
+        "runs": 12.0,
+        "wickets": 1,
+        "economy": 6.0
+      },
+      "powerplay": {
+        "overs": 5.0,
+        "runs": 49.0,
+        "wickets": 1,
+        "economy": 9.8
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 15611,
+      "date": "2022-06-14",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "4 (5)",
+      "bowling_figures": "0/27 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15610,
+      "date": "2022-06-12",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/29 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": -7.53
+    },
+    {
+      "match_id": 15609,
+      "date": "2022-06-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "3/39 (4.0)",
+      "pressure_balls": 2,
+      "pressure_value": -1.69
+    }
+  ]
+}

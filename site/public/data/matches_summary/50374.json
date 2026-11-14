@@ -1,0 +1,101 @@
+{
+  "match_id": 50374,
+  "competition_kind": "IPL",
+  "calendar_year": 2026,
+  "result": "Chennai Super Kings Won by 5 wickets",
+  "innings_totals": {
+    "innings_1": 203.6,
+    "innings_1_sigma": 2.02,
+    "innings_2": 207.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 6
+    },
+    "2": {
+      "High": 6,
+      "Elevated": 5,
+      "Normal": 2
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "High": 6,
+      "Elevated": 4,
+      "Normal": 2
+    },
+    "5": {
+      "Normal": 6,
+      "High": 6
+    },
+    "6": {
+      "Normal": 12,
+      "Elevated": 3
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 13
+    },
+    "11": {
+      "Normal": 13
+    },
+    "12": {
+      "Normal": 12
+    },
+    "13": {
+      "Normal": 7,
+      "Elevated": 5
+    },
+    "14": {
+      "Normal": 7,
+      "Elevated": 5
+    },
+    "15": {
+      "Elevated": 7,
+      "Normal": 7
+    },
+    "16": {
+      "Elevated": 7,
+      "Normal": 5
+    },
+    "17": {
+      "Extreme": 7,
+      "Elevated": 6,
+      "High": 1
+    },
+    "18": {
+      "Extreme": 6,
+      "High": 5,
+      "Elevated": 2
+    },
+    "19": {
+      "Extreme": 7,
+      "High": 5,
+      "Elevated": 1
+    },
+    "20": {
+      "High": 6,
+      "Extreme": 3,
+      "Elevated": 1
+    }
+  },
+  "turning_point_count": 5
+}

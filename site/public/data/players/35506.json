@@ -1,0 +1,73 @@
+{
+  "player_id": "35506",
+  "player_name": "Quentin Sampson",
+  "batting": {
+    "matches": 4,
+    "innings": 4,
+    "not_outs": 0,
+    "runs": 56,
+    "balls": 50,
+    "average": 14.0,
+    "strike_rate": 112.0,
+    "highest_score": 30,
+    "fours": 3,
+    "sixes": 3,
+    "dots": 20,
+    "singles": 22,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50406,
+      "date": "2026-10-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "21 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48598,
+      "date": "2026-01-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "3 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48597,
+      "date": "2026-01-21",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -1.05
+    },
+    {
+      "match_id": 48596,
+      "date": "2026-01-19",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "30 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "player_id": "393",
+  "player_name": "Kedar Jadhav",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 12,
+    "balls": 10,
+    "average": 12.0,
+    "strike_rate": 120.0,
+    "highest_score": 12,
+    "fours": 1,
+    "sixes": 0,
+    "dots": 3,
+    "singles": 4,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 20234,
+      "date": "2023-05-09",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "12 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

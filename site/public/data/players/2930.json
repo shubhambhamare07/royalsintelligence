@@ -1,0 +1,279 @@
+{
+  "player_id": "2930",
+  "player_name": "Rassie van der Dussen",
+  "batting": {
+    "matches": 20,
+    "innings": 20,
+    "not_outs": 4,
+    "runs": 389,
+    "balls": 311,
+    "average": 24.31,
+    "strike_rate": 125.08,
+    "highest_score": 75,
+    "fours": 24,
+    "sixes": 20,
+    "dots": 119,
+    "singles": 125,
+    "twos": 21,
+    "threes": 2,
+    "ducks": 1,
+    "thirties": 2,
+    "fifties": 3,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 11,
+      "Bowled": 3,
+      "LBW": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 34.61,
+    "tier": "Unproven",
+    "p_outperform": 0.1779,
+    "pressure_value_per_100": -9.39,
+    "clutch_delta_per_100": -3.77,
+    "consistency": 0.5073
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 41971,
+      "date": "2025-08-16",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "38 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": -1.89
+    },
+    {
+      "match_id": 41970,
+      "date": "2025-08-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "5 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 38796,
+      "date": "2024-12-13",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "66 (38)",
+      "bowling_figures": null,
+      "pressure_balls": 19,
+      "pressure_value": 5.15
+    },
+    {
+      "match_id": 38795,
+      "date": "2024-12-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 36097,
+      "date": "2024-08-26",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "17 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 24,
+      "pressure_value": -8.4
+    },
+    {
+      "match_id": 36096,
+      "date": "2024-08-24",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "5 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32619,
+      "date": "2024-05-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "51 (31)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 1.32
+    },
+    {
+      "match_id": 32618,
+      "date": "2024-05-26",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "30 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 22,
+      "pressure_value": -0.01
+    },
+    {
+      "match_id": 32617,
+      "date": "2024-05-24",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "17 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -9.51
+    },
+    {
+      "match_id": 25156,
+      "date": "2023-09-01",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "6 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 25155,
+      "date": "2023-08-30",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "21 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16647,
+      "date": "2022-08-05",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "4 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16646,
+      "date": "2022-08-03",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "10 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15409,
+      "date": "2022-06-17",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "20 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 0.14
+    },
+    {
+      "match_id": 15408,
+      "date": "2022-06-14",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "1 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15407,
+      "date": "2022-06-12",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "1 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": -20.88
+    },
+    {
+      "match_id": 15406,
+      "date": "2022-06-09",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "75 (46)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": 19.29
+    },
+    {
+      "match_id": 14152,
+      "date": "2022-05-11",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "12 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": -2.33
+    },
+    {
+      "match_id": 14117,
+      "date": "2022-04-14",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "6 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14113,
+      "date": "2022-04-10",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "4 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 2930,
+      "player_name": "Rassie van der Dussen",
+      "role": "batter",
+      "match_id": 32618,
+      "n_balls": 21,
+      "match_runs": 24,
+      "match_pressure_value": 0.2368,
+      "career_expected_value": 0.4673,
+      "z_score": -5.14,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2930,
+      "player_name": "Rassie van der Dussen",
+      "role": "batter",
+      "match_id": 36097,
+      "n_balls": 24,
+      "match_runs": 17,
+      "match_pressure_value": 0.6416,
+      "career_expected_value": 0.4673,
+      "z_score": 4.15,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2930,
+      "player_name": "Rassie van der Dussen",
+      "role": "batter",
+      "match_id": 32617,
+      "n_balls": 8,
+      "match_runs": 7,
+      "match_pressure_value": 0.2767,
+      "career_expected_value": 0.4673,
+      "z_score": -2.62,
+      "direction": "negative"
+    }
+  ]
+}

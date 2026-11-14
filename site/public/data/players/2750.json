@@ -1,0 +1,62 @@
+{
+  "player_id": "2750",
+  "player_name": "Alex Carey",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 0,
+    "runs": 34,
+    "balls": 28,
+    "average": 11.33,
+    "strike_rate": 121.43,
+    "highest_score": 26,
+    "fours": 4,
+    "sixes": 0,
+    "dots": 9,
+    "singles": 12,
+    "twos": 3,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 46312,
+      "date": "2025-10-04",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46310,
+      "date": "2025-10-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "7 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41970,
+      "date": "2025-08-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "26 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

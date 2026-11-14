@@ -1,0 +1,89 @@
+{
+  "player_id": "47017",
+  "player_name": "Mohammad Jnr",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 13,
+    "balls": 12,
+    "average": 13.0,
+    "strike_rate": 108.33,
+    "highest_score": 13,
+    "fours": 2,
+    "sixes": 0,
+    "dots": 5,
+    "singles": 5,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 63,
+    "overs": 10.5,
+    "runs_charged": 98.0,
+    "wickets": 2,
+    "economy": 9.33,
+    "average": 49.0,
+    "strike_rate": 31.5,
+    "dot_pct": 44.12,
+    "boundary_pct": 20.59,
+    "wides": 5,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 4.5,
+        "runs": 50.0,
+        "wickets": 2,
+        "economy": 11.11
+      },
+      "powerplay": {
+        "overs": 6.0,
+        "runs": 48.0,
+        "wickets": 0,
+        "economy": 8.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 37097,
+      "date": "2024-10-25",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "13 (12)",
+      "bowling_figures": "0/27 (2.5)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37091,
+      "date": "2024-10-21",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/29 (4.0)",
+      "pressure_balls": 2,
+      "pressure_value": -4.27
+    },
+    {
+      "match_id": 37088,
+      "date": "2024-10-19",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/42 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

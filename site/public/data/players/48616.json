@@ -1,0 +1,145 @@
+{
+  "player_id": "48616",
+  "player_name": "Abdul Saqlain",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 2,
+    "runs": 39,
+    "balls": 33,
+    "average": 39.0,
+    "strike_rate": 118.18,
+    "highest_score": 16,
+    "fours": 2,
+    "sixes": 3,
+    "dots": 15,
+    "singles": 13,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 8,
+    "legal_balls": 182,
+    "overs": 30.3,
+    "runs_charged": 241.0,
+    "wickets": 9,
+    "economy": 7.95,
+    "average": 26.78,
+    "strike_rate": 20.22,
+    "dot_pct": 34.05,
+    "boundary_pct": 17.3,
+    "wides": 2,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 8.3,
+        "runs": 70.0,
+        "wickets": 3,
+        "economy": 8.4
+      },
+      "middle": {
+        "overs": 18.0,
+        "runs": 141.0,
+        "wickets": 5,
+        "economy": 7.83
+      },
+      "powerplay": {
+        "overs": 4.0,
+        "runs": 30.0,
+        "wickets": 1,
+        "economy": 7.5
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 51385,
+      "date": "2026-07-19",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50598,
+      "date": "2026-06-19",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "13 (11)",
+      "bowling_figures": "1/53 (4.0)",
+      "pressure_balls": 11,
+      "pressure_value": -3.5
+    },
+    {
+      "match_id": 50597,
+      "date": "2026-06-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "10 (10)",
+      "bowling_figures": "2/32 (3.3)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48029,
+      "date": "2025-11-23",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "16 (12)",
+      "bowling_figures": "1/27 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": 5.93
+    },
+    {
+      "match_id": 48027,
+      "date": "2025-11-21",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/26 (4.0)",
+      "pressure_balls": 24,
+      "pressure_value": 15.53
+    },
+    {
+      "match_id": 48026,
+      "date": "2025-11-19",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/27 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48022,
+      "date": "2025-11-17",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/13 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48017,
+      "date": "2025-11-15",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/32 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

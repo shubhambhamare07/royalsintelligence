@@ -1,0 +1,111 @@
+{
+  "match_id": 16660,
+  "competition_kind": "T20I",
+  "calendar_year": 2022,
+  "result": "Pakistan Won by 5 Wickets",
+  "innings_totals": {
+    "innings_1": 179.6,
+    "innings_1_sigma": 3.6,
+    "innings_2": 182.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 5,
+      "High": 5,
+      "Elevated": 2
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 4,
+      "Normal": 4,
+      "High": 4
+    },
+    "5": {
+      "Normal": 6,
+      "High": 4,
+      "Elevated": 2
+    },
+    "6": {
+      "Normal": 7,
+      "High": 6
+    },
+    "7": {
+      "Normal": 6,
+      "High": 6
+    },
+    "8": {
+      "Normal": 6,
+      "High": 6
+    },
+    "9": {
+      "Normal": 6,
+      "High": 4,
+      "Elevated": 2
+    },
+    "10": {
+      "Normal": 6,
+      "High": 4,
+      "Elevated": 2
+    },
+    "11": {
+      "Normal": 8,
+      "High": 6
+    },
+    "12": {
+      "Normal": 6,
+      "High": 3,
+      "Extreme": 3
+    },
+    "13": {
+      "Normal": 6,
+      "Extreme": 6
+    },
+    "14": {
+      "Normal": 7,
+      "Extreme": 6
+    },
+    "15": {
+      "Extreme": 6,
+      "Normal": 4,
+      "Elevated": 2
+    },
+    "16": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "17": {
+      "Extreme": 7,
+      "Elevated": 6
+    },
+    "18": {
+      "Extreme": 9,
+      "Elevated": 6,
+      "High": 1
+    },
+    "19": {
+      "Extreme": 8,
+      "Elevated": 3,
+      "High": 3
+    },
+    "20": {
+      "High": 7,
+      "Normal": 3,
+      "Extreme": 2
+    }
+  },
+  "turning_point_count": 5
+}

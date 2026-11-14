@@ -1,0 +1,53 @@
+{
+  "player_id": "48953",
+  "player_name": "Danish Malewar",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 2,
+    "balls": 5,
+    "average": 1.0,
+    "strike_rate": 40.0,
+    "highest_score": 2,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 3,
+    "singles": 2,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "LBW": 1,
+      "Caught": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50354,
+      "date": "2026-04-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -16.66
+    },
+    {
+      "match_id": 50351,
+      "date": "2026-04-20",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

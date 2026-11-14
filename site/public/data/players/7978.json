@@ -1,0 +1,123 @@
+{
+  "player_id": "7978",
+  "player_name": "Johnathan Campbell",
+  "batting": {
+    "matches": 9,
+    "innings": 9,
+    "not_outs": 2,
+    "runs": 123,
+    "balls": 101,
+    "average": 17.57,
+    "strike_rate": 121.78,
+    "highest_score": 45,
+    "fours": 8,
+    "sixes": 7,
+    "dots": 44,
+    "singles": 35,
+    "twos": 7,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 2,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 6,
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 33807,
+      "date": "2024-07-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "4 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -0.93
+    },
+    {
+      "match_id": 33806,
+      "date": "2024-07-13",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "3 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 33805,
+      "date": "2024-07-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 33804,
+      "date": "2024-07-07",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "10 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 33803,
+      "date": "2024-07-06",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32136,
+      "date": "2024-05-12",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "8 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -4.85
+    },
+    {
+      "match_id": 32135,
+      "date": "2024-05-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "31 (27)",
+      "bowling_figures": null,
+      "pressure_balls": 27,
+      "pressure_value": -0.42
+    },
+    {
+      "match_id": 32134,
+      "date": "2024-05-07",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "21 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32133,
+      "date": "2024-05-05",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "45 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

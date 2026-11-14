@@ -1,0 +1,93 @@
+{
+  "player_id": "3544",
+  "player_name": "Usman Ghani",
+  "batting": {
+    "matches": 6,
+    "innings": 6,
+    "not_outs": 0,
+    "runs": 85,
+    "balls": 85,
+    "average": 14.17,
+    "strike_rate": 100.0,
+    "highest_score": 59,
+    "fours": 8,
+    "sixes": 2,
+    "dots": 38,
+    "singles": 33,
+    "twos": 4,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4,
+      "Bowled": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 20880,
+      "date": "2023-03-28",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "15 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20879,
+      "date": "2023-03-26",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "7 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16751,
+      "date": "2022-08-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "1 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16750,
+      "date": "2022-08-09",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "59 (42)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15610,
+      "date": "2022-06-12",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "2 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15609,
+      "date": "2022-06-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

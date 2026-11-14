@@ -1,0 +1,154 @@
+{
+  "player_id": "7338",
+  "player_name": "Haider Ali",
+  "batting": {
+    "matches": 12,
+    "innings": 12,
+    "not_outs": 2,
+    "runs": 146,
+    "balls": 121,
+    "average": 14.6,
+    "strike_rate": 120.66,
+    "highest_score": 32,
+    "fours": 7,
+    "sixes": 7,
+    "dots": 41,
+    "singles": 56,
+    "twos": 10,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 2,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 7,
+      "Bowled": 2,
+      "Stump": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 37097,
+      "date": "2024-10-25",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "14 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37095,
+      "date": "2024-10-23",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "32 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37088,
+      "date": "2024-10-19",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "9 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -8.37
+    },
+    {
+      "match_id": 17743,
+      "date": "2022-10-14",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "31 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": 12.43
+    },
+    {
+      "match_id": 17742,
+      "date": "2022-10-13",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -8.04
+    },
+    {
+      "match_id": 17740,
+      "date": "2022-10-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "8 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17738,
+      "date": "2022-10-08",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "10 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17737,
+      "date": "2022-10-07",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "6 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17558,
+      "date": "2022-09-30",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "18 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17557,
+      "date": "2022-09-28",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "4 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17555,
+      "date": "2022-09-23",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "3 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17553,
+      "date": "2022-09-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "11 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

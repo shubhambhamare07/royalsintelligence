@@ -1,0 +1,107 @@
+{
+  "match_id": 30070,
+  "competition_kind": "IPL",
+  "calendar_year": 2024,
+  "result": "Lucknow Super Giants Won by 28 runs",
+  "innings_totals": {
+    "innings_1": 177.4,
+    "innings_1_sigma": 1.91,
+    "innings_2": 149.9
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 5,
+      "Elevated": 1
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 7,
+      "High": 6
+    },
+    "5": {
+      "Elevated": 8,
+      "High": 4
+    },
+    "6": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "7": {
+      "High": 7,
+      "Elevated": 6
+    },
+    "8": {
+      "Normal": 5,
+      "High": 4,
+      "Elevated": 3
+    },
+    "9": {
+      "Normal": 14,
+      "Elevated": 1
+    },
+    "10": {
+      "Normal": 13
+    },
+    "11": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "12": {
+      "Elevated": 7,
+      "Normal": 5
+    },
+    "13": {
+      "Elevated": 6,
+      "High": 6,
+      "Normal": 1
+    },
+    "14": {
+      "Elevated": 8,
+      "Normal": 4
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "16": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "17": {
+      "High": 7,
+      "Elevated": 3,
+      "Normal": 2,
+      "Extreme": 1
+    },
+    "18": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "19": {
+      "Normal": 7,
+      "Elevated": 5,
+      "High": 2
+    },
+    "20": {
+      "High": 4,
+      "Normal": 4,
+      "Elevated": 2
+    }
+  },
+  "turning_point_count": 5
+}

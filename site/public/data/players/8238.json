@@ -1,0 +1,247 @@
+{
+  "player_id": "8238",
+  "player_name": "Sameer Rizvi",
+  "batting": {
+    "matches": 18,
+    "innings": 18,
+    "not_outs": 4,
+    "runs": 424,
+    "balls": 293,
+    "average": 30.29,
+    "strike_rate": 144.71,
+    "highest_score": 90,
+    "fours": 30,
+    "sixes": 26,
+    "dots": 108,
+    "singles": 110,
+    "twos": 19,
+    "threes": 0,
+    "ducks": 3,
+    "thirties": 3,
+    "fifties": 3,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 11,
+      "Bowled": 2,
+      "Stump": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 44.17,
+    "tier": "Unproven",
+    "p_outperform": 0.3786,
+    "pressure_value_per_100": -7.61,
+    "clutch_delta_per_100": -2.33,
+    "consistency": 0.5704
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50372,
+      "date": "2026-05-08",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "3 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50369,
+      "date": "2026-05-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "40 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50360,
+      "date": "2026-04-27",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50352,
+      "date": "2026-04-21",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "41 (28)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50347,
+      "date": "2026-04-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -27.65
+    },
+    {
+      "match_id": 50142,
+      "date": "2026-04-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "6 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": 1.88
+    },
+    {
+      "match_id": 50138,
+      "date": "2026-04-08",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -7.07
+    },
+    {
+      "match_id": 50132,
+      "date": "2026-04-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "90 (51)",
+      "bowling_figures": null,
+      "pressure_balls": 25,
+      "pressure_value": 14.38
+    },
+    {
+      "match_id": 50129,
+      "date": "2026-04-01",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "70 (47)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": -0.19
+    },
+    {
+      "match_id": 43057,
+      "date": "2025-05-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "58 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 27,
+      "pressure_value": 19.92
+    },
+    {
+      "match_id": 40759,
+      "date": "2025-05-21",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "39 (35)",
+      "bowling_figures": null,
+      "pressure_balls": 16,
+      "pressure_value": -3.1
+    },
+    {
+      "match_id": 40710,
+      "date": "2025-04-05",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "20 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -3.81
+    },
+    {
+      "match_id": 40697,
+      "date": "2025-03-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "4 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31279,
+      "date": "2024-05-12",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "15 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31267,
+      "date": "2024-05-01",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "21 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31252,
+      "date": "2024-04-19",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "1 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30068,
+      "date": "2024-03-31",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30062,
+      "date": "2024-03-26",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "14 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -2.21
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 8238,
+      "player_name": "Sameer Rizvi",
+      "role": "batter",
+      "match_id": 40759,
+      "n_balls": 16,
+      "match_runs": 11,
+      "match_pressure_value": 0.3269,
+      "career_expected_value": 0.5622,
+      "z_score": -4.58,
+      "direction": "negative"
+    },
+    {
+      "player_id": 8238,
+      "player_name": "Sameer Rizvi",
+      "role": "batter",
+      "match_id": 50132,
+      "n_balls": 23,
+      "match_runs": 31,
+      "match_pressure_value": 0.7195,
+      "career_expected_value": 0.5622,
+      "z_score": 3.67,
+      "direction": "positive"
+    }
+  ]
+}

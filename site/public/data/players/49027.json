@@ -1,0 +1,144 @@
+{
+  "player_id": "49027",
+  "player_name": "Bevon Jacobs",
+  "batting": {
+    "matches": 11,
+    "innings": 11,
+    "not_outs": 4,
+    "runs": 213,
+    "balls": 158,
+    "average": 30.43,
+    "strike_rate": 134.81,
+    "highest_score": 58,
+    "fours": 13,
+    "sixes": 9,
+    "dots": 49,
+    "singles": 68,
+    "twos": 18,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 3,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4,
+      "Bowled": 2,
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 54214,
+      "date": "2026-11-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54213,
+      "date": "2026-10-30",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "7 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54212,
+      "date": "2026-10-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "39 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -0.11
+    },
+    {
+      "match_id": 54211,
+      "date": "2026-10-24",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "58 (46)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": -0.44
+    },
+    {
+      "match_id": 54210,
+      "date": "2026-10-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "31 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50188,
+      "date": "2026-04-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 49740,
+      "date": "2026-03-25",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "36 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -7.27
+    },
+    {
+      "match_id": 49739,
+      "date": "2026-03-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "3 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -11.76
+    },
+    {
+      "match_id": 49736,
+      "date": "2026-03-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "10 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48595,
+      "date": "2026-01-31",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "7 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46310,
+      "date": "2025-10-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "20 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "player_id": "820",
+  "player_name": "Nathan Coulter Nile",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 1,
+    "balls": 2,
+    "average": 1.0,
+    "strike_rate": 50.0,
+    "highest_score": 1,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 1,
+    "singles": 1,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 18,
+    "overs": 3.0,
+    "runs_charged": 48.0,
+    "wickets": 0,
+    "economy": 16.0,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 20.0,
+    "boundary_pct": 40.0,
+    "wides": 1,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 25.0,
+        "wickets": 0,
+        "economy": 25.0
+      },
+      "middle": {
+        "overs": 2.0,
+        "runs": 23.0,
+        "wickets": 0,
+        "economy": 11.5
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 14098,
+      "date": "2022-03-29",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "0/48 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

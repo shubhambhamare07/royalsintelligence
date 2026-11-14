@@ -1,0 +1,73 @@
+{
+  "player_id": "2790",
+  "player_name": "Praveen Dubey",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 16,
+    "balls": 20,
+    "average": 16.0,
+    "strike_rate": 80.0,
+    "highest_score": 16,
+    "fours": 2,
+    "sixes": 0,
+    "dots": 10,
+    "singles": 8,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 1
+    }
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 30,
+    "overs": 5.0,
+    "runs_charged": 39.0,
+    "wickets": 2,
+    "economy": 7.8,
+    "average": 19.5,
+    "strike_rate": 15.0,
+    "dot_pct": 38.71,
+    "boundary_pct": 19.35,
+    "wides": 1,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 5.0,
+        "runs": 39.0,
+        "wickets": 2,
+        "economy": 7.8
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 43057,
+      "date": "2025-05-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/20 (2.0)",
+      "pressure_balls": 12,
+      "pressure_value": -3.15
+    },
+    {
+      "match_id": 20239,
+      "date": "2023-05-13",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "16 (20)",
+      "bowling_figures": "1/19 (3.0)",
+      "pressure_balls": 14,
+      "pressure_value": -2.44
+    }
+  ]
+}

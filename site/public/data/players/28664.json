@@ -1,0 +1,41 @@
+{
+  "player_id": "28664",
+  "player_name": "Zahid Ali",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 12,
+    "overs": 2.0,
+    "runs_charged": 22.0,
+    "wickets": 0,
+    "economy": 11.0,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 27.78,
+    "boundary_pct": 16.67,
+    "wides": 6,
+    "no_balls": 0,
+    "phase_splits": {
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 22.0,
+        "wickets": 0,
+        "economy": 11.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48019,
+      "date": "2025-11-16",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/22 (2.0)",
+      "pressure_balls": 16,
+      "pressure_value": -8.24
+    }
+  ]
+}

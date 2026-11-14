@@ -1,0 +1,47 @@
+{
+  "player_id": "6449",
+  "player_name": "Wafadar Momand",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 18,
+    "overs": 3.0,
+    "runs_charged": 35.0,
+    "wickets": 0,
+    "economy": 11.67,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 36.84,
+    "boundary_pct": 36.84,
+    "wides": 1,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 15.0,
+        "wickets": 0,
+        "economy": 15.0
+      },
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 20.0,
+        "wickets": 0,
+        "economy": 10.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 29926,
+      "date": "2024-02-21",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/35 (3.0)",
+      "pressure_balls": 7,
+      "pressure_value": -2.56
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "player_id": "757",
+  "player_name": "Sybrand Engelbrecht",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 10,
+    "balls": 10,
+    "average": 5.0,
+    "strike_rate": 100.0,
+    "highest_score": 8,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 2,
+    "singles": 6,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 32623,
+      "date": "2024-05-22",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "2 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -27.14
+    },
+    {
+      "match_id": 32620,
+      "date": "2024-05-18",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "8 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -3.95
+    }
+  ]
+}

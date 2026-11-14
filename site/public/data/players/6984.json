@@ -1,0 +1,41 @@
+{
+  "player_id": "6984",
+  "player_name": "Saqib Zulfiqar",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 12,
+    "overs": 2.0,
+    "runs_charged": 13.0,
+    "wickets": 0,
+    "economy": 6.5,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 33.33,
+    "boundary_pct": 8.33,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 2.0,
+        "runs": 13.0,
+        "wickets": 0,
+        "economy": 6.5
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 35423,
+      "date": "2024-08-23",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/13 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

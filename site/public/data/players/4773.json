@@ -1,0 +1,379 @@
+{
+  "player_id": "4773",
+  "player_name": "Jaker Ali Anik",
+  "batting": {
+    "matches": 34,
+    "innings": 34,
+    "not_outs": 10,
+    "runs": 666,
+    "balls": 512,
+    "average": 27.75,
+    "strike_rate": 130.08,
+    "highest_score": 72,
+    "fours": 34,
+    "sixes": 40,
+    "dots": 185,
+    "singles": 216,
+    "twos": 37,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 5,
+    "fifties": 3,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 13,
+      "LBW": 6,
+      "Bowled": 5
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 44.04,
+    "tier": "Unproven",
+    "p_outperform": 0.35,
+    "pressure_value_per_100": -2.12,
+    "clutch_delta_per_100": -4.19,
+    "consistency": 0.5502
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 47241,
+      "date": "2025-11-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "20 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46942,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "5 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46941,
+      "date": "2025-10-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "17 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 20,
+      "pressure_value": -7.4
+    },
+    {
+      "match_id": 46755,
+      "date": "2025-10-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "10 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46754,
+      "date": "2025-10-03",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "32 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 25,
+      "pressure_value": 5.7
+    },
+    {
+      "match_id": 46753,
+      "date": "2025-10-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "6 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45511,
+      "date": "2025-09-25",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "5 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -6.21
+    },
+    {
+      "match_id": 45510,
+      "date": "2025-09-24",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "4 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45507,
+      "date": "2025-09-20",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 4.5
+    },
+    {
+      "match_id": 45503,
+      "date": "2025-09-16",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "12 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -7.07
+    },
+    {
+      "match_id": 45499,
+      "date": "2025-09-13",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "41 (34)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45497,
+      "date": "2025-09-11",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45908,
+      "date": "2025-09-03",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "20 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 44267,
+      "date": "2025-07-24",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 44266,
+      "date": "2025-07-22",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "55 (48)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 44265,
+      "date": "2025-07-20",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "15 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 43594,
+      "date": "2025-07-13",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "3 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 0.41
+    },
+    {
+      "match_id": 42744,
+      "date": "2025-06-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "15 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42743,
+      "date": "2025-05-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42742,
+      "date": "2025-05-28",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "36 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 43171,
+      "date": "2025-05-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "41 (34)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42784,
+      "date": "2025-05-19",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "18 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42783,
+      "date": "2025-05-17",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "13 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 38844,
+      "date": "2024-12-20",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "72 (41)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": 5.27
+    },
+    {
+      "match_id": 38843,
+      "date": "2024-12-18",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "21 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 38842,
+      "date": "2024-12-16",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "27 (27)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37277,
+      "date": "2024-10-09",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37276,
+      "date": "2024-10-06",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "8 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32136,
+      "date": "2024-05-12",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "24 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -1.91
+    },
+    {
+      "match_id": 32135,
+      "date": "2024-05-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "6 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 4773,
+      "player_name": "Jaker Ali Anik",
+      "role": "batter",
+      "match_id": 30341,
+      "n_balls": 15,
+      "match_runs": 28,
+      "match_pressure_value": 0.2654,
+      "career_expected_value": 0.4934,
+      "z_score": -4.3,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4773,
+      "player_name": "Jaker Ali Anik",
+      "role": "batter",
+      "match_id": 45511,
+      "n_balls": 9,
+      "match_runs": 5,
+      "match_pressure_value": 0.24,
+      "career_expected_value": 0.4934,
+      "z_score": -3.7,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4773,
+      "player_name": "Jaker Ali Anik",
+      "role": "batter",
+      "match_id": 32133,
+      "n_balls": 6,
+      "match_runs": 9,
+      "match_pressure_value": 0.7161,
+      "career_expected_value": 0.4934,
+      "z_score": 2.65,
+      "direction": "positive"
+    }
+  ]
+}

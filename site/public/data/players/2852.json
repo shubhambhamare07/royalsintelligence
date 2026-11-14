@@ -1,0 +1,116 @@
+{
+  "player_id": "2852",
+  "player_name": "Jagadeesha Suchith",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 2,
+    "balls": 8,
+    "average": 1.0,
+    "strike_rate": 25.0,
+    "highest_score": 2,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 6,
+    "singles": 2,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Stump": 1,
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 5,
+    "legal_balls": 108,
+    "overs": 18.0,
+    "runs_charged": 139.0,
+    "wickets": 7,
+    "economy": 7.72,
+    "average": 19.86,
+    "strike_rate": 15.43,
+    "dot_pct": 42.61,
+    "boundary_pct": 13.91,
+    "wides": 7,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 17.0,
+        "wickets": 1,
+        "economy": 17.0
+      },
+      "middle": {
+        "overs": 14.0,
+        "runs": 96.0,
+        "wickets": 5,
+        "economy": 6.86
+      },
+      "powerplay": {
+        "overs": 3.0,
+        "runs": 26.0,
+        "wickets": 1,
+        "economy": 8.67
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 14164,
+      "date": "2022-05-22",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "1/38 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": -2.04
+    },
+    {
+      "match_id": 14148,
+      "date": "2022-05-08",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "2 (7)",
+      "bowling_figures": "2/29 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14129,
+      "date": "2022-04-23",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "2/12 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14121,
+      "date": "2022-04-17",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/28 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14118,
+      "date": "2022-04-15",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/32 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": -10.14
+    }
+  ]
+}

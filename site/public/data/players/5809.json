@@ -1,0 +1,440 @@
+{
+  "player_id": "5809",
+  "player_name": "Naveen ul Haq",
+  "batting": {
+    "matches": 11,
+    "innings": 11,
+    "not_outs": 6,
+    "runs": 49,
+    "balls": 67,
+    "average": 9.8,
+    "strike_rate": 73.13,
+    "highest_score": 13,
+    "fours": 5,
+    "sixes": 1,
+    "dots": 41,
+    "singles": 17,
+    "twos": 3,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "Bowled": 2
+    }
+  },
+  "bowling": {
+    "matches": 35,
+    "legal_balls": 768,
+    "overs": 128.0,
+    "runs_charged": 1134.0,
+    "wickets": 50,
+    "economy": 8.86,
+    "average": 22.68,
+    "strike_rate": 15.36,
+    "dot_pct": 36.02,
+    "boundary_pct": 19.01,
+    "wides": 29,
+    "no_balls": 8,
+    "phase_splits": {
+      "death": {
+        "overs": 51.0,
+        "runs": 505.0,
+        "wickets": 21,
+        "economy": 9.9
+      },
+      "middle": {
+        "overs": 22.0,
+        "runs": 185.0,
+        "wickets": 11,
+        "economy": 8.41
+      },
+      "powerplay": {
+        "overs": 55.0,
+        "runs": 444.0,
+        "wickets": 18,
+        "economy": 8.07
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 53.1,
+    "tier": "Unproven",
+    "p_outperform": 0.7146,
+    "pressure_value_per_6": 0.35,
+    "clutch_delta_per_6": -0.47,
+    "consistency": 0.4457
+  },
+  "recent_matches": [
+    {
+      "match_id": 38628,
+      "date": "2024-12-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/27 (3.8)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 38627,
+      "date": "2024-12-13",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/19 (4.0)",
+      "pressure_balls": 11,
+      "pressure_value": 9.35
+    },
+    {
+      "match_id": 38626,
+      "date": "2024-12-11",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/33 (4.0)",
+      "pressure_balls": 18,
+      "pressure_value": 5.07
+    },
+    {
+      "match_id": 31285,
+      "date": "2024-05-17",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/50 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": -0.69
+    },
+    {
+      "match_id": 31282,
+      "date": "2024-05-14",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "2 (4)",
+      "bowling_figures": "2/51 (4.0)",
+      "pressure_balls": 3,
+      "pressure_value": -6.6
+    },
+    {
+      "match_id": 31275,
+      "date": "2024-05-08",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/37 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31272,
+      "date": "2024-05-05",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/49 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31266,
+      "date": "2024-04-30",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/15 (3.8)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31244,
+      "date": "2024-04-12",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/24 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30076,
+      "date": "2024-04-07",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/37 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -4.23
+    },
+    {
+      "match_id": 30070,
+      "date": "2024-04-02",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/25 (3.7)",
+      "pressure_balls": 10,
+      "pressure_value": 1.86
+    },
+    {
+      "match_id": 30066,
+      "date": "2024-03-30",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/43 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": -2.17
+    },
+    {
+      "match_id": 30059,
+      "date": "2024-03-24",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/41 (4.0)",
+      "pressure_balls": 8,
+      "pressure_value": 7.05
+    },
+    {
+      "match_id": 30730,
+      "date": "2024-03-18",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/10 (2.3)",
+      "pressure_balls": 6,
+      "pressure_value": 35.36
+    },
+    {
+      "match_id": 30729,
+      "date": "2024-03-17",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/23 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": -1.25
+    },
+    {
+      "match_id": 30728,
+      "date": "2024-03-15",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "13 (15)",
+      "bowling_figures": "0/52 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 29925,
+      "date": "2024-02-19",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "5 (9)",
+      "bowling_figures": "1/46 (4.0)",
+      "pressure_balls": 3,
+      "pressure_value": -4.87
+    },
+    {
+      "match_id": 29924,
+      "date": "2024-02-17",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "2/25 (3.0)",
+      "pressure_balls": 2,
+      "pressure_value": -4.21
+    },
+    {
+      "match_id": 28961,
+      "date": "2024-01-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "1/33 (3.0)",
+      "pressure_balls": 11,
+      "pressure_value": -7.48
+    },
+    {
+      "match_id": 28960,
+      "date": "2024-01-11",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/43 (3.5)",
+      "pressure_balls": 12,
+      "pressure_value": -12.2
+    },
+    {
+      "match_id": 21584,
+      "date": "2023-05-24",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "1 (5)",
+      "bowling_figures": "4/38 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -2.41
+    },
+    {
+      "match_id": 20248,
+      "date": "2023-05-20",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "2 (3)",
+      "bowling_figures": "0/46 (4.0)",
+      "pressure_balls": 14,
+      "pressure_value": -8.38
+    },
+    {
+      "match_id": 20243,
+      "date": "2023-05-16",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/41 (4.0)",
+      "pressure_balls": 25,
+      "pressure_value": -1.53
+    },
+    {
+      "match_id": 20223,
+      "date": "2023-05-01",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "13 (13)",
+      "bowling_figures": "3/30 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": -6.98
+    },
+    {
+      "match_id": 20218,
+      "date": "2023-04-28",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "3/30 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20210,
+      "date": "2023-04-22",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/19 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20206,
+      "date": "2023-04-19",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/19 (4.0)",
+      "pressure_balls": 13,
+      "pressure_value": 7.2
+    },
+    {
+      "match_id": 20879,
+      "date": "2023-03-26",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/26 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20878,
+      "date": "2023-03-24",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/19 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16659,
+      "date": "2022-09-03",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "2/40 (4.0)",
+      "pressure_balls": 19,
+      "pressure_value": -6.36
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 5809,
+      "player_name": "Naveen ul Haq",
+      "role": "bowler",
+      "match_id": 30076,
+      "n_balls": 6,
+      "match_runs_conceded": 10,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8477,
+      "career_expected_value": 0.4367,
+      "z_score": 4.89,
+      "direction": "positive"
+    },
+    {
+      "player_id": 5809,
+      "player_name": "Naveen ul Haq",
+      "role": "bowler",
+      "match_id": 16750,
+      "n_balls": 21,
+      "match_runs_conceded": 34,
+      "match_wickets": 1,
+      "match_pressure_value": 0.2799,
+      "career_expected_value": 0.4367,
+      "z_score": -3.49,
+      "direction": "negative"
+    },
+    {
+      "player_id": 5809,
+      "player_name": "Naveen ul Haq",
+      "role": "bowler",
+      "match_id": 20248,
+      "n_balls": 13,
+      "match_runs_conceded": 21,
+      "match_wickets": 0,
+      "match_pressure_value": 0.6303,
+      "career_expected_value": 0.4367,
+      "z_score": 3.39,
+      "direction": "positive"
+    },
+    {
+      "player_id": 5809,
+      "player_name": "Naveen ul Haq",
+      "role": "bowler",
+      "match_id": 38626,
+      "n_balls": 18,
+      "match_runs_conceded": 24,
+      "match_wickets": 2,
+      "match_pressure_value": 0.2987,
+      "career_expected_value": 0.4367,
+      "z_score": -2.85,
+      "direction": "negative"
+    },
+    {
+      "player_id": 5809,
+      "player_name": "Naveen ul Haq",
+      "role": "bowler",
+      "match_id": 31285,
+      "n_balls": 12,
+      "match_runs_conceded": 21,
+      "match_wickets": 1,
+      "match_pressure_value": 0.5926,
+      "career_expected_value": 0.4367,
+      "z_score": 2.63,
+      "direction": "positive"
+    }
+  ]
+}

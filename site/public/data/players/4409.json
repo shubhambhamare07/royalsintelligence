@@ -1,0 +1,586 @@
+{
+  "player_id": "4409",
+  "player_name": "Sam Curran",
+  "batting": {
+    "matches": 55,
+    "innings": 55,
+    "not_outs": 9,
+    "runs": 1065,
+    "balls": 823,
+    "average": 23.15,
+    "strike_rate": 129.4,
+    "highest_score": 88,
+    "fours": 83,
+    "sixes": 36,
+    "dots": 264,
+    "singles": 366,
+    "twos": 73,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 4,
+    "fifties": 6,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 35,
+      "Bowled": 7,
+      "RunOut": 2,
+      "Stump": 1,
+      "LBW": 1
+    }
+  },
+  "bowling": {
+    "matches": 69,
+    "legal_balls": 1296,
+    "overs": 216.0,
+    "runs_charged": 2044.0,
+    "wickets": 57,
+    "economy": 9.46,
+    "average": 35.86,
+    "strike_rate": 22.74,
+    "dot_pct": 30.01,
+    "boundary_pct": 19.77,
+    "wides": 65,
+    "no_balls": 5,
+    "phase_splits": {
+      "death": {
+        "overs": 69.0,
+        "runs": 728.0,
+        "wickets": 29,
+        "economy": 10.55
+      },
+      "middle": {
+        "overs": 72.0,
+        "runs": 655.0,
+        "wickets": 18,
+        "economy": 9.1
+      },
+      "powerplay": {
+        "overs": 75.0,
+        "runs": 661.0,
+        "wickets": 10,
+        "economy": 8.81
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 53.93,
+    "tier": "Unproven",
+    "p_outperform": 0.6022,
+    "pressure_value_per_100": -2.06,
+    "clutch_delta_per_100": 7.66,
+    "consistency": 0.5744
+  },
+  "rated_bowling": {
+    "rating": 50.85,
+    "tier": "Unproven",
+    "p_outperform": 0.5948,
+    "pressure_value_per_6": -0.15,
+    "clutch_delta_per_6": 0.26,
+    "consistency": 0.5238
+  },
+  "recent_matches": [
+    {
+      "match_id": 45394,
+      "date": "2026-07-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "3/36 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45393,
+      "date": "2026-07-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/24 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45392,
+      "date": "2026-07-07",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "41 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45391,
+      "date": "2026-07-04",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "7 (5)",
+      "bowling_figures": "3/33 (4.0)",
+      "pressure_balls": 8,
+      "pressure_value": 6.18
+    },
+    {
+      "match_id": 45390,
+      "date": "2026-07-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/25 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": 1.81
+    },
+    {
+      "match_id": 48612,
+      "date": "2026-02-03",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "58 (48)",
+      "bowling_figures": "0/9 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46748,
+      "date": "2025-10-20",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "8 (3)",
+      "bowling_figures": "0/37 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46747,
+      "date": "2025-10-18",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "49 (35)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46007,
+      "date": "2025-09-17",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "27 (15)",
+      "bowling_figures": "0/39 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 36209,
+      "date": "2025-09-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/11 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40745,
+      "date": "2025-05-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "5 (5)",
+      "bowling_figures": "1/34 (3.0)",
+      "pressure_balls": 5,
+      "pressure_value": -9.52
+    },
+    {
+      "match_id": 40742,
+      "date": "2025-04-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "88 (47)",
+      "bowling_figures": "0/27 (3.0)",
+      "pressure_balls": 21,
+      "pressure_value": -0.27
+    },
+    {
+      "match_id": 40736,
+      "date": "2025-04-25",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "9 (10)",
+      "bowling_figures": "0/25 (2.0)",
+      "pressure_balls": 6,
+      "pressure_value": -10.28
+    },
+    {
+      "match_id": 40701,
+      "date": "2025-03-28",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "8 (13)",
+      "bowling_figures": "0/34 (3.0)",
+      "pressure_balls": 7,
+      "pressure_value": -7.14
+    },
+    {
+      "match_id": 40696,
+      "date": "2025-03-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "4 (9)",
+      "bowling_figures": "0/13 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37352,
+      "date": "2024-11-17",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "24 (13)",
+      "bowling_figures": "0/41 (3.0)",
+      "pressure_balls": 15,
+      "pressure_value": -3.82
+    },
+    {
+      "match_id": 37351,
+      "date": "2024-11-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "41 (26)",
+      "bowling_figures": "0/24 (3.0)",
+      "pressure_balls": 26,
+      "pressure_value": 18.76
+    },
+    {
+      "match_id": 37350,
+      "date": "2024-11-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/20 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37349,
+      "date": "2024-11-09",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/31 (3.0)",
+      "pressure_balls": 3,
+      "pressure_value": -9.49
+    },
+    {
+      "match_id": 36563,
+      "date": "2024-09-13",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "1/37 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 36562,
+      "date": "2024-09-11",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "18 (15)",
+      "bowling_figures": "1/35 (2.0)",
+      "pressure_balls": 2,
+      "pressure_value": -6.59
+    },
+    {
+      "match_id": 31283,
+      "date": "2024-05-15",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "63 (41)",
+      "bowling_figures": "2/24 (3.0)",
+      "pressure_balls": 35,
+      "pressure_value": 16.3
+    },
+    {
+      "match_id": 31276,
+      "date": "2024-05-09",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "22 (16)",
+      "bowling_figures": "1/50 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31271,
+      "date": "2024-05-05",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "7 (11)",
+      "bowling_figures": "1/34 (4.0)",
+      "pressure_balls": 5,
+      "pressure_value": -1.18
+    },
+    {
+      "match_id": 31267,
+      "date": "2024-05-01",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "26 (20)",
+      "bowling_figures": "0/37 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31260,
+      "date": "2024-04-26",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/60 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31255,
+      "date": "2024-04-21",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "20 (19)",
+      "bowling_figures": "1/18 (2.0)",
+      "pressure_balls": 5,
+      "pressure_value": -3.55
+    },
+    {
+      "match_id": 31251,
+      "date": "2024-04-18",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "6 (7)",
+      "bowling_figures": "2/41 (4.0)",
+      "pressure_balls": 19,
+      "pressure_value": -0.31
+    },
+    {
+      "match_id": 31245,
+      "date": "2024-04-13",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "6 (10)",
+      "bowling_figures": "2/25 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": 4.6
+    },
+    {
+      "match_id": 31241,
+      "date": "2024-04-09",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "29 (22)",
+      "bowling_figures": "2/41 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 4409,
+      "player_name": "Sam Curran",
+      "role": "batter",
+      "match_id": 28064,
+      "n_balls": 17,
+      "match_runs": 21,
+      "match_pressure_value": 0.1696,
+      "career_expected_value": 0.519,
+      "z_score": -7.01,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4409,
+      "player_name": "Sam Curran",
+      "role": "bowler",
+      "match_id": 17764,
+      "n_balls": 13,
+      "match_runs_conceded": 9,
+      "match_wickets": 2,
+      "match_pressure_value": 0.8527,
+      "career_expected_value": 0.4528,
+      "z_score": 7.01,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4409,
+      "player_name": "Sam Curran",
+      "role": "bowler",
+      "match_id": 20188,
+      "n_balls": 12,
+      "match_runs_conceded": 7,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8291,
+      "career_expected_value": 0.4528,
+      "z_score": 6.33,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4409,
+      "player_name": "Sam Curran",
+      "role": "bowler",
+      "match_id": 17763,
+      "n_balls": 11,
+      "match_runs_conceded": 18,
+      "match_wickets": 2,
+      "match_pressure_value": 0.8306,
+      "career_expected_value": 0.4528,
+      "z_score": 6.09,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4409,
+      "player_name": "Sam Curran",
+      "role": "batter",
+      "match_id": 31283,
+      "n_balls": 34,
+      "match_runs": 55,
+      "match_pressure_value": 0.7212,
+      "career_expected_value": 0.519,
+      "z_score": 5.73,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4409,
+      "player_name": "Sam Curran",
+      "role": "batter",
+      "match_id": 30057,
+      "n_balls": 25,
+      "match_runs": 40,
+      "match_pressure_value": 0.7422,
+      "career_expected_value": 0.519,
+      "z_score": 5.43,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4409,
+      "player_name": "Sam Curran",
+      "role": "bowler",
+      "match_id": 20198,
+      "n_balls": 11,
+      "match_runs_conceded": 15,
+      "match_wickets": 1,
+      "match_pressure_value": 0.1624,
+      "career_expected_value": 0.4528,
+      "z_score": -4.68,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4409,
+      "player_name": "Sam Curran",
+      "role": "bowler",
+      "match_id": 31245,
+      "n_balls": 12,
+      "match_runs_conceded": 16,
+      "match_wickets": 2,
+      "match_pressure_value": 0.1944,
+      "career_expected_value": 0.4528,
+      "z_score": -4.35,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4409,
+      "player_name": "Sam Curran",
+      "role": "bowler",
+      "match_id": 40742,
+      "n_balls": 18,
+      "match_runs_conceded": 27,
+      "match_wickets": 0,
+      "match_pressure_value": 0.242,
+      "career_expected_value": 0.4528,
+      "z_score": -4.35,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4409,
+      "player_name": "Sam Curran",
+      "role": "batter",
+      "match_id": 20221,
+      "n_balls": 14,
+      "match_runs": 23,
+      "match_pressure_value": 0.2818,
+      "career_expected_value": 0.519,
+      "z_score": -4.32,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4409,
+      "player_name": "Sam Curran",
+      "role": "batter",
+      "match_id": 37351,
+      "n_balls": 25,
+      "match_runs": 41,
+      "match_pressure_value": 0.6923,
+      "career_expected_value": 0.519,
+      "z_score": 4.21,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4409,
+      "player_name": "Sam Curran",
+      "role": "bowler",
+      "match_id": 20211,
+      "n_balls": 6,
+      "match_runs_conceded": 14,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7653,
+      "career_expected_value": 0.4528,
+      "z_score": 3.72,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4409,
+      "player_name": "Sam Curran",
+      "role": "batter",
+      "match_id": 17557,
+      "n_balls": 5,
+      "match_runs": 5,
+      "match_pressure_value": 0.1799,
+      "career_expected_value": 0.519,
+      "z_score": -3.69,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4409,
+      "player_name": "Sam Curran",
+      "role": "batter",
+      "match_id": 20135,
+      "n_balls": 6,
+      "match_runs": 4,
+      "match_pressure_value": 0.2124,
+      "career_expected_value": 0.519,
+      "z_score": -3.65,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4409,
+      "player_name": "Sam Curran",
+      "role": "bowler",
+      "match_id": 31255,
+      "n_balls": 5,
+      "match_runs_conceded": 10,
+      "match_wickets": 0,
+      "match_pressure_value": 0.1309,
+      "career_expected_value": 0.4528,
+      "z_score": -3.5,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4409,
+      "player_name": "Sam Curran",
+      "role": "bowler",
+      "match_id": 28067,
+      "n_balls": 5,
+      "match_runs_conceded": 2,
+      "match_wickets": 1,
+      "match_pressure_value": 0.1381,
+      "career_expected_value": 0.4528,
+      "z_score": -3.42,
+      "direction": "negative"
+    }
+  ]
+}

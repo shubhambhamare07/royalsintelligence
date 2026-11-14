@@ -1,0 +1,42 @@
+{
+  "player_id": "7926",
+  "player_name": "Manpreet Singh",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 12,
+    "balls": 15,
+    "average": 12.0,
+    "strike_rate": 80.0,
+    "highest_score": 12,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 4,
+    "singles": 10,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16862,
+      "date": "2022-08-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "12 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 13,
+      "pressure_value": -7.97
+    }
+  ]
+}

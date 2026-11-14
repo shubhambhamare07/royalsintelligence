@@ -1,0 +1,239 @@
+{
+  "model_version": "gems-v1.0",
+  "thresholds": {
+    "min_p_outperform": 0.8,
+    "batter_median_balls": 155.0,
+    "batter_median_sr": 143.93,
+    "bowler_median_balls": 157.0,
+    "bowler_median_econ": 8.62
+  },
+  "counts": {
+    "gem_batters": 10,
+    "gem_bowlers": 1,
+    "total_gems": 11
+  },
+  "gem_batters": [
+    {
+      "player_id": 2756,
+      "player_name": "Shashank Singh",
+      "role": "batter",
+      "tier": "Promising",
+      "rating": 82.05,
+      "rating_ci90": [
+        57.19,
+        100.0
+      ],
+      "p_outperform": 0.9802,
+      "exposure_balls": 93,
+      "exposure_percentile": 18.7,
+      "sr_or_econ": 191.4,
+      "sr_or_econ_label": "Strike Rate",
+      "sr_or_econ_percentile": 96.1,
+      "low_exposure_flag": true,
+      "low_rate_flag": false,
+      "reason_string": "Shashank Singh demonstrates high clutch rating (82.0, P(outperform)=0.980) concealed by below-median pressure volume (93 balls vs median 155)."
+    },
+    {
+      "player_id": 3672,
+      "player_name": "Kusal Mendis",
+      "role": "batter",
+      "tier": "Proven",
+      "rating": 79.34,
+      "rating_ci90": [
+        58.96,
+        99.05
+      ],
+      "p_outperform": 0.9895,
+      "exposure_balls": 326,
+      "exposure_percentile": 88.4,
+      "sr_or_econ": 132.21,
+      "sr_or_econ_label": "Strike Rate",
+      "sr_or_econ_percentile": 22.6,
+      "low_exposure_flag": false,
+      "low_rate_flag": true,
+      "reason_string": "Kusal Mendis demonstrates high clutch rating (79.3, P(outperform)=0.990) concealed by conventional strike rate (132.2 vs median 143.9)."
+    },
+    {
+      "player_id": 4722,
+      "player_name": "Rashid Khan",
+      "role": "batter",
+      "tier": "Promising",
+      "rating": 74.5,
+      "rating_ci90": [
+        49.1,
+        99.85
+      ],
+      "p_outperform": 0.9443,
+      "exposure_balls": 120,
+      "exposure_percentile": 36.1,
+      "sr_or_econ": 184.17,
+      "sr_or_econ_label": "Strike Rate",
+      "sr_or_econ_percentile": 92.3,
+      "low_exposure_flag": true,
+      "low_rate_flag": false,
+      "reason_string": "Rashid Khan demonstrates high clutch rating (74.5, P(outperform)=0.944) concealed by below-median pressure volume (120 balls vs median 155)."
+    },
+    {
+      "player_id": 768,
+      "player_name": "Reeza Hendricks",
+      "role": "batter",
+      "tier": "Promising",
+      "rating": 69.04,
+      "rating_ci90": [
+        45.3,
+        93.48
+      ],
+      "p_outperform": 0.9086,
+      "exposure_balls": 154,
+      "exposure_percentile": 49.7,
+      "sr_or_econ": 175.32,
+      "sr_or_econ_label": "Strike Rate",
+      "sr_or_econ_percentile": 88.4,
+      "low_exposure_flag": true,
+      "low_rate_flag": false,
+      "reason_string": "Reeza Hendricks demonstrates high clutch rating (69.0, P(outperform)=0.909) concealed by below-median pressure volume (154 balls vs median 155)."
+    },
+    {
+      "player_id": 2533,
+      "player_name": "Najibullah Zadran",
+      "role": "batter",
+      "tier": "Promising",
+      "rating": 67.9,
+      "rating_ci90": [
+        41.71,
+        94.41
+      ],
+      "p_outperform": 0.863,
+      "exposure_balls": 70,
+      "exposure_percentile": 8.4,
+      "sr_or_econ": 187.14,
+      "sr_or_econ_label": "Strike Rate",
+      "sr_or_econ_percentile": 94.2,
+      "low_exposure_flag": true,
+      "low_rate_flag": false,
+      "reason_string": "Najibullah Zadran demonstrates high clutch rating (67.9, P(outperform)=0.863) concealed by below-median pressure volume (70 balls vs median 155)."
+    },
+    {
+      "player_id": 4853,
+      "player_name": "Glenn Phillips",
+      "role": "batter",
+      "tier": "Promising",
+      "rating": 65.78,
+      "rating_ci90": [
+        43.08,
+        88.42
+      ],
+      "p_outperform": 0.8707,
+      "exposure_balls": 158,
+      "exposure_percentile": 54.8,
+      "sr_or_econ": 138.61,
+      "sr_or_econ_label": "Strike Rate",
+      "sr_or_econ_percentile": 35.5,
+      "low_exposure_flag": false,
+      "low_rate_flag": true,
+      "reason_string": "Glenn Phillips demonstrates high clutch rating (65.8, P(outperform)=0.871) concealed by conventional strike rate (138.6 vs median 143.9)."
+    },
+    {
+      "player_id": 4812,
+      "player_name": "Harry Tector",
+      "role": "batter",
+      "tier": "Promising",
+      "rating": 65.72,
+      "rating_ci90": [
+        42.92,
+        88.53
+      ],
+      "p_outperform": 0.8724,
+      "exposure_balls": 128,
+      "exposure_percentile": 38.1,
+      "sr_or_econ": 125.0,
+      "sr_or_econ_label": "Strike Rate",
+      "sr_or_econ_percentile": 16.8,
+      "low_exposure_flag": true,
+      "low_rate_flag": true,
+      "reason_string": "Harry Tector demonstrates high clutch rating (65.7, P(outperform)=0.872) concealed by below-median pressure volume (128 balls vs median 155) and conventional strike rate (125.0 vs median 143.9)."
+    },
+    {
+      "player_id": 3782,
+      "player_name": "M Shahrukh Khan",
+      "role": "batter",
+      "tier": "Promising",
+      "rating": 65.36,
+      "rating_ci90": [
+        37.63,
+        92.95
+      ],
+      "p_outperform": 0.8176,
+      "exposure_balls": 89,
+      "exposure_percentile": 18.1,
+      "sr_or_econ": 204.49,
+      "sr_or_econ_label": "Strike Rate",
+      "sr_or_econ_percentile": 98.7,
+      "low_exposure_flag": true,
+      "low_rate_flag": false,
+      "reason_string": "M Shahrukh Khan demonstrates high clutch rating (65.4, P(outperform)=0.818) concealed by below-median pressure volume (89 balls vs median 155)."
+    },
+    {
+      "player_id": 8301,
+      "player_name": "Asif Khan",
+      "role": "batter",
+      "tier": "Promising",
+      "rating": 65.34,
+      "rating_ci90": [
+        38.3,
+        91.99
+      ],
+      "p_outperform": 0.8192,
+      "exposure_balls": 105,
+      "exposure_percentile": 25.8,
+      "sr_or_econ": 146.67,
+      "sr_or_econ_label": "Strike Rate",
+      "sr_or_econ_percentile": 52.9,
+      "low_exposure_flag": true,
+      "low_rate_flag": false,
+      "reason_string": "Asif Khan demonstrates high clutch rating (65.3, P(outperform)=0.819) concealed by below-median pressure volume (105 balls vs median 155)."
+    },
+    {
+      "player_id": 8101,
+      "player_name": "Ashutosh Sharma",
+      "role": "batter",
+      "tier": "Promising",
+      "rating": 64.45,
+      "rating_ci90": [
+        37.83,
+        90.95
+      ],
+      "p_outperform": 0.8141,
+      "exposure_balls": 129,
+      "exposure_percentile": 38.7,
+      "sr_or_econ": 186.82,
+      "sr_or_econ_label": "Strike Rate",
+      "sr_or_econ_percentile": 92.9,
+      "low_exposure_flag": true,
+      "low_rate_flag": false,
+      "reason_string": "Ashutosh Sharma demonstrates high clutch rating (64.5, P(outperform)=0.814) concealed by below-median pressure volume (129 balls vs median 155)."
+    }
+  ],
+  "gem_bowlers": [
+    {
+      "player_id": 4373,
+      "player_name": "Mustafizur Rahman",
+      "role": "bowler",
+      "tier": "Promising",
+      "rating": 47.35,
+      "rating_ci90": [
+        39.81,
+        83.52
+      ],
+      "p_outperform": 0.8113,
+      "exposure_balls": 356,
+      "exposure_percentile": 87.4,
+      "sr_or_econ": 8.75,
+      "sr_or_econ_label": "Economy",
+      "sr_or_econ_percentile": 47.7,
+      "low_exposure_flag": false,
+      "low_rate_flag": true,
+      "reason_string": "Mustafizur Rahman demonstrates high clutch rating (47.4, P(outperform)=0.811) concealed by conventional economy (8.75 rpo vs median 8.62)."
+    }
+  ]
+}

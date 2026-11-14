@@ -1,0 +1,96 @@
+{
+  "match_id": 30065,
+  "competition_kind": "IPL",
+  "calendar_year": 2024,
+  "result": "Kolkata Knight Riders won by 7 wickets",
+  "innings_totals": {
+    "innings_1": 177.9,
+    "innings_1_sigma": 2.02,
+    "innings_2": 178.9
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "Elevated": 5,
+      "High": 1
+    },
+    "2": {
+      "Elevated": 12,
+      "Normal": 2
+    },
+    "3": {
+      "Elevated": 9,
+      "Normal": 3
+    },
+    "4": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "6": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "12": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "13": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "14": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "15": {
+      "Normal": 8,
+      "Elevated": 6
+    },
+    "16": {
+      "Elevated": 7,
+      "Normal": 7
+    },
+    "17": {
+      "High": 7,
+      "Normal": 5
+    },
+    "18": {
+      "High": 6
+    },
+    "19": {
+      "High": 4,
+      "Elevated": 2
+    },
+    "20": {
+      "High": 6
+    }
+  },
+  "turning_point_count": 5
+}

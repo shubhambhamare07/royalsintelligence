@@ -1,0 +1,63 @@
+{
+  "player_id": "7761",
+  "player_name": "Ravinderpal Singh",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 1,
+    "runs": 41,
+    "balls": 24,
+    "average": 20.5,
+    "strike_rate": 170.83,
+    "highest_score": 39,
+    "fours": 1,
+    "sixes": 4,
+    "dots": 9,
+    "singles": 8,
+    "twos": 1,
+    "threes": 1,
+    "ducks": 1,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 35427,
+      "date": "2024-08-26",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 35424,
+      "date": "2024-08-24",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -4.23
+    },
+    {
+      "match_id": 35423,
+      "date": "2024-08-23",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "39 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

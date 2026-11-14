@@ -1,0 +1,99 @@
+{
+  "match_id": 50346,
+  "competition_kind": "IPL",
+  "calendar_year": 2026,
+  "result": "Gujarat Titans Won by 5 wickets",
+  "innings_totals": {
+    "innings_1": 179.0,
+    "innings_1_sigma": 2.02,
+    "innings_2": 181.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "Elevated": 6
+    },
+    "2": {
+      "Normal": 5,
+      "High": 5,
+      "Elevated": 3
+    },
+    "3": {
+      "Normal": 8,
+      "Elevated": 4
+    },
+    "4": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "5": {
+      "Normal": 12
+    },
+    "6": {
+      "Normal": 12
+    },
+    "7": {
+      "Normal": 13
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 13
+    },
+    "11": {
+      "Normal": 13,
+      "Elevated": 1
+    },
+    "12": {
+      "Normal": 12
+    },
+    "13": {
+      "Normal": 11,
+      "Elevated": 2
+    },
+    "14": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "15": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "16": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "17": {
+      "Normal": 7,
+      "Elevated": 4,
+      "High": 2
+    },
+    "18": {
+      "Normal": 6,
+      "High": 3,
+      "Elevated": 3
+    },
+    "19": {
+      "Normal": 6,
+      "High": 4,
+      "Elevated": 2
+    },
+    "20": {
+      "Normal": 5,
+      "High": 4,
+      "Elevated": 2
+    }
+  },
+  "turning_point_count": 5
+}

@@ -1,0 +1,52 @@
+{
+  "gate": "G-G7",
+  "status": "FAIL",
+  "validated": false,
+  "summary": {
+    "overall": {
+      "n_matches": 136,
+      "coverage_80": 0.7868,
+      "mean_bias": 10.123,
+      "crps_sim": 22.7493,
+      "crps_base": 24.1769,
+      "crps_beats_baseline": true,
+      "gate_coverage_pass": true,
+      "gate_bias_pass": false
+    },
+    "IPL": {
+      "n_matches": 72,
+      "coverage_80": 0.8333,
+      "mean_bias": 7.499,
+      "crps_sim": 22.4582,
+      "crps_base": 23.8574,
+      "crps_beats_baseline": true,
+      "gate_coverage_pass": true,
+      "gate_bias_pass": false
+    },
+    "T20I": {
+      "n_matches": 64,
+      "coverage_80": 0.7344,
+      "mean_bias": 13.075,
+      "crps_sim": 23.0768,
+      "crps_base": 24.5363,
+      "crps_beats_baseline": true,
+      "gate_coverage_pass": true,
+      "gate_bias_pass": false
+    }
+  },
+  "pit_histogram_10_bins": [
+    19,
+    24,
+    12,
+    18,
+    11,
+    8,
+    12,
+    13,
+    9,
+    10
+  ],
+  "chase_calibration_slope": 1.135,
+  "chase_slope_pass": true,
+  "match_details_count": 136
+}

@@ -1,0 +1,45 @@
+{
+  "player_id": "2876",
+  "player_name": "Axar Patel",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 34.6,
+  "rating_ci90": [
+    12.02,
+    56.52
+  ],
+  "p_outperform": 0.1227,
+  "top10_inclusion_prob": 0.0,
+  "rank_ci90": [
+    60,
+    150
+  ],
+  "composite": -0.3207,
+  "components": {
+    "PV": {
+      "observed": -0.0681,
+      "adjusted": -0.0681,
+      "z_score": -0.0591,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.0822,
+      "adjusted": -0.0822,
+      "z_score": -0.1932,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.5156,
+      "adjusted": 0.5156,
+      "z_score": -0.7099,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 276,
+    "neff_pressure": 270.99,
+    "n_pressure_matches": 42
+  },
+  "explanation": "Axar Patel generated a pressure value of -6.81 runs/100 balls (Clutch Delta: -8.22) at a 146.7 strike rate with 42.9% consistency across 42 pressure matches (276 balls)."
+}

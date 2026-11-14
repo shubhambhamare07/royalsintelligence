@@ -1,0 +1,105 @@
+{
+  "player_id": "29080",
+  "player_name": "Muhammad Khan",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 0,
+    "runs": 19,
+    "balls": 12,
+    "average": 6.33,
+    "strike_rate": 158.33,
+    "highest_score": 11,
+    "fours": 1,
+    "sixes": 2,
+    "dots": 7,
+    "singles": 1,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3
+    }
+  },
+  "bowling": {
+    "matches": 4,
+    "legal_balls": 96,
+    "overs": 16.0,
+    "runs_charged": 168.0,
+    "wickets": 9,
+    "economy": 10.5,
+    "average": 18.67,
+    "strike_rate": 10.67,
+    "dot_pct": 28.04,
+    "boundary_pct": 19.63,
+    "wides": 10,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 6.0,
+        "runs": 67.0,
+        "wickets": 4,
+        "economy": 11.17
+      },
+      "middle": {
+        "overs": 9.0,
+        "runs": 83.0,
+        "wickets": 5,
+        "economy": 9.22
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 18.0,
+        "wickets": 0,
+        "economy": 18.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 45853,
+      "date": "2025-09-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "2/52 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45852,
+      "date": "2025-08-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "11 (7)",
+      "bowling_figures": "3/44 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 43171,
+      "date": "2025-05-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/36 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42784,
+      "date": "2025-05-19",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "8 (3)",
+      "bowling_figures": "2/36 (4.0)",
+      "pressure_balls": 4,
+      "pressure_value": 1.55
+    }
+  ]
+}

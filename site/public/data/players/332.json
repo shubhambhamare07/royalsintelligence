@@ -1,0 +1,156 @@
+{
+  "player_id": "332",
+  "player_name": "Angelo Mathews",
+  "batting": {
+    "matches": 7,
+    "innings": 7,
+    "not_outs": 3,
+    "runs": 206,
+    "balls": 150,
+    "average": 51.5,
+    "strike_rate": 137.33,
+    "highest_score": 66,
+    "fours": 17,
+    "sixes": 8,
+    "dots": 45,
+    "singles": 70,
+    "twos": 10,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 3,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "LBW": 1
+    }
+  },
+  "bowling": {
+    "matches": 9,
+    "legal_balls": 110,
+    "overs": 18.3,
+    "runs_charged": 152.0,
+    "wickets": 7,
+    "economy": 8.29,
+    "average": 21.71,
+    "strike_rate": 15.71,
+    "dot_pct": 41.23,
+    "boundary_pct": 18.42,
+    "wides": 3,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 1.2,
+        "runs": 26.0,
+        "wickets": 0,
+        "economy": 22.29
+      },
+      "middle": {
+        "overs": 1.0,
+        "runs": 11.0,
+        "wickets": 0,
+        "economy": 11.0
+      },
+      "powerplay": {
+        "overs": 16.2,
+        "runs": 115.0,
+        "wickets": 7,
+        "economy": 7.11
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 30343,
+      "date": "2024-03-09",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "10 (7)",
+      "bowling_figures": "0/4 (1.2)",
+      "pressure_balls": 10,
+      "pressure_value": 0.47
+    },
+    {
+      "match_id": 30342,
+      "date": "2024-03-06",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "32 (21)",
+      "bowling_figures": "0/22 (2.3)",
+      "pressure_balls": 19,
+      "pressure_value": -10.86
+    },
+    {
+      "match_id": 30341,
+      "date": "2024-03-04",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/17 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 29926,
+      "date": "2024-02-21",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "4 (5)",
+      "bowling_figures": "0/21 (2.0)",
+      "pressure_balls": 5,
+      "pressure_value": -4.3
+    },
+    {
+      "match_id": 29925,
+      "date": "2024-02-19",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "42 (22)",
+      "bowling_figures": "2/9 (2.0)",
+      "pressure_balls": 4,
+      "pressure_value": 21.62
+    },
+    {
+      "match_id": 29924,
+      "date": "2024-02-17",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "6 (6)",
+      "bowling_figures": "1/16 (2.0)",
+      "pressure_balls": 12,
+      "pressure_value": -4.61
+    },
+    {
+      "match_id": 28959,
+      "date": "2024-01-18",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/15 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28958,
+      "date": "2024-01-16",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "66 (51)",
+      "bowling_figures": "0/35 (1.8)",
+      "pressure_balls": 20,
+      "pressure_value": -10.58
+    },
+    {
+      "match_id": 28957,
+      "date": "2024-01-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "46 (38)",
+      "bowling_figures": "0/13 (2.0)",
+      "pressure_balls": 36,
+      "pressure_value": 6.3
+    }
+  ]
+}

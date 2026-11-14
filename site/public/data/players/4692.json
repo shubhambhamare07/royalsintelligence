@@ -1,0 +1,493 @@
+{
+  "player_id": "4692",
+  "player_name": "Lockie Ferguson",
+  "batting": {
+    "matches": 12,
+    "innings": 12,
+    "not_outs": 3,
+    "runs": 20,
+    "balls": 27,
+    "average": 2.22,
+    "strike_rate": 74.07,
+    "highest_score": 5,
+    "fours": 2,
+    "sixes": 0,
+    "dots": 14,
+    "singles": 10,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 5,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4,
+      "Bowled": 4,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 52,
+    "legal_balls": 1070,
+    "overs": 178.3,
+    "runs_charged": 1580.0,
+    "wickets": 59,
+    "economy": 8.86,
+    "average": 26.78,
+    "strike_rate": 18.14,
+    "dot_pct": 39.75,
+    "boundary_pct": 18.73,
+    "wides": 48,
+    "no_balls": 14,
+    "phase_splits": {
+      "death": {
+        "overs": 54.0,
+        "runs": 558.0,
+        "wickets": 16,
+        "economy": 10.33
+      },
+      "middle": {
+        "overs": 70.0,
+        "runs": 561.0,
+        "wickets": 23,
+        "economy": 8.01
+      },
+      "powerplay": {
+        "overs": 54.3,
+        "runs": 461.0,
+        "wickets": 20,
+        "economy": 8.48
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 62.84,
+    "tier": "Unproven",
+    "p_outperform": 0.739,
+    "pressure_value_per_6": 0.22,
+    "clutch_delta_per_6": -0.27,
+    "consistency": 0.4778
+  },
+  "recent_matches": [
+    {
+      "match_id": 54211,
+      "date": "2026-10-24",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/37 (3.0)",
+      "pressure_balls": 8,
+      "pressure_value": -2.58
+    },
+    {
+      "match_id": 54210,
+      "date": "2026-10-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/29 (3.0)",
+      "pressure_balls": 14,
+      "pressure_value": 8.05
+    },
+    {
+      "match_id": 50382,
+      "date": "2026-05-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/43 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50370,
+      "date": "2026-05-06",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/41 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50361,
+      "date": "2026-04-28",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/57 (4.0)",
+      "pressure_balls": 20,
+      "pressure_value": -18.21
+    },
+    {
+      "match_id": 49738,
+      "date": "2026-03-20",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/9 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 49737,
+      "date": "2026-03-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "3/16 (3.5)",
+      "pressure_balls": 12,
+      "pressure_value": 6.22
+    },
+    {
+      "match_id": 48595,
+      "date": "2026-01-31",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "3 (4)",
+      "bowling_figures": "2/41 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40720,
+      "date": "2025-04-12",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/1 (0.3)",
+      "pressure_balls": 2,
+      "pressure_value": 2.23
+    },
+    {
+      "match_id": 40715,
+      "date": "2025-04-08",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/39 (4.0)",
+      "pressure_balls": 8,
+      "pressure_value": 8.34
+    },
+    {
+      "match_id": 40711,
+      "date": "2025-04-05",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "4 (1)",
+      "bowling_figures": "2/36 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": 2.57
+    },
+    {
+      "match_id": 40706,
+      "date": "2025-04-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/25 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37895,
+      "date": "2024-11-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/7 (2.0)",
+      "pressure_balls": 3,
+      "pressure_value": -0.44
+    },
+    {
+      "match_id": 31290,
+      "date": "2024-05-22",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/37 (4.0)",
+      "pressure_balls": 10,
+      "pressure_value": -9.06
+    },
+    {
+      "match_id": 31286,
+      "date": "2024-05-18",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/39 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31280,
+      "date": "2024-05-12",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/23 (4.0)",
+      "pressure_balls": 8,
+      "pressure_value": 6.58
+    },
+    {
+      "match_id": 31276,
+      "date": "2024-05-09",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/29 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31259,
+      "date": "2024-04-25",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/28 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31254,
+      "date": "2024-04-21",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "1/47 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": -0.47
+    },
+    {
+      "match_id": 31248,
+      "date": "2024-04-15",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/52 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 29983,
+      "date": "2024-02-23",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "4 (7)",
+      "bowling_figures": "4/12 (3.8)",
+      "pressure_balls": 1,
+      "pressure_value": 3.15
+    },
+    {
+      "match_id": 29982,
+      "date": "2024-02-21",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/23 (4.0)",
+      "pressure_balls": 9,
+      "pressure_value": 8.36
+    },
+    {
+      "match_id": 28967,
+      "date": "2024-01-21",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "2/24 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28966,
+      "date": "2024-01-19",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/27 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28965,
+      "date": "2024-01-17",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/27 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 25159,
+      "date": "2023-09-01",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/43 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 25158,
+      "date": "2023-08-31",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "2 (1)",
+      "bowling_figures": "1/34 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20202,
+      "date": "2023-04-16",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/19 (1.7)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20199,
+      "date": "2023-04-14",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/33 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20193,
+      "date": "2023-04-09",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/40 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": -11.14
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 4692,
+      "player_name": "Lockie Ferguson",
+      "role": "bowler",
+      "match_id": 14114,
+      "n_balls": 21,
+      "match_runs_conceded": 41,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2276,
+      "career_expected_value": 0.5113,
+      "z_score": -6.32,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4692,
+      "player_name": "Lockie Ferguson",
+      "role": "bowler",
+      "match_id": 14128,
+      "n_balls": 12,
+      "match_runs_conceded": 9,
+      "match_wickets": 1,
+      "match_pressure_value": 0.8347,
+      "career_expected_value": 0.5113,
+      "z_score": 5.44,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4692,
+      "player_name": "Lockie Ferguson",
+      "role": "bowler",
+      "match_id": 31290,
+      "n_balls": 10,
+      "match_runs_conceded": 22,
+      "match_wickets": 0,
+      "match_pressure_value": 0.1832,
+      "career_expected_value": 0.5113,
+      "z_score": -5.04,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4692,
+      "player_name": "Lockie Ferguson",
+      "role": "bowler",
+      "match_id": 40715,
+      "n_balls": 8,
+      "match_runs_conceded": 6,
+      "match_wickets": 1,
+      "match_pressure_value": 0.8685,
+      "career_expected_value": 0.5113,
+      "z_score": 4.91,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4692,
+      "player_name": "Lockie Ferguson",
+      "role": "bowler",
+      "match_id": 29982,
+      "n_balls": 9,
+      "match_runs_conceded": 9,
+      "match_wickets": 1,
+      "match_pressure_value": 0.8026,
+      "career_expected_value": 0.5113,
+      "z_score": 4.25,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4692,
+      "player_name": "Lockie Ferguson",
+      "role": "bowler",
+      "match_id": 54210,
+      "n_balls": 14,
+      "match_runs_conceded": 17,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7266,
+      "career_expected_value": 0.5113,
+      "z_score": 3.91,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4692,
+      "player_name": "Lockie Ferguson",
+      "role": "bowler",
+      "match_id": 31280,
+      "n_balls": 8,
+      "match_runs_conceded": 9,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7866,
+      "career_expected_value": 0.5113,
+      "z_score": 3.78,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4692,
+      "player_name": "Lockie Ferguson",
+      "role": "bowler",
+      "match_id": 16685,
+      "n_balls": 5,
+      "match_runs_conceded": 1,
+      "match_wickets": 0,
+      "match_pressure_value": 0.1832,
+      "career_expected_value": 0.5113,
+      "z_score": -3.57,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4692,
+      "player_name": "Lockie Ferguson",
+      "role": "bowler",
+      "match_id": 14103,
+      "n_balls": 18,
+      "match_runs_conceded": 18,
+      "match_wickets": 4,
+      "match_pressure_value": 0.6755,
+      "career_expected_value": 0.5113,
+      "z_score": 3.39,
+      "direction": "positive"
+    }
+  ]
+}

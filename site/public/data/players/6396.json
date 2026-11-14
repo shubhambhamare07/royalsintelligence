@@ -1,0 +1,509 @@
+{
+  "player_id": "6396",
+  "player_name": "Tim David",
+  "batting": {
+    "matches": 93,
+    "innings": 93,
+    "not_outs": 34,
+    "runs": 2068,
+    "balls": 1169,
+    "average": 35.05,
+    "strike_rate": 176.9,
+    "highest_score": 102,
+    "fours": 138,
+    "sixes": 155,
+    "dots": 366,
+    "singles": 436,
+    "twos": 72,
+    "threes": 2,
+    "ducks": 8,
+    "thirties": 22,
+    "fifties": 6,
+    "hundreds": 1,
+    "dismissals_by_type": {
+      "Caught": 48,
+      "LBW": 5,
+      "Bowled": 4,
+      "RunOut": 2
+    }
+  },
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 6,
+    "overs": 1.0,
+    "runs_charged": 18.0,
+    "wickets": 0,
+    "economy": 18.0,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 16.67,
+    "boundary_pct": 50.0,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 1.0,
+        "runs": 18.0,
+        "wickets": 0,
+        "economy": 18.0
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 62.89,
+    "tier": "Promising",
+    "p_outperform": 0.8309,
+    "pressure_value_per_100": 19.06,
+    "clutch_delta_per_100": -8.79,
+    "consistency": 0.6201
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50599,
+      "date": "2026-06-21",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "12 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50598,
+      "date": "2026-06-19",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "45 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50597,
+      "date": "2026-06-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "20 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50945,
+      "date": "2026-05-31",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "24 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50942,
+      "date": "2026-05-26",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "4 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50388,
+      "date": "2026-05-22",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "15 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50382,
+      "date": "2026-05-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "28 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50378,
+      "date": "2026-05-13",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50375,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -4.66
+    },
+    {
+      "match_id": 50363,
+      "date": "2026-04-30",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "9 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50355,
+      "date": "2026-04-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "10 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": 0.61
+    },
+    {
+      "match_id": 50347,
+      "date": "2026-04-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "26 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50344,
+      "date": "2026-04-15",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "14 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50144,
+      "date": "2026-04-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "34 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50140,
+      "date": "2026-04-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "13 (9)",
+      "bowling_figures": "0/18 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50135,
+      "date": "2026-04-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "70 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": 1.75
+    },
+    {
+      "match_id": 50125,
+      "date": "2026-03-28",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "16 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41978,
+      "date": "2025-11-06",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "14 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": -2.07
+    },
+    {
+      "match_id": 41977,
+      "date": "2025-11-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "74 (38)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41976,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46312,
+      "date": "2025-10-04",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "3 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46310,
+      "date": "2025-10-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "21 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41971,
+      "date": "2025-08-16",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "17 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": 2.97
+    },
+    {
+      "match_id": 41970,
+      "date": "2025-08-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "50 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41969,
+      "date": "2025-08-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "83 (52)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": 14.9
+    },
+    {
+      "match_id": 41509,
+      "date": "2025-07-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "30 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": 7.78
+    },
+    {
+      "match_id": 41507,
+      "date": "2025-07-26",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "102 (37)",
+      "bowling_figures": null,
+      "pressure_balls": 15,
+      "pressure_value": 25.68
+    },
+    {
+      "match_id": 40757,
+      "date": "2025-05-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40745,
+      "date": "2025-05-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "2 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -2.89
+    },
+    {
+      "match_id": 40739,
+      "date": "2025-04-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "19 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 3.26
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 6396,
+      "player_name": "Tim David",
+      "role": "batter",
+      "match_id": 17764,
+      "n_balls": 18,
+      "match_runs": 27,
+      "match_pressure_value": 0.1658,
+      "career_expected_value": 0.4684,
+      "z_score": -6.25,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6396,
+      "player_name": "Tim David",
+      "role": "batter",
+      "match_id": 20196,
+      "n_balls": 10,
+      "match_runs": 13,
+      "match_pressure_value": 0.7925,
+      "career_expected_value": 0.4684,
+      "z_score": 4.98,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6396,
+      "player_name": "Tim David",
+      "role": "batter",
+      "match_id": 31269,
+      "n_balls": 12,
+      "match_runs": 19,
+      "match_pressure_value": 0.1863,
+      "career_expected_value": 0.4684,
+      "z_score": -4.75,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6396,
+      "player_name": "Tim David",
+      "role": "batter",
+      "match_id": 14159,
+      "n_balls": 18,
+      "match_runs": 46,
+      "match_pressure_value": 0.2449,
+      "career_expected_value": 0.4684,
+      "z_score": -4.61,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6396,
+      "player_name": "Tim David",
+      "role": "batter",
+      "match_id": 14137,
+      "n_balls": 6,
+      "match_runs": 17,
+      "match_pressure_value": 0.854,
+      "career_expected_value": 0.4684,
+      "z_score": 4.59,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6396,
+      "player_name": "Tim David",
+      "role": "batter",
+      "match_id": 50355,
+      "n_balls": 4,
+      "match_runs": 7,
+      "match_pressure_value": 0.9048,
+      "career_expected_value": 0.4684,
+      "z_score": 4.25,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6396,
+      "player_name": "Tim David",
+      "role": "batter",
+      "match_id": 20225,
+      "n_balls": 4,
+      "match_runs": 7,
+      "match_pressure_value": 0.8668,
+      "career_expected_value": 0.4684,
+      "z_score": 3.88,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6396,
+      "player_name": "Tim David",
+      "role": "batter",
+      "match_id": 30060,
+      "n_balls": 10,
+      "match_runs": 11,
+      "match_pressure_value": 0.6916,
+      "career_expected_value": 0.4684,
+      "z_score": 3.43,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6396,
+      "player_name": "Tim David",
+      "role": "batter",
+      "match_id": 27063,
+      "n_balls": 7,
+      "match_runs": 4,
+      "match_pressure_value": 0.2286,
+      "career_expected_value": 0.4684,
+      "z_score": -3.09,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6396,
+      "player_name": "Tim David",
+      "role": "batter",
+      "match_id": 20243,
+      "n_balls": 18,
+      "match_runs": 30,
+      "match_pressure_value": 0.3322,
+      "career_expected_value": 0.4684,
+      "z_score": -2.81,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6396,
+      "player_name": "Tim David",
+      "role": "batter",
+      "match_id": 40735,
+      "n_balls": 9,
+      "match_runs": 18,
+      "match_pressure_value": 0.6569,
+      "career_expected_value": 0.4684,
+      "z_score": 2.75,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6396,
+      "player_name": "Tim David",
+      "role": "batter",
+      "match_id": 20205,
+      "n_balls": 4,
+      "match_runs": 10,
+      "match_pressure_value": 0.7289,
+      "career_expected_value": 0.4684,
+      "z_score": 2.53,
+      "direction": "positive"
+    }
+  ]
+}

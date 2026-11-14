@@ -1,0 +1,145 @@
+{
+  "player_id": "20310",
+  "player_name": "Ahmed Daniyal",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 1,
+    "runs": 41,
+    "balls": 22,
+    "average": 20.5,
+    "strike_rate": 186.36,
+    "highest_score": 22,
+    "fours": 3,
+    "sixes": 3,
+    "dots": 5,
+    "singles": 11,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2
+    }
+  },
+  "bowling": {
+    "matches": 8,
+    "legal_balls": 171,
+    "overs": 28.5,
+    "runs_charged": 149.0,
+    "wickets": 10,
+    "economy": 5.23,
+    "average": 14.9,
+    "strike_rate": 17.1,
+    "dot_pct": 53.67,
+    "boundary_pct": 9.6,
+    "wides": 6,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 12.5,
+        "runs": 80.0,
+        "wickets": 5,
+        "economy": 6.4
+      },
+      "middle": {
+        "overs": 9.0,
+        "runs": 37.0,
+        "wickets": 3,
+        "economy": 4.11
+      },
+      "powerplay": {
+        "overs": 7.0,
+        "runs": 32.0,
+        "wickets": 2,
+        "economy": 4.57
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48029,
+      "date": "2025-11-23",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "2 (3)",
+      "bowling_figures": "2/11 (4.0)",
+      "pressure_balls": 17,
+      "pressure_value": 11.1
+    },
+    {
+      "match_id": 48028,
+      "date": "2025-11-21",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "22 (8)",
+      "bowling_figures": "1/26 (4.0)",
+      "pressure_balls": 15,
+      "pressure_value": 17.14
+    },
+    {
+      "match_id": 48023,
+      "date": "2025-11-18",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/7 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48020,
+      "date": "2025-11-16",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/21 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48015,
+      "date": "2025-11-14",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/35 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 44267,
+      "date": "2025-07-24",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/16 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 44266,
+      "date": "2025-07-22",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "17 (11)",
+      "bowling_figures": "2/23 (4.0)",
+      "pressure_balls": 5,
+      "pressure_value": 2.78
+    },
+    {
+      "match_id": 37095,
+      "date": "2024-10-23",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/10 (3.5)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

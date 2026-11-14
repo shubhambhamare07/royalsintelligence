@@ -1,0 +1,98 @@
+{
+  "match_id": 21584,
+  "competition_kind": "IPL",
+  "calendar_year": 2023,
+  "result": "Mumbai Indians won by 81 runs",
+  "innings_totals": {
+    "innings_1": 179.2,
+    "innings_1_sigma": 1.91,
+    "innings_2": 98.7
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 6
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 8,
+      "High": 4
+    },
+    "5": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "6": {
+      "High": 7,
+      "Normal": 6
+    },
+    "7": {
+      "High": 7,
+      "Normal": 6
+    },
+    "8": {
+      "Normal": 6,
+      "High": 6
+    },
+    "9": {
+      "Normal": 6,
+      "High": 4,
+      "Elevated": 2
+    },
+    "10": {
+      "Normal": 8,
+      "Elevated": 4
+    },
+    "11": {
+      "Normal": 13
+    },
+    "12": {
+      "Normal": 12
+    },
+    "13": {
+      "Normal": 12
+    },
+    "14": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "15": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "16": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "17": {
+      "Elevated": 7,
+      "Normal": 3,
+      "High": 1
+    },
+    "18": {
+      "High": 6,
+      "Elevated": 3
+    },
+    "19": {
+      "High": 6
+    },
+    "20": {
+      "High": 6
+    }
+  },
+  "turning_point_count": 5
+}

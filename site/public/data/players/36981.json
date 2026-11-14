@@ -1,0 +1,51 @@
+{
+  "player_id": "36981",
+  "player_name": "Himanshu Sharma",
+  "batting": null,
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 30,
+    "overs": 5.0,
+    "runs_charged": 57.0,
+    "wickets": 0,
+    "economy": 11.4,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 13.33,
+    "boundary_pct": 26.67,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 5.0,
+        "runs": 57.0,
+        "wickets": 0,
+        "economy": 11.4
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 30074,
+      "date": "2024-04-06",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/29 (2.0)",
+      "pressure_balls": 3,
+      "pressure_value": -3.25
+    },
+    {
+      "match_id": 20250,
+      "date": "2023-05-21",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/28 (3.0)",
+      "pressure_balls": 18,
+      "pressure_value": -6.56
+    }
+  ]
+}

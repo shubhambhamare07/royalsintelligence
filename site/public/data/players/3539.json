@@ -1,0 +1,93 @@
+{
+  "player_id": "3539",
+  "player_name": "Ben McDermott",
+  "batting": {
+    "matches": 6,
+    "innings": 6,
+    "not_outs": 0,
+    "runs": 103,
+    "balls": 97,
+    "average": 17.17,
+    "strike_rate": 106.19,
+    "highest_score": 54,
+    "fours": 5,
+    "sixes": 5,
+    "dots": 42,
+    "singles": 38,
+    "twos": 6,
+    "threes": 1,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 5,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 27064,
+      "date": "2023-12-03",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "54 (36)",
+      "bowling_figures": null,
+      "pressure_balls": 36,
+      "pressure_value": 18.41
+    },
+    {
+      "match_id": 27063,
+      "date": "2023-12-01",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "19 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 13,
+      "pressure_value": -5.37
+    },
+    {
+      "match_id": 13616,
+      "date": "2022-02-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "3 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13615,
+      "date": "2022-02-18",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "9 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13614,
+      "date": "2022-02-15",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13613,
+      "date": "2022-02-13",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "18 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

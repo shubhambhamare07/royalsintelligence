@@ -1,0 +1,185 @@
+{
+  "player_id": "56685",
+  "player_name": "Abdullah Ahmadzai",
+  "batting": {
+    "matches": 4,
+    "innings": 4,
+    "not_outs": 1,
+    "runs": 7,
+    "balls": 14,
+    "average": 2.33,
+    "strike_rate": 50.0,
+    "highest_score": 6,
+    "fours": 1,
+    "sixes": 0,
+    "dots": 10,
+    "singles": 3,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 2,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3
+    }
+  },
+  "bowling": {
+    "matches": 12,
+    "legal_balls": 223,
+    "overs": 37.2,
+    "runs_charged": 350.0,
+    "wickets": 16,
+    "economy": 9.42,
+    "average": 21.88,
+    "strike_rate": 13.94,
+    "dot_pct": 34.04,
+    "boundary_pct": 18.3,
+    "wides": 10,
+    "no_balls": 2,
+    "phase_splits": {
+      "death": {
+        "overs": 9.7,
+        "runs": 95.0,
+        "wickets": 6,
+        "economy": 9.83
+      },
+      "middle": {
+        "overs": 25.5,
+        "runs": 239.0,
+        "wickets": 9,
+        "economy": 9.37
+      },
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 16.0,
+        "wickets": 1,
+        "economy": 8.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 55561,
+      "date": "2026-11-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/18 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 55560,
+      "date": "2026-10-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/34 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54410,
+      "date": "2026-09-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "6 (8)",
+      "bowling_figures": "1/38 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48598,
+      "date": "2026-01-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/30 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48022,
+      "date": "2025-11-17",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "0 (3)",
+      "bowling_figures": "0/21 (1.5)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48018,
+      "date": "2025-11-15",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "1/30 (4.0)",
+      "pressure_balls": 2,
+      "pressure_value": -1.54
+    },
+    {
+      "match_id": 47262,
+      "date": "2025-11-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "3/42 (4.0)",
+      "pressure_balls": 14,
+      "pressure_value": 6.83
+    },
+    {
+      "match_id": 47261,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/28 (3.5)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47260,
+      "date": "2025-10-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/20 (2.2)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46755,
+      "date": "2025-10-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "1/50 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46754,
+      "date": "2025-10-03",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/8 (1.0)",
+      "pressure_balls": 6,
+      "pressure_value": -3.83
+    },
+    {
+      "match_id": 45856,
+      "date": "2025-09-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/31 (3.0)",
+      "pressure_balls": 18,
+      "pressure_value": -4.42
+    }
+  ]
+}

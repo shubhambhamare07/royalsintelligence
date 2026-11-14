@@ -1,0 +1,42 @@
+{
+  "player_id": "60700",
+  "player_name": "Ravi Singh",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 4,
+    "balls": 2,
+    "average": 4.0,
+    "strike_rate": 200.0,
+    "highest_score": 4,
+    "fours": 1,
+    "sixes": 0,
+    "dots": 1,
+    "singles": 0,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50383,
+      "date": "2026-05-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "4 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

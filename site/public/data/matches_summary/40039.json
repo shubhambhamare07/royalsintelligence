@@ -1,0 +1,110 @@
+{
+  "match_id": 40039,
+  "competition_kind": "T20I",
+  "calendar_year": 2025,
+  "result": "India Won by 15 runs",
+  "innings_totals": {
+    "innings_1": 180.2,
+    "innings_1_sigma": 3.39,
+    "innings_2": 163.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.39
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 7,
+      "Elevated": 3,
+      "High": 3
+    },
+    "2": {
+      "Normal": 6,
+      "High": 6
+    },
+    "3": {
+      "Normal": 6,
+      "High": 6
+    },
+    "4": {
+      "Normal": 6,
+      "High": 6
+    },
+    "5": {
+      "Normal": 6,
+      "High": 5,
+      "Extreme": 1
+    },
+    "6": {
+      "Normal": 6,
+      "High": 6
+    },
+    "7": {
+      "High": 7,
+      "Normal": 6
+    },
+    "8": {
+      "Normal": 6,
+      "High": 3,
+      "Elevated": 3
+    },
+    "9": {
+      "Normal": 7,
+      "High": 4,
+      "Elevated": 2
+    },
+    "10": {
+      "Normal": 6,
+      "High": 6
+    },
+    "11": {
+      "Normal": 7,
+      "High": 6
+    },
+    "12": {
+      "Normal": 6,
+      "High": 6
+    },
+    "13": {
+      "Normal": 6,
+      "High": 6
+    },
+    "14": {
+      "Elevated": 4,
+      "High": 4,
+      "Normal": 2,
+      "Extreme": 2
+    },
+    "15": {
+      "Elevated": 7,
+      "Extreme": 6
+    },
+    "16": {
+      "Elevated": 8,
+      "Extreme": 4,
+      "High": 1
+    },
+    "17": {
+      "Elevated": 6,
+      "Normal": 4,
+      "High": 2
+    },
+    "18": {
+      "Normal": 11,
+      "Elevated": 3
+    },
+    "19": {
+      "Elevated": 7,
+      "High": 3,
+      "Extreme": 2
+    },
+    "20": {
+      "Normal": 7,
+      "Elevated": 3
+    }
+  },
+  "turning_point_count": 5
+}

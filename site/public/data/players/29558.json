@@ -1,0 +1,116 @@
+{
+  "player_id": "29558",
+  "player_name": "Muhammad Arfan",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 2,
+    "runs": 77,
+    "balls": 69,
+    "average": 25.67,
+    "strike_rate": 111.59,
+    "highest_score": 26,
+    "fours": 7,
+    "sixes": 1,
+    "dots": 26,
+    "singles": 29,
+    "twos": 4,
+    "threes": 2,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 2,
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 5,
+    "legal_balls": 102,
+    "overs": 17.0,
+    "runs_charged": 132.0,
+    "wickets": 5,
+    "economy": 7.76,
+    "average": 26.4,
+    "strike_rate": 20.4,
+    "dot_pct": 34.86,
+    "boundary_pct": 12.84,
+    "wides": 7,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 6.0,
+        "runs": 57.0,
+        "wickets": 1,
+        "economy": 9.5
+      },
+      "middle": {
+        "overs": 8.0,
+        "runs": 55.0,
+        "wickets": 3,
+        "economy": 6.88
+      },
+      "powerplay": {
+        "overs": 3.0,
+        "runs": 20.0,
+        "wickets": 1,
+        "economy": 6.67
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48467,
+      "date": "2026-01-31",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "26 (18)",
+      "bowling_figures": "2/23 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48466,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "15 (14)",
+      "bowling_figures": "1/20 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48023,
+      "date": "2025-11-18",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "0 (6)",
+      "bowling_figures": "0/14 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48019,
+      "date": "2025-11-16",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "10 (5)",
+      "bowling_figures": "1/18 (4.0)",
+      "pressure_balls": 22,
+      "pressure_value": 10.52
+    },
+    {
+      "match_id": 48016,
+      "date": "2025-11-14",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "26 (26)",
+      "bowling_figures": "1/57 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

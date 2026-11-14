@@ -1,0 +1,45 @@
+{
+  "player_id": "2490",
+  "player_name": "Mohammad Nawaz",
+  "role": "batter",
+  "tier": "Promising",
+  "rating": 70.54,
+  "rating_ci90": [
+    46.83,
+    94.7
+  ],
+  "p_outperform": 0.9231,
+  "top10_inclusion_prob": 0.1969,
+  "rank_ci90": [
+    4,
+    87
+  ],
+  "composite": 0.7657,
+  "components": {
+    "PV": {
+      "observed": 0.1228,
+      "adjusted": 0.1228,
+      "z_score": 1.0125,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": 0.0778,
+      "adjusted": 0.0778,
+      "z_score": 0.655,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.638,
+      "adjusted": 0.638,
+      "z_score": 0.6297,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 156,
+    "neff_pressure": 156.0,
+    "n_pressure_matches": 21
+  },
+  "explanation": "Mohammad Nawaz generated a pressure value of +12.28 runs/100 balls (Clutch Delta: +7.78) at a 170.5 strike rate with 80.0% consistency across 21 pressure matches (156 balls)."
+}

@@ -1,0 +1,507 @@
+{
+  "player_id": "3644",
+  "player_name": "Kuldeep Yadav",
+  "batting": {
+    "matches": 37,
+    "innings": 37,
+    "not_outs": 22,
+    "runs": 157,
+    "balls": 201,
+    "average": 10.47,
+    "strike_rate": 78.11,
+    "highest_score": 35,
+    "fours": 13,
+    "sixes": 3,
+    "dots": 106,
+    "singles": 71,
+    "twos": 8,
+    "threes": 0,
+    "ducks": 6,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 6,
+      "RunOut": 3,
+      "LBW": 3,
+      "Bowled": 3
+    }
+  },
+  "bowling": {
+    "matches": 88,
+    "legal_balls": 1896,
+    "overs": 316.0,
+    "runs_charged": 2530.0,
+    "wickets": 117,
+    "economy": 8.01,
+    "average": 21.62,
+    "strike_rate": 16.21,
+    "dot_pct": 33.03,
+    "boundary_pct": 13.87,
+    "wides": 48,
+    "no_balls": 3,
+    "phase_splits": {
+      "death": {
+        "overs": 47.7,
+        "runs": 402.0,
+        "wickets": 25,
+        "economy": 8.43
+      },
+      "middle": {
+        "overs": 266.3,
+        "runs": 2106.0,
+        "wickets": 92,
+        "economy": 7.91
+      },
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 22.0,
+        "wickets": 0,
+        "economy": 11.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 72.91,
+    "tier": "Promising",
+    "p_outperform": 0.8263,
+    "pressure_value_per_6": 0.06,
+    "clutch_delta_per_6": -0.03,
+    "consistency": 0.5433
+  },
+  "recent_matches": [
+    {
+      "match_id": 50405,
+      "date": "2026-10-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/53 (4.0)",
+      "pressure_balls": 13,
+      "pressure_value": -13.61
+    },
+    {
+      "match_id": 50404,
+      "date": "2026-10-06",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/33 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50391,
+      "date": "2026-05-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "3/28 (4.0)",
+      "pressure_balls": 18,
+      "pressure_value": 14.28
+    },
+    {
+      "match_id": 50372,
+      "date": "2026-05-08",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/41 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50369,
+      "date": "2026-05-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/34 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50364,
+      "date": "2026-05-01",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/41 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50360,
+      "date": "2026-04-27",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "3 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50356,
+      "date": "2026-04-25",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/46 (4.0)",
+      "pressure_balls": 25,
+      "pressure_value": -8.52
+    },
+    {
+      "match_id": 50352,
+      "date": "2026-04-21",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "0/30 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50347,
+      "date": "2026-04-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/32 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50142,
+      "date": "2026-04-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "4 (7)",
+      "bowling_figures": "0/24 (2.0)",
+      "pressure_balls": 1,
+      "pressure_value": -1.33
+    },
+    {
+      "match_id": 50138,
+      "date": "2026-04-08",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "1/42 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": -0.77
+    },
+    {
+      "match_id": 50132,
+      "date": "2026-04-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/31 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50129,
+      "date": "2026-04-01",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/31 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48594,
+      "date": "2026-01-28",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (3)",
+      "bowling_figures": "2/39 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48593,
+      "date": "2026-01-25",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/32 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48592,
+      "date": "2026-01-23",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/35 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42029,
+      "date": "2025-12-14",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/12 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41976,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (6)",
+      "bowling_figures": "2/45 (3.3)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45513,
+      "date": "2025-09-28",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "4/30 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45512,
+      "date": "2025-09-26",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 23,
+      "pressure_value": -7.72
+    },
+    {
+      "match_id": 45510,
+      "date": "2025-09-24",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "3/18 (4.0)",
+      "pressure_balls": 13,
+      "pressure_value": 1.83
+    },
+    {
+      "match_id": 45508,
+      "date": "2025-09-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45506,
+      "date": "2025-09-19",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (3)",
+      "bowling_figures": "1/23 (3.0)",
+      "pressure_balls": 16,
+      "pressure_value": -0.82
+    },
+    {
+      "match_id": 45500,
+      "date": "2025-09-14",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "3/18 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45496,
+      "date": "2025-09-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "4/7 (2.2)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 43057,
+      "date": "2025-05-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/39 (4.0)",
+      "pressure_balls": 3,
+      "pressure_value": 4.22
+    },
+    {
+      "match_id": 40759,
+      "date": "2025-05-21",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "7 (8)",
+      "bowling_figures": "1/22 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40755,
+      "date": "2025-05-18",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/37 (4.0)",
+      "pressure_balls": 13,
+      "pressure_value": 3.42
+    },
+    {
+      "match_id": 40751,
+      "date": "2025-05-08",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/29 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 3644,
+      "player_name": "Kuldeep Yadav",
+      "role": "bowler",
+      "match_id": 40725,
+      "n_balls": 22,
+      "match_runs_conceded": 33,
+      "match_wickets": 1,
+      "match_pressure_value": 0.2544,
+      "career_expected_value": 0.4999,
+      "z_score": -5.6,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3644,
+      "player_name": "Kuldeep Yadav",
+      "role": "bowler",
+      "match_id": 28962,
+      "n_balls": 12,
+      "match_runs_conceded": 19,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7935,
+      "career_expected_value": 0.4999,
+      "z_score": 4.94,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3644,
+      "player_name": "Kuldeep Yadav",
+      "role": "bowler",
+      "match_id": 31274,
+      "n_balls": 6,
+      "match_runs_conceded": 4,
+      "match_wickets": 2,
+      "match_pressure_value": 0.8999,
+      "career_expected_value": 0.4999,
+      "z_score": 4.76,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3644,
+      "player_name": "Kuldeep Yadav",
+      "role": "bowler",
+      "match_id": 31258,
+      "n_balls": 11,
+      "match_runs_conceded": 11,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7891,
+      "career_expected_value": 0.4999,
+      "z_score": 4.66,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3644,
+      "player_name": "Kuldeep Yadav",
+      "role": "bowler",
+      "match_id": 20187,
+      "n_balls": 17,
+      "match_runs_conceded": 16,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2871,
+      "career_expected_value": 0.4999,
+      "z_score": -4.26,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3644,
+      "player_name": "Kuldeep Yadav",
+      "role": "bowler",
+      "match_id": 45510,
+      "n_balls": 13,
+      "match_runs_conceded": 9,
+      "match_wickets": 1,
+      "match_pressure_value": 0.6996,
+      "career_expected_value": 0.4999,
+      "z_score": 3.5,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3644,
+      "player_name": "Kuldeep Yadav",
+      "role": "bowler",
+      "match_id": 40755,
+      "n_balls": 13,
+      "match_runs_conceded": 17,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3077,
+      "career_expected_value": 0.4999,
+      "z_score": -3.37,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3644,
+      "player_name": "Kuldeep Yadav",
+      "role": "bowler",
+      "match_id": 45506,
+      "n_balls": 16,
+      "match_runs_conceded": 22,
+      "match_wickets": 1,
+      "match_pressure_value": 0.6694,
+      "career_expected_value": 0.4999,
+      "z_score": 3.3,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3644,
+      "player_name": "Kuldeep Yadav",
+      "role": "bowler",
+      "match_id": 24354,
+      "n_balls": 6,
+      "match_runs_conceded": 2,
+      "match_wickets": 0,
+      "match_pressure_value": 0.249,
+      "career_expected_value": 0.4999,
+      "z_score": -2.99,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3644,
+      "player_name": "Kuldeep Yadav",
+      "role": "bowler",
+      "match_id": 30057,
+      "n_balls": 10,
+      "match_runs_conceded": 8,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3081,
+      "career_expected_value": 0.4999,
+      "z_score": -2.95,
+      "direction": "negative"
+    }
+  ]
+}

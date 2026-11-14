@@ -1,0 +1,131 @@
+{
+  "player_id": "17911",
+  "player_name": "Nangeyalia Kharote",
+  "batting": {
+    "matches": 6,
+    "innings": 6,
+    "not_outs": 1,
+    "runs": 19,
+    "balls": 37,
+    "average": 3.8,
+    "strike_rate": 51.35,
+    "highest_score": 15,
+    "fours": 1,
+    "sixes": 0,
+    "dots": 22,
+    "singles": 13,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 4,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "Bowled": 1,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 7,
+    "legal_balls": 138,
+    "overs": 23.0,
+    "runs_charged": 152.0,
+    "wickets": 5,
+    "economy": 6.61,
+    "average": 30.4,
+    "strike_rate": 27.6,
+    "dot_pct": 40.71,
+    "boundary_pct": 12.86,
+    "wides": 2,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 18.0,
+        "runs": 114.0,
+        "wickets": 4,
+        "economy": 6.33
+      },
+      "powerplay": {
+        "overs": 5.0,
+        "runs": 38.0,
+        "wickets": 1,
+        "economy": 7.6
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48022,
+      "date": "2025-11-17",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "0 (4)",
+      "bowling_figures": "0/29 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48018,
+      "date": "2025-11-15",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "15 (20)",
+      "bowling_figures": "0/16 (3.0)",
+      "pressure_balls": 19,
+      "pressure_value": 0.81
+    },
+    {
+      "match_id": 37093,
+      "date": "2024-10-22",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/18 (3.0)",
+      "pressure_balls": 18,
+      "pressure_value": -10.6
+    },
+    {
+      "match_id": 37086,
+      "date": "2024-10-18",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/24 (2.0)",
+      "pressure_balls": 13,
+      "pressure_value": -15.9
+    },
+    {
+      "match_id": 30730,
+      "date": "2024-03-19",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/26 (3.0)",
+      "pressure_balls": 2,
+      "pressure_value": -0.06
+    },
+    {
+      "match_id": 30729,
+      "date": "2024-03-17",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "4 (10)",
+      "bowling_figures": "2/23 (4.0)",
+      "pressure_balls": 13,
+      "pressure_value": 8.94
+    },
+    {
+      "match_id": 30728,
+      "date": "2024-03-15",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "2/16 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

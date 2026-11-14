@@ -1,0 +1,393 @@
+{
+  "player_id": "4007",
+  "player_name": "Ryan Rickelton",
+  "batting": {
+    "matches": 42,
+    "innings": 42,
+    "not_outs": 4,
+    "runs": 1297,
+    "balls": 818,
+    "average": 34.13,
+    "strike_rate": 158.56,
+    "highest_score": 123,
+    "fours": 116,
+    "sixes": 77,
+    "dots": 309,
+    "singles": 263,
+    "twos": 51,
+    "threes": 2,
+    "ducks": 0,
+    "thirties": 7,
+    "fifties": 8,
+    "hundreds": 1,
+    "dismissals_by_type": {
+      "Caught": 30,
+      "Bowled": 5,
+      "Stump": 1,
+      "LBW": 1,
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 63.23,
+    "tier": "Promising",
+    "p_outperform": 0.8038,
+    "pressure_value_per_100": 5.23,
+    "clutch_delta_per_100": 6.09,
+    "consistency": 0.6217
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50390,
+      "date": "2026-05-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "12 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 0.99
+    },
+    {
+      "match_id": 50386,
+      "date": "2026-05-20",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "6 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50379,
+      "date": "2026-05-14",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "48 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 23,
+      "pressure_value": 9.57
+    },
+    {
+      "match_id": 50375,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50368,
+      "date": "2026-05-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "83 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 22,
+      "pressure_value": 20.01
+    },
+    {
+      "match_id": 50365,
+      "date": "2026-05-02",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "37 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50362,
+      "date": "2026-04-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "123 (55)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50345,
+      "date": "2026-04-16",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50144,
+      "date": "2026-04-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "37 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -8.47
+    },
+    {
+      "match_id": 50132,
+      "date": "2026-04-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "9 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50126,
+      "date": "2026-03-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "81 (43)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": 19.97
+    },
+    {
+      "match_id": 41850,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "77 (36)",
+      "bowling_figures": null,
+      "pressure_balls": 16,
+      "pressure_value": 10.95
+    },
+    {
+      "match_id": 41849,
+      "date": "2026-01-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "40 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 36209,
+      "date": "2025-09-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "20 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41971,
+      "date": "2025-08-16",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "13 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41970,
+      "date": "2025-08-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "14 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41969,
+      "date": "2025-08-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "71 (55)",
+      "bowling_figures": null,
+      "pressure_balls": 28,
+      "pressure_value": 6.86
+    },
+    {
+      "match_id": 40754,
+      "date": "2025-05-26",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "27 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40759,
+      "date": "2025-05-21",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "25 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40743,
+      "date": "2025-05-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "61 (38)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": 6.82
+    },
+    {
+      "match_id": 40738,
+      "date": "2025-04-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "58 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40734,
+      "date": "2025-04-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "11 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40731,
+      "date": "2025-04-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "24 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 3.64
+    },
+    {
+      "match_id": 40726,
+      "date": "2025-04-17",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "31 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40722,
+      "date": "2025-04-13",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "41 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40714,
+      "date": "2025-04-07",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "17 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40709,
+      "date": "2025-04-04",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "10 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -17.51
+    },
+    {
+      "match_id": 40705,
+      "date": "2025-03-31",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "62 (41)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40702,
+      "date": "2025-03-29",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "6 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 11,
+      "pressure_value": -9.96
+    },
+    {
+      "match_id": 40696,
+      "date": "2025-03-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "13 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 4007,
+      "player_name": "Ryan Rickelton",
+      "role": "batter",
+      "match_id": 50144,
+      "n_balls": 9,
+      "match_runs": 8,
+      "match_pressure_value": 0.1907,
+      "career_expected_value": 0.4538,
+      "z_score": -3.84,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4007,
+      "player_name": "Ryan Rickelton",
+      "role": "batter",
+      "match_id": 50379,
+      "n_balls": 23,
+      "match_runs": 48,
+      "match_pressure_value": 0.6015,
+      "career_expected_value": 0.4538,
+      "z_score": 3.44,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4007,
+      "player_name": "Ryan Rickelton",
+      "role": "batter",
+      "match_id": 37015,
+      "n_balls": 14,
+      "match_runs": 28,
+      "match_pressure_value": 0.2863,
+      "career_expected_value": 0.4538,
+      "z_score": -3.05,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4007,
+      "player_name": "Ryan Rickelton",
+      "role": "batter",
+      "match_id": 50126,
+      "n_balls": 17,
+      "match_runs": 44,
+      "match_pressure_value": 0.5802,
+      "career_expected_value": 0.4538,
+      "z_score": 2.53,
+      "direction": "positive"
+    }
+  ]
+}

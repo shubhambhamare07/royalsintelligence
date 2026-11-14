@@ -1,0 +1,53 @@
+{
+  "player_id": "28788",
+  "player_name": "Tanish Suri",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 48,
+    "balls": 41,
+    "average": 24.0,
+    "strike_rate": 117.07,
+    "highest_score": 33,
+    "fours": 5,
+    "sixes": 2,
+    "dots": 20,
+    "singles": 12,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Stump": 1,
+      "Caught": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 37095,
+      "date": "2024-10-23",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "15 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37087,
+      "date": "2024-10-19",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "33 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": 13.17
+    }
+  ]
+}

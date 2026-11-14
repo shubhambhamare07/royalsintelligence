@@ -1,0 +1,113 @@
+{
+  "match_id": 16659,
+  "competition_kind": "T20I",
+  "calendar_year": 2022,
+  "result": "Sri Lanka Won by 4 Wickets",
+  "innings_totals": {
+    "innings_1": 174.6,
+    "innings_1_sigma": 3.6,
+    "innings_2": 179.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "High": 7,
+      "Normal": 5,
+      "Elevated": 1
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 3,
+      "Extreme": 3
+    },
+    "5": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "6": {
+      "Normal": 6,
+      "High": 6
+    },
+    "7": {
+      "High": 7,
+      "Normal": 6
+    },
+    "8": {
+      "Normal": 6,
+      "High": 6
+    },
+    "9": {
+      "Normal": 7,
+      "High": 6
+    },
+    "10": {
+      "Normal": 6,
+      "High": 6
+    },
+    "11": {
+      "Extreme": 6,
+      "Normal": 5,
+      "Elevated": 1
+    },
+    "12": {
+      "Elevated": 6,
+      "Extreme": 4,
+      "Normal": 2,
+      "High": 2
+    },
+    "13": {
+      "Elevated": 6,
+      "Extreme": 6,
+      "Normal": 1
+    },
+    "14": {
+      "Normal": 7,
+      "Extreme": 6
+    },
+    "15": {
+      "Extreme": 7,
+      "Normal": 6
+    },
+    "16": {
+      "Normal": 4,
+      "Extreme": 3,
+      "High": 3,
+      "Elevated": 2
+    },
+    "17": {
+      "Elevated": 6,
+      "Normal": 3,
+      "High": 2,
+      "Extreme": 1
+    },
+    "18": {
+      "Elevated": 8,
+      "High": 3,
+      "Normal": 2
+    },
+    "19": {
+      "Normal": 6,
+      "Elevated": 3,
+      "High": 3
+    },
+    "20": {
+      "High": 6,
+      "Normal": 1
+    }
+  },
+  "turning_point_count": 5
+}

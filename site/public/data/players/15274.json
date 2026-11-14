@@ -1,0 +1,62 @@
+{
+  "player_id": "15274",
+  "player_name": "Ravija Sandaruwan",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 0,
+    "runs": 68,
+    "balls": 46,
+    "average": 22.67,
+    "strike_rate": 147.83,
+    "highest_score": 34,
+    "fours": 4,
+    "sixes": 5,
+    "dots": 17,
+    "singles": 18,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16867,
+      "date": "2022-08-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "28 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16865,
+      "date": "2022-08-23",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "6 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16863,
+      "date": "2022-08-21",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "34 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 25,
+      "pressure_value": 6.76
+    }
+  ]
+}

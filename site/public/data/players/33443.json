@@ -1,0 +1,67 @@
+{
+  "player_id": "33443",
+  "player_name": "Sabir Ali",
+  "batting": null,
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 48,
+    "overs": 8.0,
+    "runs_charged": 70.0,
+    "wickets": 3,
+    "economy": 8.75,
+    "average": 23.33,
+    "strike_rate": 16.0,
+    "dot_pct": 46.15,
+    "boundary_pct": 21.15,
+    "wides": 3,
+    "no_balls": 1,
+    "phase_splits": {
+      "middle": {
+        "overs": 1.0,
+        "runs": 13.0,
+        "wickets": 1,
+        "economy": 13.0
+      },
+      "powerplay": {
+        "overs": 7.0,
+        "runs": 57.0,
+        "wickets": 2,
+        "economy": 8.14
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 17632,
+      "date": "2022-09-27",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/36 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17631,
+      "date": "2022-09-25",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/16 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16864,
+      "date": "2022-08-22",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/18 (2.0)",
+      "pressure_balls": 12,
+      "pressure_value": 0.59
+    }
+  ]
+}

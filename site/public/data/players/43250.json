@@ -1,0 +1,53 @@
+{
+  "player_id": "43250",
+  "player_name": "Dilpreet Singh Bajwa",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 61,
+    "balls": 53,
+    "average": 30.5,
+    "strike_rate": 115.09,
+    "highest_score": 56,
+    "fours": 7,
+    "sixes": 2,
+    "dots": 25,
+    "singles": 17,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 1,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 35428,
+      "date": "2024-08-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "56 (41)",
+      "bowling_figures": null,
+      "pressure_balls": 31,
+      "pressure_value": 11.64
+    },
+    {
+      "match_id": 35423,
+      "date": "2024-08-23",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "5 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

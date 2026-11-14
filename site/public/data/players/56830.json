@@ -1,0 +1,109 @@
+{
+  "player_id": "56830",
+  "player_name": "Madhav Tiwari",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 1,
+    "runs": 21,
+    "balls": 12,
+    "average": 21.0,
+    "strike_rate": 175.0,
+    "highest_score": 18,
+    "fours": 2,
+    "sixes": 1,
+    "dots": 3,
+    "singles": 5,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 1
+    }
+  },
+  "bowling": {
+    "matches": 4,
+    "legal_balls": 66,
+    "overs": 11.0,
+    "runs_charged": 101.0,
+    "wickets": 4,
+    "economy": 9.18,
+    "average": 25.25,
+    "strike_rate": 16.5,
+    "dot_pct": 26.67,
+    "boundary_pct": 16.0,
+    "wides": 9,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 22.0,
+        "wickets": 2,
+        "economy": 11.0
+      },
+      "middle": {
+        "overs": 9.0,
+        "runs": 79.0,
+        "wickets": 2,
+        "economy": 8.78
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50391,
+      "date": "2026-05-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/20 (2.0)",
+      "pressure_balls": 15,
+      "pressure_value": -1.07
+    },
+    {
+      "match_id": 50383,
+      "date": "2026-05-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/27 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50376,
+      "date": "2026-05-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "18 (8)",
+      "bowling_figures": "2/40 (4.0)",
+      "pressure_balls": 10,
+      "pressure_value": 3.59
+    },
+    {
+      "match_id": 40759,
+      "date": "2025-05-21",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "3 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40751,
+      "date": "2025-05-08",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/14 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

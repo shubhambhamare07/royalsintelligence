@@ -1,0 +1,108 @@
+{
+  "match_id": 20243,
+  "competition_kind": "IPL",
+  "calendar_year": 2023,
+  "result": "Lucknow Super Giants won by 5 runs",
+  "innings_totals": {
+    "innings_1": 177.9,
+    "innings_1_sigma": 1.91,
+    "innings_2": 172.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 6
+    },
+    "2": {
+      "High": 7,
+      "Elevated": 6
+    },
+    "3": {
+      "High": 6,
+      "Normal": 4,
+      "Elevated": 2
+    },
+    "4": {
+      "High": 7,
+      "Normal": 6
+    },
+    "5": {
+      "Normal": 6,
+      "High": 6
+    },
+    "6": {
+      "Normal": 6,
+      "High": 6,
+      "Elevated": 1
+    },
+    "7": {
+      "Normal": 7,
+      "Elevated": 5
+    },
+    "8": {
+      "Normal": 7,
+      "Elevated": 5
+    },
+    "9": {
+      "Normal": 9,
+      "Elevated": 3
+    },
+    "10": {
+      "Normal": 12,
+      "Elevated": 1
+    },
+    "11": {
+      "Normal": 9,
+      "Elevated": 2,
+      "High": 1
+    },
+    "12": {
+      "Normal": 7,
+      "High": 5
+    },
+    "13": {
+      "Normal": 7,
+      "Extreme": 4,
+      "High": 2
+    },
+    "14": {
+      "Extreme": 6,
+      "Elevated": 4,
+      "Normal": 2
+    },
+    "15": {
+      "Elevated": 8,
+      "Extreme": 7
+    },
+    "16": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "17": {
+      "Extreme": 7,
+      "Elevated": 6
+    },
+    "18": {
+      "Extreme": 9,
+      "High": 4,
+      "Elevated": 2
+    },
+    "19": {
+      "Extreme": 7,
+      "High": 6
+    },
+    "20": {
+      "High": 8,
+      "Extreme": 5,
+      "Normal": 1
+    }
+  },
+  "turning_point_count": 5
+}

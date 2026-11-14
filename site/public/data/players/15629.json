@@ -1,0 +1,63 @@
+{
+  "player_id": "15629",
+  "player_name": "Shayan Jahangir",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 1,
+    "runs": 55,
+    "balls": 47,
+    "average": 27.5,
+    "strike_rate": 117.02,
+    "highest_score": 37,
+    "fours": 4,
+    "sixes": 3,
+    "dots": 20,
+    "singles": 19,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 35429,
+      "date": "2024-08-28",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "3 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 35428,
+      "date": "2024-08-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "15 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": 3.44
+    },
+    {
+      "match_id": 35425,
+      "date": "2024-08-25",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "37 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

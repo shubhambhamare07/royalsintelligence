@@ -1,0 +1,47 @@
+{
+  "player_id": "7354",
+  "player_name": "Al Alis",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 24,
+    "overs": 4.0,
+    "runs_charged": 29.0,
+    "wickets": 2,
+    "economy": 7.25,
+    "average": 14.5,
+    "strike_rate": 12.0,
+    "dot_pct": 52.0,
+    "boundary_pct": 16.0,
+    "wides": 1,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 3.0,
+        "runs": 15.0,
+        "wickets": 1,
+        "economy": 5.0
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 14.0,
+        "wickets": 1,
+        "economy": 14.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 37090,
+      "date": "2024-10-20",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/29 (4.0)",
+      "pressure_balls": 23,
+      "pressure_value": 19.35
+    }
+  ]
+}

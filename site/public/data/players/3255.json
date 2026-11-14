@@ -1,0 +1,41 @@
+{
+  "player_id": "3255",
+  "player_name": "Ahmed Raza 1",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 12,
+    "overs": 2.0,
+    "runs_charged": 19.0,
+    "wickets": 1,
+    "economy": 9.5,
+    "average": 19.0,
+    "strike_rate": 12.0,
+    "dot_pct": 33.33,
+    "boundary_pct": 25.0,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 2.0,
+        "runs": 19.0,
+        "wickets": 1,
+        "economy": 9.5
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16863,
+      "date": "2022-08-21",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/19 (2.0)",
+      "pressure_balls": 12,
+      "pressure_value": -2.85
+    }
+  ]
+}

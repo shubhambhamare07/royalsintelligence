@@ -1,0 +1,270 @@
+{
+  "player_id": "22471",
+  "player_name": "Matthew Humphreys",
+  "batting": {
+    "matches": 4,
+    "innings": 4,
+    "not_outs": 1,
+    "runs": 10,
+    "balls": 11,
+    "average": 3.33,
+    "strike_rate": 90.91,
+    "highest_score": 7,
+    "fours": 1,
+    "sixes": 0,
+    "dots": 4,
+    "singles": 6,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 13,
+    "legal_balls": 281,
+    "overs": 46.8,
+    "runs_charged": 335.0,
+    "wickets": 19,
+    "economy": 7.15,
+    "average": 17.63,
+    "strike_rate": 14.79,
+    "dot_pct": 38.62,
+    "boundary_pct": 13.1,
+    "wides": 9,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 4.8,
+        "runs": 24.0,
+        "wickets": 6,
+        "economy": 4.97
+      },
+      "middle": {
+        "overs": 24.0,
+        "runs": 161.0,
+        "wickets": 11,
+        "economy": 6.71
+      },
+      "powerplay": {
+        "overs": 18.0,
+        "runs": 150.0,
+        "wickets": 2,
+        "economy": 8.33
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 33.8,
+    "tier": "Unproven",
+    "p_outperform": 0.4234,
+    "pressure_value_per_6": 0.05,
+    "clutch_delta_per_6": -0.04,
+    "consistency": 0.4159
+  },
+  "recent_matches": [
+    {
+      "match_id": 50341,
+      "date": "2026-06-28",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/28 (4.0)",
+      "pressure_balls": 24,
+      "pressure_value": -5.19
+    },
+    {
+      "match_id": 50340,
+      "date": "2026-06-26",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "2 (3)",
+      "bowling_figures": "3/38 (3.8)",
+      "pressure_balls": 14,
+      "pressure_value": -8.26
+    },
+    {
+      "match_id": 48467,
+      "date": "2026-01-31",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/24 (3.0)",
+      "pressure_balls": 18,
+      "pressure_value": -7.76
+    },
+    {
+      "match_id": 48466,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "3/26 (4.0)",
+      "pressure_balls": 17,
+      "pressure_value": -4.29
+    },
+    {
+      "match_id": 47243,
+      "date": "2025-12-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "0/15 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47242,
+      "date": "2025-11-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/38 (4.0)",
+      "pressure_balls": 24,
+      "pressure_value": -15.21
+    },
+    {
+      "match_id": 47241,
+      "date": "2025-11-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "4/13 (4.0)",
+      "pressure_balls": 2,
+      "pressure_value": 14.57
+    },
+    {
+      "match_id": 46009,
+      "date": "2025-09-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "7 (5)",
+      "bowling_figures": "0/25 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": -5.52
+    },
+    {
+      "match_id": 46007,
+      "date": "2025-09-17",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/44 (4.0)",
+      "pressure_balls": 4,
+      "pressure_value": -5.37
+    },
+    {
+      "match_id": 41504,
+      "date": "2025-06-15",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/16 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37015,
+      "date": "2024-09-29",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/30 (4.0)",
+      "pressure_balls": 18,
+      "pressure_value": 4.54
+    },
+    {
+      "match_id": 37014,
+      "date": "2024-09-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/28 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": -2.4
+    },
+    {
+      "match_id": 21072,
+      "date": "2023-03-31",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "2/10 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 22471,
+      "player_name": "Matthew Humphreys",
+      "role": "bowler",
+      "match_id": 47242,
+      "n_balls": 24,
+      "match_runs_conceded": 37,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3053,
+      "career_expected_value": 0.5088,
+      "z_score": -4.84,
+      "direction": "negative"
+    },
+    {
+      "player_id": 22471,
+      "player_name": "Matthew Humphreys",
+      "role": "bowler",
+      "match_id": 50341,
+      "n_balls": 24,
+      "match_runs_conceded": 28,
+      "match_wickets": 1,
+      "match_pressure_value": 0.6427,
+      "career_expected_value": 0.5088,
+      "z_score": 3.19,
+      "direction": "positive"
+    },
+    {
+      "player_id": 22471,
+      "player_name": "Matthew Humphreys",
+      "role": "bowler",
+      "match_id": 50340,
+      "n_balls": 14,
+      "match_runs_conceded": 27,
+      "match_wickets": 1,
+      "match_pressure_value": 0.683,
+      "career_expected_value": 0.5088,
+      "z_score": 3.17,
+      "direction": "positive"
+    },
+    {
+      "player_id": 22471,
+      "player_name": "Matthew Humphreys",
+      "role": "bowler",
+      "match_id": 48467,
+      "n_balls": 18,
+      "match_runs_conceded": 24,
+      "match_wickets": 1,
+      "match_pressure_value": 0.3669,
+      "career_expected_value": 0.5088,
+      "z_score": -2.93,
+      "direction": "negative"
+    },
+    {
+      "player_id": 22471,
+      "player_name": "Matthew Humphreys",
+      "role": "bowler",
+      "match_id": 37015,
+      "n_balls": 18,
+      "match_runs_conceded": 20,
+      "match_wickets": 1,
+      "match_pressure_value": 0.6341,
+      "career_expected_value": 0.5088,
+      "z_score": 2.58,
+      "direction": "positive"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": "19535",
+  "player_name": "Rejaur Rahman Raja",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 5,
+    "balls": 6,
+    "average": 5.0,
+    "strike_rate": 83.33,
+    "highest_score": 5,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 1,
+    "singles": 5,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 48,
+    "overs": 8.0,
+    "runs_charged": 70.0,
+    "wickets": 3,
+    "economy": 8.75,
+    "average": 23.33,
+    "strike_rate": 16.0,
+    "dot_pct": 24.49,
+    "boundary_pct": 16.33,
+    "wides": 0,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 4.0,
+        "runs": 39.0,
+        "wickets": 2,
+        "economy": 9.75
+      },
+      "middle": {
+        "overs": 3.0,
+        "runs": 19.0,
+        "wickets": 1,
+        "economy": 6.33
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 12.0,
+        "wickets": 0,
+        "economy": 12.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 37094,
+      "date": "2024-10-22",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "5 (6)",
+      "bowling_figures": "2/35 (4.0)",
+      "pressure_balls": 8,
+      "pressure_value": 3.03
+    },
+    {
+      "match_id": 37085,
+      "date": "2024-10-18",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/35 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

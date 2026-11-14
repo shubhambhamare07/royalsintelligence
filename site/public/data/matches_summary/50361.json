@@ -1,0 +1,109 @@
+{
+  "match_id": 50361,
+  "competition_kind": "IPL",
+  "calendar_year": 2026,
+  "result": "Rajasthan Royals Won by 6 wickets",
+  "innings_totals": {
+    "innings_1": 222.1,
+    "innings_1_sigma": 2.02,
+    "innings_2": 229.1
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 10,
+      "Elevated": 1,
+      "High": 1
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "High": 7,
+      "Elevated": 6
+    },
+    "5": {
+      "Elevated": 7,
+      "Extreme": 5,
+      "High": 1
+    },
+    "6": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "7": {
+      "High": 6,
+      "Normal": 4,
+      "Elevated": 2
+    },
+    "8": {
+      "Normal": 6,
+      "High": 6
+    },
+    "9": {
+      "Normal": 6,
+      "High": 6
+    },
+    "10": {
+      "Normal": 6,
+      "High": 6
+    },
+    "11": {
+      "Normal": 6,
+      "Extreme": 6
+    },
+    "12": {
+      "Normal": 6,
+      "Extreme": 6,
+      "High": 2
+    },
+    "13": {
+      "Extreme": 6,
+      "Elevated": 4,
+      "Normal": 2
+    },
+    "14": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "15": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "16": {
+      "Extreme": 7,
+      "Elevated": 6
+    },
+    "17": {
+      "Extreme": 7,
+      "High": 4,
+      "Elevated": 2
+    },
+    "18": {
+      "High": 6,
+      "Extreme": 6
+    },
+    "19": {
+      "High": 6,
+      "Normal": 4,
+      "Extreme": 1,
+      "Elevated": 1
+    },
+    "20": {
+      "High": 6,
+      "Normal": 2
+    }
+  },
+  "turning_point_count": 5
+}

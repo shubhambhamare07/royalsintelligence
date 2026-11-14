@@ -1,0 +1,87 @@
+{
+  "player_id": "6995",
+  "player_name": "Saad Zafar",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 2,
+    "runs": 36,
+    "balls": 39,
+    "average": 36.0,
+    "strike_rate": 92.31,
+    "highest_score": 33,
+    "fours": 2,
+    "sixes": 0,
+    "dots": 14,
+    "singles": 18,
+    "twos": 5,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 72,
+    "overs": 12.0,
+    "runs_charged": 69.0,
+    "wickets": 6,
+    "economy": 5.75,
+    "average": 11.5,
+    "strike_rate": 12.0,
+    "dot_pct": 42.47,
+    "boundary_pct": 6.85,
+    "wides": 1,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 5.0,
+        "wickets": 2,
+        "economy": 5.0
+      },
+      "middle": {
+        "overs": 11.0,
+        "runs": 64.0,
+        "wickets": 4,
+        "economy": 5.82
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 35428,
+      "date": "2024-08-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "3 (3)",
+      "bowling_figures": "3/25 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 35427,
+      "date": "2024-08-26",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "33 (36)",
+      "bowling_figures": "1/15 (4.0)",
+      "pressure_balls": 25,
+      "pressure_value": 7.74
+    },
+    {
+      "match_id": 35423,
+      "date": "2024-08-23",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/29 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

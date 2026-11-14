@@ -1,0 +1,87 @@
+{
+  "player_id": "48557",
+  "player_name": "Vignesh Puthur",
+  "batting": null,
+  "bowling": {
+    "matches": 5,
+    "legal_balls": 72,
+    "overs": 12.0,
+    "runs_charged": 109.0,
+    "wickets": 6,
+    "economy": 9.08,
+    "average": 18.17,
+    "strike_rate": 12.0,
+    "dot_pct": 32.88,
+    "boundary_pct": 17.81,
+    "wides": 1,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 24.0,
+        "wickets": 0,
+        "economy": 12.0
+      },
+      "middle": {
+        "overs": 10.0,
+        "runs": 85.0,
+        "wickets": 6,
+        "economy": 8.5
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 40734,
+      "date": "2025-04-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/15 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40714,
+      "date": "2025-04-07",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/10 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40709,
+      "date": "2025-04-04",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40705,
+      "date": "2025-03-31",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/21 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40696,
+      "date": "2025-03-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "3/32 (4.0)",
+      "pressure_balls": 2,
+      "pressure_value": -3.97
+    }
+  ]
+}

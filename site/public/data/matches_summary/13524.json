@@ -1,0 +1,108 @@
+{
+  "match_id": 13524,
+  "competition_kind": "T20I",
+  "calendar_year": 2022,
+  "result": "India Won by 17 runs",
+  "innings_totals": {
+    "innings_1": 181.4,
+    "innings_1_sigma": 3.39,
+    "innings_2": 166.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.39
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "Elevated": 4,
+      "High": 2
+    },
+    "2": {
+      "Elevated": 8,
+      "High": 4,
+      "Normal": 1
+    },
+    "3": {
+      "Elevated": 7,
+      "High": 4,
+      "Normal": 1
+    },
+    "4": {
+      "Elevated": 9,
+      "High": 3
+    },
+    "5": {
+      "High": 7,
+      "Elevated": 6
+    },
+    "6": {
+      "High": 6,
+      "Normal": 4,
+      "Elevated": 2
+    },
+    "7": {
+      "Normal": 6,
+      "High": 6
+    },
+    "8": {
+      "High": 8,
+      "Normal": 6
+    },
+    "9": {
+      "Normal": 6,
+      "High": 3,
+      "Elevated": 3
+    },
+    "10": {
+      "Normal": 8,
+      "Elevated": 4
+    },
+    "11": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "12": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "13": {
+      "Normal": 12
+    },
+    "14": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "15": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "16": {
+      "Elevated": 8,
+      "Normal": 3,
+      "High": 3
+    },
+    "17": {
+      "High": 6,
+      "Elevated": 5,
+      "Extreme": 1
+    },
+    "18": {
+      "High": 9,
+      "Extreme": 6
+    },
+    "19": {
+      "High": 9,
+      "Normal": 2,
+      "Elevated": 1
+    },
+    "20": {
+      "High": 7,
+      "Normal": 7
+    }
+  },
+  "turning_point_count": 5
+}

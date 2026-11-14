@@ -1,0 +1,42 @@
+{
+  "player_id": "1233",
+  "player_name": "Gary Ballance",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 30,
+    "balls": 29,
+    "average": 30.0,
+    "strike_rate": 103.45,
+    "highest_score": 30,
+    "fours": 2,
+    "sixes": 1,
+    "dots": 12,
+    "singles": 12,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 19690,
+      "date": "2023-01-12",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "30 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "player_id": "1772",
+  "player_name": "Sheldon Cottrell",
+  "batting": null,
+  "bowling": {
+    "matches": 10,
+    "legal_balls": 197,
+    "overs": 32.8,
+    "runs_charged": 293.0,
+    "wickets": 8,
+    "economy": 8.92,
+    "average": 36.62,
+    "strike_rate": 24.62,
+    "dot_pct": 41.63,
+    "boundary_pct": 21.05,
+    "wides": 11,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 7.8,
+        "runs": 75.0,
+        "wickets": 2,
+        "economy": 9.57
+      },
+      "middle": {
+        "overs": 4.0,
+        "runs": 48.0,
+        "wickets": 1,
+        "economy": 12.0
+      },
+      "powerplay": {
+        "overs": 21.0,
+        "runs": 170.0,
+        "wickets": 5,
+        "economy": 8.1
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 19961,
+      "date": "2023-03-28",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/24 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 19960,
+      "date": "2023-03-26",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/29 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17640,
+      "date": "2022-10-05",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "2/49 (3.8)",
+      "pressure_balls": 17,
+      "pressure_value": -25.69
+    },
+    {
+      "match_id": 13523,
+      "date": "2022-02-18",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/20 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13522,
+      "date": "2022-02-16",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/35 (4.0)",
+      "pressure_balls": 21,
+      "pressure_value": -7.61
+    },
+    {
+      "match_id": 13515,
+      "date": "2022-01-31",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/21 (3.0)",
+      "pressure_balls": 19,
+      "pressure_value": -2.12
+    },
+    {
+      "match_id": 13514,
+      "date": "2022-01-30",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/34 (4.0)",
+      "pressure_balls": 4,
+      "pressure_value": 3.39
+    },
+    {
+      "match_id": 13513,
+      "date": "2022-01-27",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/28 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13512,
+      "date": "2022-01-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/23 (3.0)",
+      "pressure_balls": 5,
+      "pressure_value": -0.9
+    },
+    {
+      "match_id": 13511,
+      "date": "2022-01-23",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "2/30 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "player_id": "21791",
+  "player_name": "J Gumbie",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 0,
+    "runs": 43,
+    "balls": 52,
+    "average": 14.33,
+    "strike_rate": 82.69,
+    "highest_score": 17,
+    "fours": 6,
+    "sixes": 0,
+    "dots": 31,
+    "singles": 11,
+    "twos": 4,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 32134,
+      "date": "2024-05-07",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "9 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -2.95
+    },
+    {
+      "match_id": 32133,
+      "date": "2024-05-05",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "17 (30)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32132,
+      "date": "2024-05-03",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "17 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

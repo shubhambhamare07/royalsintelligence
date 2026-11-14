@@ -1,0 +1,104 @@
+{
+  "player_id": "6739",
+  "player_name": "Amir Jangoo",
+  "batting": {
+    "matches": 7,
+    "innings": 7,
+    "not_outs": 2,
+    "runs": 163,
+    "balls": 135,
+    "average": 32.6,
+    "strike_rate": 120.74,
+    "highest_score": 74,
+    "fours": 16,
+    "sixes": 8,
+    "dots": 67,
+    "singles": 38,
+    "twos": 5,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2,
+      "LBW": 2,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48596,
+      "date": "2026-01-19",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "3 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -0.22
+    },
+    {
+      "match_id": 47968,
+      "date": "2025-11-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "12 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47967,
+      "date": "2025-11-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "5 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -16.0
+    },
+    {
+      "match_id": 46942,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "34 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 21,
+      "pressure_value": 5.17
+    },
+    {
+      "match_id": 46251,
+      "date": "2025-09-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "74 (45)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46250,
+      "date": "2025-09-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "16 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46249,
+      "date": "2025-09-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "19 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 22,
+      "pressure_value": -3.15
+    }
+  ]
+}

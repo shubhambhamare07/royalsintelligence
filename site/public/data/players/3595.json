@@ -1,0 +1,119 @@
+{
+  "player_id": "3595",
+  "player_name": "Andy McBrine",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 1,
+    "runs": 12,
+    "balls": 8,
+    "average": 12.0,
+    "strike_rate": 150.0,
+    "highest_score": 10,
+    "fours": 0,
+    "sixes": 1,
+    "dots": 2,
+    "singles": 4,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 6,
+    "legal_balls": 72,
+    "overs": 12.0,
+    "runs_charged": 129.0,
+    "wickets": 2,
+    "economy": 10.75,
+    "average": 64.5,
+    "strike_rate": 36.0,
+    "dot_pct": 18.92,
+    "boundary_pct": 21.62,
+    "wides": 2,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 7.0,
+        "runs": 74.0,
+        "wickets": 1,
+        "economy": 10.57
+      },
+      "powerplay": {
+        "overs": 5.0,
+        "runs": 55.0,
+        "wickets": 1,
+        "economy": 11.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16751,
+      "date": "2022-08-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/14 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16750,
+      "date": "2022-08-09",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/24 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16647,
+      "date": "2022-08-05",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "2 (4)",
+      "bowling_figures": "1/42 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16646,
+      "date": "2022-08-03",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "10 (4)",
+      "bowling_figures": "1/12 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15796,
+      "date": "2022-06-28",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/16 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15795,
+      "date": "2022-06-27",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/21 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

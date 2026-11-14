@@ -1,0 +1,99 @@
+{
+  "player_id": "8639",
+  "player_name": "Kartik Meiyappan",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 1,
+    "runs": 15,
+    "balls": 15,
+    "average": 15.0,
+    "strike_rate": 100.0,
+    "highest_score": 12,
+    "fours": 2,
+    "sixes": 0,
+    "dots": 6,
+    "singles": 7,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 1
+    }
+  },
+  "bowling": {
+    "matches": 4,
+    "legal_balls": 96,
+    "overs": 16.0,
+    "runs_charged": 99.0,
+    "wickets": 6,
+    "economy": 6.19,
+    "average": 16.5,
+    "strike_rate": 16.0,
+    "dot_pct": 40.0,
+    "boundary_pct": 9.0,
+    "wides": 4,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 6.0,
+        "wickets": 1,
+        "economy": 6.0
+      },
+      "middle": {
+        "overs": 15.0,
+        "runs": 93.0,
+        "wickets": 5,
+        "economy": 6.2
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 17632,
+      "date": "2022-09-27",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/29 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": 3.72
+    },
+    {
+      "match_id": 17631,
+      "date": "2022-09-25",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "12 (9)",
+      "bowling_figures": "2/33 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": -3.04
+    },
+    {
+      "match_id": 16866,
+      "date": "2022-08-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/24 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16864,
+      "date": "2022-08-22",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "3 (6)",
+      "bowling_figures": "3/13 (4.0)",
+      "pressure_balls": 22,
+      "pressure_value": 7.05
+    }
+  ]
+}

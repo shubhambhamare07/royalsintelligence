@@ -1,0 +1,424 @@
+{
+  "player_id": "3056",
+  "player_name": "Iftikhar Ahmed",
+  "batting": {
+    "matches": 30,
+    "innings": 30,
+    "not_outs": 5,
+    "runs": 590,
+    "balls": 455,
+    "average": 23.6,
+    "strike_rate": 129.67,
+    "highest_score": 60,
+    "fours": 35,
+    "sixes": 30,
+    "dots": 145,
+    "singles": 221,
+    "twos": 23,
+    "threes": 1,
+    "ducks": 1,
+    "thirties": 7,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 23,
+      "Bowled": 1,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 14,
+    "legal_balls": 186,
+    "overs": 31.0,
+    "runs_charged": 203.0,
+    "wickets": 6,
+    "economy": 6.55,
+    "average": 33.83,
+    "strike_rate": 31.0,
+    "dot_pct": 26.46,
+    "boundary_pct": 6.88,
+    "wides": 3,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 21.0,
+        "wickets": 0,
+        "economy": 10.5
+      },
+      "middle": {
+        "overs": 28.0,
+        "runs": 179.0,
+        "wickets": 6,
+        "economy": 6.39
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 3.0,
+        "wickets": 0,
+        "economy": 3.0
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 51.74,
+    "tier": "Unproven",
+    "p_outperform": 0.5504,
+    "pressure_value_per_100": 3.96,
+    "clutch_delta_per_100": -3.32,
+    "consistency": 0.5786
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 32613,
+      "date": "2024-05-30",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "21 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32611,
+      "date": "2024-05-25",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "23 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": 1.28
+    },
+    {
+      "match_id": 32292,
+      "date": "2024-05-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "5 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32290,
+      "date": "2024-05-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "37 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": 4.46
+    },
+    {
+      "match_id": 31711,
+      "date": "2024-04-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "6 (7)",
+      "bowling_figures": "0/11 (1.0)",
+      "pressure_balls": 7,
+      "pressure_value": -8.66
+    },
+    {
+      "match_id": 31710,
+      "date": "2024-04-25",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "23 (20)",
+      "bowling_figures": "1/14 (2.0)",
+      "pressure_balls": 10,
+      "pressure_value": 0.47
+    },
+    {
+      "match_id": 31709,
+      "date": "2024-04-21",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "2 (4)",
+      "bowling_figures": "0/16 (2.0)",
+      "pressure_balls": 13,
+      "pressure_value": -3.59
+    },
+    {
+      "match_id": 31708,
+      "date": "2024-04-20",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/7 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28967,
+      "date": "2024-01-21",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "5 (8)",
+      "bowling_figures": "3/24 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": 9.32
+    },
+    {
+      "match_id": 28966,
+      "date": "2024-01-19",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "10 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28965,
+      "date": "2024-01-17",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28964,
+      "date": "2024-01-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "4 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -9.98
+    },
+    {
+      "match_id": 28963,
+      "date": "2024-01-12",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "24 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21407,
+      "date": "2023-04-24",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "36 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21405,
+      "date": "2023-04-18",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "60 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": 13.8
+    },
+    {
+      "match_id": 21404,
+      "date": "2023-04-15",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "33 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": 1.78
+    },
+    {
+      "match_id": 21403,
+      "date": "2023-04-14",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/10 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20880,
+      "date": "2023-03-27",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "31 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -3.94
+    },
+    {
+      "match_id": 17743,
+      "date": "2022-10-14",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "25 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 15,
+      "pressure_value": 6.2
+    },
+    {
+      "match_id": 17742,
+      "date": "2022-10-13",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/7 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17740,
+      "date": "2022-10-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "27 (27)",
+      "bowling_figures": "0/12 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17738,
+      "date": "2022-10-08",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/5 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17737,
+      "date": "2022-10-07",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "13 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": 2.02
+    },
+    {
+      "match_id": 17559,
+      "date": "2022-10-02",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "19 (16)",
+      "bowling_figures": "0/34 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17558,
+      "date": "2022-09-30",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "31 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17557,
+      "date": "2022-09-28",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "15 (14)",
+      "bowling_figures": "1/16 (4.0)",
+      "pressure_balls": 21,
+      "pressure_value": 9.86
+    },
+    {
+      "match_id": 17556,
+      "date": "2022-09-25",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/23 (4.0)",
+      "pressure_balls": 18,
+      "pressure_value": -2.04
+    },
+    {
+      "match_id": 17555,
+      "date": "2022-09-23",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "6 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17553,
+      "date": "2022-09-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "28 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": -0.15
+    },
+    {
+      "match_id": 16665,
+      "date": "2022-09-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "32 (31)",
+      "bowling_figures": "1/21 (3.0)",
+      "pressure_balls": 16,
+      "pressure_value": -1.01
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 3056,
+      "player_name": "Iftikhar Ahmed",
+      "role": "batter",
+      "match_id": 17743,
+      "n_balls": 14,
+      "match_runs": 25,
+      "match_pressure_value": 0.8259,
+      "career_expected_value": 0.5104,
+      "z_score": 5.74,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3056,
+      "player_name": "Iftikhar Ahmed",
+      "role": "batter",
+      "match_id": 16662,
+      "n_balls": 19,
+      "match_runs": 18,
+      "match_pressure_value": 0.7624,
+      "career_expected_value": 0.5104,
+      "z_score": 5.34,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3056,
+      "player_name": "Iftikhar Ahmed",
+      "role": "batter",
+      "match_id": 16665,
+      "n_balls": 15,
+      "match_runs": 18,
+      "match_pressure_value": 0.2357,
+      "career_expected_value": 0.5104,
+      "z_score": -5.18,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3056,
+      "player_name": "Iftikhar Ahmed",
+      "role": "batter",
+      "match_id": 28964,
+      "n_balls": 8,
+      "match_runs": 4,
+      "match_pressure_value": 0.2346,
+      "career_expected_value": 0.5104,
+      "z_score": -3.79,
+      "direction": "negative"
+    }
+  ]
+}

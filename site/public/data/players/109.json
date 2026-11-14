@@ -1,0 +1,392 @@
+{
+  "player_id": "109",
+  "player_name": "Wriddhiman Saha",
+  "batting": {
+    "matches": 36,
+    "innings": 36,
+    "not_outs": 3,
+    "runs": 770,
+    "balls": 622,
+    "average": 23.33,
+    "strike_rate": 123.79,
+    "highest_score": 81,
+    "fours": 100,
+    "sixes": 17,
+    "dots": 265,
+    "singles": 213,
+    "twos": 26,
+    "threes": 1,
+    "ducks": 3,
+    "thirties": 5,
+    "fifties": 4,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 26,
+      "Bowled": 5,
+      "LBW": 1,
+      "Stump": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 52.54,
+    "tier": "Unproven",
+    "p_outperform": 0.5675,
+    "pressure_value_per_100": 0.59,
+    "clutch_delta_per_100": 8.03,
+    "consistency": 0.5475
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 31270,
+      "date": "2024-05-04",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "1 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31263,
+      "date": "2024-04-28",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "5 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31258,
+      "date": "2024-04-24",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "39 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 16,
+      "pressure_value": -9.14
+    },
+    {
+      "match_id": 31255,
+      "date": "2024-04-21",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "13 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31249,
+      "date": "2024-04-17",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "2 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30072,
+      "date": "2024-04-04",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "11 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30067,
+      "date": "2024-03-31",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "25 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30062,
+      "date": "2024-03-26",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "21 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 13,
+      "pressure_value": -0.22
+    },
+    {
+      "match_id": 30060,
+      "date": "2024-03-24",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "19 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21585,
+      "date": "2023-05-26",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "18 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21583,
+      "date": "2023-05-23",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "12 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 11,
+      "pressure_value": -1.69
+    },
+    {
+      "match_id": 20250,
+      "date": "2023-05-21",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "12 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": -6.58
+    },
+    {
+      "match_id": 20242,
+      "date": "2023-05-15",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "0 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20237,
+      "date": "2023-05-12",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "2 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20231,
+      "date": "2023-05-07",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "81 (43)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20228,
+      "date": "2023-05-05",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "41 (34)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20224,
+      "date": "2023-05-02",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "0 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20219,
+      "date": "2023-04-29",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "10 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": -5.79
+    },
+    {
+      "match_id": 20215,
+      "date": "2023-04-25",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "4 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20210,
+      "date": "2023-04-22",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "47 (37)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20203,
+      "date": "2023-04-16",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "4 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20198,
+      "date": "2023-04-13",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "30 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20193,
+      "date": "2023-04-09",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "17 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20187,
+      "date": "2023-04-04",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "14 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": 3.52
+    },
+    {
+      "match_id": 20181,
+      "date": "2023-03-31",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "25 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": 1.56
+    },
+    {
+      "match_id": 15190,
+      "date": "2022-05-29",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "5 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15187,
+      "date": "2022-05-24",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14161,
+      "date": "2022-05-19",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "31 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14156,
+      "date": "2022-05-15",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "67 (57)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14151,
+      "date": "2022-05-10",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "5 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 109,
+      "player_name": "Wriddhiman Saha",
+      "role": "batter",
+      "match_id": 31258,
+      "n_balls": 15,
+      "match_runs": 13,
+      "match_pressure_value": 0.2225,
+      "career_expected_value": 0.4756,
+      "z_score": -4.77,
+      "direction": "negative"
+    },
+    {
+      "player_id": 109,
+      "player_name": "Wriddhiman Saha",
+      "role": "batter",
+      "match_id": 14136,
+      "n_balls": 22,
+      "match_runs": 29,
+      "match_pressure_value": 0.6173,
+      "career_expected_value": 0.4756,
+      "z_score": 3.23,
+      "direction": "positive"
+    },
+    {
+      "player_id": 109,
+      "player_name": "Wriddhiman Saha",
+      "role": "batter",
+      "match_id": 20219,
+      "n_balls": 10,
+      "match_runs": 10,
+      "match_pressure_value": 0.6757,
+      "career_expected_value": 0.4756,
+      "z_score": 3.08,
+      "direction": "positive"
+    },
+    {
+      "player_id": 109,
+      "player_name": "Wriddhiman Saha",
+      "role": "batter",
+      "match_id": 30062,
+      "n_balls": 12,
+      "match_runs": 20,
+      "match_pressure_value": 0.3196,
+      "career_expected_value": 0.4756,
+      "z_score": -2.63,
+      "direction": "negative"
+    }
+  ]
+}

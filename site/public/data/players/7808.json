@@ -1,0 +1,491 @@
+{
+  "player_id": "7808",
+  "player_name": "Marco Jansen",
+  "batting": {
+    "matches": 33,
+    "innings": 33,
+    "not_outs": 11,
+    "runs": 354,
+    "balls": 276,
+    "average": 16.09,
+    "strike_rate": 128.26,
+    "highest_score": 54,
+    "fours": 21,
+    "sixes": 23,
+    "dots": 114,
+    "singles": 104,
+    "twos": 14,
+    "threes": 0,
+    "ducks": 2,
+    "thirties": 1,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 14,
+      "Bowled": 7,
+      "LBW": 1
+    }
+  },
+  "bowling": {
+    "matches": 57,
+    "legal_balls": 1269,
+    "overs": 211.5,
+    "runs_charged": 2033.0,
+    "wickets": 53,
+    "economy": 9.61,
+    "average": 38.36,
+    "strike_rate": 23.94,
+    "dot_pct": 36.78,
+    "boundary_pct": 21.77,
+    "wides": 64,
+    "no_balls": 13,
+    "phase_splits": {
+      "death": {
+        "overs": 43.5,
+        "runs": 474.0,
+        "wickets": 14,
+        "economy": 10.9
+      },
+      "middle": {
+        "overs": 60.0,
+        "runs": 587.0,
+        "wickets": 13,
+        "economy": 9.78
+      },
+      "powerplay": {
+        "overs": 108.0,
+        "runs": 972.0,
+        "wickets": 26,
+        "economy": 9.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 36.49,
+    "tier": "Unproven",
+    "p_outperform": 0.4387,
+    "pressure_value_per_6": 0.02,
+    "clutch_delta_per_6": -0.0,
+    "consistency": 0.4313
+  },
+  "recent_matches": [
+    {
+      "match_id": 50389,
+      "date": "2026-05-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/33 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": 7.03
+    },
+    {
+      "match_id": 50379,
+      "date": "2026-05-14",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (7)",
+      "bowling_figures": "1/55 (4.0)",
+      "pressure_balls": 24,
+      "pressure_value": -13.18
+    },
+    {
+      "match_id": 50376,
+      "date": "2026-05-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/45 (4.0)",
+      "pressure_balls": 4,
+      "pressure_value": 0.68
+    },
+    {
+      "match_id": 50370,
+      "date": "2026-05-06",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "19 (16)",
+      "bowling_figures": "0/61 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50367,
+      "date": "2026-05-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "20 (11)",
+      "bowling_figures": "1/33 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -0.43
+    },
+    {
+      "match_id": 50361,
+      "date": "2026-04-28",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/41 (3.3)",
+      "pressure_balls": 19,
+      "pressure_value": -8.77
+    },
+    {
+      "match_id": 50356,
+      "date": "2026-04-25",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/45 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50350,
+      "date": "2026-04-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "2/37 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50345,
+      "date": "2026-04-16",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/30 (4.0)",
+      "pressure_balls": 5,
+      "pressure_value": 2.22
+    },
+    {
+      "match_id": 50141,
+      "date": "2026-04-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/40 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50131,
+      "date": "2026-04-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/39 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": -2.49
+    },
+    {
+      "match_id": 50128,
+      "date": "2026-03-31",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "9 (10)",
+      "bowling_figures": "1/20 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": -4.52
+    },
+    {
+      "match_id": 41850,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/39 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42031,
+      "date": "2025-12-19",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "14 (5)",
+      "bowling_figures": "0/50 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42029,
+      "date": "2025-12-14",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (7)",
+      "bowling_figures": "1/24 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42028,
+      "date": "2025-12-11",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/25 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42027,
+      "date": "2025-12-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "12 (12)",
+      "bowling_figures": "0/23 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 36209,
+      "date": "2025-09-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (3)",
+      "bowling_figures": "0/60 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40754,
+      "date": "2025-05-26",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/34 (4.0)",
+      "pressure_balls": 2,
+      "pressure_value": 5.23
+    },
+    {
+      "match_id": 43057,
+      "date": "2025-05-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "1/42 (4.0)",
+      "pressure_balls": 28,
+      "pressure_value": -6.99
+    },
+    {
+      "match_id": 40760,
+      "date": "2025-05-18",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/41 (3.0)",
+      "pressure_balls": 15,
+      "pressure_value": -12.59
+    },
+    {
+      "match_id": 40747,
+      "date": "2025-05-04",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40742,
+      "date": "2025-04-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "4 (2)",
+      "bowling_figures": "2/30 (4.0)",
+      "pressure_balls": 5,
+      "pressure_value": -1.33
+    },
+    {
+      "match_id": 40737,
+      "date": "2025-04-26",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "3 (7)",
+      "bowling_figures": "0/6 (1.0)",
+      "pressure_balls": 8,
+      "pressure_value": -4.87
+    },
+    {
+      "match_id": 40730,
+      "date": "2025-04-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "25 (20)",
+      "bowling_figures": "0/20 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40724,
+      "date": "2025-04-15",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "3/17 (3.2)",
+      "pressure_balls": 7,
+      "pressure_value": 23.77
+    },
+    {
+      "match_id": 40720,
+      "date": "2025-04-12",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "5 (5)",
+      "bowling_figures": "0/39 (2.0)",
+      "pressure_balls": 6,
+      "pressure_value": -9.59
+    },
+    {
+      "match_id": 40715,
+      "date": "2025-04-08",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "34 (19)",
+      "bowling_figures": "0/48 (4.0)",
+      "pressure_balls": 13,
+      "pressure_value": -8.04
+    },
+    {
+      "match_id": 40711,
+      "date": "2025-04-05",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "3 (6)",
+      "bowling_figures": "1/45 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -5.11
+    },
+    {
+      "match_id": 40706,
+      "date": "2025-04-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/28 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": 3.94
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 7808,
+      "player_name": "Marco Jansen",
+      "role": "bowler",
+      "match_id": 50367,
+      "n_balls": 6,
+      "match_runs_conceded": 12,
+      "match_wickets": 1,
+      "match_pressure_value": 0.1208,
+      "career_expected_value": 0.5217,
+      "z_score": -4.77,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7808,
+      "player_name": "Marco Jansen",
+      "role": "bowler",
+      "match_id": 31268,
+      "n_balls": 15,
+      "match_runs_conceded": 24,
+      "match_wickets": 0,
+      "match_pressure_value": 0.289,
+      "career_expected_value": 0.5217,
+      "z_score": -4.38,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7808,
+      "player_name": "Marco Jansen",
+      "role": "bowler",
+      "match_id": 40698,
+      "n_balls": 9,
+      "match_runs_conceded": 10,
+      "match_wickets": 1,
+      "match_pressure_value": 0.8187,
+      "career_expected_value": 0.5217,
+      "z_score": 4.33,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7808,
+      "player_name": "Marco Jansen",
+      "role": "batter",
+      "match_id": 20205,
+      "n_balls": 4,
+      "match_runs": 9,
+      "match_pressure_value": 0.1213,
+      "career_expected_value": 0.5659,
+      "z_score": -4.32,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7808,
+      "player_name": "Marco Jansen",
+      "role": "batter",
+      "match_id": 50128,
+      "n_balls": 10,
+      "match_runs": 9,
+      "match_pressure_value": 0.8078,
+      "career_expected_value": 0.5659,
+      "z_score": 3.72,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7808,
+      "player_name": "Marco Jansen",
+      "role": "bowler",
+      "match_id": 50376,
+      "n_balls": 4,
+      "match_runs_conceded": 5,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8869,
+      "career_expected_value": 0.5217,
+      "z_score": 3.55,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7808,
+      "player_name": "Marco Jansen",
+      "role": "bowler",
+      "match_id": 40715,
+      "n_balls": 13,
+      "match_runs_conceded": 30,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7147,
+      "career_expected_value": 0.5217,
+      "z_score": 3.38,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7808,
+      "player_name": "Marco Jansen",
+      "role": "bowler",
+      "match_id": 40720,
+      "n_balls": 6,
+      "match_runs_conceded": 20,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2568,
+      "career_expected_value": 0.5217,
+      "z_score": -3.15,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7808,
+      "player_name": "Marco Jansen",
+      "role": "bowler",
+      "match_id": 14133,
+      "n_balls": 24,
+      "match_runs_conceded": 54,
+      "match_wickets": 0,
+      "match_pressure_value": 0.6483,
+      "career_expected_value": 0.5217,
+      "z_score": 3.01,
+      "direction": "positive"
+    }
+  ]
+}

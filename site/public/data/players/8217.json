@@ -1,0 +1,52 @@
+{
+  "player_id": "8217",
+  "player_name": "Ansh Tandon",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 1,
+    "runs": 13,
+    "balls": 13,
+    "average": 13.0,
+    "strike_rate": 100.0,
+    "highest_score": 12,
+    "fours": 0,
+    "sixes": 1,
+    "dots": 5,
+    "singles": 7,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 24794,
+      "date": "2023-08-20",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "1 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 24792,
+      "date": "2023-08-17",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "12 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -8.41
+    }
+  ]
+}

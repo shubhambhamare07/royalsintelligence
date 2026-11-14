@@ -1,0 +1,47 @@
+{
+  "player_id": "4870",
+  "player_name": "Kundai Matigimu",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 24,
+    "overs": 4.0,
+    "runs_charged": 48.0,
+    "wickets": 2,
+    "economy": 12.0,
+    "average": 24.0,
+    "strike_rate": 12.0,
+    "dot_pct": 38.46,
+    "boundary_pct": 23.08,
+    "wides": 2,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 44.0,
+        "wickets": 0,
+        "economy": 22.0
+      },
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 4.0,
+        "wickets": 2,
+        "economy": 2.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 55560,
+      "date": "2026-10-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/48 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

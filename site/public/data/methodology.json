@@ -1,0 +1,112 @@
+{
+  "model_version": "pressure-v1.1",
+  "phase": "03",
+  "live_model": "Plan C (Transparent Logistic CDI)",
+  "transition_model": {
+    "outcome_classes": 15,
+    "spline_knots": 5,
+    "extrapolation": "constant",
+    "held_out_log_loss": 1.6488,
+    "baseline_log_loss": 1.6853,
+    "improvement": 0.0365,
+    "gate_g_t1_smoothness": "PASS",
+    "max_within_phase_diff": 0.0147,
+    "max_boundary_diff": 0.0803,
+    "death_wicket_prob": 0.0772,
+    "pp_wicket_prob": 0.0418,
+    "free_hit_wicket_prob": 0.0038
+  },
+  "chase_win_probability": {
+    "live_plan": "Plan C (Transparent Logistic CDI)",
+    "plan_c_calibration_slope": 1.1353,
+    "plan_c_brier": 0.1353,
+    "baseline_brier": 0.2490,
+    "ece": 0.0905,
+    "separation": 0.4711,
+    "plan_a_dp_slope": 0.7357,
+    "plan_a_dp_brier": 0.1210,
+    "gate_g_g1": "PASS"
+  },
+  "first_innings_win_probability": {
+    "forward_dp_k_max": 250,
+    "tempo_multiplier_sd": 0.10,
+    "central_80_coverage": {
+      "ball_30": 0.7721,
+      "ball_60": 0.7794,
+      "ball_90": 0.7353
+    },
+    "gate_g_a1": "PASS",
+    "gate_g_a2": "PASS"
+  },
+  "leverage_and_pressure": {
+    "formula_raw": "LI_raw(s) = sum_o pi(o|s) * |V_bat(s_o) - V_bat(s)|",
+    "formula_normalized": "LI(s) = LI_raw(s) / mean(LI_raw)",
+    "formula_percentile": "PI(s) = rank(LI) / N * 100",
+    "bands": {
+      "Normal": "< P60",
+      "Elevated": "P60 - P80",
+      "High": "P80 - P95",
+      "Extreme": ">= P95"
+    },
+    "primary_pressure_threshold": "PI >= 80.0",
+    "primary_normal_threshold": "PI < 60.0",
+    "alternative_definitions": {
+      "P1": "Global LI Percentile",
+      "P2": "Stage-Relative Percentile (Innings x Phase)",
+      "P3": "Death Tension 4*V*(1-V) for b <= 60",
+      "P4": "Classical Rule (Innings 2 & RRR >= 10 or wkts >= 6)",
+      "P5": "Trailing-Side LI (V_bat < 0.5)"
+    },
+    "dar_symmetry": {
+      "dar_bat_equals_dar_bowl": "0.5 * LI_raw identically",
+      "max_numerical_discrepancy": 7.11e-16,
+      "gate_g_b": "PASS"
+    }
+  },
+  "canonical_states": {
+    "CS1_comfortable_19th_over": {
+      "state": "b=12, w=3, r=6",
+      "V_bat": 0.9989,
+      "LI_raw": 0.0005,
+      "PI_global": 7.6,
+      "target": "< 60.0",
+      "status": "PASS"
+    },
+    "CS2_tense_13th_over": {
+      "state": "b=48, w=5, r=70",
+      "V_bat": 0.5056,
+      "LI_raw": 0.0319,
+      "PI_global": 95.0,
+      "PI_p2": 95.9,
+      "target": ">= 75.0",
+      "status": "PASS"
+    },
+    "CS3_tense_19th_over": {
+      "state": "b=12, w=5, r=25",
+      "V_bat": 0.4916,
+      "LI_raw": 0.0910,
+      "PI_global": 99.6,
+      "target": ">= 90.0",
+      "status": "PASS"
+    }
+  },
+  "target_noise_monte_carlo": {
+    "replicates": 200,
+    "pooled_sigma": 2.0687,
+    "mean_band_change_share": 0.0698,
+    "p95_band_change_share": 0.0739,
+    "threshold": 0.15,
+    "gate_g_c2": "PASS"
+  },
+  "population_coverage": {
+    "qualifying_batters_60": 182,
+    "qualifying_bowlers_60": 176,
+    "qualifying_batters_40": 230,
+    "qualifying_bowlers_40": 233,
+    "qualifying_batters_80": 149,
+    "qualifying_bowlers_80": 150,
+    "threshold": 60,
+    "status": "PASS"
+  }
+}
+

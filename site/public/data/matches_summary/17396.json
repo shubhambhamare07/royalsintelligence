@@ -1,0 +1,110 @@
+{
+  "match_id": 17396,
+  "competition_kind": "T20I",
+  "calendar_year": 2022,
+  "result": "India Won by 6 Wickets",
+  "innings_totals": {
+    "innings_1": 182.4,
+    "innings_1_sigma": 3.6,
+    "innings_2": 183.4
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "Elevated": 5,
+      "High": 2
+    },
+    "2": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "3": {
+      "Elevated": 9,
+      "High": 2,
+      "Normal": 1
+    },
+    "4": {
+      "Normal": 6,
+      "High": 4,
+      "Elevated": 2
+    },
+    "5": {
+      "Normal": 12,
+      "Elevated": 1
+    },
+    "6": {
+      "Normal": 12
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 8,
+      "Elevated": 4
+    },
+    "9": {
+      "Normal": 6,
+      "Elevated": 3,
+      "High": 3
+    },
+    "10": {
+      "Normal": 6,
+      "High": 6
+    },
+    "11": {
+      "Normal": 6,
+      "Extreme": 5,
+      "High": 1
+    },
+    "12": {
+      "Normal": 6,
+      "Extreme": 6
+    },
+    "13": {
+      "Normal": 6,
+      "Extreme": 6,
+      "Elevated": 2
+    },
+    "14": {
+      "Elevated": 5,
+      "High": 4,
+      "Extreme": 2,
+      "Normal": 1
+    },
+    "15": {
+      "Elevated": 6,
+      "High": 4,
+      "Extreme": 2
+    },
+    "16": {
+      "Extreme": 7,
+      "Elevated": 6
+    },
+    "17": {
+      "Extreme": 7,
+      "Elevated": 6
+    },
+    "18": {
+      "Elevated": 7,
+      "Extreme": 7
+    },
+    "19": {
+      "Extreme": 6,
+      "Elevated": 3,
+      "Normal": 3
+    },
+    "20": {
+      "Normal": 5,
+      "Extreme": 5,
+      "Elevated": 1
+    }
+  },
+  "turning_point_count": 5
+}

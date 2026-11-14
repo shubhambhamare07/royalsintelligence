@@ -1,0 +1,465 @@
+{
+  "player_id": "3125",
+  "player_name": "Nicholas Pooran",
+  "batting": {
+    "matches": 112,
+    "innings": 112,
+    "not_outs": 22,
+    "runs": 3009,
+    "balls": 1929,
+    "average": 33.43,
+    "strike_rate": 155.99,
+    "highest_score": 87,
+    "fours": 201,
+    "sixes": 217,
+    "dots": 707,
+    "singles": 707,
+    "twos": 95,
+    "threes": 2,
+    "ducks": 5,
+    "thirties": 23,
+    "fifties": 21,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 64,
+      "Bowled": 12,
+      "LBW": 9,
+      "Stump": 3,
+      "RunOut": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 59.34,
+    "tier": "Unproven",
+    "p_outperform": 0.7391,
+    "pressure_value_per_100": 9.11,
+    "clutch_delta_per_100": 1.23,
+    "consistency": 0.5931
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50389,
+      "date": "2026-05-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50385,
+      "date": "2026-05-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "16 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50380,
+      "date": "2026-05-15",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "32 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50374,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50368,
+      "date": "2026-05-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "63 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50359,
+      "date": "2026-04-26",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "9 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 13,
+      "pressure_value": -11.64
+    },
+    {
+      "match_id": 50353,
+      "date": "2026-04-22",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "22 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 27,
+      "pressure_value": -11.64
+    },
+    {
+      "match_id": 50350,
+      "date": "2026-04-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "9 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50344,
+      "date": "2026-04-15",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50143,
+      "date": "2026-04-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "19 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50139,
+      "date": "2026-04-09",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "13 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": -9.69
+    },
+    {
+      "match_id": 50134,
+      "date": "2026-04-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50129,
+      "date": "2026-04-01",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "8 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40752,
+      "date": "2025-05-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "13 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40758,
+      "date": "2025-05-22",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "56 (27)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40763,
+      "date": "2025-05-19",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "45 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 11,
+      "pressure_value": 0.52
+    },
+    {
+      "match_id": 40747,
+      "date": "2025-05-04",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "6 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40738,
+      "date": "2025-04-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "27 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -2.78
+    },
+    {
+      "match_id": 40733,
+      "date": "2025-04-22",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "9 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40729,
+      "date": "2025-04-19",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "11 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40723,
+      "date": "2025-04-14",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "8 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40719,
+      "date": "2025-04-12",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "61 (34)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 3.49
+    },
+    {
+      "match_id": 40712,
+      "date": "2025-04-08",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "87 (36)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40709,
+      "date": "2025-04-04",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "12 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40706,
+      "date": "2025-04-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "44 (30)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40700,
+      "date": "2025-03-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "70 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": 26.64
+    },
+    {
+      "match_id": 40697,
+      "date": "2025-03-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "75 (30)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 38844,
+      "date": "2024-12-20",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "15 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 38843,
+      "date": "2024-12-18",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "5 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": -10.15
+    },
+    {
+      "match_id": 38842,
+      "date": "2024-12-16",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 6,
+      "pressure_value": -19.96
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 3125,
+      "player_name": "Nicholas Pooran",
+      "role": "batter",
+      "match_id": 14121,
+      "n_balls": 23,
+      "match_runs": 32,
+      "match_pressure_value": 0.8372,
+      "career_expected_value": 0.4922,
+      "z_score": 8.05,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3125,
+      "player_name": "Nicholas Pooran",
+      "role": "batter",
+      "match_id": 13523,
+      "n_balls": 17,
+      "match_runs": 24,
+      "match_pressure_value": 0.1589,
+      "career_expected_value": 0.4922,
+      "z_score": -6.68,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3125,
+      "player_name": "Nicholas Pooran",
+      "role": "batter",
+      "match_id": 14114,
+      "n_balls": 12,
+      "match_runs": 21,
+      "match_pressure_value": 0.8678,
+      "career_expected_value": 0.4922,
+      "z_score": 6.33,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3125,
+      "player_name": "Nicholas Pooran",
+      "role": "batter",
+      "match_id": 13524,
+      "n_balls": 23,
+      "match_runs": 28,
+      "match_pressure_value": 0.2966,
+      "career_expected_value": 0.4922,
+      "z_score": -4.56,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3125,
+      "player_name": "Nicholas Pooran",
+      "role": "batter",
+      "match_id": 30059,
+      "n_balls": 18,
+      "match_runs": 38,
+      "match_pressure_value": 0.2736,
+      "career_expected_value": 0.4922,
+      "z_score": -4.51,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3125,
+      "player_name": "Nicholas Pooran",
+      "role": "batter",
+      "match_id": 50359,
+      "n_balls": 12,
+      "match_runs": 9,
+      "match_pressure_value": 0.7329,
+      "career_expected_value": 0.4922,
+      "z_score": 4.06,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3125,
+      "player_name": "Nicholas Pooran",
+      "role": "batter",
+      "match_id": 20238,
+      "n_balls": 9,
+      "match_runs": 36,
+      "match_pressure_value": 0.7669,
+      "career_expected_value": 0.4922,
+      "z_score": 4.01,
+      "direction": "positive"
+    },
+    {
+      "player_id": 3125,
+      "player_name": "Nicholas Pooran",
+      "role": "batter",
+      "match_id": 31257,
+      "n_balls": 9,
+      "match_runs": 22,
+      "match_pressure_value": 0.2496,
+      "career_expected_value": 0.4922,
+      "z_score": -3.54,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3125,
+      "player_name": "Nicholas Pooran",
+      "role": "batter",
+      "match_id": 13514,
+      "n_balls": 4,
+      "match_runs": 2,
+      "match_pressure_value": 0.2084,
+      "career_expected_value": 0.4922,
+      "z_score": -2.76,
+      "direction": "negative"
+    },
+    {
+      "player_id": 3125,
+      "player_name": "Nicholas Pooran",
+      "role": "batter",
+      "match_id": 14105,
+      "n_balls": 24,
+      "match_runs": 34,
+      "match_pressure_value": 0.3819,
+      "career_expected_value": 0.4922,
+      "z_score": -2.63,
+      "direction": "negative"
+    }
+  ]
+}

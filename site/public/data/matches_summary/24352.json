@@ -1,0 +1,97 @@
+{
+  "match_id": 24352,
+  "competition_kind": "T20I",
+  "calendar_year": 2023,
+  "result": "India Won by 7 Wickets",
+  "innings_totals": {
+    "innings_1": 159.7,
+    "innings_1_sigma": 3.6,
+    "innings_2": 164.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 5,
+      "Elevated": 1
+    },
+    "2": {
+      "Elevated": 7,
+      "High": 7
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "6": {
+      "Elevated": 7,
+      "High": 5
+    },
+    "7": {
+      "Elevated": 13
+    },
+    "8": {
+      "Normal": 10,
+      "Elevated": 3
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 8,
+      "Elevated": 5
+    },
+    "12": {
+      "Normal": 12
+    },
+    "13": {
+      "Normal": 8,
+      "Elevated": 4
+    },
+    "14": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "16": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "17": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "18": {
+      "Elevated": 6,
+      "Normal": 5
+    },
+    "19": {
+      "High": 6,
+      "Elevated": 2
+    },
+    "20": {
+      "High": 7
+    }
+  },
+  "turning_point_count": 5
+}

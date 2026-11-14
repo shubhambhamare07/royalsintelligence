@@ -1,0 +1,91 @@
+{
+  "player_id": "7634",
+  "player_name": "Aaron Jones",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 0,
+    "runs": 52,
+    "balls": 40,
+    "average": 17.33,
+    "strike_rate": 130.0,
+    "highest_score": 34,
+    "fours": 2,
+    "sixes": 4,
+    "dots": 17,
+    "singles": 14,
+    "twos": 3,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1,
+      "Stump": 1,
+      "Bowled": 1
+    }
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 18,
+    "overs": 3.0,
+    "runs_charged": 20.0,
+    "wickets": 2,
+    "economy": 6.67,
+    "average": 10.0,
+    "strike_rate": 9.0,
+    "dot_pct": 27.78,
+    "boundary_pct": 11.11,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 16.0,
+        "wickets": 1,
+        "economy": 8.0
+      },
+      "middle": {
+        "overs": 1.0,
+        "runs": 4.0,
+        "wickets": 1,
+        "economy": 4.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 35429,
+      "date": "2024-08-28",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "13 (14)",
+      "bowling_figures": "0/12 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 35428,
+      "date": "2024-08-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "5 (8)",
+      "bowling_figures": "2/8 (2.0)",
+      "pressure_balls": 8,
+      "pressure_value": 13.97
+    },
+    {
+      "match_id": 35425,
+      "date": "2024-08-25",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "34 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "match_id": 14141,
+  "competition_kind": "IPL",
+  "calendar_year": 2022,
+  "result": "Kolkata Knight Riders Won by 7 Wickets",
+  "innings_totals": {
+    "innings_1": 152.6,
+    "innings_1_sigma": 2.02,
+    "innings_2": 157.2
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "Elevated": 5,
+      "High": 2
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "3": {
+      "High": 6,
+      "Normal": 5,
+      "Elevated": 1
+    },
+    "4": {
+      "High": 7,
+      "Normal": 5,
+      "Elevated": 1
+    },
+    "5": {
+      "Elevated": 8,
+      "High": 7
+    },
+    "6": {
+      "Normal": 6,
+      "High": 6
+    },
+    "7": {
+      "Normal": 6,
+      "High": 6
+    },
+    "8": {
+      "Normal": 6,
+      "High": 6
+    },
+    "9": {
+      "Normal": 7,
+      "High": 6
+    },
+    "10": {
+      "High": 8,
+      "Normal": 6
+    },
+    "11": {
+      "Normal": 6,
+      "High": 4,
+      "Extreme": 2
+    },
+    "12": {
+      "High": 6,
+      "Normal": 4,
+      "Elevated": 2
+    },
+    "13": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "14": {
+      "High": 6,
+      "Elevated": 3,
+      "Normal": 3
+    },
+    "15": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "16": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "17": {
+      "Extreme": 7,
+      "Elevated": 6
+    },
+    "18": {
+      "Extreme": 6,
+      "Normal": 5,
+      "Elevated": 2
+    },
+    "19": {
+      "High": 8,
+      "Extreme": 6,
+      "Elevated": 2,
+      "Normal": 1
+    },
+    "20": {
+      "High": 7,
+      "Normal": 1
+    }
+  },
+  "turning_point_count": 5
+}

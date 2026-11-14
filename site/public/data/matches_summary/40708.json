@@ -1,0 +1,91 @@
+{
+  "match_id": 40708,
+  "competition_kind": "IPL",
+  "calendar_year": 2025,
+  "result": "Kolkata Knight Riders Won by 80 runs",
+  "innings_totals": {
+    "innings_1": 199.0,
+    "innings_1_sigma": 1.91,
+    "innings_2": 119.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 7,
+      "Elevated": 4,
+      "High": 2
+    },
+    "2": {
+      "Elevated": 12,
+      "Normal": 1
+    },
+    "3": {
+      "Normal": 9,
+      "Elevated": 3
+    },
+    "4": {
+      "Normal": 12
+    },
+    "5": {
+      "Normal": 12
+    },
+    "6": {
+      "Normal": 12
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 13
+    },
+    "11": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "12": {
+      "Normal": 12
+    },
+    "13": {
+      "Normal": 9,
+      "Elevated": 3
+    },
+    "14": {
+      "Normal": 13
+    },
+    "15": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "16": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "17": {
+      "Normal": 5,
+      "Elevated": 4,
+      "High": 2
+    },
+    "18": {
+      "High": 6
+    },
+    "19": {
+      "High": 6
+    },
+    "20": {
+      "High": 7
+    }
+  },
+  "turning_point_count": 5
+}

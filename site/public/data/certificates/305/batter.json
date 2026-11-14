@@ -1,0 +1,45 @@
+{
+  "player_id": "305",
+  "player_name": "Ravichandran Ashwin",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 51.69,
+  "rating_ci90": [
+    24.04,
+    79.98
+  ],
+  "p_outperform": 0.5415,
+  "top10_inclusion_prob": 0.0352,
+  "rank_ci90": [
+    14,
+    138
+  ],
+  "composite": 0.1959,
+  "components": {
+    "PV": {
+      "observed": -0.0697,
+      "adjusted": -0.0697,
+      "z_score": -0.0677,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.0138,
+      "adjusted": -0.0138,
+      "z_score": 0.1694,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.6249,
+      "adjusted": 0.6249,
+      "z_score": 0.4861,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 82,
+    "neff_pressure": 80.72,
+    "n_pressure_matches": 16
+  },
+  "explanation": "Ravichandran Ashwin generated a pressure value of -6.97 runs/100 balls (Clutch Delta: -1.38) at a 162.2 strike rate with 83.3% consistency across 16 pressure matches (82 balls)."
+}

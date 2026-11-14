@@ -1,0 +1,285 @@
+{
+  "phase": 3,
+  "model_version": "pressure-v1.1",
+  "live_model": "Plan C (Transparent Logistic CDI)",
+  "gates": {
+    "G_T1": {
+      "name": "Transition Smoothness & Domain Bounds",
+      "status": "PASS",
+      "max_within_phase_diff": 0.014711416558406132,
+      "max_boundary_diff": 0.08029797339953654,
+      "death_wicket_prob": 0.07719105733282934,
+      "pp_wicket_prob": 0.04180325880598228,
+      "free_hit_wicket_prob": 0.0037513731053184186
+    },
+    "G_G1": {
+      "name": "Chase WP Calibration & Brier",
+      "status": "FAIL",
+      "slope": 1.1353439506517389,
+      "brier": 0.13533356229968213,
+      "baseline_brier": 0.24901107566060252,
+      "ece": 0.0905284312310392,
+      "max_ece_threshold": 0.04,
+      "separation": 0.4711335641292281,
+      "plan_a_slope": 0.7356859818816257,
+      "plan_a_brier": 0.12096916744436549,
+      "ten_bin_table": [
+        {
+          "bin": 0,
+          "count": 3567,
+          "avg_pred": 0.037398856449745936,
+          "avg_true": 0.031959629941127,
+          "gap": 0.005439226508618937
+        },
+        {
+          "bin": 1,
+          "count": 1572,
+          "avg_pred": 0.14510475173358292,
+          "avg_true": 0.2455470737913486,
+          "gap": 0.10044232205776568
+        },
+        {
+          "bin": 2,
+          "count": 1175,
+          "avg_pred": 0.25160528767129325,
+          "avg_true": 0.4051063829787234,
+          "gap": 0.15350109530743017
+        },
+        {
+          "bin": 3,
+          "count": 1145,
+          "avg_pred": 0.3491805310967634,
+          "avg_true": 0.5170305676855895,
+          "gap": 0.16785003658882613
+        },
+        {
+          "bin": 4,
+          "count": 1127,
+          "avg_pred": 0.4491636408495126,
+          "avg_true": 0.6681455190771961,
+          "gap": 0.2189818782276835
+        },
+        {
+          "bin": 5,
+          "count": 962,
+          "avg_pred": 0.5515192895722587,
+          "avg_true": 0.7193347193347194,
+          "gap": 0.16781542976246067
+        },
+        {
+          "bin": 6,
+          "count": 962,
+          "avg_pred": 0.6483533196941836,
+          "avg_true": 0.7817047817047817,
+          "gap": 0.1333514620105981
+        },
+        {
+          "bin": 7,
+          "count": 1088,
+          "avg_pred": 0.7525994722145682,
+          "avg_true": 0.8575367647058824,
+          "gap": 0.10493729249131412
+        },
+        {
+          "bin": 8,
+          "count": 1459,
+          "avg_pred": 0.8517969209415361,
+          "avg_true": 0.8944482522275531,
+          "gap": 0.04265133128601695
+        },
+        {
+          "bin": 9,
+          "count": 2000,
+          "avg_pred": 0.9493388671454306,
+          "avg_true": 0.9995,
+          "gap": 0.05016113285456947
+        }
+      ],
+      "train_test_split": {
+        "train_chase_deliveries": 78008,
+        "test_chase_deliveries": 15057,
+        "train_matches": 681,
+        "test_matches": 134,
+        "leakage_proof": "Strict temporal split calendar_year < 2026. Zero 2026 deliveries or labels used during model training or scaler fitting."
+      }
+    },
+    "G_A1": {
+      "name": "First-Innings Central 80% Coverage",
+      "status": "PASS",
+      "coverage": {
+        "ball_0": {
+          "rate": 0.7794117647058824,
+          "covered": 106,
+          "total": 136,
+          "passed": true
+        },
+        "ball_30": {
+          "rate": 0.7720588235294118,
+          "covered": 105,
+          "total": 136,
+          "passed": true
+        },
+        "ball_60": {
+          "rate": 0.7794117647058824,
+          "covered": 106,
+          "total": 136,
+          "passed": true
+        },
+        "ball_90": {
+          "rate": 0.7352941176470589,
+          "covered": 100,
+          "total": 136,
+          "passed": true
+        },
+        "ball_114": {
+          "rate": 0.7647058823529411,
+          "covered": 104,
+          "total": 136,
+          "passed": true
+        }
+      }
+    },
+    "G_A2": {
+      "name": "First-Innings WP1 Brier vs Baseline",
+      "status": "FAIL",
+      "brier_summary": {
+        "ball_0": {
+          "brier": 0.24586143901413823,
+          "baseline_brier": 0.24562067474048443,
+          "beats_baseline": false
+        },
+        "ball_30": {
+          "brier": 0.24110983542378903,
+          "baseline_brier": 0.24562067474048443,
+          "beats_baseline": true
+        },
+        "ball_60": {
+          "brier": 0.23933609721970306,
+          "baseline_brier": 0.24562067474048443,
+          "beats_baseline": true
+        },
+        "ball_90": {
+          "brier": 0.21476243764325031,
+          "baseline_brier": 0.24562067474048443,
+          "beats_baseline": true
+        },
+        "ball_114": {
+          "brier": 0.2059518329366314,
+          "baseline_brier": 0.24562067474048443,
+          "beats_baseline": true
+        }
+      }
+    },
+    "G_A3": {
+      "name": "First-Innings Defense Curve W(T) Calibration Slope",
+      "status": "FAIL",
+      "details": {
+        "slope_raw_test": 0.39785512400289774,
+        "intercept_raw_test": -0.4028597172531323,
+        "n_test_matches": 136,
+        "slope_raw_train": 0.584863314955322,
+        "intercept_raw_train": -0.1417806637988809,
+        "platt_alpha": -0.1417806637988809,
+        "platt_beta": 0.584863314955322,
+        "slope_cal_test": 0.6805047602978856,
+        "n_train_matches": 692,
+        "brier_uncal_test": 0.20151678511846682,
+        "brier_cal_test": 0.19280013020341258
+      },
+      "pre_registered_range": [
+        0.8,
+        1.2
+      ]
+    },
+    "G_B": {
+      "name": "DaR Mathematical Symmetry & Martingale",
+      "status": "PASS",
+      "max_dar_symmetry_diff_empirical": 7.112366251504909e-16,
+      "max_dar_li_half_diff_empirical": 3.5475095083725705e-16,
+      "max_martingale_error_10k_states": 5.18021633618207e-16,
+      "max_symmetry_gap_10k_states": 5.18031798013574e-16,
+      "max_half_li_gap_10k_states": 2.5869063835504136e-16,
+      "toy_example": {
+        "V_bat": 0.5115,
+        "LI_raw": 0.06535000000000002,
+        "DaR_bat": 0.032674999999999975,
+        "DaR_bowl": 0.03267500000000004,
+        "symmetry_gap": 6.245004513516506e-17,
+        "li_gap": 3.469446951953614e-17
+      }
+    },
+    "G_C2": {
+      "name": "Target Reconstruction Uncertainty Monte Carlo",
+      "status": "PASS",
+      "mean_band_change_share": 0.06978466663084941,
+      "threshold": 0.15,
+      "p95_change_share": 0.0739375705152313
+    },
+    "CANONICAL_STATES": {
+      "name": "Pre-Registered Canonical States",
+      "status": "PASS",
+      "details": {
+        "plan_a_dp": {
+          "cs1": {
+            "V": 0.9988887117368928,
+            "LI_raw": 0.0005071781634642668,
+            "PI_global": 7.6480094922466355,
+            "passed": true
+          },
+          "cs2": {
+            "V": 0.5055692294126165,
+            "LI_raw": 0.03188737244459996,
+            "PI_global": 95.04367660897672,
+            "PI_p2": 95.89990118906196,
+            "passed": true
+          },
+          "cs3": {
+            "V": 0.4915570893612696,
+            "LI_raw": 0.0910458518003516,
+            "PI_global": 99.59392005237102,
+            "passed": true
+          }
+        },
+        "plan_c_live": {
+          "cs1": {
+            "V": 0.9726613489141375,
+            "LI_raw": 0.008127056002314911,
+            "PI_global": 25.125813182766667,
+            "passed": true
+          },
+          "cs2": {
+            "V": 0.4543817671845353,
+            "LI_raw": 0.020249623306079677,
+            "PI_global": 81.08659629311403,
+            "PI_p2": 83.90825015820852,
+            "passed": true
+          },
+          "cs3": {
+            "V": 0.4481300828777826,
+            "LI_raw": 0.10321991954651014,
+            "PI_global": 99.7069473425801,
+            "passed": true
+          }
+        },
+        "status": "PASS"
+      }
+    },
+    "POPULATION_COVERAGE": {
+      "name": "Player Sample Eligibility Coverage",
+      "status": "PASS",
+      "batters_60": 182,
+      "bowlers_60": 176,
+      "batters_40": 230,
+      "bowlers_40": 233,
+      "batters_80": 149,
+      "bowlers_80": 150,
+      "min_required": 60
+    }
+  },
+  "overall_gate_g2": "FAIL",
+  "root_cause_analysis": {
+    "G_G1": "Plan C Logistic CDI model achieved calibration slope 1.1353 (within [0.85, 1.15]) and Brier 0.1353 (< 0.175), beating base rate 0.2490. However, its 10-bin Expected Calibration Error (ECE) is 0.0905, exceeding the strict pre-registered gate threshold of 0.0400. In middle bins [0.3, 0.7), 2026 empirical win rates exceeded predicted probabilities due to heightened chasing success (56.7%) in modern IPL night matches.",
+    "G_A2": "At Ball 0 (prior to first ball bowled), WP1 predicts historical environment baseline prior (~0.483). In the 2026 test set (N=136), batting-first win rate was 43.38%, yielding in-sample sample-mean variance Brier of 0.24562. The anonymous pre-match model achieved Brier 0.24586, failing to strictly beat the empirical test-set base rate by 0.00024. Deliveries from Ball 30 onward decisively beat baseline.",
+    "G_A3": "Uncalibrated defense curve W(T) from DP lookup produced a test calibration slope of 0.3979 (pre-2026 training slope 0.5849). Platt scaling fitted strictly on pre-2026 matches (alpha=-0.1418, beta=0.5849) improved test slope to 0.6805 and test Brier to 0.1928, but remained below the pre-registered [0.80, 1.20] threshold due to structural DP variance compression relative to empirical match volatility."
+  }
+}

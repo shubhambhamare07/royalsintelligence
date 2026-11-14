@@ -1,0 +1,123 @@
+{
+  "player_id": "15551",
+  "player_name": "Ackeem Auguste",
+  "batting": {
+    "matches": 9,
+    "innings": 9,
+    "not_outs": 2,
+    "runs": 165,
+    "balls": 125,
+    "average": 23.57,
+    "strike_rate": 132.0,
+    "highest_score": 50,
+    "fours": 11,
+    "sixes": 11,
+    "dots": 56,
+    "singles": 39,
+    "twos": 8,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4,
+      "Bowled": 3
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50505,
+      "date": "2026-06-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": -17.09
+    },
+    {
+      "match_id": 47969,
+      "date": "2025-11-13",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "8 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47967,
+      "date": "2025-11-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "24 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": 2.45
+    },
+    {
+      "match_id": 47966,
+      "date": "2025-11-06",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "7 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47965,
+      "date": "2025-11-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46942,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "50 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 16,
+      "pressure_value": 9.87
+    },
+    {
+      "match_id": 46251,
+      "date": "2025-09-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "41 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46250,
+      "date": "2025-09-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "17 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46249,
+      "date": "2025-09-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "15 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": 2.21
+    }
+  ]
+}

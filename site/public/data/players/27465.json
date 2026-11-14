@@ -1,0 +1,79 @@
+{
+  "player_id": "27465",
+  "player_name": "Nilansh Keswani",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 24,
+    "balls": 26,
+    "average": 12.0,
+    "strike_rate": 92.31,
+    "highest_score": 19,
+    "fours": 2,
+    "sixes": 0,
+    "dots": 12,
+    "singles": 9,
+    "twos": 2,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2
+    }
+  },
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 24,
+    "overs": 4.0,
+    "runs_charged": 31.0,
+    "wickets": 1,
+    "economy": 7.75,
+    "average": 31.0,
+    "strike_rate": 24.0,
+    "dot_pct": 33.33,
+    "boundary_pct": 16.67,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 2.0,
+        "runs": 13.0,
+        "wickets": 1,
+        "economy": 6.5
+      },
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 18.0,
+        "wickets": 0,
+        "economy": 9.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 37092,
+      "date": "2024-10-21",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "5 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37087,
+      "date": "2024-10-19",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "19 (17)",
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 17,
+      "pressure_value": -3.27
+    }
+  ]
+}

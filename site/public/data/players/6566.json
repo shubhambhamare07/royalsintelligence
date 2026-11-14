@@ -1,0 +1,73 @@
+{
+  "player_id": "6566",
+  "player_name": "Matthew John Fisher",
+  "batting": null,
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 54,
+    "overs": 9.0,
+    "runs_charged": 116.0,
+    "wickets": 3,
+    "economy": 12.89,
+    "average": 38.67,
+    "strike_rate": 18.0,
+    "dot_pct": 27.42,
+    "boundary_pct": 22.58,
+    "wides": 5,
+    "no_balls": 3,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 31.0,
+        "wickets": 1,
+        "economy": 15.5
+      },
+      "middle": {
+        "overs": 4.0,
+        "runs": 55.0,
+        "wickets": 1,
+        "economy": 13.75
+      },
+      "powerplay": {
+        "overs": 3.0,
+        "runs": 30.0,
+        "wickets": 1,
+        "economy": 10.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 54213,
+      "date": "2026-10-30",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/40 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54212,
+      "date": "2026-10-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/23 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50188,
+      "date": "2026-04-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/53 (4.0)",
+      "pressure_balls": 19,
+      "pressure_value": -9.69
+    }
+  ]
+}

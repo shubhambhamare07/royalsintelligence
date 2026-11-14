@@ -1,0 +1,102 @@
+{
+  "match_id": 13613,
+  "competition_kind": "T20I",
+  "calendar_year": 2022,
+  "result": "Australia Won the one over Eliminator",
+  "innings_totals": {
+    "innings_1": 164.6,
+    "innings_1_sigma": 4.8,
+    "innings_2": 163.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 4.8
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 6
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 7,
+      "High": 5
+    },
+    "5": {
+      "Elevated": 7,
+      "High": 3,
+      "Normal": 2
+    },
+    "6": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 9,
+      "Elevated": 4
+    },
+    "12": {
+      "Normal": 12
+    },
+    "13": {
+      "Normal": 12
+    },
+    "14": {
+      "Normal": 11,
+      "Elevated": 2
+    },
+    "15": {
+      "Elevated": 8,
+      "Normal": 3,
+      "High": 1
+    },
+    "16": {
+      "Elevated": 6,
+      "Extreme": 4,
+      "High": 2
+    },
+    "17": {
+      "Elevated": 5,
+      "Normal": 4,
+      "High": 3
+    },
+    "18": {
+      "High": 10,
+      "Normal": 5
+    },
+    "19": {
+      "High": 7,
+      "Extreme": 3,
+      "Elevated": 1,
+      "Normal": 1
+    },
+    "20": {
+      "High": 7,
+      "Normal": 3,
+      "Extreme": 3
+    }
+  },
+  "turning_point_count": 5
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="30" height="20">
+  <rect width="1200" height="600" fill="#00247D"/>
+  <!-- Union Jack Canton -->
+  <g>
+    <rect width="600" height="300" fill="#00247D"/>
+    <path d="M0,0 L600,300 M600,0 L0,300" stroke="#FFFFFF" stroke-width="60"/>
+    <path d="M0,0 L600,300 M600,0 L0,300" stroke="#CC142B" stroke-width="20"/>
+    <path d="M300,0 L300,300 M0,150 L600,150" stroke="#FFFFFF" stroke-width="100"/>
+    <path d="M300,0 L300,300 M0,150 L600,150" stroke="#CC142B" stroke-width="60"/>
+  </g>
+  <!-- NZ Red Stars with White Borders -->
+  <polygon points="900,100 906,120 926,120 910,132 916,152 900,140 884,152 890,132 874,120 894,120" fill="#CC142B" stroke="#FFFFFF" stroke-width="6"/>
+  <polygon points="1000,220 1005,235 1020,235 1008,245 1012,260 1000,250 988,260 992,245 980,235 995,235" fill="#CC142B" stroke="#FFFFFF" stroke-width="5"/>
+  <polygon points="900,420 906,440 926,440 910,452 916,472 900,460 884,472 890,452 874,440 894,440" fill="#CC142B" stroke="#FFFFFF" stroke-width="6"/>
+  <polygon points="820,260 825,275 840,275 828,285 832,300 820,290 808,300 812,285 800,275 815,275" fill="#CC142B" stroke="#FFFFFF" stroke-width="5"/>
+</svg>

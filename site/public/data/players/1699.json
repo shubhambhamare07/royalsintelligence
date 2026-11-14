@@ -1,0 +1,509 @@
+{
+  "player_id": "1699",
+  "player_name": "Suryakumar Yadav",
+  "batting": {
+    "matches": 132,
+    "innings": 132,
+    "not_outs": 21,
+    "runs": 4413,
+    "balls": 2649,
+    "average": 39.76,
+    "strike_rate": 166.59,
+    "highest_score": 117,
+    "fours": 413,
+    "sixes": 240,
+    "dots": 853,
+    "singles": 968,
+    "twos": 172,
+    "threes": 3,
+    "ducks": 10,
+    "thirties": 21,
+    "fifties": 33,
+    "hundreds": 6,
+    "dismissals_by_type": {
+      "Caught": 93,
+      "LBW": 8,
+      "Bowled": 8,
+      "Stump": 2
+    }
+  },
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 6,
+    "overs": 1.0,
+    "runs_charged": 5.0,
+    "wickets": 2,
+    "economy": 5.0,
+    "average": 2.5,
+    "strike_rate": 3.0,
+    "dot_pct": 50.0,
+    "boundary_pct": 0.0,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 5.0,
+        "wickets": 2,
+        "economy": 5.0
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 73.66,
+    "tier": "Proven",
+    "p_outperform": 0.9712,
+    "pressure_value_per_100": 26.36,
+    "clutch_delta_per_100": 2.81,
+    "consistency": 0.6157
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50390,
+      "date": "2026-05-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "60 (42)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": -1.8
+    },
+    {
+      "match_id": 50386,
+      "date": "2026-05-20",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "15 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50375,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50368,
+      "date": "2026-05-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "12 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50365,
+      "date": "2026-05-02",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "21 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50362,
+      "date": "2026-04-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "5 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50354,
+      "date": "2026-04-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "36 (30)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50351,
+      "date": "2026-04-20",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "15 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50345,
+      "date": "2026-04-16",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50144,
+      "date": "2026-04-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "33 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": -1.51
+    },
+    {
+      "match_id": 50132,
+      "date": "2026-04-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "51 (36)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50126,
+      "date": "2026-03-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "16 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48595,
+      "date": "2026-01-31",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "63 (30)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48594,
+      "date": "2026-01-28",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "8 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48593,
+      "date": "2026-01-25",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "57 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48592,
+      "date": "2026-01-23",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "82 (37)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": 11.23
+    },
+    {
+      "match_id": 48591,
+      "date": "2026-01-21",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "32 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42031,
+      "date": "2025-12-19",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "5 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42029,
+      "date": "2025-12-14",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "12 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42028,
+      "date": "2025-12-11",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "5 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42027,
+      "date": "2025-12-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "12 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41978,
+      "date": "2025-11-06",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "20 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41977,
+      "date": "2025-11-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "24 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 11,
+      "pressure_value": -0.01
+    },
+    {
+      "match_id": 41976,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45513,
+      "date": "2025-09-28",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -20.22
+    },
+    {
+      "match_id": 45512,
+      "date": "2025-09-26",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "12 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45510,
+      "date": "2025-09-24",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "5 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45508,
+      "date": "2025-09-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45500,
+      "date": "2025-09-14",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "47 (37)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45496,
+      "date": "2025-09-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "7 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 1699,
+      "player_name": "Suryakumar Yadav",
+      "role": "batter",
+      "match_id": 14137,
+      "n_balls": 22,
+      "match_runs": 40,
+      "match_pressure_value": 0.7395,
+      "career_expected_value": 0.4853,
+      "z_score": 5.8,
+      "direction": "positive"
+    },
+    {
+      "player_id": 1699,
+      "player_name": "Suryakumar Yadav",
+      "role": "batter",
+      "match_id": 13522,
+      "n_balls": 10,
+      "match_runs": 22,
+      "match_pressure_value": 0.8548,
+      "career_expected_value": 0.4853,
+      "z_score": 5.68,
+      "direction": "positive"
+    },
+    {
+      "player_id": 1699,
+      "player_name": "Suryakumar Yadav",
+      "role": "batter",
+      "match_id": 40702,
+      "n_balls": 25,
+      "match_runs": 46,
+      "match_pressure_value": 0.2915,
+      "career_expected_value": 0.4853,
+      "z_score": -4.72,
+      "direction": "negative"
+    },
+    {
+      "player_id": 1699,
+      "player_name": "Suryakumar Yadav",
+      "role": "batter",
+      "match_id": 50144,
+      "n_balls": 7,
+      "match_runs": 9,
+      "match_pressure_value": 0.1759,
+      "career_expected_value": 0.4853,
+      "z_score": -3.98,
+      "direction": "negative"
+    },
+    {
+      "player_id": 1699,
+      "player_name": "Suryakumar Yadav",
+      "role": "batter",
+      "match_id": 20222,
+      "n_balls": 14,
+      "match_runs": 20,
+      "match_pressure_value": 0.286,
+      "career_expected_value": 0.4853,
+      "z_score": -3.63,
+      "direction": "negative"
+    },
+    {
+      "player_id": 1699,
+      "player_name": "Suryakumar Yadav",
+      "role": "batter",
+      "match_id": 20211,
+      "n_balls": 9,
+      "match_runs": 18,
+      "match_pressure_value": 0.2413,
+      "career_expected_value": 0.4853,
+      "z_score": -3.56,
+      "direction": "negative"
+    },
+    {
+      "player_id": 1699,
+      "player_name": "Suryakumar Yadav",
+      "role": "batter",
+      "match_id": 24352,
+      "n_balls": 18,
+      "match_runs": 36,
+      "match_pressure_value": 0.6565,
+      "career_expected_value": 0.4853,
+      "z_score": 3.53,
+      "direction": "positive"
+    },
+    {
+      "player_id": 1699,
+      "player_name": "Suryakumar Yadav",
+      "role": "batter",
+      "match_id": 40709,
+      "n_balls": 41,
+      "match_runs": 66,
+      "match_pressure_value": 0.3735,
+      "career_expected_value": 0.4853,
+      "z_score": -3.48,
+      "direction": "negative"
+    },
+    {
+      "player_id": 1699,
+      "player_name": "Suryakumar Yadav",
+      "role": "batter",
+      "match_id": 16064,
+      "n_balls": 14,
+      "match_runs": 29,
+      "match_pressure_value": 0.6658,
+      "career_expected_value": 0.4853,
+      "z_score": 3.28,
+      "direction": "positive"
+    },
+    {
+      "player_id": 1699,
+      "player_name": "Suryakumar Yadav",
+      "role": "batter",
+      "match_id": 31273,
+      "n_balls": 28,
+      "match_runs": 50,
+      "match_pressure_value": 0.6107,
+      "career_expected_value": 0.4853,
+      "z_score": 3.23,
+      "direction": "positive"
+    },
+    {
+      "player_id": 1699,
+      "player_name": "Suryakumar Yadav",
+      "role": "batter",
+      "match_id": 24350,
+      "n_balls": 17,
+      "match_runs": 20,
+      "match_pressure_value": 0.6304,
+      "career_expected_value": 0.4853,
+      "z_score": 2.91,
+      "direction": "positive"
+    },
+    {
+      "player_id": 1699,
+      "player_name": "Suryakumar Yadav",
+      "role": "batter",
+      "match_id": 50390,
+      "n_balls": 11,
+      "match_runs": 13,
+      "match_pressure_value": 0.3136,
+      "career_expected_value": 0.4853,
+      "z_score": -2.77,
+      "direction": "negative"
+    }
+  ]
+}

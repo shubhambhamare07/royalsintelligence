@@ -1,0 +1,45 @@
+{
+  "player_id": "7094",
+  "player_name": "Curtis Campher",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 44.54,
+  "rating_ci90": [
+    17.19,
+    73.43
+  ],
+  "p_outperform": 0.3854,
+  "top10_inclusion_prob": 0.0158,
+  "rank_ci90": [
+    22,
+    146
+  ],
+  "composite": -0.0204,
+  "components": {
+    "PV": {
+      "observed": -0.0632,
+      "adjusted": -0.0632,
+      "z_score": -0.0315,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.0307,
+      "adjusted": -0.0307,
+      "z_score": 0.0798,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.5704,
+      "adjusted": 0.5704,
+      "z_score": -0.1095,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 61,
+    "neff_pressure": 34.56,
+    "n_pressure_matches": 9
+  },
+  "explanation": "Curtis Campher generated a pressure value of -6.32 runs/100 balls (Clutch Delta: -3.07) at a 119.7 strike rate with 50.0% consistency across 9 pressure matches (61 balls)."
+}

@@ -1,0 +1,53 @@
+{
+  "player_id": "38044",
+  "player_name": "Mahli Beardman",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 24,
+    "overs": 4.0,
+    "runs_charged": 33.0,
+    "wickets": 2,
+    "economy": 8.25,
+    "average": 16.5,
+    "strike_rate": 12.0,
+    "dot_pct": 38.46,
+    "boundary_pct": 11.54,
+    "wides": 1,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 12.0,
+        "wickets": 2,
+        "economy": 6.0
+      },
+      "middle": {
+        "overs": 1.0,
+        "runs": 8.0,
+        "wickets": 0,
+        "economy": 8.0
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 13.0,
+        "wickets": 0,
+        "economy": 13.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48915,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/33 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

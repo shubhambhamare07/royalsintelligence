@@ -1,0 +1,106 @@
+{
+  "match_id": 14099,
+  "competition_kind": "IPL",
+  "calendar_year": 2022,
+  "result": "Royal Challengers Bengaluru Won 3 Wkts",
+  "innings_totals": {
+    "innings_1": 125.4,
+    "innings_1_sigma": 2.02,
+    "innings_2": 126.4
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 12
+    },
+    "2": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "3": {
+      "Elevated": 11,
+      "Normal": 1
+    },
+    "4": {
+      "Elevated": 9,
+      "High": 3
+    },
+    "5": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "6": {
+      "High": 7,
+      "Normal": 6,
+      "Elevated": 1
+    },
+    "7": {
+      "Normal": 6,
+      "High": 6
+    },
+    "8": {
+      "Normal": 6,
+      "High": 3,
+      "Elevated": 3
+    },
+    "9": {
+      "Normal": 6,
+      "Elevated": 6
+    },
+    "10": {
+      "Normal": 6,
+      "Elevated": 6,
+      "High": 1
+    },
+    "11": {
+      "Normal": 6,
+      "High": 6
+    },
+    "12": {
+      "Normal": 6,
+      "High": 6
+    },
+    "13": {
+      "Normal": 7,
+      "High": 5,
+      "Extreme": 1,
+      "Elevated": 1
+    },
+    "14": {
+      "Normal": 6,
+      "Elevated": 4,
+      "High": 2
+    },
+    "15": {
+      "High": 7,
+      "Normal": 6
+    },
+    "16": {
+      "Normal": 6,
+      "High": 3,
+      "Extreme": 3
+    },
+    "17": {
+      "Normal": 6,
+      "Extreme": 6
+    },
+    "18": {
+      "Extreme": 7,
+      "Normal": 6
+    },
+    "19": {
+      "Extreme": 6,
+      "Normal": 5
+    },
+    "20": {
+      "Extreme": 2
+    }
+  },
+  "turning_point_count": 5
+}

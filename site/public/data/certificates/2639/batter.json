@@ -1,0 +1,45 @@
+{
+  "player_id": "2639",
+  "player_name": "Marcus Stoinis",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 53.06,
+  "rating_ci90": [
+    27.09,
+    79.47
+  ],
+  "p_outperform": 0.5696,
+  "top10_inclusion_prob": 0.031,
+  "rank_ci90": [
+    14,
+    133
+  ],
+  "composite": 0.2374,
+  "components": {
+    "PV": {
+      "observed": 0.0215,
+      "adjusted": 0.0215,
+      "z_score": 0.444,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.0483,
+      "adjusted": -0.0483,
+      "z_score": -0.0138,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.6062,
+      "adjusted": 0.6062,
+      "z_score": 0.282,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 184,
+    "neff_pressure": 116.93,
+    "n_pressure_matches": 27
+  },
+  "explanation": "Marcus Stoinis generated a pressure value of +2.15 runs/100 balls (Clutch Delta: -4.83) at a 175.5 strike rate with 66.7% consistency across 27 pressure matches (184 balls)."
+}

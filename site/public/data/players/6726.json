@@ -1,0 +1,587 @@
+{
+  "player_id": "6726",
+  "player_name": "Romario Shepherd",
+  "batting": {
+    "matches": 65,
+    "innings": 65,
+    "not_outs": 26,
+    "runs": 1030,
+    "balls": 663,
+    "average": 26.41,
+    "strike_rate": 155.35,
+    "highest_score": 53,
+    "fours": 61,
+    "sixes": 80,
+    "dots": 257,
+    "singles": 225,
+    "twos": 39,
+    "threes": 1,
+    "ducks": 6,
+    "thirties": 12,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 27,
+      "LBW": 7,
+      "Bowled": 5
+    }
+  },
+  "bowling": {
+    "matches": 87,
+    "legal_balls": 1485,
+    "overs": 247.5,
+    "runs_charged": 2584.0,
+    "wickets": 79,
+    "economy": 10.44,
+    "average": 32.71,
+    "strike_rate": 18.8,
+    "dot_pct": 27.75,
+    "boundary_pct": 21.56,
+    "wides": 111,
+    "no_balls": 4,
+    "phase_splits": {
+      "death": {
+        "overs": 69.8,
+        "runs": 797.0,
+        "wickets": 36,
+        "economy": 11.41
+      },
+      "middle": {
+        "overs": 135.7,
+        "runs": 1357.0,
+        "wickets": 34,
+        "economy": 10.0
+      },
+      "powerplay": {
+        "overs": 42.0,
+        "runs": 430.0,
+        "wickets": 9,
+        "economy": 10.24
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 56.55,
+    "tier": "Unproven",
+    "p_outperform": 0.6576,
+    "pressure_value_per_100": 13.68,
+    "clutch_delta_per_100": -15.62,
+    "consistency": 0.6282
+  },
+  "rated_bowling": {
+    "rating": 41.98,
+    "tier": "Unproven",
+    "p_outperform": 0.2251,
+    "pressure_value_per_6": -0.21,
+    "clutch_delta_per_6": 0.36,
+    "consistency": 0.4308
+  },
+  "recent_matches": [
+    {
+      "match_id": 50407,
+      "date": "2026-10-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/32 (3.0)",
+      "pressure_balls": 13,
+      "pressure_value": 1.82
+    },
+    {
+      "match_id": 50405,
+      "date": "2026-10-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "34 (13)",
+      "bowling_figures": "0/47 (3.7)",
+      "pressure_balls": 13,
+      "pressure_value": 15.3
+    },
+    {
+      "match_id": 50404,
+      "date": "2026-10-06",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "7 (5)",
+      "bowling_figures": "0/24 (2.0)",
+      "pressure_balls": 6,
+      "pressure_value": -0.48
+    },
+    {
+      "match_id": 50504,
+      "date": "2026-06-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/41 (3.0)",
+      "pressure_balls": 1,
+      "pressure_value": -4.42
+    },
+    {
+      "match_id": 50503,
+      "date": "2026-06-12",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/17 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50942,
+      "date": "2026-05-26",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/15 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50388,
+      "date": "2026-05-22",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/37 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50382,
+      "date": "2026-05-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/8 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50375,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "4 (11)",
+      "bowling_figures": "1/18 (3.0)",
+      "pressure_balls": 12,
+      "pressure_value": -14.29
+    },
+    {
+      "match_id": 50363,
+      "date": "2026-04-30",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "17 (15)",
+      "bowling_figures": "2/30 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50360,
+      "date": "2026-04-27",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/21 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50355,
+      "date": "2026-04-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/17 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50347,
+      "date": "2026-04-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (4)",
+      "bowling_figures": "0/17 (0.8)",
+      "pressure_balls": 5,
+      "pressure_value": -7.35
+    },
+    {
+      "match_id": 50344,
+      "date": "2026-04-15",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "14 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50144,
+      "date": "2026-04-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (2)",
+      "bowling_figures": "0/28 (1.2)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50140,
+      "date": "2026-04-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "22 (11)",
+      "bowling_figures": "0/18 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50135,
+      "date": "2026-04-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/19 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50125,
+      "date": "2026-03-28",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "3/54 (4.0)",
+      "pressure_balls": 3,
+      "pressure_value": -3.36
+    },
+    {
+      "match_id": 41850,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "17 (10)",
+      "bowling_figures": "0/35 (2.0)",
+      "pressure_balls": 6,
+      "pressure_value": -8.45
+    },
+    {
+      "match_id": 41849,
+      "date": "2026-01-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "0/29 (3.0)",
+      "pressure_balls": 1,
+      "pressure_value": -0.76
+    },
+    {
+      "match_id": 47969,
+      "date": "2025-11-13",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "36 (22)",
+      "bowling_figures": "1/21 (2.7)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47967,
+      "date": "2025-11-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "49 (34)",
+      "bowling_figures": "1/23 (3.0)",
+      "pressure_balls": 9,
+      "pressure_value": 5.06
+    },
+    {
+      "match_id": 47966,
+      "date": "2025-11-06",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "34 (16)",
+      "bowling_figures": "1/38 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47965,
+      "date": "2025-11-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (5)",
+      "bowling_figures": "1/26 (3.0)",
+      "pressure_balls": 17,
+      "pressure_value": 2.25
+    },
+    {
+      "match_id": 46942,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "3/36 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46941,
+      "date": "2025-10-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "13 (16)",
+      "bowling_figures": "3/29 (4.0)",
+      "pressure_balls": 26,
+      "pressure_value": 5.54
+    },
+    {
+      "match_id": 46940,
+      "date": "2025-10-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/29 (3.7)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41512,
+      "date": "2025-08-04",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "4 (3)",
+      "bowling_figures": "0/20 (2.0)",
+      "pressure_balls": 1,
+      "pressure_value": -0.18
+    },
+    {
+      "match_id": 41511,
+      "date": "2025-08-03",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "15 (11)",
+      "bowling_figures": "0/22 (2.0)",
+      "pressure_balls": 12,
+      "pressure_value": 3.99
+    },
+    {
+      "match_id": 41510,
+      "date": "2025-08-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "12 (5)",
+      "bowling_figures": "1/29 (3.0)",
+      "pressure_balls": 2,
+      "pressure_value": -1.2
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 6726,
+      "player_name": "Romario Shepherd",
+      "role": "bowler",
+      "match_id": 19961,
+      "n_balls": 19,
+      "match_runs_conceded": 28,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8356,
+      "career_expected_value": 0.5091,
+      "z_score": 6.92,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6726,
+      "player_name": "Romario Shepherd",
+      "role": "bowler",
+      "match_id": 50407,
+      "n_balls": 13,
+      "match_runs_conceded": 21,
+      "match_wickets": 1,
+      "match_pressure_value": 0.8139,
+      "career_expected_value": 0.5091,
+      "z_score": 5.34,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6726,
+      "player_name": "Romario Shepherd",
+      "role": "bowler",
+      "match_id": 13522,
+      "n_balls": 14,
+      "match_runs_conceded": 14,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2317,
+      "career_expected_value": 0.5091,
+      "z_score": -5.04,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6726,
+      "player_name": "Romario Shepherd",
+      "role": "bowler",
+      "match_id": 40767,
+      "n_balls": 16,
+      "match_runs_conceded": 19,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7642,
+      "career_expected_value": 0.5091,
+      "z_score": 4.96,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6726,
+      "player_name": "Romario Shepherd",
+      "role": "batter",
+      "match_id": 13524,
+      "n_balls": 9,
+      "match_runs": 13,
+      "match_pressure_value": 0.1001,
+      "career_expected_value": 0.4219,
+      "z_score": -4.7,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6726,
+      "player_name": "Romario Shepherd",
+      "role": "bowler",
+      "match_id": 32618,
+      "n_balls": 13,
+      "match_runs_conceded": 10,
+      "match_wickets": 1,
+      "match_pressure_value": 0.764,
+      "career_expected_value": 0.5091,
+      "z_score": 4.47,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6726,
+      "player_name": "Romario Shepherd",
+      "role": "bowler",
+      "match_id": 36200,
+      "n_balls": 13,
+      "match_runs_conceded": 25,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7421,
+      "career_expected_value": 0.5091,
+      "z_score": 4.08,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6726,
+      "player_name": "Romario Shepherd",
+      "role": "bowler",
+      "match_id": 37351,
+      "n_balls": 13,
+      "match_runs_conceded": 15,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2796,
+      "career_expected_value": 0.5091,
+      "z_score": -4.02,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6726,
+      "player_name": "Romario Shepherd",
+      "role": "bowler",
+      "match_id": 41508,
+      "n_balls": 11,
+      "match_runs_conceded": 23,
+      "match_wickets": 1,
+      "match_pressure_value": 0.2701,
+      "career_expected_value": 0.5091,
+      "z_score": -3.85,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6726,
+      "player_name": "Romario Shepherd",
+      "role": "bowler",
+      "match_id": 37349,
+      "n_balls": 10,
+      "match_runs_conceded": 12,
+      "match_wickets": 1,
+      "match_pressure_value": 0.2728,
+      "career_expected_value": 0.5091,
+      "z_score": -3.63,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6726,
+      "player_name": "Romario Shepherd",
+      "role": "batter",
+      "match_id": 14105,
+      "n_balls": 7,
+      "match_runs": 8,
+      "match_pressure_value": 0.159,
+      "career_expected_value": 0.4219,
+      "z_score": -3.38,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6726,
+      "player_name": "Romario Shepherd",
+      "role": "bowler",
+      "match_id": 46941,
+      "n_balls": 26,
+      "match_runs_conceded": 29,
+      "match_wickets": 3,
+      "match_pressure_value": 0.3765,
+      "career_expected_value": 0.5091,
+      "z_score": -3.29,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6726,
+      "player_name": "Romario Shepherd",
+      "role": "bowler",
+      "match_id": 36097,
+      "n_balls": 20,
+      "match_runs_conceded": 14,
+      "match_wickets": 3,
+      "match_pressure_value": 0.3584,
+      "career_expected_value": 0.5091,
+      "z_score": -3.28,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6726,
+      "player_name": "Romario Shepherd",
+      "role": "batter",
+      "match_id": 47967,
+      "n_balls": 9,
+      "match_runs": 12,
+      "match_pressure_value": 0.2063,
+      "career_expected_value": 0.4219,
+      "z_score": -3.15,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6726,
+      "player_name": "Romario Shepherd",
+      "role": "bowler",
+      "match_id": 50404,
+      "n_balls": 6,
+      "match_runs_conceded": 5,
+      "match_wickets": 0,
+      "match_pressure_value": 0.254,
+      "career_expected_value": 0.5091,
+      "z_score": -3.04,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6726,
+      "player_name": "Romario Shepherd",
+      "role": "batter",
+      "match_id": 40745,
+      "n_balls": 14,
+      "match_runs": 53,
+      "match_pressure_value": 0.5842,
+      "career_expected_value": 0.4219,
+      "z_score": 2.95,
+      "direction": "positive"
+    }
+  ]
+}

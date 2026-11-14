@@ -1,0 +1,100 @@
+{
+  "player_id": "1195",
+  "player_name": "Ben Stokes",
+  "batting": {
+    "matches": 4,
+    "innings": 4,
+    "not_outs": 0,
+    "runs": 31,
+    "balls": 34,
+    "average": 7.75,
+    "strike_rate": 91.18,
+    "highest_score": 9,
+    "fours": 3,
+    "sixes": 0,
+    "dots": 13,
+    "singles": 17,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "Bowled": 1
+    }
+  },
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 30,
+    "overs": 5.0,
+    "runs_charged": 46.0,
+    "wickets": 1,
+    "economy": 9.2,
+    "average": 46.0,
+    "strike_rate": 30.0,
+    "dot_pct": 18.18,
+    "boundary_pct": 15.15,
+    "wides": 3,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 3.0,
+        "runs": 24.0,
+        "wickets": 1,
+        "economy": 8.0
+      },
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 22.0,
+        "wickets": 0,
+        "economy": 11.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 20186,
+      "date": "2023-04-03",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "8 (8)",
+      "bowling_figures": "0/18 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20181,
+      "date": "2023-03-31",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "7 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17764,
+      "date": "2022-10-12",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "7 (11)",
+      "bowling_figures": "1/10 (2.0)",
+      "pressure_balls": 9,
+      "pressure_value": 8.95
+    },
+    {
+      "match_id": 17763,
+      "date": "2022-10-09",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "9 (9)",
+      "bowling_figures": "0/18 (2.0)",
+      "pressure_balls": 4,
+      "pressure_value": 0.34
+    }
+  ]
+}

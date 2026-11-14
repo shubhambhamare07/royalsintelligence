@@ -1,0 +1,53 @@
+{
+  "player_id": "2884",
+  "player_name": "Manan Vohra",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 29,
+    "balls": 22,
+    "average": 14.5,
+    "strike_rate": 131.82,
+    "highest_score": 19,
+    "fours": 2,
+    "sixes": 2,
+    "dots": 9,
+    "singles": 9,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 20226,
+      "date": "2023-05-03",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "10 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15188,
+      "date": "2022-05-25",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "19 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

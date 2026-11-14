@@ -1,0 +1,83 @@
+{
+  "player_id": "8040",
+  "player_name": "Ripal Patel",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 2,
+    "runs": 55,
+    "balls": 46,
+    "average": 18.33,
+    "strike_rate": 119.57,
+    "highest_score": 23,
+    "fours": 3,
+    "sixes": 2,
+    "dots": 12,
+    "singles": 27,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2,
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 20235,
+      "date": "2023-05-10",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "10 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20224,
+      "date": "2023-05-02",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "23 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20220,
+      "date": "2023-04-29",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "11 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20214,
+      "date": "2023-04-24",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "5 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14149,
+      "date": "2022-05-08",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "6 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

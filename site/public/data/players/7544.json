@@ -1,0 +1,427 @@
+{
+  "player_id": "7544",
+  "player_name": "Venkatesh Iyer",
+  "batting": {
+    "matches": 54,
+    "innings": 54,
+    "not_outs": 10,
+    "runs": 1365,
+    "balls": 915,
+    "average": 31.02,
+    "strike_rate": 149.18,
+    "highest_score": 104,
+    "fours": 127,
+    "sixes": 67,
+    "dots": 338,
+    "singles": 316,
+    "twos": 64,
+    "threes": 2,
+    "ducks": 2,
+    "thirties": 9,
+    "fifties": 9,
+    "hundreds": 1,
+    "dismissals_by_type": {
+      "Caught": 33,
+      "Bowled": 6,
+      "LBW": 3,
+      "Stump": 1,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 7,
+    "legal_balls": 49,
+    "overs": 8.2,
+    "runs_charged": 101.0,
+    "wickets": 2,
+    "economy": 12.37,
+    "average": 50.5,
+    "strike_rate": 24.5,
+    "dot_pct": 20.41,
+    "boundary_pct": 34.69,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 24.0,
+        "wickets": 0,
+        "economy": 12.0
+      },
+      "middle": {
+        "overs": 6.0,
+        "runs": 71.0,
+        "wickets": 2,
+        "economy": 11.83
+      },
+      "powerplay": {
+        "overs": 0.2,
+        "runs": 6.0,
+        "wickets": 0,
+        "economy": 36.0
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 53.54,
+    "tier": "Unproven",
+    "p_outperform": 0.5922,
+    "pressure_value_per_100": 5.14,
+    "clutch_delta_per_100": -2.92,
+    "consistency": 0.5856
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50945,
+      "date": "2026-05-31",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "32 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50942,
+      "date": "2026-05-26",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "19 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50388,
+      "date": "2026-05-22",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "44 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -9.66
+    },
+    {
+      "match_id": 50382,
+      "date": "2026-05-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "73 (40)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50363,
+      "date": "2026-04-30",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "12 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50140,
+      "date": "2026-04-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "29 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": 4.61
+    },
+    {
+      "match_id": 40741,
+      "date": "2025-04-29",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "7 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40732,
+      "date": "2025-04-21",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "14 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40724,
+      "date": "2025-04-15",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "7 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40712,
+      "date": "2025-04-08",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "45 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 27,
+      "pressure_value": -0.49
+    },
+    {
+      "match_id": 40708,
+      "date": "2025-04-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "60 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": 13.46
+    },
+    {
+      "match_id": 40705,
+      "date": "2025-03-31",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "3 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40694,
+      "date": "2025-03-22",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "6 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31292,
+      "date": "2024-05-26",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "52 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31289,
+      "date": "2024-05-21",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "51 (28)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31278,
+      "date": "2024-05-11",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "42 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31272,
+      "date": "2024-05-05",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "1 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31269,
+      "date": "2024-05-03",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "70 (52)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": 1.1
+    },
+    {
+      "match_id": 31265,
+      "date": "2024-04-29",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "26 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31260,
+      "date": "2024-04-26",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "39 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31254,
+      "date": "2024-04-21",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "16 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31250,
+      "date": "2024-04-16",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "8 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31240,
+      "date": "2024-04-08",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "3 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30071,
+      "date": "2024-04-03",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "5 (2)",
+      "bowling_figures": "0/28 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30065,
+      "date": "2024-03-29",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "50 (30)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30058,
+      "date": "2024-03-23",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "7 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20248,
+      "date": "2023-05-20",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "24 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": 13.72
+    },
+    {
+      "match_id": 20241,
+      "date": "2023-05-14",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "9 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20236,
+      "date": "2023-05-11",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "57 (42)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20233,
+      "date": "2023-05-08",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "11 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 13,
+      "pressure_value": -6.38
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 7544,
+      "player_name": "Venkatesh Iyer",
+      "role": "batter",
+      "match_id": 13522,
+      "n_balls": 7,
+      "match_runs": 9,
+      "match_pressure_value": 0.8628,
+      "career_expected_value": 0.4658,
+      "z_score": 5.11,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7544,
+      "player_name": "Venkatesh Iyer",
+      "role": "bowler",
+      "match_id": 14134,
+      "n_balls": 6,
+      "match_runs_conceded": 14,
+      "match_wickets": 0,
+      "match_pressure_value": 0.1983,
+      "career_expected_value": 0.5206,
+      "z_score": -3.84,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7544,
+      "player_name": "Venkatesh Iyer",
+      "role": "batter",
+      "match_id": 40712,
+      "n_balls": 23,
+      "match_runs": 34,
+      "match_pressure_value": 0.3238,
+      "career_expected_value": 0.4658,
+      "z_score": -3.31,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7544,
+      "player_name": "Venkatesh Iyer",
+      "role": "batter",
+      "match_id": 20248,
+      "n_balls": 8,
+      "match_runs": 21,
+      "match_pressure_value": 0.6836,
+      "career_expected_value": 0.4658,
+      "z_score": 3.0,
+      "direction": "positive"
+    }
+  ]
+}

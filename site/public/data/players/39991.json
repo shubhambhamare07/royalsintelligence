@@ -1,0 +1,79 @@
+{
+  "player_id": "39991",
+  "player_name": "Parveen Kumar",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 4,
+    "balls": 8,
+    "average": 4.0,
+    "strike_rate": 50.0,
+    "highest_score": 4,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 5,
+    "singles": 2,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Stump": 1
+    }
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 48,
+    "overs": 8.0,
+    "runs_charged": 32.0,
+    "wickets": 2,
+    "economy": 4.0,
+    "average": 16.0,
+    "strike_rate": 24.0,
+    "dot_pct": 61.22,
+    "boundary_pct": 6.12,
+    "wides": 1,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 7.0,
+        "runs": 28.0,
+        "wickets": 2,
+        "economy": 4.0
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 4.0,
+        "wickets": 0,
+        "economy": 4.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 35428,
+      "date": "2024-08-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/22 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 35427,
+      "date": "2024-08-26",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "4 (8)",
+      "bowling_figures": "2/10 (4.0)",
+      "pressure_balls": 20,
+      "pressure_value": 9.4
+    }
+  ]
+}

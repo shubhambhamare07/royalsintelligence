@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="30" height="20">
+  <rect width="900" height="600" fill="#7B002C"/>
+  <circle cx="450" cy="300" r="160" fill="#FFC72C"/>
+  <circle cx="450" cy="300" r="130" fill="#00843D"/>
+  <!-- Cricket wickets and palm tree -->
+  <rect x="425" y="240" width="10" height="90" fill="#FFFFFF"/>
+  <rect x="445" y="240" width="10" height="90" fill="#FFFFFF"/>
+  <rect x="465" y="240" width="10" height="90" fill="#FFFFFF"/>
+  <rect x="420" y="235" width="60" height="8" fill="#FFFFFF"/>
+  <!-- Palm fronds -->
+  <path d="M 450,220 Q 420,180 390,200 Q 430,200 450,220" fill="#FFFFFF"/>
+  <path d="M 450,220 Q 480,180 510,200 Q 470,200 450,220" fill="#FFFFFF"/>
+  <path d="M 450,220 Q 450,160 450,170" fill="none" stroke="#FFFFFF" stroke-width="8"/>
+</svg>

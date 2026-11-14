@@ -1,0 +1,440 @@
+{
+  "player_id": "829",
+  "player_name": "Mitchell Starc",
+  "batting": {
+    "matches": 12,
+    "innings": 12,
+    "not_outs": 7,
+    "runs": 21,
+    "balls": 27,
+    "average": 4.2,
+    "strike_rate": 77.78,
+    "highest_score": 6,
+    "fours": 1,
+    "sixes": 0,
+    "dots": 12,
+    "singles": 11,
+    "twos": 3,
+    "threes": 0,
+    "ducks": 4,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "Bowled": 1,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 36,
+    "legal_balls": 755,
+    "overs": 125.8,
+    "runs_charged": 1222.0,
+    "wickets": 53,
+    "economy": 9.71,
+    "average": 23.06,
+    "strike_rate": 14.25,
+    "dot_pct": 37.75,
+    "boundary_pct": 22.77,
+    "wides": 49,
+    "no_balls": 4,
+    "phase_splits": {
+      "death": {
+        "overs": 31.8,
+        "runs": 329.0,
+        "wickets": 25,
+        "economy": 10.34
+      },
+      "middle": {
+        "overs": 23.0,
+        "runs": 186.0,
+        "wickets": 9,
+        "economy": 8.09
+      },
+      "powerplay": {
+        "overs": 71.0,
+        "runs": 707.0,
+        "wickets": 19,
+        "economy": 9.96
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 41.91,
+    "tier": "Unproven",
+    "p_outperform": 0.3783,
+    "pressure_value_per_6": -0.0,
+    "clutch_delta_per_6": 0.04,
+    "consistency": 0.4172
+  },
+  "recent_matches": [
+    {
+      "match_id": 50391,
+      "date": "2026-05-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/26 (3.0)",
+      "pressure_balls": 12,
+      "pressure_value": -7.95
+    },
+    {
+      "match_id": 50383,
+      "date": "2026-05-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "4/40 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": 5.89
+    },
+    {
+      "match_id": 50376,
+      "date": "2026-05-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/53 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -3.76
+    },
+    {
+      "match_id": 50372,
+      "date": "2026-05-08",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "0/31 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50369,
+      "date": "2026-05-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/30 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50364,
+      "date": "2026-05-01",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "3/40 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40751,
+      "date": "2025-05-08",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/23 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40748,
+      "date": "2025-05-05",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40741,
+      "date": "2025-04-29",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "3/43 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40739,
+      "date": "2025-04-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/31 (3.0)",
+      "pressure_balls": 12,
+      "pressure_value": 2.58
+    },
+    {
+      "match_id": 40733,
+      "date": "2025-04-22",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/25 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40728,
+      "date": "2025-04-19",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "2 (2)",
+      "bowling_figures": "0/49 (3.3)",
+      "pressure_balls": 21,
+      "pressure_value": -30.19
+    },
+    {
+      "match_id": 40725,
+      "date": "2025-04-16",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/36 (4.0)",
+      "pressure_balls": 26,
+      "pressure_value": 4.93
+    },
+    {
+      "match_id": 40722,
+      "date": "2025-04-13",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "0/43 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": -4.82
+    },
+    {
+      "match_id": 40717,
+      "date": "2025-04-10",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/31 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40710,
+      "date": "2025-04-05",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/23 (4.0)",
+      "pressure_balls": 13,
+      "pressure_value": 16.59
+    },
+    {
+      "match_id": 40703,
+      "date": "2025-03-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "5/31 (3.7)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40697,
+      "date": "2025-03-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "2 (5)",
+      "bowling_figures": "3/42 (4.0)",
+      "pressure_balls": 5,
+      "pressure_value": -7.42
+    },
+    {
+      "match_id": 31292,
+      "date": "2024-05-26",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/14 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31289,
+      "date": "2024-05-21",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/34 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31278,
+      "date": "2024-05-11",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "2 (2)",
+      "bowling_figures": "0/11 (1.0)",
+      "pressure_balls": 2,
+      "pressure_value": 0.91
+    },
+    {
+      "match_id": 31272,
+      "date": "2024-05-05",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/22 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31269,
+      "date": "2024-05-03",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "4/31 (3.8)",
+      "pressure_balls": 17,
+      "pressure_value": 5.01
+    },
+    {
+      "match_id": 31265,
+      "date": "2024-04-29",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/39 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31254,
+      "date": "2024-04-21",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/55 (3.0)",
+      "pressure_balls": 8,
+      "pressure_value": -7.95
+    },
+    {
+      "match_id": 31250,
+      "date": "2024-04-16",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/46 (4.0)",
+      "pressure_balls": 9,
+      "pressure_value": -1.9
+    },
+    {
+      "match_id": 31246,
+      "date": "2024-04-14",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/28 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31240,
+      "date": "2024-04-08",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "0 (3)",
+      "bowling_figures": "0/29 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30071,
+      "date": "2024-04-03",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "2/25 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30065,
+      "date": "2024-03-29",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/47 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -3.03
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 829,
+      "player_name": "Mitchell Starc",
+      "role": "bowler",
+      "match_id": 40725,
+      "n_balls": 26,
+      "match_runs_conceded": 36,
+      "match_wickets": 1,
+      "match_pressure_value": 0.2771,
+      "career_expected_value": 0.5067,
+      "z_score": -5.69,
+      "direction": "negative"
+    },
+    {
+      "player_id": 829,
+      "player_name": "Mitchell Starc",
+      "role": "bowler",
+      "match_id": 31250,
+      "n_balls": 9,
+      "match_runs_conceded": 12,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8512,
+      "career_expected_value": 0.5067,
+      "z_score": 5.02,
+      "direction": "positive"
+    },
+    {
+      "player_id": 829,
+      "player_name": "Mitchell Starc",
+      "role": "bowler",
+      "match_id": 30058,
+      "n_balls": 14,
+      "match_runs_conceded": 36,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7463,
+      "career_expected_value": 0.5067,
+      "z_score": 4.36,
+      "direction": "positive"
+    },
+    {
+      "player_id": 829,
+      "player_name": "Mitchell Starc",
+      "role": "bowler",
+      "match_id": 31254,
+      "n_balls": 8,
+      "match_runs_conceded": 18,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7785,
+      "career_expected_value": 0.5067,
+      "z_score": 3.74,
+      "direction": "positive"
+    },
+    {
+      "player_id": 829,
+      "player_name": "Mitchell Starc",
+      "role": "batter",
+      "match_id": 40697,
+      "n_balls": 5,
+      "match_runs": 2,
+      "match_pressure_value": 0.1422,
+      "career_expected_value": 0.4147,
+      "z_score": -2.96,
+      "direction": "negative"
+    }
+  ]
+}

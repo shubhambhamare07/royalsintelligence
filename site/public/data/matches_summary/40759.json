@@ -1,0 +1,96 @@
+{
+  "match_id": 40759,
+  "competition_kind": "IPL",
+  "calendar_year": 2025,
+  "result": "Mumbai Indians Won by 59 runs",
+  "innings_totals": {
+    "innings_1": 180.2,
+    "innings_1_sigma": 1.91,
+    "innings_2": 121.0
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 4,
+      "Elevated": 2
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "5": {
+      "Elevated": 7,
+      "High": 6
+    },
+    "6": {
+      "High": 6,
+      "Elevated": 3,
+      "Normal": 3
+    },
+    "7": {
+      "Normal": 6,
+      "High": 6
+    },
+    "8": {
+      "Normal": 6,
+      "High": 5,
+      "Elevated": 1
+    },
+    "9": {
+      "Normal": 13
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 12
+    },
+    "12": {
+      "Normal": 12
+    },
+    "13": {
+      "Normal": 12
+    },
+    "14": {
+      "Normal": 7,
+      "Elevated": 5
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "16": {
+      "Normal": 12
+    },
+    "17": {
+      "Normal": 12
+    },
+    "18": {
+      "Normal": 12
+    },
+    "19": {
+      "Normal": 7,
+      "Elevated": 1
+    },
+    "20": {
+      "Elevated": 3,
+      "High": 3
+    }
+  },
+  "turning_point_count": 5
+}

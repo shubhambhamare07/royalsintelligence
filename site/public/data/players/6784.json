@@ -1,0 +1,67 @@
+{
+  "player_id": "6784",
+  "player_name": "Hassan Mohammad",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 1,
+    "balls": 1,
+    "average": 1.0,
+    "strike_rate": 100.0,
+    "highest_score": 1,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 0,
+    "singles": 1,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 24,
+    "overs": 4.0,
+    "runs_charged": 30.0,
+    "wickets": 3,
+    "economy": 7.5,
+    "average": 10.0,
+    "strike_rate": 8.0,
+    "dot_pct": 38.46,
+    "boundary_pct": 11.54,
+    "wides": 2,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 4.0,
+        "wickets": 1,
+        "economy": 4.0
+      },
+      "powerplay": {
+        "overs": 3.0,
+        "runs": 26.0,
+        "wickets": 2,
+        "economy": 8.67
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48025,
+      "date": "2025-11-19",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "3/30 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": 3.17
+    }
+  ]
+}

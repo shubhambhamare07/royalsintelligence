@@ -1,0 +1,208 @@
+{
+  "player_id": "2972",
+  "player_name": "Yasim Murtaza",
+  "batting": {
+    "matches": 14,
+    "innings": 14,
+    "not_outs": 1,
+    "runs": 302,
+    "balls": 258,
+    "average": 23.23,
+    "strike_rate": 117.05,
+    "highest_score": 58,
+    "fours": 25,
+    "sixes": 13,
+    "dots": 104,
+    "singles": 108,
+    "twos": 8,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 3,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 8,
+      "Bowled": 2,
+      "LBW": 2,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 14,
+    "legal_balls": 306,
+    "overs": 51.0,
+    "runs_charged": 363.0,
+    "wickets": 7,
+    "economy": 7.12,
+    "average": 51.86,
+    "strike_rate": 43.71,
+    "dot_pct": 31.51,
+    "boundary_pct": 10.29,
+    "wides": 3,
+    "no_balls": 2,
+    "phase_splits": {
+      "death": {
+        "overs": 6.0,
+        "runs": 64.0,
+        "wickets": 2,
+        "economy": 10.67
+      },
+      "middle": {
+        "overs": 40.0,
+        "runs": 254.0,
+        "wickets": 4,
+        "economy": 6.35
+      },
+      "powerplay": {
+        "overs": 5.0,
+        "runs": 45.0,
+        "wickets": 1,
+        "economy": 9.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48025,
+      "date": "2025-11-19",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/16 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": -8.58
+    },
+    {
+      "match_id": 48021,
+      "date": "2025-11-17",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "20 (24)",
+      "bowling_figures": "1/24 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48017,
+      "date": "2025-11-15",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "40 (22)",
+      "bowling_figures": "0/17 (1.0)",
+      "pressure_balls": 8,
+      "pressure_value": 1.19
+    },
+    {
+      "match_id": 45502,
+      "date": "2025-09-15",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "5 (4)",
+      "bowling_figures": "2/37 (4.0)",
+      "pressure_balls": 14,
+      "pressure_value": -11.53
+    },
+    {
+      "match_id": 45497,
+      "date": "2025-09-11",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "28 (19)",
+      "bowling_figures": "0/39 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45495,
+      "date": "2025-09-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "16 (26)",
+      "bowling_figures": "0/23 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37093,
+      "date": "2024-10-22",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "1 (5)",
+      "bowling_figures": "0/28 (3.0)",
+      "pressure_balls": 5,
+      "pressure_value": -7.71
+    },
+    {
+      "match_id": 37089,
+      "date": "2024-10-20",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "44 (31)",
+      "bowling_figures": "1/27 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37085,
+      "date": "2024-10-18",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "7 (6)",
+      "bowling_figures": "0/35 (3.0)",
+      "pressure_balls": 12,
+      "pressure_value": -17.61
+    },
+    {
+      "match_id": 16658,
+      "date": "2022-09-02",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "2 (7)",
+      "bowling_figures": "0/36 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -3.27
+    },
+    {
+      "match_id": 16656,
+      "date": "2022-08-31",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "9 (9)",
+      "bowling_figures": "0/27 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16866,
+      "date": "2022-08-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "58 (43)",
+      "bowling_figures": "1/17 (4.0)",
+      "pressure_balls": 2,
+      "pressure_value": -2.97
+    },
+    {
+      "match_id": 16865,
+      "date": "2022-08-23",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "46 (33)",
+      "bowling_figures": "2/11 (4.0)",
+      "pressure_balls": 8,
+      "pressure_value": 13.24
+    },
+    {
+      "match_id": 16862,
+      "date": "2022-08-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "26 (28)",
+      "bowling_figures": "0/26 (4.0)",
+      "pressure_balls": 5,
+      "pressure_value": -3.43
+    }
+  ]
+}

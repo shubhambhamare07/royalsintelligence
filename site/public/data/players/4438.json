@@ -1,0 +1,106 @@
+{
+  "player_id": "4438",
+  "player_name": "Jasdeep Singh",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 18,
+    "balls": 20,
+    "average": 9.0,
+    "strike_rate": 90.0,
+    "highest_score": 12,
+    "fours": 0,
+    "sixes": 1,
+    "dots": 9,
+    "singles": 8,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 4,
+    "legal_balls": 90,
+    "overs": 15.0,
+    "runs_charged": 135.0,
+    "wickets": 4,
+    "economy": 9.0,
+    "average": 33.75,
+    "strike_rate": 22.5,
+    "dot_pct": 34.04,
+    "boundary_pct": 18.09,
+    "wides": 3,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 7.0,
+        "runs": 53.0,
+        "wickets": 3,
+        "economy": 7.57
+      },
+      "middle": {
+        "overs": 1.0,
+        "runs": 4.0,
+        "wickets": 0,
+        "economy": 4.0
+      },
+      "powerplay": {
+        "overs": 7.0,
+        "runs": 78.0,
+        "wickets": 1,
+        "economy": 11.14
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 35429,
+      "date": "2024-08-28",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "12 (12)",
+      "bowling_figures": "2/23 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": 4.24
+    },
+    {
+      "match_id": 35428,
+      "date": "2024-08-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/44 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": -16.95
+    },
+    {
+      "match_id": 35425,
+      "date": "2024-08-25",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "6 (8)",
+      "bowling_figures": "0/41 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 35424,
+      "date": "2024-08-24",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/27 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": 6.17
+    }
+  ]
+}

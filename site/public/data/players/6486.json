@@ -1,0 +1,42 @@
+{
+  "player_id": "6486",
+  "player_name": "Tanush Kotian",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 24,
+    "balls": 31,
+    "average": 24.0,
+    "strike_rate": 77.42,
+    "highest_score": 24,
+    "fours": 3,
+    "sixes": 0,
+    "dots": 17,
+    "singles": 10,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 31245,
+      "date": "2024-04-13",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "24 (31)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "match_id": 40698,
+  "competition_kind": "IPL",
+  "calendar_year": 2025,
+  "result": "Punjab Kings Won by 11 runs",
+  "innings_totals": {
+    "innings_1": 242.8,
+    "innings_1_sigma": 1.91,
+    "innings_2": 233.2
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 12
+    },
+    "2": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "5": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "6": {
+      "Normal": 11,
+      "Elevated": 2
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 13
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "12": {
+      "Normal": 6,
+      "High": 5,
+      "Extreme": 2
+    },
+    "13": {
+      "Normal": 5,
+      "Extreme": 4,
+      "High": 2,
+      "Elevated": 1
+    },
+    "14": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "15": {
+      "Elevated": 8,
+      "Extreme": 7
+    },
+    "16": {
+      "Extreme": 6,
+      "Normal": 3,
+      "Elevated": 3
+    },
+    "17": {
+      "Extreme": 7,
+      "Elevated": 4,
+      "Normal": 2,
+      "High": 2
+    },
+    "18": {
+      "Normal": 7,
+      "High": 3,
+      "Elevated": 2
+    },
+    "19": {
+      "Normal": 10,
+      "High": 4,
+      "Elevated": 1
+    },
+    "20": {
+      "Normal": 11,
+      "High": 1,
+      "Elevated": 1
+    }
+  },
+  "turning_point_count": 5
+}

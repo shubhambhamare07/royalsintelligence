@@ -1,0 +1,74 @@
+{
+  "player_id": "25502",
+  "player_name": "Adnan Idrees",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 4,
+    "balls": 6,
+    "average": 2.0,
+    "strike_rate": 66.67,
+    "highest_score": 4,
+    "fours": 1,
+    "sixes": 0,
+    "dots": 5,
+    "singles": 0,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 1,
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 12,
+    "overs": 2.0,
+    "runs_charged": 16.0,
+    "wickets": 1,
+    "economy": 8.0,
+    "average": 16.0,
+    "strike_rate": 12.0,
+    "dot_pct": 33.33,
+    "boundary_pct": 16.67,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 2.0,
+        "runs": 16.0,
+        "wickets": 1,
+        "economy": 8.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16865,
+      "date": "2022-08-23",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "4 (5)",
+      "bowling_figures": "1/16 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16863,
+      "date": "2022-08-21",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -7.02
+    }
+  ]
+}

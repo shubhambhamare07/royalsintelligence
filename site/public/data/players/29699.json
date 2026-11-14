@@ -1,0 +1,63 @@
+{
+  "player_id": "29699",
+  "player_name": "Ibrahim Takahashi",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 4,
+    "balls": 3,
+    "average": 4.0,
+    "strike_rate": 133.33,
+    "highest_score": 4,
+    "fours": 1,
+    "sixes": 0,
+    "dots": 2,
+    "singles": 0,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 12,
+    "overs": 2.0,
+    "runs_charged": 13.0,
+    "wickets": 1,
+    "economy": 6.5,
+    "average": 13.0,
+    "strike_rate": 12.0,
+    "dot_pct": 30.77,
+    "boundary_pct": 0.0,
+    "wides": 1,
+    "no_balls": 0,
+    "phase_splits": {
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 13.0,
+        "wickets": 1,
+        "economy": 6.5
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 54711,
+      "date": "2026-09-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "4 (3)",
+      "bowling_figures": "1/13 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

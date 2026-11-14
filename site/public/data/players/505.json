@@ -1,0 +1,53 @@
+{
+  "player_id": "505",
+  "player_name": "Mushfiqur Rahim",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 5,
+    "balls": 9,
+    "average": 2.5,
+    "strike_rate": 55.56,
+    "highest_score": 4,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 5,
+    "singles": 3,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "LBW": 1,
+      "Caught": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16657,
+      "date": "2022-09-01",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "4 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16655,
+      "date": "2022-08-30",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "1 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

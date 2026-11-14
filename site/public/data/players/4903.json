@@ -1,0 +1,73 @@
+{
+  "player_id": "4903",
+  "player_name": "Lahiru Kumara",
+  "batting": null,
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 71,
+    "overs": 11.8,
+    "runs_charged": 94.0,
+    "wickets": 7,
+    "economy": 7.94,
+    "average": 13.43,
+    "strike_rate": 10.14,
+    "dot_pct": 35.9,
+    "boundary_pct": 14.1,
+    "wides": 7,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.8,
+        "runs": 26.0,
+        "wickets": 2,
+        "economy": 14.18
+      },
+      "middle": {
+        "overs": 5.0,
+        "runs": 29.0,
+        "wickets": 4,
+        "economy": 5.8
+      },
+      "powerplay": {
+        "overs": 5.0,
+        "runs": 39.0,
+        "wickets": 1,
+        "economy": 7.8
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 21178,
+      "date": "2023-04-08",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "3/38 (3.8)",
+      "pressure_balls": 25,
+      "pressure_value": 4.17
+    },
+    {
+      "match_id": 13616,
+      "date": "2022-02-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "2/34 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13615,
+      "date": "2022-02-18",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "2/22 (4.0)",
+      "pressure_balls": 15,
+      "pressure_value": 20.52
+    }
+  ]
+}

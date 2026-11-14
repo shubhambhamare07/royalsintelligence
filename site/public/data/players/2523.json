@@ -1,0 +1,145 @@
+{
+  "player_id": "2523",
+  "player_name": "Will Young",
+  "batting": {
+    "matches": 11,
+    "innings": 11,
+    "not_outs": 0,
+    "runs": 164,
+    "balls": 169,
+    "average": 14.91,
+    "strike_rate": 97.04,
+    "highest_score": 56,
+    "fours": 18,
+    "sixes": 3,
+    "dots": 84,
+    "singles": 55,
+    "twos": 8,
+    "threes": 1,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 7,
+      "Bowled": 2,
+      "LBW": 1,
+      "Stump": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 37895,
+      "date": "2024-11-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "30 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37894,
+      "date": "2024-11-09",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "19 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 29983,
+      "date": "2024-02-23",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "5 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": -12.13
+    },
+    {
+      "match_id": 28967,
+      "date": "2024-01-21",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "12 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": 4.86
+    },
+    {
+      "match_id": 28966,
+      "date": "2024-01-19",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "4 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 11,
+      "pressure_value": -25.36
+    },
+    {
+      "match_id": 24794,
+      "date": "2023-08-20",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "56 (46)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21407,
+      "date": "2023-04-24",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "4 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21406,
+      "date": "2023-04-20",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "6 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21405,
+      "date": "2023-04-17",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "17 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21404,
+      "date": "2023-04-15",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "9 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21403,
+      "date": "2023-04-14",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "2 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

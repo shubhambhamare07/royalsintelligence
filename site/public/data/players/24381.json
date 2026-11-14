@@ -1,0 +1,94 @@
+{
+  "player_id": "24381",
+  "player_name": "Shariz Ahmad",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 0,
+    "runs": 32,
+    "balls": 34,
+    "average": 10.67,
+    "strike_rate": 94.12,
+    "highest_score": 15,
+    "fours": 2,
+    "sixes": 0,
+    "dots": 14,
+    "singles": 12,
+    "twos": 6,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 36,
+    "overs": 6.0,
+    "runs_charged": 55.0,
+    "wickets": 2,
+    "economy": 9.17,
+    "average": 27.5,
+    "strike_rate": 18.0,
+    "dot_pct": 25.0,
+    "boundary_pct": 16.67,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 6.0,
+        "runs": 55.0,
+        "wickets": 2,
+        "economy": 9.17
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 45907,
+      "date": "2025-09-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "12 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45906,
+      "date": "2025-08-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "15 (14)",
+      "bowling_figures": "0/12 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16667,
+      "date": "2022-08-05",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/28 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16666,
+      "date": "2022-08-04",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "5 (3)",
+      "bowling_figures": "2/15 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

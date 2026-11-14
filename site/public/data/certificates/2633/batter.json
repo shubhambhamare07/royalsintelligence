@@ -1,0 +1,45 @@
+{
+  "player_id": "2633",
+  "player_name": "Jason Holder",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 44.37,
+  "rating_ci90": [
+    14.04,
+    73.95
+  ],
+  "p_outperform": 0.3778,
+  "top10_inclusion_prob": 0.0159,
+  "rank_ci90": [
+    21,
+    148
+  ],
+  "composite": -0.0254,
+  "components": {
+    "PV": {
+      "observed": -0.0759,
+      "adjusted": -0.0759,
+      "z_score": -0.1026,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.0579,
+      "adjusted": -0.0579,
+      "z_score": -0.0644,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.5887,
+      "adjusted": 0.5887,
+      "z_score": 0.0909,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 63,
+    "neff_pressure": 47.0,
+    "n_pressure_matches": 18
+  },
+  "explanation": "Jason Holder generated a pressure value of -7.59 runs/100 balls (Clutch Delta: -5.79) at a 174.6 strike rate with 66.7% consistency across 18 pressure matches (63 balls)."
+}

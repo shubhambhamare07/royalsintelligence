@@ -1,0 +1,63 @@
+{
+  "player_id": "6180",
+  "player_name": "Praveen Jayawickrama",
+  "batting": null,
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 48,
+    "overs": 8.0,
+    "runs_charged": 72.0,
+    "wickets": 2,
+    "economy": 9.0,
+    "average": 36.0,
+    "strike_rate": 24.0,
+    "dot_pct": 22.92,
+    "boundary_pct": 16.67,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 16.0,
+        "wickets": 1,
+        "economy": 16.0
+      },
+      "middle": {
+        "overs": 6.0,
+        "runs": 54.0,
+        "wickets": 0,
+        "economy": 9.0
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 2.0,
+        "wickets": 1,
+        "economy": 2.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 15460,
+      "date": "2022-06-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/43 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 13616,
+      "date": "2022-02-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/29 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

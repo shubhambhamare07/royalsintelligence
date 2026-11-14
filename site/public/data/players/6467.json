@@ -1,0 +1,289 @@
+{
+  "player_id": "6467",
+  "player_name": "Anuj Rawat",
+  "batting": {
+    "matches": 21,
+    "innings": 21,
+    "not_outs": 7,
+    "runs": 326,
+    "balls": 277,
+    "average": 23.29,
+    "strike_rate": 117.69,
+    "highest_score": 66,
+    "fours": 26,
+    "sixes": 14,
+    "dots": 118,
+    "singles": 101,
+    "twos": 17,
+    "threes": 1,
+    "ducks": 3,
+    "thirties": 1,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 10,
+      "LBW": 3,
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 45.19,
+    "tier": "Unproven",
+    "p_outperform": 0.3828,
+    "pressure_value_per_100": -6.15,
+    "clutch_delta_per_100": 1.41,
+    "consistency": 0.5532
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 37096,
+      "date": "2024-10-23",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "8 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31248,
+      "date": "2024-04-15",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "25 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30070,
+      "date": "2024-04-02",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "11 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -7.5
+    },
+    {
+      "match_id": 30065,
+      "date": "2024-03-29",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "3 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -4.13
+    },
+    {
+      "match_id": 30061,
+      "date": "2024-03-25",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "11 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": -9.52
+    },
+    {
+      "match_id": 30056,
+      "date": "2024-03-22",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "48 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -2.97
+    },
+    {
+      "match_id": 20250,
+      "date": "2023-05-21",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "23 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": 4.26
+    },
+    {
+      "match_id": 20240,
+      "date": "2023-05-14",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "29 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": 10.57
+    },
+    {
+      "match_id": 20234,
+      "date": "2023-05-09",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "6 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20230,
+      "date": "2023-05-06",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "8 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": 2.38
+    },
+    {
+      "match_id": 20223,
+      "date": "2023-05-01",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "9 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20200,
+      "date": "2023-04-15",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "15 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -2.54
+    },
+    {
+      "match_id": 20189,
+      "date": "2023-04-06",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "1 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14129,
+      "date": "2022-04-23",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14124,
+      "date": "2022-04-19",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "4 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14120,
+      "date": "2022-04-16",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14115,
+      "date": "2022-04-12",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "12 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14111,
+      "date": "2022-04-09",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "66 (47)",
+      "bowling_figures": null,
+      "pressure_balls": 18,
+      "pressure_value": 14.53
+    },
+    {
+      "match_id": 14106,
+      "date": "2022-04-05",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "26 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 26,
+      "pressure_value": -5.07
+    },
+    {
+      "match_id": 14099,
+      "date": "2022-03-30",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14096,
+      "date": "2022-03-27",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "21 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -0.37
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 6467,
+      "player_name": "Anuj Rawat",
+      "role": "batter",
+      "match_id": 14111,
+      "n_balls": 18,
+      "match_runs": 35,
+      "match_pressure_value": 0.7558,
+      "career_expected_value": 0.5462,
+      "z_score": 4.33,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6467,
+      "player_name": "Anuj Rawat",
+      "role": "batter",
+      "match_id": 30070,
+      "n_balls": 4,
+      "match_runs": 3,
+      "match_pressure_value": 0.1674,
+      "career_expected_value": 0.5462,
+      "z_score": -3.68,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6467,
+      "player_name": "Anuj Rawat",
+      "role": "batter",
+      "match_id": 20240,
+      "n_balls": 9,
+      "match_runs": 25,
+      "match_pressure_value": 0.3491,
+      "career_expected_value": 0.5462,
+      "z_score": -2.88,
+      "direction": "negative"
+    }
+  ]
+}

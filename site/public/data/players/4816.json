@@ -1,0 +1,466 @@
+{
+  "player_id": "4816",
+  "player_name": "Khaleel Ahmed",
+  "batting": {
+    "matches": 4,
+    "innings": 4,
+    "not_outs": 2,
+    "runs": 1,
+    "balls": 5,
+    "average": 0.5,
+    "strike_rate": 20.0,
+    "highest_score": 1,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 4,
+    "singles": 1,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 2,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1,
+      "Bowled": 1
+    }
+  },
+  "bowling": {
+    "matches": 56,
+    "legal_balls": 1198,
+    "overs": 199.7,
+    "runs_charged": 1786.0,
+    "wickets": 62,
+    "economy": 8.94,
+    "average": 28.81,
+    "strike_rate": 19.32,
+    "dot_pct": 43.73,
+    "boundary_pct": 21.47,
+    "wides": 61,
+    "no_balls": 8,
+    "phase_splits": {
+      "death": {
+        "overs": 48.7,
+        "runs": 562.0,
+        "wickets": 26,
+        "economy": 11.55
+      },
+      "middle": {
+        "overs": 24.0,
+        "runs": 214.0,
+        "wickets": 9,
+        "economy": 8.92
+      },
+      "powerplay": {
+        "overs": 127.0,
+        "runs": 1010.0,
+        "wickets": 27,
+        "economy": 7.95
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 46.73,
+    "tier": "Unproven",
+    "p_outperform": 0.4624,
+    "pressure_value_per_6": -0.04,
+    "clutch_delta_per_6": 0.1,
+    "consistency": 0.456
+  },
+  "recent_matches": [
+    {
+      "match_id": 50343,
+      "date": "2026-04-14",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/24 (3.8)",
+      "pressure_balls": 18,
+      "pressure_value": 4.99
+    },
+    {
+      "match_id": 50142,
+      "date": "2026-04-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/40 (3.0)",
+      "pressure_balls": 14,
+      "pressure_value": -5.63
+    },
+    {
+      "match_id": 50135,
+      "date": "2026-04-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/37 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50131,
+      "date": "2026-04-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/28 (3.0)",
+      "pressure_balls": 21,
+      "pressure_value": -4.28
+    },
+    {
+      "match_id": 50127,
+      "date": "2026-03-30",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/17 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40762,
+      "date": "2025-05-25",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/17 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40756,
+      "date": "2025-05-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/35 (3.0)",
+      "pressure_balls": 18,
+      "pressure_value": -15.13
+    },
+    {
+      "match_id": 40750,
+      "date": "2025-05-07",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/14 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40745,
+      "date": "2025-05-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/65 (3.0)",
+      "pressure_balls": 7,
+      "pressure_value": -20.16
+    },
+    {
+      "match_id": 40742,
+      "date": "2025-04-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/28 (3.7)",
+      "pressure_balls": 18,
+      "pressure_value": 3.37
+    },
+    {
+      "match_id": 40736,
+      "date": "2025-04-25",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "1/21 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40731,
+      "date": "2025-04-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/24 (2.0)",
+      "pressure_balls": 1,
+      "pressure_value": -3.28
+    },
+    {
+      "match_id": 40723,
+      "date": "2025-04-14",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/38 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40718,
+      "date": "2025-04-11",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/40 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40715,
+      "date": "2025-04-08",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/45 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40710,
+      "date": "2025-04-05",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/25 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": 2.42
+    },
+    {
+      "match_id": 40704,
+      "date": "2025-03-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/38 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": 3.23
+    },
+    {
+      "match_id": 40701,
+      "date": "2025-03-28",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/28 (4.0)",
+      "pressure_balls": 2,
+      "pressure_value": -0.89
+    },
+    {
+      "match_id": 40696,
+      "date": "2025-03-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "3/29 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 34429,
+      "date": "2024-07-30",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/27 (3.0)",
+      "pressure_balls": 3,
+      "pressure_value": 1.0
+    },
+    {
+      "match_id": 33806,
+      "date": "2024-07-13",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/32 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": -4.0
+    },
+    {
+      "match_id": 33805,
+      "date": "2024-07-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/15 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": 16.75
+    },
+    {
+      "match_id": 33803,
+      "date": "2024-07-06",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/28 (3.0)",
+      "pressure_balls": 1,
+      "pressure_value": -0.27
+    },
+    {
+      "match_id": 31282,
+      "date": "2024-05-14",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/22 (2.0)",
+      "pressure_balls": 3,
+      "pressure_value": 3.82
+    },
+    {
+      "match_id": 31280,
+      "date": "2024-05-12",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/31 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": 3.23
+    },
+    {
+      "match_id": 31274,
+      "date": "2024-05-07",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/47 (4.0)",
+      "pressure_balls": 16,
+      "pressure_value": 2.83
+    },
+    {
+      "match_id": 31265,
+      "date": "2024-04-29",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/28 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31261,
+      "date": "2024-04-27",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/45 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31258,
+      "date": "2024-04-24",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/26 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31253,
+      "date": "2024-04-20",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/51 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 4816,
+      "player_name": "Khaleel Ahmed",
+      "role": "bowler",
+      "match_id": 20224,
+      "n_balls": 12,
+      "match_runs_conceded": 12,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7012,
+      "career_expected_value": 0.4486,
+      "z_score": 4.25,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4816,
+      "player_name": "Khaleel Ahmed",
+      "role": "bowler",
+      "match_id": 30057,
+      "n_balls": 13,
+      "match_runs_conceded": 24,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2174,
+      "career_expected_value": 0.4486,
+      "z_score": -4.05,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4816,
+      "player_name": "Khaleel Ahmed",
+      "role": "bowler",
+      "match_id": 33805,
+      "n_balls": 6,
+      "match_runs_conceded": 4,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7231,
+      "career_expected_value": 0.4486,
+      "z_score": 3.27,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4816,
+      "player_name": "Khaleel Ahmed",
+      "role": "bowler",
+      "match_id": 30068,
+      "n_balls": 11,
+      "match_runs_conceded": 3,
+      "match_wickets": 1,
+      "match_pressure_value": 0.6386,
+      "career_expected_value": 0.4486,
+      "z_score": 3.06,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4816,
+      "player_name": "Khaleel Ahmed",
+      "role": "bowler",
+      "match_id": 14158,
+      "n_balls": 10,
+      "match_runs_conceded": 19,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2736,
+      "career_expected_value": 0.4486,
+      "z_score": -2.69,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4816,
+      "player_name": "Khaleel Ahmed",
+      "role": "bowler",
+      "match_id": 40756,
+      "n_balls": 18,
+      "match_runs_conceded": 35,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3235,
+      "career_expected_value": 0.4486,
+      "z_score": -2.58,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4816,
+      "player_name": "Khaleel Ahmed",
+      "role": "bowler",
+      "match_id": 50343,
+      "n_balls": 18,
+      "match_runs_conceded": 17,
+      "match_wickets": 1,
+      "match_pressure_value": 0.5724,
+      "career_expected_value": 0.4486,
+      "z_score": 2.55,
+      "direction": "positive"
+    }
+  ]
+}

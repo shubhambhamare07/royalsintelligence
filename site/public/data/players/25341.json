@@ -1,0 +1,96 @@
+{
+  "player_id": "25341",
+  "player_name": "Mahfuzur Rabby",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 1,
+    "runs": 18,
+    "balls": 30,
+    "average": 9.0,
+    "strike_rate": 60.0,
+    "highest_score": 8,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 14,
+    "singles": 14,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1,
+      "Bowled": 1
+    }
+  },
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 66,
+    "overs": 11.0,
+    "runs_charged": 55.0,
+    "wickets": 2,
+    "economy": 5.0,
+    "average": 27.5,
+    "strike_rate": 33.0,
+    "dot_pct": 41.79,
+    "boundary_pct": 5.97,
+    "wides": 1,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 12.0,
+        "wickets": 0,
+        "economy": 12.0
+      },
+      "middle": {
+        "overs": 9.0,
+        "runs": 36.0,
+        "wickets": 1,
+        "economy": 4.0
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 7.0,
+        "wickets": 1,
+        "economy": 7.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48029,
+      "date": "2025-11-23",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "3 (9)",
+      "bowling_figures": "0/17 (3.0)",
+      "pressure_balls": 9,
+      "pressure_value": -18.76
+    },
+    {
+      "match_id": 37094,
+      "date": "2024-10-22",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "7 (13)",
+      "bowling_figures": "1/19 (4.0)",
+      "pressure_balls": 14,
+      "pressure_value": -4.81
+    },
+    {
+      "match_id": 37085,
+      "date": "2024-10-18",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "8 (8)",
+      "bowling_figures": "1/19 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

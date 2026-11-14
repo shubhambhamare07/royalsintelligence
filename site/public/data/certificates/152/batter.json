@@ -1,0 +1,45 @@
+{
+  "player_id": "152",
+  "player_name": "Ravindra Jadeja",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 29.32,
+  "rating_ci90": [
+    8.25,
+    50.69
+  ],
+  "p_outperform": 0.0553,
+  "top10_inclusion_prob": 0.0001,
+  "rank_ci90": [
+    76,
+    152
+  ],
+  "composite": -0.4803,
+  "components": {
+    "PV": {
+      "observed": -0.1784,
+      "adjusted": -0.1784,
+      "z_score": -0.6779,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.1346,
+      "adjusted": -0.1346,
+      "z_score": -0.4709,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.5537,
+      "adjusted": 0.5537,
+      "z_score": -0.2923,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 223,
+    "neff_pressure": 223.0,
+    "n_pressure_matches": 23
+  },
+  "explanation": "Ravindra Jadeja generated a pressure value of -17.84 runs/100 balls (Clutch Delta: -13.46) at a 138.6 strike rate with 50.0% consistency across 23 pressure matches (223 balls)."
+}

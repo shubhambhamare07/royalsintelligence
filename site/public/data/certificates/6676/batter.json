@@ -1,0 +1,45 @@
+{
+  "player_id": "6676",
+  "player_name": "Azmatullah Omarzai",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 36.29,
+  "rating_ci90": [
+    6.93,
+    66.03
+  ],
+  "p_outperform": 0.2313,
+  "top10_inclusion_prob": 0.0044,
+  "rank_ci90": [
+    36,
+    152
+  ],
+  "composite": -0.2697,
+  "components": {
+    "PV": {
+      "observed": -0.1146,
+      "adjusted": -0.1146,
+      "z_score": -0.3195,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.1174,
+      "adjusted": -0.1174,
+      "z_score": -0.3801,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.5704,
+      "adjusted": 0.5704,
+      "z_score": -0.1095,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 61,
+    "neff_pressure": 51.74,
+    "n_pressure_matches": 16
+  },
+  "explanation": "Azmatullah Omarzai generated a pressure value of -11.46 runs/100 balls (Clutch Delta: -11.74) at a 142.6 strike rate with 50.0% consistency across 16 pressure matches (61 balls)."
+}

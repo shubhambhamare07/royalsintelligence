@@ -1,0 +1,109 @@
+{
+  "match_id": 50349,
+  "competition_kind": "IPL",
+  "calendar_year": 2026,
+  "result": "Kolkata Knight Riders Won by 4 wickets",
+  "innings_totals": {
+    "innings_1": 156.7,
+    "innings_1_sigma": 2.02,
+    "innings_2": 161.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 9,
+      "Elevated": 4
+    },
+    "2": {
+      "Elevated": 8,
+      "High": 4
+    },
+    "3": {
+      "Elevated": 7,
+      "High": 5
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "5": {
+      "Elevated": 7,
+      "High": 6
+    },
+    "6": {
+      "Elevated": 10,
+      "High": 4,
+      "Normal": 2
+    },
+    "7": {
+      "Normal": 6,
+      "Elevated": 4,
+      "High": 2
+    },
+    "8": {
+      "Normal": 6,
+      "High": 6
+    },
+    "9": {
+      "Normal": 6,
+      "High": 6
+    },
+    "10": {
+      "Normal": 8,
+      "High": 7
+    },
+    "11": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "12": {
+      "High": 6,
+      "Normal": 4,
+      "Elevated": 2
+    },
+    "13": {
+      "Elevated": 6,
+      "High": 5,
+      "Extreme": 1
+    },
+    "14": {
+      "Elevated": 6,
+      "Extreme": 3,
+      "High": 3
+    },
+    "15": {
+      "Elevated": 6,
+      "High": 5,
+      "Normal": 2
+    },
+    "16": {
+      "Extreme": 7,
+      "Normal": 6,
+      "High": 1
+    },
+    "17": {
+      "Normal": 7,
+      "Extreme": 7
+    },
+    "18": {
+      "Normal": 7,
+      "Extreme": 7,
+      "Elevated": 1
+    },
+    "19": {
+      "Normal": 7,
+      "Extreme": 6
+    },
+    "20": {
+      "Normal": 6,
+      "Extreme": 4
+    }
+  },
+  "turning_point_count": 5
+}

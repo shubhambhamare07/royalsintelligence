@@ -1,0 +1,41 @@
+{
+  "player_id": "8743",
+  "player_name": "Muhammad Shehzad",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 12,
+    "overs": 2.0,
+    "runs_charged": 4.0,
+    "wickets": 1,
+    "economy": 2.0,
+    "average": 4.0,
+    "strike_rate": 12.0,
+    "dot_pct": 69.23,
+    "boundary_pct": 0.0,
+    "wides": 1,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 2.0,
+        "runs": 4.0,
+        "wickets": 1,
+        "economy": 2.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48023,
+      "date": "2025-11-18",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/4 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

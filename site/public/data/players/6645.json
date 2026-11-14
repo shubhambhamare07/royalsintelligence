@@ -1,0 +1,84 @@
+{
+  "player_id": "6645",
+  "player_name": "Mohammad Sheikh",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 1,
+    "runs": 59,
+    "balls": 76,
+    "average": 14.75,
+    "strike_rate": 77.63,
+    "highest_score": 32,
+    "fours": 2,
+    "sixes": 1,
+    "dots": 31,
+    "singles": 39,
+    "twos": 3,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2,
+      "Bowled": 1,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 44267,
+      "date": "2025-07-24",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "10 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 44266,
+      "date": "2025-07-22",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "3 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 43592,
+      "date": "2025-07-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "32 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -2.15
+    },
+    {
+      "match_id": 37094,
+      "date": "2024-10-22",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "8 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 16,
+      "pressure_value": -9.33
+    },
+    {
+      "match_id": 16655,
+      "date": "2022-08-30",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "6 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "player_id": "3995",
+  "player_name": "Donald Tiripano",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 1,
+    "runs": 1,
+    "balls": 3,
+    "average": 1.0,
+    "strike_rate": 33.33,
+    "highest_score": 1,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 2,
+    "singles": 1,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 1
+    }
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 30,
+    "overs": 5.0,
+    "runs_charged": 54.0,
+    "wickets": 1,
+    "economy": 10.8,
+    "average": 54.0,
+    "strike_rate": 30.0,
+    "dot_pct": 28.57,
+    "boundary_pct": 22.86,
+    "wides": 5,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 15.0,
+        "wickets": 0,
+        "economy": 15.0
+      },
+      "powerplay": {
+        "overs": 4.0,
+        "runs": 39.0,
+        "wickets": 1,
+        "economy": 9.75
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 15611,
+      "date": "2022-06-14",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "1/20 (2.0)",
+      "pressure_balls": 2,
+      "pressure_value": -11.56
+    },
+    {
+      "match_id": 15610,
+      "date": "2022-06-12",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "0/34 (3.0)",
+      "pressure_balls": 7,
+      "pressure_value": -6.57
+    }
+  ]
+}

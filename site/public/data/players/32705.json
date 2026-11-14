@@ -1,0 +1,103 @@
+{
+  "player_id": "32705",
+  "player_name": "Faridoon Dawoodzai",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 1,
+    "balls": 1,
+    "average": 1.0,
+    "strike_rate": 100.0,
+    "highest_score": 1,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 0,
+    "singles": 1,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 4,
+    "legal_balls": 75,
+    "overs": 12.5,
+    "runs_charged": 108.0,
+    "wickets": 5,
+    "economy": 8.64,
+    "average": 21.6,
+    "strike_rate": 15.0,
+    "dot_pct": 46.15,
+    "boundary_pct": 20.51,
+    "wides": 3,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 3.5,
+        "runs": 33.0,
+        "wickets": 4,
+        "economy": 9.43
+      },
+      "middle": {
+        "overs": 4.0,
+        "runs": 37.0,
+        "wickets": 1,
+        "economy": 9.25
+      },
+      "powerplay": {
+        "overs": 5.0,
+        "runs": 38.0,
+        "wickets": 0,
+        "economy": 7.6
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48025,
+      "date": "2025-11-19",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/21 (3.0)",
+      "pressure_balls": 13,
+      "pressure_value": -7.9
+    },
+    {
+      "match_id": 37093,
+      "date": "2024-10-22",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "0/32 (3.5)",
+      "pressure_balls": 16,
+      "pressure_value": -15.84
+    },
+    {
+      "match_id": 37090,
+      "date": "2024-10-20",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/15 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37086,
+      "date": "2024-10-18",
+      "competition": "OTHER_T20",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/40 (4.0)",
+      "pressure_balls": 24,
+      "pressure_value": -1.94
+    }
+  ]
+}

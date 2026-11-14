@@ -1,0 +1,45 @@
+{
+  "player_id": "2984",
+  "player_name": "Sikandar Raza",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 60.4,
+  "rating_ci90": [
+    36.45,
+    84.22
+  ],
+  "p_outperform": 0.7635,
+  "top10_inclusion_prob": 0.0613,
+  "rank_ci90": [
+    9,
+    114
+  ],
+  "composite": 0.4592,
+  "components": {
+    "PV": {
+      "observed": 0.0466,
+      "adjusted": 0.0466,
+      "z_score": 0.585,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.0341,
+      "adjusted": -0.0341,
+      "z_score": 0.0617,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.6472,
+      "adjusted": 0.6472,
+      "z_score": 0.7308,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 250,
+    "neff_pressure": 250.0,
+    "n_pressure_matches": 21
+  },
+  "explanation": "Sikandar Raza generated a pressure value of +4.66 runs/100 balls (Clutch Delta: -3.41) at a 139.2 strike rate with 81.8% consistency across 21 pressure matches (250 balls)."
+}

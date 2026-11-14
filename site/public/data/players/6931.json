@@ -1,0 +1,476 @@
+{
+  "player_id": "6931",
+  "player_name": "Pathum Nissanka",
+  "batting": {
+    "matches": 71,
+    "innings": 71,
+    "not_outs": 5,
+    "runs": 2084,
+    "balls": 1528,
+    "average": 31.58,
+    "strike_rate": 136.39,
+    "highest_score": 107,
+    "fours": 218,
+    "sixes": 69,
+    "dots": 579,
+    "singles": 538,
+    "twos": 114,
+    "threes": 9,
+    "ducks": 3,
+    "thirties": 16,
+    "fifties": 14,
+    "hundreds": 1,
+    "dismissals_by_type": {
+      "Caught": 50,
+      "Bowled": 10,
+      "Stump": 3,
+      "LBW": 3
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 95.57,
+    "tier": "Proven",
+    "p_outperform": 1.0,
+    "pressure_value_per_100": 26.72,
+    "clutch_delta_per_100": 26.99,
+    "consistency": 0.6783
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 45491,
+      "date": "2026-09-19",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "36 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45490,
+      "date": "2026-09-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "37 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45489,
+      "date": "2026-09-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "12 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50505,
+      "date": "2026-06-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "26 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50504,
+      "date": "2026-06-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "7 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50503,
+      "date": "2026-06-12",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "18 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50372,
+      "date": "2026-05-08",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "50 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50369,
+      "date": "2026-05-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "19 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50364,
+      "date": "2026-05-01",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "62 (33)",
+      "bowling_figures": null,
+      "pressure_balls": 28,
+      "pressure_value": 9.56
+    },
+    {
+      "match_id": 50356,
+      "date": "2026-04-25",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "11 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50352,
+      "date": "2026-04-21",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "8 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50347,
+      "date": "2026-04-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50142,
+      "date": "2026-04-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "41 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 23,
+      "pressure_value": 6.39
+    },
+    {
+      "match_id": 50138,
+      "date": "2026-04-08",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "41 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 24,
+      "pressure_value": 8.25
+    },
+    {
+      "match_id": 50132,
+      "date": "2026-04-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "44 (30)",
+      "bowling_figures": null,
+      "pressure_balls": 24,
+      "pressure_value": 30.72
+    },
+    {
+      "match_id": 50129,
+      "date": "2026-04-01",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48612,
+      "date": "2026-02-03",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "23 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48514,
+      "date": "2026-01-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48512,
+      "date": "2026-01-07",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "12 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47982,
+      "date": "2025-11-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "11 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47981,
+      "date": "2025-11-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "8 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47980,
+      "date": "2025-11-25",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "98 (58)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47978,
+      "date": "2025-11-22",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "17 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47977,
+      "date": "2025-11-20",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -15.48
+    },
+    {
+      "match_id": 45512,
+      "date": "2025-09-26",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "107 (58)",
+      "bowling_figures": null,
+      "pressure_balls": 44,
+      "pressure_value": 23.5
+    },
+    {
+      "match_id": 45509,
+      "date": "2025-09-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "8 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45507,
+      "date": "2025-09-20",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "22 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45505,
+      "date": "2025-09-18",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "6 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -4.74
+    },
+    {
+      "match_id": 45502,
+      "date": "2025-09-15",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "68 (44)",
+      "bowling_figures": null,
+      "pressure_balls": 25,
+      "pressure_value": 13.84
+    },
+    {
+      "match_id": 45499,
+      "date": "2025-09-13",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "50 (34)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 6931,
+      "player_name": "Pathum Nissanka",
+      "role": "batter",
+      "match_id": 34427,
+      "n_balls": 26,
+      "match_runs": 37,
+      "match_pressure_value": 0.2642,
+      "career_expected_value": 0.5147,
+      "z_score": -6.21,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6931,
+      "player_name": "Pathum Nissanka",
+      "role": "batter",
+      "match_id": 13613,
+      "n_balls": 24,
+      "match_runs": 26,
+      "match_pressure_value": 0.2551,
+      "career_expected_value": 0.5147,
+      "z_score": -6.19,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6931,
+      "player_name": "Pathum Nissanka",
+      "role": "batter",
+      "match_id": 45502,
+      "n_balls": 25,
+      "match_runs": 44,
+      "match_pressure_value": 0.758,
+      "career_expected_value": 0.5147,
+      "z_score": 5.92,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6931,
+      "player_name": "Pathum Nissanka",
+      "role": "batter",
+      "match_id": 38633,
+      "n_balls": 19,
+      "match_runs": 30,
+      "match_pressure_value": 0.2689,
+      "career_expected_value": 0.5147,
+      "z_score": -5.21,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6931,
+      "player_name": "Pathum Nissanka",
+      "role": "batter",
+      "match_id": 29926,
+      "n_balls": 11,
+      "match_runs": 24,
+      "match_pressure_value": 0.2174,
+      "career_expected_value": 0.5147,
+      "z_score": -4.8,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6931,
+      "player_name": "Pathum Nissanka",
+      "role": "batter",
+      "match_id": 37895,
+      "n_balls": 18,
+      "match_runs": 19,
+      "match_pressure_value": 0.7353,
+      "career_expected_value": 0.5147,
+      "z_score": 4.55,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6931,
+      "player_name": "Pathum Nissanka",
+      "role": "batter",
+      "match_id": 38632,
+      "n_balls": 40,
+      "match_runs": 60,
+      "match_pressure_value": 0.6473,
+      "career_expected_value": 0.5147,
+      "z_score": 4.08,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6931,
+      "player_name": "Pathum Nissanka",
+      "role": "batter",
+      "match_id": 16657,
+      "n_balls": 16,
+      "match_runs": 19,
+      "match_pressure_value": 0.3402,
+      "career_expected_value": 0.5147,
+      "z_score": -3.4,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6931,
+      "player_name": "Pathum Nissanka",
+      "role": "batter",
+      "match_id": 50132,
+      "n_balls": 24,
+      "match_runs": 40,
+      "match_pressure_value": 0.6551,
+      "career_expected_value": 0.5147,
+      "z_score": 3.35,
+      "direction": "positive"
+    },
+    {
+      "player_id": 6931,
+      "player_name": "Pathum Nissanka",
+      "role": "batter",
+      "match_id": 15460,
+      "n_balls": 25,
+      "match_runs": 27,
+      "match_pressure_value": 0.3885,
+      "career_expected_value": 0.5147,
+      "z_score": -3.07,
+      "direction": "negative"
+    },
+    {
+      "player_id": 6931,
+      "player_name": "Pathum Nissanka",
+      "role": "batter",
+      "match_id": 13616,
+      "n_balls": 7,
+      "match_runs": 12,
+      "match_pressure_value": 0.7406,
+      "career_expected_value": 0.5147,
+      "z_score": 2.91,
+      "direction": "positive"
+    }
+  ]
+}

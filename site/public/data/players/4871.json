@@ -1,0 +1,73 @@
+{
+  "player_id": "4871",
+  "player_name": "Brandon Mavuta",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 1,
+    "runs": 12,
+    "balls": 15,
+    "average": 12.0,
+    "strike_rate": 80.0,
+    "highest_score": 8,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 5,
+    "singles": 8,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 42,
+    "overs": 7.0,
+    "runs_charged": 56.0,
+    "wickets": 2,
+    "economy": 8.0,
+    "average": 28.0,
+    "strike_rate": 21.0,
+    "dot_pct": 34.09,
+    "boundary_pct": 13.64,
+    "wides": 2,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 7.0,
+        "runs": 56.0,
+        "wickets": 2,
+        "economy": 8.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 33807,
+      "date": "2024-07-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "4 (7)",
+      "bowling_figures": "1/39 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28059,
+      "date": "2023-12-10",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "8 (8)",
+      "bowling_figures": "1/17 (3.0)",
+      "pressure_balls": 18,
+      "pressure_value": 3.96
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "player_id": "6188",
+  "player_name": "Simi Singh",
+  "batting": null,
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 12,
+    "overs": 2.0,
+    "runs_charged": 30.0,
+    "wickets": 0,
+    "economy": 15.0,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 25.0,
+    "boundary_pct": 41.67,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 1.0,
+        "runs": 20.0,
+        "wickets": 0,
+        "economy": 20.0
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 10.0,
+        "wickets": 0,
+        "economy": 10.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16753,
+      "date": "2022-08-15",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/10 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16754,
+      "date": "2022-08-17",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/20 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "player_id": "7545",
+  "player_name": "Kuldeep Sen",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 0,
+    "balls": 3,
+    "average": 0.0,
+    "strike_rate": 0.0,
+    "highest_score": 0,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 3,
+    "singles": 0,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 12,
+    "legal_balls": 241,
+    "overs": 40.2,
+    "runs_charged": 386.0,
+    "wickets": 14,
+    "economy": 9.61,
+    "average": 27.57,
+    "strike_rate": 17.21,
+    "dot_pct": 34.9,
+    "boundary_pct": 21.57,
+    "wides": 12,
+    "no_balls": 2,
+    "phase_splits": {
+      "death": {
+        "overs": 10.2,
+        "runs": 136.0,
+        "wickets": 4,
+        "economy": 13.38
+      },
+      "middle": {
+        "overs": 23.0,
+        "runs": 189.0,
+        "wickets": 8,
+        "economy": 8.22
+      },
+      "powerplay": {
+        "overs": 7.0,
+        "runs": 61.0,
+        "wickets": 2,
+        "economy": 8.71
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 64.6,
+    "tier": "Unproven",
+    "p_outperform": 0.6726,
+    "pressure_value_per_6": -0.02,
+    "clutch_delta_per_6": 0.09,
+    "consistency": 0.5295
+  },
+  "recent_matches": [
+    {
+      "match_id": 31250,
+      "date": "2024-04-16",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/46 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31245,
+      "date": "2024-04-13",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/35 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31242,
+      "date": "2024-04-10",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/41 (4.0)",
+      "pressure_balls": 24,
+      "pressure_value": 15.65
+    },
+    {
+      "match_id": 20222,
+      "date": "2023-04-30",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/20 (1.0)",
+      "pressure_balls": 4,
+      "pressure_value": -0.4
+    },
+    {
+      "match_id": 20197,
+      "date": "2023-04-12",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/8 (2.0)",
+      "pressure_balls": 12,
+      "pressure_value": 3.98
+    },
+    {
+      "match_id": 14152,
+      "date": "2022-05-11",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/32 (3.2)",
+      "pressure_balls": 18,
+      "pressure_value": -6.32
+    },
+    {
+      "match_id": 14146,
+      "date": "2022-05-07",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/42 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": -4.17
+    },
+    {
+      "match_id": 14141,
+      "date": "2022-05-02",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/27 (3.2)",
+      "pressure_balls": 21,
+      "pressure_value": 8.56
+    },
+    {
+      "match_id": 14137,
+      "date": "2022-04-30",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/29 (3.3)",
+      "pressure_balls": 5,
+      "pressure_value": -10.74
+    },
+    {
+      "match_id": 14132,
+      "date": "2022-04-26",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "4/20 (3.5)",
+      "pressure_balls": 11,
+      "pressure_value": 19.16
+    },
+    {
+      "match_id": 14117,
+      "date": "2022-04-14",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "0 (3)",
+      "bowling_figures": "1/51 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": -2.37
+    },
+    {
+      "match_id": 14113,
+      "date": "2022-04-10",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/35 (4.0)",
+      "pressure_balls": 3,
+      "pressure_value": 1.86
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 7545,
+      "player_name": "Kuldeep Sen",
+      "role": "bowler",
+      "match_id": 31242,
+      "n_balls": 24,
+      "match_runs_conceded": 30,
+      "match_wickets": 3,
+      "match_pressure_value": 0.7677,
+      "career_expected_value": 0.4963,
+      "z_score": 6.46,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7545,
+      "player_name": "Kuldeep Sen",
+      "role": "bowler",
+      "match_id": 14152,
+      "n_balls": 18,
+      "match_runs_conceded": 29,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2599,
+      "career_expected_value": 0.4963,
+      "z_score": -4.88,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7545,
+      "player_name": "Kuldeep Sen",
+      "role": "bowler",
+      "match_id": 14137,
+      "n_balls": 5,
+      "match_runs_conceded": 18,
+      "match_wickets": 0,
+      "match_pressure_value": 0.106,
+      "career_expected_value": 0.4963,
+      "z_score": -4.24,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7545,
+      "player_name": "Kuldeep Sen",
+      "role": "bowler",
+      "match_id": 20222,
+      "n_balls": 4,
+      "match_runs_conceded": 6,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7907,
+      "career_expected_value": 0.4963,
+      "z_score": 2.86,
+      "direction": "positive"
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "player_id": "5939",
+  "player_name": "Cameron Green",
+  "batting": {
+    "matches": 62,
+    "innings": 62,
+    "not_outs": 20,
+    "runs": 1633,
+    "balls": 1068,
+    "average": 38.88,
+    "strike_rate": 152.9,
+    "highest_score": 100,
+    "fours": 131,
+    "sixes": 83,
+    "dots": 329,
+    "singles": 442,
+    "twos": 80,
+    "threes": 3,
+    "ducks": 1,
+    "thirties": 18,
+    "fifties": 10,
+    "hundreds": 1,
+    "dismissals_by_type": {
+      "Caught": 28,
+      "Bowled": 13,
+      "Stump": 1
+    }
+  },
+  "bowling": {
+    "matches": 51,
+    "legal_balls": 753,
+    "overs": 125.5,
+    "runs_charged": 1194.0,
+    "wickets": 34,
+    "economy": 9.51,
+    "average": 35.12,
+    "strike_rate": 22.15,
+    "dot_pct": 34.04,
+    "boundary_pct": 20.9,
+    "wides": 42,
+    "no_balls": 4,
+    "phase_splits": {
+      "death": {
+        "overs": 22.2,
+        "runs": 262.0,
+        "wickets": 7,
+        "economy": 11.82
+      },
+      "middle": {
+        "overs": 71.3,
+        "runs": 614.0,
+        "wickets": 21,
+        "economy": 8.61
+      },
+      "powerplay": {
+        "overs": 32.0,
+        "runs": 318.0,
+        "wickets": 6,
+        "economy": 9.94
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 61.83,
+    "tier": "Promising",
+    "p_outperform": 0.8024,
+    "pressure_value_per_100": 9.84,
+    "clutch_delta_per_100": 4.87,
+    "consistency": 0.5924
+  },
+  "rated_bowling": {
+    "rating": 55.13,
+    "tier": "Unproven",
+    "p_outperform": 0.5768,
+    "pressure_value_per_6": 0.01,
+    "clutch_delta_per_6": 0.04,
+    "consistency": 0.4797
+  },
+  "recent_matches": [
+    {
+      "match_id": 50391,
+      "date": "2026-05-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (3)",
+      "bowling_figures": "0/21 (2.0)",
+      "pressure_balls": 3,
+      "pressure_value": -9.38
+    },
+    {
+      "match_id": 50386,
+      "date": "2026-05-20",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "4 (8)",
+      "bowling_figures": "2/23 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50381,
+      "date": "2026-05-16",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "52 (28)",
+      "bowling_figures": "1/25 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50378,
+      "date": "2026-05-13",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "32 (24)",
+      "bowling_figures": "0/22 (2.0)",
+      "pressure_balls": 2,
+      "pressure_value": -2.23
+    },
+    {
+      "match_id": 50372,
+      "date": "2026-05-08",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "33 (27)",
+      "bowling_figures": "1/12 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50366,
+      "date": "2026-05-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "3 (3)",
+      "bowling_figures": "1/34 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50359,
+      "date": "2026-04-26",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "34 (21)",
+      "bowling_figures": "1/12 (2.0)",
+      "pressure_balls": 4,
+      "pressure_value": 3.47
+    },
+    {
+      "match_id": 50349,
+      "date": "2026-04-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "27 (13)",
+      "bowling_figures": "0/27 (2.0)",
+      "pressure_balls": 11,
+      "pressure_value": 25.3
+    },
+    {
+      "match_id": 50346,
+      "date": "2026-04-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "79 (55)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -7.68
+    },
+    {
+      "match_id": 50343,
+      "date": "2026-04-14",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/29 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50139,
+      "date": "2026-04-09",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "32 (24)",
+      "bowling_figures": "1/28 (2.0)",
+      "pressure_balls": 21,
+      "pressure_value": 2.16
+    },
+    {
+      "match_id": 50136,
+      "date": "2026-04-06",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "4 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50130,
+      "date": "2026-04-02",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": 0.54
+    },
+    {
+      "match_id": 50126,
+      "date": "2026-03-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "18 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48917,
+      "date": "2026-02-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "22 (24)",
+      "bowling_figures": "1/43 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48916,
+      "date": "2026-01-31",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "35 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48915,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "36 (31)",
+      "bowling_figures": "0/11 (1.0)",
+      "pressure_balls": 30,
+      "pressure_value": 5.11
+    },
+    {
+      "match_id": 41971,
+      "date": "2025-08-16",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -8.12
+    },
+    {
+      "match_id": 41970,
+      "date": "2025-08-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41969,
+      "date": "2025-08-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "35 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41509,
+      "date": "2025-07-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "32 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": 7.6
+    },
+    {
+      "match_id": 41508,
+      "date": "2025-07-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "55 (35)",
+      "bowling_figures": null,
+      "pressure_balls": 32,
+      "pressure_value": 13.77
+    },
+    {
+      "match_id": 41507,
+      "date": "2025-07-26",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "11 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41506,
+      "date": "2025-07-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "56 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 15,
+      "pressure_value": 7.99
+    },
+    {
+      "match_id": 41505,
+      "date": "2025-07-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "51 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": 19.18
+    },
+    {
+      "match_id": 36563,
+      "date": "2024-09-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "13 (8)",
+      "bowling_figures": "0/24 (2.0)",
+      "pressure_balls": 10,
+      "pressure_value": -9.17
+    },
+    {
+      "match_id": 36562,
+      "date": "2024-09-12",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "13 (16)",
+      "bowling_figures": "1/14 (1.3)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 36561,
+      "date": "2024-09-07",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "62 (39)",
+      "bowling_figures": "3/35 (4.0)",
+      "pressure_balls": 15,
+      "pressure_value": 9.03
+    },
+    {
+      "match_id": 36560,
+      "date": "2024-09-06",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "36 (29)",
+      "bowling_figures": "2/16 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 36559,
+      "date": "2024-09-04",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/12 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 5939,
+      "player_name": "Cameron Green",
+      "role": "bowler",
+      "match_id": 20205,
+      "n_balls": 11,
+      "match_runs_conceded": 10,
+      "match_wickets": 1,
+      "match_pressure_value": 0.867,
+      "career_expected_value": 0.5059,
+      "z_score": 5.82,
+      "direction": "positive"
+    },
+    {
+      "player_id": 5939,
+      "player_name": "Cameron Green",
+      "role": "bowler",
+      "match_id": 31290,
+      "n_balls": 14,
+      "match_runs_conceded": 19,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2211,
+      "career_expected_value": 0.5059,
+      "z_score": -5.18,
+      "direction": "negative"
+    },
+    {
+      "player_id": 5939,
+      "player_name": "Cameron Green",
+      "role": "bowler",
+      "match_id": 30056,
+      "n_balls": 7,
+      "match_runs_conceded": 10,
+      "match_wickets": 0,
+      "match_pressure_value": 0.1631,
+      "career_expected_value": 0.5059,
+      "z_score": -4.41,
+      "direction": "negative"
+    },
+    {
+      "player_id": 5939,
+      "player_name": "Cameron Green",
+      "role": "bowler",
+      "match_id": 31280,
+      "n_balls": 7,
+      "match_runs_conceded": 3,
+      "match_wickets": 1,
+      "match_pressure_value": 0.8409,
+      "career_expected_value": 0.5059,
+      "z_score": 4.31,
+      "direction": "positive"
+    },
+    {
+      "player_id": 5939,
+      "player_name": "Cameron Green",
+      "role": "batter",
+      "match_id": 41508,
+      "n_balls": 27,
+      "match_runs": 45,
+      "match_pressure_value": 0.6586,
+      "career_expected_value": 0.5099,
+      "z_score": 3.76,
+      "direction": "positive"
+    },
+    {
+      "player_id": 5939,
+      "player_name": "Cameron Green",
+      "role": "batter",
+      "match_id": 17394,
+      "n_balls": 14,
+      "match_runs": 24,
+      "match_pressure_value": 0.3059,
+      "career_expected_value": 0.5099,
+      "z_score": -3.71,
+      "direction": "negative"
+    },
+    {
+      "player_id": 5939,
+      "player_name": "Cameron Green",
+      "role": "batter",
+      "match_id": 20196,
+      "n_balls": 7,
+      "match_runs": 16,
+      "match_pressure_value": 0.7804,
+      "career_expected_value": 0.5099,
+      "z_score": 3.48,
+      "direction": "positive"
+    },
+    {
+      "player_id": 5939,
+      "player_name": "Cameron Green",
+      "role": "batter",
+      "match_id": 20211,
+      "n_balls": 7,
+      "match_runs": 22,
+      "match_pressure_value": 0.2441,
+      "career_expected_value": 0.5099,
+      "z_score": -3.42,
+      "direction": "negative"
+    },
+    {
+      "player_id": 5939,
+      "player_name": "Cameron Green",
+      "role": "batter",
+      "match_id": 20222,
+      "n_balls": 5,
+      "match_runs": 4,
+      "match_pressure_value": 0.203,
+      "career_expected_value": 0.5099,
+      "z_score": -3.34,
+      "direction": "negative"
+    },
+    {
+      "player_id": 5939,
+      "player_name": "Cameron Green",
+      "role": "bowler",
+      "match_id": 36563,
+      "n_balls": 10,
+      "match_runs_conceded": 18,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7165,
+      "career_expected_value": 0.5059,
+      "z_score": 3.24,
+      "direction": "positive"
+    },
+    {
+      "player_id": 5939,
+      "player_name": "Cameron Green",
+      "role": "batter",
+      "match_id": 20243,
+      "n_balls": 6,
+      "match_runs": 4,
+      "match_pressure_value": 0.252,
+      "career_expected_value": 0.5099,
+      "z_score": -3.07,
+      "direction": "negative"
+    },
+    {
+      "player_id": 5939,
+      "player_name": "Cameron Green",
+      "role": "batter",
+      "match_id": 50349,
+      "n_balls": 11,
+      "match_runs": 27,
+      "match_pressure_value": 0.6941,
+      "career_expected_value": 0.5099,
+      "z_score": 2.97,
+      "direction": "positive"
+    },
+    {
+      "player_id": 5939,
+      "player_name": "Cameron Green",
+      "role": "bowler",
+      "match_id": 17641,
+      "n_balls": 7,
+      "match_runs_conceded": 11,
+      "match_wickets": 0,
+      "match_pressure_value": 0.7335,
+      "career_expected_value": 0.5059,
+      "z_score": 2.93,
+      "direction": "positive"
+    },
+    {
+      "player_id": 5939,
+      "player_name": "Cameron Green",
+      "role": "bowler",
+      "match_id": 50359,
+      "n_balls": 4,
+      "match_runs_conceded": 2,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2124,
+      "career_expected_value": 0.5059,
+      "z_score": -2.85,
+      "direction": "negative"
+    },
+    {
+      "player_id": 5939,
+      "player_name": "Cameron Green",
+      "role": "bowler",
+      "match_id": 30074,
+      "n_balls": 7,
+      "match_runs_conceded": 9,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2858,
+      "career_expected_value": 0.5059,
+      "z_score": -2.83,
+      "direction": "negative"
+    },
+    {
+      "player_id": 5939,
+      "player_name": "Cameron Green",
+      "role": "bowler",
+      "match_id": 17396,
+      "n_balls": 13,
+      "match_runs_conceded": 9,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3447,
+      "career_expected_value": 0.5059,
+      "z_score": -2.82,
+      "direction": "negative"
+    }
+  ]
+}

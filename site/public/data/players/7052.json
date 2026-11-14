@@ -1,0 +1,216 @@
+{
+  "player_id": "7052",
+  "player_name": "Dunith Wellalage",
+  "batting": {
+    "matches": 10,
+    "innings": 10,
+    "not_outs": 1,
+    "runs": 161,
+    "balls": 137,
+    "average": 17.89,
+    "strike_rate": 117.52,
+    "highest_score": 43,
+    "fours": 18,
+    "sixes": 5,
+    "dots": 61,
+    "singles": 47,
+    "twos": 6,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 3,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 7,
+      "Bowled": 2
+    }
+  },
+  "bowling": {
+    "matches": 15,
+    "legal_balls": 314,
+    "overs": 52.3,
+    "runs_charged": 417.0,
+    "wickets": 19,
+    "economy": 7.97,
+    "average": 21.95,
+    "strike_rate": 16.53,
+    "dot_pct": 38.63,
+    "boundary_pct": 15.26,
+    "wides": 6,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 8.3,
+        "runs": 87.0,
+        "wickets": 6,
+        "economy": 10.44
+      },
+      "middle": {
+        "overs": 25.0,
+        "runs": 198.0,
+        "wickets": 6,
+        "economy": 7.92
+      },
+      "powerplay": {
+        "overs": 19.0,
+        "runs": 132.0,
+        "wickets": 7,
+        "economy": 6.95
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 55078,
+      "date": "2026-10-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "5 (8)",
+      "bowling_figures": "0/26 (3.0)",
+      "pressure_balls": 3,
+      "pressure_value": -3.48
+    },
+    {
+      "match_id": 45489,
+      "date": "2026-09-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "33 (21)",
+      "bowling_figures": "1/51 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50505,
+      "date": "2026-06-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "43 (28)",
+      "bowling_figures": "1/23 (3.0)",
+      "pressure_balls": 14,
+      "pressure_value": 9.39
+    },
+    {
+      "match_id": 50504,
+      "date": "2026-06-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "2/28 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": 7.15
+    },
+    {
+      "match_id": 48612,
+      "date": "2026-02-03",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "9 (14)",
+      "bowling_figures": "1/28 (4.0)",
+      "pressure_balls": 10,
+      "pressure_value": -3.64
+    },
+    {
+      "match_id": 48028,
+      "date": "2025-11-21",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "2 (5)",
+      "bowling_figures": "1/19 (4.0)",
+      "pressure_balls": 5,
+      "pressure_value": -7.72
+    },
+    {
+      "match_id": 48026,
+      "date": "2025-11-19",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "23 (14)",
+      "bowling_figures": "3/19 (4.0)",
+      "pressure_balls": 27,
+      "pressure_value": 7.9
+    },
+    {
+      "match_id": 48021,
+      "date": "2025-11-17",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/24 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48018,
+      "date": "2025-11-15",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "33 (29)",
+      "bowling_figures": "1/23 (1.8)",
+      "pressure_balls": 7,
+      "pressure_value": -14.05
+    },
+    {
+      "match_id": 45507,
+      "date": "2025-09-20",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/36 (4.0)",
+      "pressure_balls": 24,
+      "pressure_value": -15.34
+    },
+    {
+      "match_id": 45505,
+      "date": "2025-09-18",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/49 (4.0)",
+      "pressure_balls": 4,
+      "pressure_value": -7.93
+    },
+    {
+      "match_id": 37895,
+      "date": "2024-11-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (9)",
+      "bowling_figures": "0/26 (4.0)",
+      "pressure_balls": 9,
+      "pressure_value": -9.78
+    },
+    {
+      "match_id": 37894,
+      "date": "2024-11-09",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "11 (7)",
+      "bowling_figures": "3/20 (3.5)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37555,
+      "date": "2024-10-17",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/36 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37554,
+      "date": "2024-10-15",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/9 (4.0)",
+      "pressure_balls": 10,
+      "pressure_value": 34.28
+    }
+  ]
+}

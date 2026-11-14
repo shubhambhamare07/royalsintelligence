@@ -1,0 +1,441 @@
+{
+  "player_id": "7260",
+  "player_name": "Dhruv Jurel",
+  "batting": {
+    "matches": 53,
+    "innings": 53,
+    "not_outs": 15,
+    "runs": 1205,
+    "balls": 795,
+    "average": 31.71,
+    "strike_rate": 151.57,
+    "highest_score": 81,
+    "fours": 99,
+    "sixes": 62,
+    "dots": 247,
+    "singles": 337,
+    "twos": 50,
+    "threes": 0,
+    "ducks": 5,
+    "thirties": 9,
+    "fifties": 10,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 26,
+      "Bowled": 7,
+      "LBW": 3,
+      "RunOut": 1,
+      "Stump": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 40.75,
+    "tier": "Unproven",
+    "p_outperform": 0.2483,
+    "pressure_value_per_100": -7.85,
+    "clutch_delta_per_100": -9.38,
+    "consistency": 0.5774
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50944,
+      "date": "2026-05-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "7 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50943,
+      "date": "2026-05-27",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "50 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50390,
+      "date": "2026-05-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "38 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50385,
+      "date": "2026-05-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "53 (38)",
+      "bowling_figures": null,
+      "pressure_balls": 16,
+      "pressure_value": 1.46
+    },
+    {
+      "match_id": 50383,
+      "date": "2026-05-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "53 (40)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -6.32
+    },
+    {
+      "match_id": 50373,
+      "date": "2026-05-09",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "24 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -0.75
+    },
+    {
+      "match_id": 50364,
+      "date": "2026-05-01",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "42 (30)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50361,
+      "date": "2026-04-28",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "16 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 20,
+      "pressure_value": -12.43
+    },
+    {
+      "match_id": 50357,
+      "date": "2026-04-25",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "51 (35)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50353,
+      "date": "2026-04-22",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50349,
+      "date": "2026-04-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "5 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50342,
+      "date": "2026-04-13",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50140,
+      "date": "2026-04-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "81 (43)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -0.64
+    },
+    {
+      "match_id": 50133,
+      "date": "2026-04-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "75 (42)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": 0.27
+    },
+    {
+      "match_id": 50127,
+      "date": "2026-03-30",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "18 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40756,
+      "date": "2025-05-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "31 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40760,
+      "date": "2025-05-18",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "53 (31)",
+      "bowling_figures": null,
+      "pressure_balls": 31,
+      "pressure_value": 13.0
+    },
+    {
+      "match_id": 40746,
+      "date": "2025-05-04",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40743,
+      "date": "2025-05-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "11 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40735,
+      "date": "2025-04-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "47 (34)",
+      "bowling_figures": null,
+      "pressure_balls": 36,
+      "pressure_value": 4.07
+    },
+    {
+      "match_id": 40729,
+      "date": "2025-04-19",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "6 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -3.51
+    },
+    {
+      "match_id": 40725,
+      "date": "2025-04-16",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "26 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": -4.77
+    },
+    {
+      "match_id": 40721,
+      "date": "2025-04-13",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "35 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -2.21
+    },
+    {
+      "match_id": 40716,
+      "date": "2025-04-09",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "5 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40711,
+      "date": "2025-04-05",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "13 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": 2.29
+    },
+    {
+      "match_id": 40704,
+      "date": "2025-03-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "3 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40699,
+      "date": "2025-03-26",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "33 (28)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40695,
+      "date": "2025-03-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "70 (35)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40038,
+      "date": "2025-01-28",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40037,
+      "date": "2025-01-25",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "4 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -6.21
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 7260,
+      "player_name": "Dhruv Jurel",
+      "role": "batter",
+      "match_id": 20212,
+      "n_balls": 16,
+      "match_runs": 34,
+      "match_pressure_value": 0.1736,
+      "career_expected_value": 0.5181,
+      "z_score": -6.7,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7260,
+      "player_name": "Dhruv Jurel",
+      "role": "batter",
+      "match_id": 40725,
+      "n_balls": 17,
+      "match_runs": 26,
+      "match_pressure_value": 0.7818,
+      "career_expected_value": 0.5181,
+      "z_score": 5.29,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7260,
+      "player_name": "Dhruv Jurel",
+      "role": "batter",
+      "match_id": 40760,
+      "n_balls": 30,
+      "match_runs": 53,
+      "match_pressure_value": 0.3305,
+      "career_expected_value": 0.5181,
+      "z_score": -5.0,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7260,
+      "player_name": "Dhruv Jurel",
+      "role": "batter",
+      "match_id": 31245,
+      "n_balls": 11,
+      "match_runs": 6,
+      "match_pressure_value": 0.7843,
+      "career_expected_value": 0.5181,
+      "z_score": 4.29,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7260,
+      "player_name": "Dhruv Jurel",
+      "role": "batter",
+      "match_id": 20188,
+      "n_balls": 4,
+      "match_runs": 6,
+      "match_pressure_value": 0.097,
+      "career_expected_value": 0.5181,
+      "z_score": -4.1,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7260,
+      "player_name": "Dhruv Jurel",
+      "role": "batter",
+      "match_id": 40729,
+      "n_balls": 5,
+      "match_runs": 6,
+      "match_pressure_value": 0.882,
+      "career_expected_value": 0.5181,
+      "z_score": 3.96,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7260,
+      "player_name": "Dhruv Jurel",
+      "role": "batter",
+      "match_id": 31290,
+      "n_balls": 6,
+      "match_runs": 7,
+      "match_pressure_value": 0.7817,
+      "career_expected_value": 0.5181,
+      "z_score": 3.14,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7260,
+      "player_name": "Dhruv Jurel",
+      "role": "batter",
+      "match_id": 40735,
+      "n_balls": 34,
+      "match_runs": 47,
+      "match_pressure_value": 0.6086,
+      "career_expected_value": 0.5181,
+      "z_score": 2.57,
+      "direction": "positive"
+    }
+  ]
+}

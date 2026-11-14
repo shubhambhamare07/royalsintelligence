@@ -1,0 +1,101 @@
+{
+  "match_id": 16752,
+  "competition_kind": "T20I",
+  "calendar_year": 2022,
+  "result": "Afghanistan Won by 22 Runs",
+  "innings_totals": {
+    "innings_1": 187.3,
+    "innings_1_sigma": 3.39,
+    "innings_2": 167.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.39
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 11,
+      "Elevated": 4
+    },
+    "2": {
+      "Normal": 9,
+      "Elevated": 7
+    },
+    "3": {
+      "Elevated": 8,
+      "Normal": 4
+    },
+    "4": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "6": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "7": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "8": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "9": {
+      "Normal": 9,
+      "Elevated": 4
+    },
+    "10": {
+      "Normal": 13
+    },
+    "11": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "12": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "13": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "14": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "15": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "16": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "17": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "18": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "19": {
+      "Normal": 7,
+      "High": 6
+    },
+    "20": {
+      "Normal": 7,
+      "High": 3,
+      "Elevated": 3
+    }
+  },
+  "turning_point_count": 5
+}

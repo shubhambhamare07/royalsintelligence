@@ -1,0 +1,126 @@
+{
+  "player_id": "19147",
+  "player_name": "Faraz Akram",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 2,
+    "runs": 82,
+    "balls": 55,
+    "average": 27.33,
+    "strike_rate": 149.09,
+    "highest_score": 34,
+    "fours": 4,
+    "sixes": 5,
+    "dots": 20,
+    "singles": 16,
+    "twos": 10,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2,
+      "LBW": 1
+    }
+  },
+  "bowling": {
+    "matches": 6,
+    "legal_balls": 99,
+    "overs": 16.5,
+    "runs_charged": 167.0,
+    "wickets": 1,
+    "economy": 10.12,
+    "average": 167.0,
+    "strike_rate": 99.0,
+    "dot_pct": 22.32,
+    "boundary_pct": 18.75,
+    "wides": 13,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.5,
+        "runs": 33.0,
+        "wickets": 0,
+        "economy": 13.2
+      },
+      "middle": {
+        "overs": 9.0,
+        "runs": 83.0,
+        "wickets": 1,
+        "economy": 9.22
+      },
+      "powerplay": {
+        "overs": 5.0,
+        "runs": 51.0,
+        "wickets": 0,
+        "economy": 10.2
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 38628,
+      "date": "2024-12-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "6 (10)",
+      "bowling_figures": "0/17 (1.5)",
+      "pressure_balls": 14,
+      "pressure_value": -8.74
+    },
+    {
+      "match_id": 33807,
+      "date": "2024-07-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "27 (13)",
+      "bowling_figures": "0/39 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": 0.28
+    },
+    {
+      "match_id": 33806,
+      "date": "2024-07-13",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "4 (3)",
+      "bowling_figures": "0/39 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32136,
+      "date": "2024-05-12",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/20 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32135,
+      "date": "2024-05-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "11 (10)",
+      "bowling_figures": "0/9 (1.0)",
+      "pressure_balls": 12,
+      "pressure_value": 2.53
+    },
+    {
+      "match_id": 32134,
+      "date": "2024-05-07",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "34 (19)",
+      "bowling_figures": "1/43 (4.0)",
+      "pressure_balls": 8,
+      "pressure_value": -2.73
+    }
+  ]
+}

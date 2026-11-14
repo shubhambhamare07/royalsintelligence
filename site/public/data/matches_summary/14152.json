@@ -1,0 +1,107 @@
+{
+  "match_id": 14152,
+  "competition_kind": "IPL",
+  "calendar_year": 2022,
+  "result": "Delhi Capitals Won by 8 Wickets",
+  "innings_totals": {
+    "innings_1": 160.6,
+    "innings_1_sigma": 2.02,
+    "innings_2": 161.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 7,
+      "High": 5,
+      "Elevated": 1
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "3": {
+      "Elevated": 7,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "5": {
+      "High": 8,
+      "Elevated": 6
+    },
+    "6": {
+      "Normal": 6,
+      "High": 6
+    },
+    "7": {
+      "Normal": 6,
+      "High": 6
+    },
+    "8": {
+      "Normal": 6,
+      "High": 6
+    },
+    "9": {
+      "Normal": 6,
+      "High": 6
+    },
+    "10": {
+      "Normal": 6,
+      "High": 6
+    },
+    "11": {
+      "Normal": 6,
+      "High": 6
+    },
+    "12": {
+      "High": 7,
+      "Normal": 5,
+      "Elevated": 1
+    },
+    "13": {
+      "Elevated": 6,
+      "High": 4,
+      "Extreme": 2
+    },
+    "14": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "15": {
+      "Elevated": 6,
+      "Extreme": 4,
+      "High": 3
+    },
+    "16": {
+      "Elevated": 8,
+      "High": 2,
+      "Normal": 2,
+      "Extreme": 1
+    },
+    "17": {
+      "High": 7,
+      "Normal": 5,
+      "Elevated": 1
+    },
+    "18": {
+      "High": 7,
+      "Normal": 6
+    },
+    "19": {
+      "High": 6,
+      "Normal": 1
+    },
+    "20": {
+      "High": 7
+    }
+  },
+  "turning_point_count": 5
+}

@@ -1,0 +1,72 @@
+{
+  "player_id": "4211",
+  "player_name": "Vishnu Vinod",
+  "batting": {
+    "matches": 4,
+    "innings": 4,
+    "not_outs": 1,
+    "runs": 52,
+    "balls": 39,
+    "average": 17.33,
+    "strike_rate": 133.33,
+    "highest_score": 30,
+    "fours": 3,
+    "sixes": 3,
+    "dots": 13,
+    "singles": 18,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50379,
+      "date": "2026-05-14",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "15 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -0.94
+    },
+    {
+      "match_id": 21585,
+      "date": "2023-05-26",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "5 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20243,
+      "date": "2023-05-16",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -5.88
+    },
+    {
+      "match_id": 20237,
+      "date": "2023-05-12",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "30 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

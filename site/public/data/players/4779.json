@@ -1,0 +1,165 @@
+{
+  "player_id": "4779",
+  "player_name": "Pieter Willem Mulder",
+  "batting": {
+    "matches": 9,
+    "innings": 9,
+    "not_outs": 0,
+    "runs": 109,
+    "balls": 111,
+    "average": 12.11,
+    "strike_rate": 98.2,
+    "highest_score": 36,
+    "fours": 9,
+    "sixes": 4,
+    "dots": 59,
+    "singles": 29,
+    "twos": 10,
+    "threes": 0,
+    "ducks": 3,
+    "thirties": 2,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 9
+    }
+  },
+  "bowling": {
+    "matches": 10,
+    "legal_balls": 114,
+    "overs": 19.0,
+    "runs_charged": 198.0,
+    "wickets": 8,
+    "economy": 10.42,
+    "average": 24.75,
+    "strike_rate": 14.25,
+    "dot_pct": 34.43,
+    "boundary_pct": 23.77,
+    "wides": 7,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 5.0,
+        "runs": 50.0,
+        "wickets": 4,
+        "economy": 10.0
+      },
+      "middle": {
+        "overs": 6.0,
+        "runs": 71.0,
+        "wickets": 1,
+        "economy": 11.83
+      },
+      "powerplay": {
+        "overs": 8.0,
+        "runs": 77.0,
+        "wickets": 3,
+        "economy": 9.62
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 49740,
+      "date": "2026-03-25",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "31 (29)",
+      "bowling_figures": "2/28 (3.0)",
+      "pressure_balls": 12,
+      "pressure_value": -1.07
+    },
+    {
+      "match_id": 49739,
+      "date": "2026-03-22",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "1/30 (3.0)",
+      "pressure_balls": 10,
+      "pressure_value": -10.57
+    },
+    {
+      "match_id": 49738,
+      "date": "2026-03-20",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "0 (4)",
+      "bowling_figures": "0/5 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 49737,
+      "date": "2026-03-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "16 (20)",
+      "bowling_figures": "2/14 (2.0)",
+      "pressure_balls": 20,
+      "pressure_value": -12.28
+    },
+    {
+      "match_id": 40703,
+      "date": "2025-03-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "9 (11)",
+      "bowling_figures": "0/16 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37015,
+      "date": "2024-09-29",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "8 (5)",
+      "bowling_figures": "2/51 (4.0)",
+      "pressure_balls": 5,
+      "pressure_value": -0.04
+    },
+    {
+      "match_id": 37014,
+      "date": "2024-09-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/15 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32619,
+      "date": "2024-05-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "36 (28)",
+      "bowling_figures": "0/9 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32618,
+      "date": "2024-05-26",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "9 (8)",
+      "bowling_figures": "0/14 (1.0)",
+      "pressure_balls": 6,
+      "pressure_value": -5.43
+    },
+    {
+      "match_id": 32617,
+      "date": "2024-05-24",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (4)",
+      "bowling_figures": "0/16 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "player_id": "4817",
+  "player_name": "Anmolpreet Singh",
+  "batting": {
+    "matches": 8,
+    "innings": 8,
+    "not_outs": 0,
+    "runs": 123,
+    "balls": 101,
+    "average": 15.38,
+    "strike_rate": 121.78,
+    "highest_score": 36,
+    "fours": 17,
+    "sixes": 2,
+    "dots": 44,
+    "singles": 33,
+    "twos": 5,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 3,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 7,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 31268,
+      "date": "2024-05-02",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "5 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31264,
+      "date": "2024-04-28",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20242,
+      "date": "2023-05-15",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "5 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -10.75
+    },
+    {
+      "match_id": 20238,
+      "date": "2023-05-13",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "36 (27)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20232,
+      "date": "2023-05-07",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "33 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -6.42
+    },
+    {
+      "match_id": 20190,
+      "date": "2023-04-07",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "31 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14102,
+      "date": "2022-04-02",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "5 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -12.4
+    },
+    {
+      "match_id": 14095,
+      "date": "2022-03-27",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "8 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

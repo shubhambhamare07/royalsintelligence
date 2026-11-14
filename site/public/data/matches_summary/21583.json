@@ -1,0 +1,108 @@
+{
+  "match_id": 21583,
+  "competition_kind": "IPL",
+  "calendar_year": 2023,
+  "result": "Chennai Super Kings Won by 15 runs",
+  "innings_totals": {
+    "innings_1": 172.1,
+    "innings_1_sigma": 1.91,
+    "innings_2": 156.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 6
+    },
+    "2": {
+      "Elevated": 7,
+      "High": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "High": 4,
+      "Extreme": 2
+    },
+    "6": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "7": {
+      "High": 6,
+      "Elevated": 4,
+      "Normal": 2
+    },
+    "8": {
+      "Normal": 6,
+      "High": 6
+    },
+    "9": {
+      "Normal": 6,
+      "High": 6
+    },
+    "10": {
+      "Normal": 6,
+      "High": 6
+    },
+    "11": {
+      "Elevated": 6,
+      "Extreme": 3,
+      "High": 3
+    },
+    "12": {
+      "High": 10,
+      "Elevated": 6
+    },
+    "13": {
+      "Elevated": 7,
+      "High": 5
+    },
+    "14": {
+      "Normal": 9,
+      "Elevated": 6
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "16": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "17": {
+      "High": 7,
+      "Elevated": 4,
+      "Normal": 2,
+      "Extreme": 1
+    },
+    "18": {
+      "High": 6,
+      "Extreme": 3,
+      "Normal": 3,
+      "Elevated": 1
+    },
+    "19": {
+      "High": 6,
+      "Normal": 6
+    },
+    "20": {
+      "Normal": 8,
+      "High": 7
+    }
+  },
+  "turning_point_count": 5
+}

@@ -1,0 +1,63 @@
+{
+  "player_id": "67864",
+  "player_name": "Matt Hollard",
+  "batting": null,
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 48,
+    "overs": 8.0,
+    "runs_charged": 54.0,
+    "wickets": 6,
+    "economy": 6.75,
+    "average": 9.0,
+    "strike_rate": 8.0,
+    "dot_pct": 38.46,
+    "boundary_pct": 7.69,
+    "wides": 3,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 10.0,
+        "wickets": 2,
+        "economy": 10.0
+      },
+      "middle": {
+        "overs": 4.0,
+        "runs": 20.0,
+        "wickets": 2,
+        "economy": 5.0
+      },
+      "powerplay": {
+        "overs": 3.0,
+        "runs": 24.0,
+        "wickets": 2,
+        "economy": 8.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50341,
+      "date": "2026-06-28",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "3/26 (4.0)",
+      "pressure_balls": 22,
+      "pressure_value": 14.21
+    },
+    {
+      "match_id": 50340,
+      "date": "2026-06-26",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "3/28 (4.0)",
+      "pressure_balls": 21,
+      "pressure_value": 51.77
+    }
+  ]
+}

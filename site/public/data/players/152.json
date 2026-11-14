@@ -1,0 +1,523 @@
+{
+  "player_id": "152",
+  "player_name": "Ravindra Jadeja",
+  "batting": {
+    "matches": 63,
+    "innings": 63,
+    "not_outs": 25,
+    "runs": 1260,
+    "balls": 938,
+    "average": 33.16,
+    "strike_rate": 134.33,
+    "highest_score": 77,
+    "fours": 97,
+    "sixes": 40,
+    "dots": 266,
+    "singles": 439,
+    "twos": 95,
+    "threes": 1,
+    "ducks": 3,
+    "thirties": 10,
+    "fifties": 3,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 25,
+      "Bowled": 5,
+      "LBW": 4,
+      "RunOut": 3,
+      "Obstructing the field": 1
+    }
+  },
+  "bowling": {
+    "matches": 72,
+    "legal_balls": 1355,
+    "overs": 225.8,
+    "runs_charged": 1766.0,
+    "wickets": 57,
+    "economy": 7.82,
+    "average": 30.98,
+    "strike_rate": 23.77,
+    "dot_pct": 30.85,
+    "boundary_pct": 13.25,
+    "wides": 23,
+    "no_balls": 3,
+    "phase_splits": {
+      "death": {
+        "overs": 7.7,
+        "runs": 79.0,
+        "wickets": 3,
+        "economy": 10.3
+      },
+      "middle": {
+        "overs": 212.2,
+        "runs": 1650.0,
+        "wickets": 53,
+        "economy": 7.78
+      },
+      "powerplay": {
+        "overs": 6.0,
+        "runs": 37.0,
+        "wickets": 1,
+        "economy": 6.17
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 29.32,
+    "tier": "Unproven",
+    "p_outperform": 0.0553,
+    "pressure_value_per_100": -17.84,
+    "clutch_delta_per_100": -13.46,
+    "consistency": 0.5537
+  },
+  "rated_bowling": {
+    "rating": 61.5,
+    "tier": "Unproven",
+    "p_outperform": 0.6771,
+    "pressure_value_per_6": 0.1,
+    "clutch_delta_per_6": -0.1,
+    "consistency": 0.4783
+  },
+  "recent_matches": [
+    {
+      "match_id": 50944,
+      "date": "2026-05-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "45 (35)",
+      "bowling_figures": "0/28 (2.0)",
+      "pressure_balls": 8,
+      "pressure_value": -7.1
+    },
+    {
+      "match_id": 50943,
+      "date": "2026-05-27",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "12 (9)",
+      "bowling_figures": "2/21 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50390,
+      "date": "2026-05-24",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "19 (11)",
+      "bowling_figures": "0/24 (2.0)",
+      "pressure_balls": 8,
+      "pressure_value": 0.77
+    },
+    {
+      "match_id": 50373,
+      "date": "2026-05-09",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "38 (25)",
+      "bowling_figures": "1/34 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50364,
+      "date": "2026-05-01",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "20 (14)",
+      "bowling_figures": "1/33 (3.0)",
+      "pressure_balls": 18,
+      "pressure_value": -5.71
+    },
+    {
+      "match_id": 50361,
+      "date": "2026-04-28",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/32 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50357,
+      "date": "2026-04-25",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "4 (3)",
+      "bowling_figures": "0/11 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50353,
+      "date": "2026-04-22",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "43 (29)",
+      "bowling_figures": "1/29 (4.0)",
+      "pressure_balls": 25,
+      "pressure_value": 5.7
+    },
+    {
+      "match_id": 50349,
+      "date": "2026-04-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "9 (7)",
+      "bowling_figures": "2/8 (3.0)",
+      "pressure_balls": 14,
+      "pressure_value": 19.55
+    },
+    {
+      "match_id": 50342,
+      "date": "2026-04-13",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "45 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50140,
+      "date": "2026-04-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "24 (25)",
+      "bowling_figures": "1/14 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50133,
+      "date": "2026-04-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "7 (7)",
+      "bowling_figures": "0/25 (2.0)",
+      "pressure_balls": 15,
+      "pressure_value": -9.42
+    },
+    {
+      "match_id": 50127,
+      "date": "2026-03-30",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/18 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40762,
+      "date": "2025-05-25",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "21 (18)",
+      "bowling_figures": "2/17 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40756,
+      "date": "2025-05-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "1 (5)",
+      "bowling_figures": "0/27 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40750,
+      "date": "2025-05-07",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "19 (10)",
+      "bowling_figures": "1/34 (4.0)",
+      "pressure_balls": 10,
+      "pressure_value": -10.34
+    },
+    {
+      "match_id": 40745,
+      "date": "2025-05-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "77 (45)",
+      "bowling_figures": "0/26 (3.0)",
+      "pressure_balls": 38,
+      "pressure_value": 3.82
+    },
+    {
+      "match_id": 40742,
+      "date": "2025-04-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "17 (12)",
+      "bowling_figures": "1/32 (3.0)",
+      "pressure_balls": 12,
+      "pressure_value": -1.46
+    },
+    {
+      "match_id": 40736,
+      "date": "2025-04-25",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "21 (17)",
+      "bowling_figures": "1/22 (3.7)",
+      "pressure_balls": 10,
+      "pressure_value": 1.39
+    },
+    {
+      "match_id": 40731,
+      "date": "2025-04-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "53 (35)",
+      "bowling_figures": "1/28 (3.0)",
+      "pressure_balls": 11,
+      "pressure_value": -8.73
+    },
+    {
+      "match_id": 40723,
+      "date": "2025-04-14",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "7 (11)",
+      "bowling_figures": "2/24 (3.0)",
+      "pressure_balls": 9,
+      "pressure_value": -10.56
+    },
+    {
+      "match_id": 40718,
+      "date": "2025-04-11",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "0/9 (0.2)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40715,
+      "date": "2025-04-08",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "9 (5)",
+      "bowling_figures": "0/18 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40710,
+      "date": "2025-04-05",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "2 (3)",
+      "bowling_figures": "1/19 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40704,
+      "date": "2025-03-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "32 (22)",
+      "bowling_figures": "1/10 (2.0)",
+      "pressure_balls": 24,
+      "pressure_value": -0.47
+    },
+    {
+      "match_id": 40701,
+      "date": "2025-03-28",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "25 (19)",
+      "bowling_figures": "0/37 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40696,
+      "date": "2025-03-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "17 (18)",
+      "bowling_figures": "0/21 (3.0)",
+      "pressure_balls": 8,
+      "pressure_value": 0.64
+    },
+    {
+      "match_id": 31286,
+      "date": "2024-05-18",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "42 (22)",
+      "bowling_figures": "0/40 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31279,
+      "date": "2024-05-12",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "5 (6)",
+      "bowling_figures": "0/24 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31277,
+      "date": "2024-05-10",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "18 (10)",
+      "bowling_figures": "0/29 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 152,
+      "player_name": "Ravindra Jadeja",
+      "role": "batter",
+      "match_id": 40704,
+      "n_balls": 22,
+      "match_runs": 32,
+      "match_pressure_value": 0.2145,
+      "career_expected_value": 0.5034,
+      "z_score": -6.59,
+      "direction": "negative"
+    },
+    {
+      "player_id": 152,
+      "player_name": "Ravindra Jadeja",
+      "role": "batter",
+      "match_id": 40696,
+      "n_balls": 8,
+      "match_runs": 10,
+      "match_pressure_value": 0.8871,
+      "career_expected_value": 0.5034,
+      "z_score": 5.28,
+      "direction": "positive"
+    },
+    {
+      "player_id": 152,
+      "player_name": "Ravindra Jadeja",
+      "role": "batter",
+      "match_id": 30056,
+      "n_balls": 10,
+      "match_runs": 16,
+      "match_pressure_value": 0.842,
+      "career_expected_value": 0.5034,
+      "z_score": 5.21,
+      "direction": "positive"
+    },
+    {
+      "player_id": 152,
+      "player_name": "Ravindra Jadeja",
+      "role": "bowler",
+      "match_id": 20181,
+      "n_balls": 11,
+      "match_runs_conceded": 16,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2372,
+      "career_expected_value": 0.5365,
+      "z_score": -4.82,
+      "direction": "negative"
+    },
+    {
+      "player_id": 152,
+      "player_name": "Ravindra Jadeja",
+      "role": "bowler",
+      "match_id": 21583,
+      "n_balls": 23,
+      "match_runs_conceded": 18,
+      "match_wickets": 2,
+      "match_pressure_value": 0.7198,
+      "career_expected_value": 0.5365,
+      "z_score": 4.27,
+      "direction": "positive"
+    },
+    {
+      "player_id": 152,
+      "player_name": "Ravindra Jadeja",
+      "role": "bowler",
+      "match_id": 40736,
+      "n_balls": 10,
+      "match_runs_conceded": 6,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2731,
+      "career_expected_value": 0.5365,
+      "z_score": -4.05,
+      "direction": "negative"
+    },
+    {
+      "player_id": 152,
+      "player_name": "Ravindra Jadeja",
+      "role": "bowler",
+      "match_id": 50364,
+      "n_balls": 18,
+      "match_runs_conceded": 33,
+      "match_wickets": 1,
+      "match_pressure_value": 0.3494,
+      "career_expected_value": 0.5365,
+      "z_score": -3.86,
+      "direction": "negative"
+    },
+    {
+      "player_id": 152,
+      "player_name": "Ravindra Jadeja",
+      "role": "bowler",
+      "match_id": 14110,
+      "n_balls": 6,
+      "match_runs_conceded": 5,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2162,
+      "career_expected_value": 0.5365,
+      "z_score": -3.81,
+      "direction": "negative"
+    },
+    {
+      "player_id": 152,
+      "player_name": "Ravindra Jadeja",
+      "role": "batter",
+      "match_id": 40723,
+      "n_balls": 8,
+      "match_runs": 6,
+      "match_pressure_value": 0.7704,
+      "career_expected_value": 0.5034,
+      "z_score": 3.67,
+      "direction": "positive"
+    },
+    {
+      "player_id": 152,
+      "player_name": "Ravindra Jadeja",
+      "role": "bowler",
+      "match_id": 20235,
+      "n_balls": 18,
+      "match_runs_conceded": 16,
+      "match_wickets": 0,
+      "match_pressure_value": 0.714,
+      "career_expected_value": 0.5365,
+      "z_score": 3.66,
+      "direction": "positive"
+    },
+    {
+      "player_id": 152,
+      "player_name": "Ravindra Jadeja",
+      "role": "batter",
+      "match_id": 14131,
+      "n_balls": 5,
+      "match_runs": 8,
+      "match_pressure_value": 0.1944,
+      "career_expected_value": 0.5034,
+      "z_score": -3.36,
+      "direction": "negative"
+    }
+  ]
+}

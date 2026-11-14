@@ -1,0 +1,208 @@
+{
+  "player_id": "8301",
+  "player_name": "Asif Khan",
+  "batting": {
+    "matches": 13,
+    "innings": 13,
+    "not_outs": 2,
+    "runs": 303,
+    "balls": 200,
+    "average": 27.55,
+    "strike_rate": 151.5,
+    "highest_score": 77,
+    "fours": 21,
+    "sixes": 21,
+    "dots": 76,
+    "singles": 72,
+    "twos": 9,
+    "threes": 1,
+    "ducks": 1,
+    "thirties": 4,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 8,
+      "Bowled": 3
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 65.34,
+    "tier": "Promising",
+    "p_outperform": 0.8192,
+    "pressure_value_per_100": 5.05,
+    "clutch_delta_per_100": 3.21,
+    "consistency": 0.6541
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 45504,
+      "date": "2025-09-17",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -10.44
+    },
+    {
+      "match_id": 45501,
+      "date": "2025-09-15",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45496,
+      "date": "2025-09-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45856,
+      "date": "2025-09-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "40 (28)",
+      "bowling_figures": null,
+      "pressure_balls": 29,
+      "pressure_value": 3.83
+    },
+    {
+      "match_id": 45855,
+      "date": "2025-09-04",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "7 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": 0.57
+    },
+    {
+      "match_id": 45853,
+      "date": "2025-09-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -11.26
+    },
+    {
+      "match_id": 45852,
+      "date": "2025-08-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "77 (35)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 43171,
+      "date": "2025-05-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "41 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 19,
+      "pressure_value": 7.57
+    },
+    {
+      "match_id": 42784,
+      "date": "2025-05-19",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "19 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": 1.13
+    },
+    {
+      "match_id": 42783,
+      "date": "2025-05-17",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "42 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 20,
+      "pressure_value": 21.25
+    },
+    {
+      "match_id": 24794,
+      "date": "2023-08-20",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "11 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": 2.87
+    },
+    {
+      "match_id": 24793,
+      "date": "2023-08-19",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "48 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": 3.55
+    },
+    {
+      "match_id": 24792,
+      "date": "2023-08-17",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "13 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": 8.1
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 8301,
+      "player_name": "Asif Khan",
+      "role": "batter",
+      "match_id": 43171,
+      "n_balls": 18,
+      "match_runs": 28,
+      "match_pressure_value": 0.6953,
+      "career_expected_value": 0.4545,
+      "z_score": 4.97,
+      "direction": "positive"
+    },
+    {
+      "player_id": 8301,
+      "player_name": "Asif Khan",
+      "role": "batter",
+      "match_id": 45855,
+      "n_balls": 5,
+      "match_runs": 7,
+      "match_pressure_value": 0.2185,
+      "career_expected_value": 0.4545,
+      "z_score": -2.57,
+      "direction": "negative"
+    },
+    {
+      "player_id": 8301,
+      "player_name": "Asif Khan",
+      "role": "batter",
+      "match_id": 42783,
+      "n_balls": 19,
+      "match_runs": 42,
+      "match_pressure_value": 0.3357,
+      "career_expected_value": 0.4545,
+      "z_score": -2.52,
+      "direction": "negative"
+    }
+  ]
+}

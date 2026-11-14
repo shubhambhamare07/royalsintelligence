@@ -1,0 +1,125 @@
+{
+  "player_id": "7060",
+  "player_name": "Arjun Tendulkar",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 1,
+    "runs": 18,
+    "balls": 14,
+    "average": 18.0,
+    "strike_rate": 128.57,
+    "highest_score": 13,
+    "fours": 0,
+    "sixes": 1,
+    "dots": 3,
+    "singles": 8,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 6,
+    "legal_balls": 97,
+    "overs": 16.2,
+    "runs_charged": 150.0,
+    "wickets": 4,
+    "economy": 9.28,
+    "average": 37.5,
+    "strike_rate": 24.25,
+    "dot_pct": 36.45,
+    "boundary_pct": 17.76,
+    "wides": 9,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 2.8,
+        "runs": 40.0,
+        "wickets": 1,
+        "economy": 14.12
+      },
+      "middle": {
+        "overs": 4.3,
+        "runs": 55.0,
+        "wickets": 2,
+        "economy": 12.69
+      },
+      "powerplay": {
+        "overs": 9.0,
+        "runs": 55.0,
+        "wickets": 1,
+        "economy": 6.11
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50389,
+      "date": "2026-05-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "5 (5)",
+      "bowling_figures": "1/36 (4.0)",
+      "pressure_balls": 17,
+      "pressure_value": -10.27
+    },
+    {
+      "match_id": 31285,
+      "date": "2024-05-17",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/22 (2.3)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20215,
+      "date": "2023-04-25",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "13 (9)",
+      "bowling_figures": "1/9 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20211,
+      "date": "2023-04-22",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/48 (3.0)",
+      "pressure_balls": 1,
+      "pressure_value": -1.81
+    },
+    {
+      "match_id": 20205,
+      "date": "2023-04-18",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/18 (2.8)",
+      "pressure_balls": 3,
+      "pressure_value": -1.94
+    },
+    {
+      "match_id": 20202,
+      "date": "2023-04-16",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/17 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

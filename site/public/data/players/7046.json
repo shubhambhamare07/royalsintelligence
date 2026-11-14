@@ -1,0 +1,84 @@
+{
+  "player_id": "7046",
+  "player_name": "Tinashe Kamunhukamwe",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 0,
+    "runs": 90,
+    "balls": 74,
+    "average": 18.0,
+    "strike_rate": 121.62,
+    "highest_score": 39,
+    "fours": 6,
+    "sixes": 5,
+    "dots": 35,
+    "singles": 20,
+    "twos": 8,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "Bowled": 1,
+      "LBW": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 28959,
+      "date": "2024-01-18",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "12 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28958,
+      "date": "2024-01-16",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "12 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 15,
+      "pressure_value": -5.7
+    },
+    {
+      "match_id": 28957,
+      "date": "2024-01-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "26 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28059,
+      "date": "2023-12-10",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "1 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28058,
+      "date": "2023-12-09",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "39 (27)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

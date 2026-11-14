@@ -1,0 +1,53 @@
+{
+  "player_id": "8763",
+  "player_name": "Duan Jansen",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 24,
+    "overs": 4.0,
+    "runs_charged": 53.0,
+    "wickets": 1,
+    "economy": 13.25,
+    "average": 53.0,
+    "strike_rate": 24.0,
+    "dot_pct": 21.43,
+    "boundary_pct": 25.0,
+    "wides": 4,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 24.0,
+        "wickets": 1,
+        "economy": 12.0
+      },
+      "middle": {
+        "overs": 1.0,
+        "runs": 13.0,
+        "wickets": 0,
+        "economy": 13.0
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 16.0,
+        "wickets": 0,
+        "economy": 16.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 20202,
+      "date": "2023-04-16",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/53 (4.0)",
+      "pressure_balls": 10,
+      "pressure_value": -3.02
+    }
+  ]
+}

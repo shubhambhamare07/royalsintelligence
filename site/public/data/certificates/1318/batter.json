@@ -1,0 +1,45 @@
+{
+  "player_id": "1318",
+  "player_name": "Andre Russell",
+  "role": "batter",
+  "tier": "Proven",
+  "rating": 83.87,
+  "rating_ci90": [
+    59.81,
+    100.0
+  ],
+  "p_outperform": 0.9895,
+  "top10_inclusion_prob": 0.5353,
+  "rank_ci90": [
+    1,
+    51
+  ],
+  "composite": 1.1687,
+  "components": {
+    "PV": {
+      "observed": 0.2721,
+      "adjusted": 0.2721,
+      "z_score": 1.8501,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": 0.0934,
+      "adjusted": 0.0934,
+      "z_score": 0.7375,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.6644,
+      "adjusted": 0.6644,
+      "z_score": 0.9184,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 166,
+    "neff_pressure": 166.0,
+    "n_pressure_matches": 20
+  },
+  "explanation": "Andre Russell generated a pressure value of +27.21 runs/100 balls (Clutch Delta: +9.34) at a 195.2 strike rate with 84.6% consistency across 20 pressure matches (166 balls)."
+}

@@ -1,0 +1,52 @@
+{
+  "player_id": "2860",
+  "player_name": "KS Bharat",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 8,
+    "balls": 7,
+    "average": 4.0,
+    "strike_rate": 114.29,
+    "highest_score": 8,
+    "fours": 2,
+    "sixes": 0,
+    "dots": 5,
+    "singles": 0,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 14152,
+      "date": "2022-05-11",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -17.05
+    },
+    {
+      "match_id": 14149,
+      "date": "2022-05-08",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "8 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

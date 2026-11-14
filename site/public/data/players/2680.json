@@ -1,0 +1,277 @@
+{
+  "player_id": "2680",
+  "player_name": "Nurul Hasan",
+  "batting": {
+    "matches": 21,
+    "innings": 21,
+    "not_outs": 11,
+    "runs": 280,
+    "balls": 222,
+    "average": 28.0,
+    "strike_rate": 126.13,
+    "highest_score": 42,
+    "fours": 12,
+    "sixes": 18,
+    "dots": 80,
+    "singles": 100,
+    "twos": 12,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 3,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 6,
+      "Bowled": 3,
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 50.13,
+    "tier": "Unproven",
+    "p_outperform": 0.5076,
+    "pressure_value_per_100": -4.15,
+    "clutch_delta_per_100": -1.0,
+    "consistency": 0.5956
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 51384,
+      "date": "2026-07-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "4 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 51383,
+      "date": "2026-07-14",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "3 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -8.31
+    },
+    {
+      "match_id": 50599,
+      "date": "2026-06-21",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "6 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47242,
+      "date": "2025-11-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "5 (7)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": -6.97
+    },
+    {
+      "match_id": 46942,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46940,
+      "date": "2025-10-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "5 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46755,
+      "date": "2025-10-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "10 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46754,
+      "date": "2025-10-03",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "31 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 21,
+      "pressure_value": 11.81
+    },
+    {
+      "match_id": 46753,
+      "date": "2025-10-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "23 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 11,
+      "pressure_value": 7.76
+    },
+    {
+      "match_id": 45511,
+      "date": "2025-09-25",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "16 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 21,
+      "pressure_value": -5.32
+    },
+    {
+      "match_id": 45503,
+      "date": "2025-09-16",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "12 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 7,
+      "pressure_value": 3.59
+    },
+    {
+      "match_id": 45908,
+      "date": "2025-09-03",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "22 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17742,
+      "date": "2022-10-13",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -4.29
+    },
+    {
+      "match_id": 17741,
+      "date": "2022-10-12",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "2 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17739,
+      "date": "2022-10-09",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "25 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17737,
+      "date": "2022-10-07",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "8 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -1.13
+    },
+    {
+      "match_id": 17632,
+      "date": "2022-09-27",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "19 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": 4.07
+    },
+    {
+      "match_id": 17631,
+      "date": "2022-09-25",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "35 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": 2.52
+    },
+    {
+      "match_id": 16424,
+      "date": "2022-07-30",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "42 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -2.01
+    },
+    {
+      "match_id": 15548,
+      "date": "2022-07-08",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "2 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -1.76
+    },
+    {
+      "match_id": 15547,
+      "date": "2022-07-04",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "7 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 2680,
+      "player_name": "Nurul Hasan",
+      "role": "batter",
+      "match_id": 47242,
+      "n_balls": 7,
+      "match_runs": 5,
+      "match_pressure_value": 0.759,
+      "career_expected_value": 0.5413,
+      "z_score": 2.8,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2680,
+      "player_name": "Nurul Hasan",
+      "role": "batter",
+      "match_id": 46754,
+      "n_balls": 21,
+      "match_runs": 31,
+      "match_pressure_value": 0.6575,
+      "career_expected_value": 0.5413,
+      "z_score": 2.59,
+      "direction": "positive"
+    }
+  ]
+}

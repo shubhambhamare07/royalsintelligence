@@ -1,0 +1,107 @@
+{
+  "match_id": 14096,
+  "competition_kind": "IPL",
+  "calendar_year": 2022,
+  "result": "Punjab Kings Won by 5 Wkts",
+  "innings_totals": {
+    "innings_1": 197.0,
+    "innings_1_sigma": 2.02,
+    "innings_2": 199.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 12
+    },
+    "2": {
+      "Elevated": 10,
+      "Normal": 6
+    },
+    "3": {
+      "Elevated": 12
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "High": 5,
+      "Extreme": 2
+    },
+    "6": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "7": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "8": {
+      "Normal": 6,
+      "High": 4,
+      "Elevated": 2
+    },
+    "9": {
+      "Normal": 6,
+      "Elevated": 3,
+      "High": 3
+    },
+    "10": {
+      "Normal": 7,
+      "High": 6
+    },
+    "11": {
+      "Elevated": 6,
+      "Extreme": 5,
+      "High": 1
+    },
+    "12": {
+      "Elevated": 7,
+      "Extreme": 7
+    },
+    "13": {
+      "Elevated": 7,
+      "Extreme": 7
+    },
+    "14": {
+      "Extreme": 9,
+      "Normal": 4,
+      "Elevated": 2
+    },
+    "15": {
+      "Normal": 7,
+      "Extreme": 6
+    },
+    "16": {
+      "Extreme": 6,
+      "Normal": 4,
+      "Elevated": 2
+    },
+    "17": {
+      "Extreme": 9,
+      "Normal": 6
+    },
+    "18": {
+      "Extreme": 7,
+      "Normal": 5,
+      "Elevated": 1
+    },
+    "19": {
+      "Normal": 9,
+      "High": 3,
+      "Elevated": 1
+    },
+    "20": {
+      "Normal": 5,
+      "Elevated": 1
+    }
+  },
+  "turning_point_count": 5
+}

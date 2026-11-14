@@ -1,0 +1,111 @@
+{
+  "match_id": 14136,
+  "competition_kind": "IPL",
+  "calendar_year": 2022,
+  "result": "Gujarat Titans won by 6 wickets",
+  "innings_totals": {
+    "innings_1": 170.3,
+    "innings_1_sigma": 2.02,
+    "innings_2": 171.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 7,
+      "High": 6
+    },
+    "2": {
+      "High": 6,
+      "Elevated": 4,
+      "Normal": 2
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "Extreme": 4,
+      "High": 2
+    },
+    "6": {
+      "High": 8,
+      "Elevated": 4,
+      "Normal": 2
+    },
+    "7": {
+      "Normal": 6,
+      "High": 6
+    },
+    "8": {
+      "Normal": 6,
+      "High": 6
+    },
+    "9": {
+      "Normal": 6,
+      "High": 6,
+      "Extreme": 1
+    },
+    "10": {
+      "Normal": 6,
+      "High": 6
+    },
+    "11": {
+      "Elevated": 6,
+      "High": 4,
+      "Extreme": 2
+    },
+    "12": {
+      "Elevated": 6,
+      "High": 5,
+      "Extreme": 1
+    },
+    "13": {
+      "Elevated": 6,
+      "Extreme": 5,
+      "High": 1
+    },
+    "14": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "15": {
+      "Elevated": 6,
+      "Extreme": 4,
+      "High": 2
+    },
+    "16": {
+      "Extreme": 6,
+      "Elevated": 5,
+      "High": 1
+    },
+    "17": {
+      "Extreme": 7,
+      "Elevated": 4,
+      "High": 2
+    },
+    "18": {
+      "High": 6,
+      "Extreme": 6
+    },
+    "19": {
+      "High": 6,
+      "Extreme": 6
+    },
+    "20": {
+      "High": 7,
+      "Extreme": 4
+    }
+  },
+  "turning_point_count": 5
+}

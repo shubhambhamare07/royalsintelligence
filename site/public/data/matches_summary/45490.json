@@ -1,0 +1,87 @@
+{
+  "match_id": 45490,
+  "competition_kind": "T20I",
+  "calendar_year": 2026,
+  "result": "England Won by 6 wickets",
+  "innings_totals": {
+    "innings_1": 144.3,
+    "innings_1_sigma": 3.6,
+    "innings_2": 146.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 12
+    },
+    "2": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "6": {
+      "Normal": 12
+    },
+    "7": {
+      "Normal": 13
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 14
+    },
+    "12": {
+      "Normal": 14
+    },
+    "13": {
+      "Normal": 8
+    },
+    "14": {
+      "Normal": 7
+    },
+    "15": {
+      "Normal": 6
+    },
+    "16": {
+      "Normal": 3,
+      "Elevated": 3
+    },
+    "17": {
+      "Elevated": 6
+    },
+    "18": {
+      "Elevated": 4,
+      "Normal": 2
+    },
+    "19": {
+      "Normal": 6
+    },
+    "20": {
+      "Normal": 6
+    }
+  },
+  "turning_point_count": 5
+}

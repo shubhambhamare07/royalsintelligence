@@ -1,0 +1,342 @@
+{
+  "player_id": "22565",
+  "player_name": "Muhammad Waseem",
+  "batting": {
+    "matches": 20,
+    "innings": 20,
+    "not_outs": 2,
+    "runs": 669,
+    "balls": 459,
+    "average": 37.17,
+    "strike_rate": 145.75,
+    "highest_score": 82,
+    "fours": 58,
+    "sixes": 40,
+    "dots": 195,
+    "singles": 138,
+    "twos": 25,
+    "threes": 3,
+    "ducks": 1,
+    "thirties": 4,
+    "fifties": 6,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 12,
+      "LBW": 5,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 17,
+    "overs": 2.8,
+    "runs_charged": 45.0,
+    "wickets": 0,
+    "economy": 15.88,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 10.53,
+    "boundary_pct": 21.05,
+    "wides": 0,
+    "no_balls": 2,
+    "phase_splits": {
+      "death": {
+        "overs": 1.8,
+        "runs": 38.0,
+        "wickets": 0,
+        "economy": 20.73
+      },
+      "middle": {
+        "overs": 1.0,
+        "runs": 7.0,
+        "wickets": 0,
+        "economy": 7.0
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 47.59,
+    "tier": "Unproven",
+    "p_outperform": 0.432,
+    "pressure_value_per_100": 6.65,
+    "clutch_delta_per_100": -8.69,
+    "consistency": 0.5564
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48467,
+      "date": "2026-01-31",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "12 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": -7.79
+    },
+    {
+      "match_id": 48466,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "40 (37)",
+      "bowling_figures": null,
+      "pressure_balls": 37,
+      "pressure_value": -9.39
+    },
+    {
+      "match_id": 45504,
+      "date": "2025-09-17",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "14 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": -8.3
+    },
+    {
+      "match_id": 45501,
+      "date": "2025-09-15",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "69 (54)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": 0.36
+    },
+    {
+      "match_id": 45496,
+      "date": "2025-09-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "19 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45856,
+      "date": "2025-09-05",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "44 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 30,
+      "pressure_value": 10.17
+    },
+    {
+      "match_id": 45855,
+      "date": "2025-09-04",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "19 (19)",
+      "bowling_figures": null,
+      "pressure_balls": 19,
+      "pressure_value": -4.24
+    },
+    {
+      "match_id": 45853,
+      "date": "2025-09-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "67 (37)",
+      "bowling_figures": null,
+      "pressure_balls": 33,
+      "pressure_value": 19.33
+    },
+    {
+      "match_id": 45852,
+      "date": "2025-08-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "33 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": -0.15
+    },
+    {
+      "match_id": 43171,
+      "date": "2025-05-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (6)",
+      "bowling_figures": "0/23 (0.8)",
+      "pressure_balls": 11,
+      "pressure_value": -16.47
+    },
+    {
+      "match_id": 42784,
+      "date": "2025-05-19",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "82 (42)",
+      "bowling_figures": "0/22 (2.0)",
+      "pressure_balls": 35,
+      "pressure_value": 19.06
+    },
+    {
+      "match_id": 42783,
+      "date": "2025-05-17",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "54 (39)",
+      "bowling_figures": null,
+      "pressure_balls": 31,
+      "pressure_value": 14.78
+    },
+    {
+      "match_id": 24794,
+      "date": "2023-08-20",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "8 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -7.12
+    },
+    {
+      "match_id": 24793,
+      "date": "2023-08-19",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "55 (29)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": 8.73
+    },
+    {
+      "match_id": 24792,
+      "date": "2023-08-17",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 17632,
+      "date": "2022-09-27",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "18 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 14,
+      "pressure_value": -4.47
+    },
+    {
+      "match_id": 17631,
+      "date": "2022-09-25",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "15 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 15,
+      "pressure_value": 4.75
+    },
+    {
+      "match_id": 16866,
+      "date": "2022-08-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "18 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16864,
+      "date": "2022-08-22",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "58 (34)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16863,
+      "date": "2022-08-21",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "35 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 22565,
+      "player_name": "Muhammad Waseem",
+      "role": "batter",
+      "match_id": 45856,
+      "n_balls": 29,
+      "match_runs": 44,
+      "match_pressure_value": 0.7063,
+      "career_expected_value": 0.5312,
+      "z_score": 4.58,
+      "direction": "positive"
+    },
+    {
+      "player_id": 22565,
+      "player_name": "Muhammad Waseem",
+      "role": "batter",
+      "match_id": 17632,
+      "n_balls": 14,
+      "match_runs": 11,
+      "match_pressure_value": 0.3187,
+      "career_expected_value": 0.5312,
+      "z_score": -3.87,
+      "direction": "negative"
+    },
+    {
+      "player_id": 22565,
+      "player_name": "Muhammad Waseem",
+      "role": "batter",
+      "match_id": 45853,
+      "n_balls": 33,
+      "match_runs": 55,
+      "match_pressure_value": 0.3992,
+      "career_expected_value": 0.5312,
+      "z_score": -3.69,
+      "direction": "negative"
+    },
+    {
+      "player_id": 22565,
+      "player_name": "Muhammad Waseem",
+      "role": "batter",
+      "match_id": 45504,
+      "n_balls": 8,
+      "match_runs": 6,
+      "match_pressure_value": 0.7839,
+      "career_expected_value": 0.5312,
+      "z_score": 3.48,
+      "direction": "positive"
+    },
+    {
+      "player_id": 22565,
+      "player_name": "Muhammad Waseem",
+      "role": "batter",
+      "match_id": 48467,
+      "n_balls": 11,
+      "match_runs": 12,
+      "match_pressure_value": 0.7125,
+      "career_expected_value": 0.5312,
+      "z_score": 2.92,
+      "direction": "positive"
+    },
+    {
+      "player_id": 22565,
+      "player_name": "Muhammad Waseem",
+      "role": "batter",
+      "match_id": 17631,
+      "n_balls": 15,
+      "match_runs": 15,
+      "match_pressure_value": 0.6654,
+      "career_expected_value": 0.5312,
+      "z_score": 2.53,
+      "direction": "positive"
+    }
+  ]
+}

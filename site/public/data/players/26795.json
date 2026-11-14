@@ -1,0 +1,93 @@
+{
+  "player_id": "26795",
+  "player_name": "Joel Davies",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 2,
+    "runs": 20,
+    "balls": 14,
+    "average": 20.0,
+    "strike_rate": 142.86,
+    "highest_score": 13,
+    "fours": 1,
+    "sixes": 1,
+    "dots": 3,
+    "singles": 8,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 48,
+    "overs": 8.0,
+    "runs_charged": 58.0,
+    "wickets": 4,
+    "economy": 7.25,
+    "average": 14.5,
+    "strike_rate": 12.0,
+    "dot_pct": 44.0,
+    "boundary_pct": 16.0,
+    "wides": 2,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 14.0,
+        "wickets": 1,
+        "economy": 14.0
+      },
+      "middle": {
+        "overs": 6.0,
+        "runs": 33.0,
+        "wickets": 3,
+        "economy": 5.5
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 11.0,
+        "wickets": 0,
+        "economy": 11.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50599,
+      "date": "2026-06-21",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/20 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50598,
+      "date": "2026-06-19",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "13 (8)",
+      "bowling_figures": "1/21 (3.0)",
+      "pressure_balls": 21,
+      "pressure_value": 3.47
+    },
+    {
+      "match_id": 50597,
+      "date": "2026-06-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "7 (6)",
+      "bowling_figures": "3/17 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

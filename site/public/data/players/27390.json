@@ -1,0 +1,93 @@
+{
+  "player_id": "27390",
+  "player_name": "Matiullah Khan",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 2,
+    "runs": 1,
+    "balls": 5,
+    "average": 1.0,
+    "strike_rate": 20.0,
+    "highest_score": 1,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 4,
+    "singles": 1,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 3,
+    "legal_balls": 60,
+    "overs": 10.0,
+    "runs_charged": 117.0,
+    "wickets": 3,
+    "economy": 11.7,
+    "average": 39.0,
+    "strike_rate": 20.0,
+    "dot_pct": 29.85,
+    "boundary_pct": 25.37,
+    "wides": 4,
+    "no_balls": 3,
+    "phase_splits": {
+      "death": {
+        "overs": 3.0,
+        "runs": 42.0,
+        "wickets": 0,
+        "economy": 14.0
+      },
+      "middle": {
+        "overs": 3.0,
+        "runs": 23.0,
+        "wickets": 2,
+        "economy": 7.67
+      },
+      "powerplay": {
+        "overs": 4.0,
+        "runs": 52.0,
+        "wickets": 1,
+        "economy": 13.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 43171,
+      "date": "2025-05-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/41 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42784,
+      "date": "2025-05-19",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "0/30 (2.0)",
+      "pressure_balls": 1,
+      "pressure_value": -0.04
+    },
+    {
+      "match_id": 42783,
+      "date": "2025-05-17",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (4)",
+      "bowling_figures": "1/46 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

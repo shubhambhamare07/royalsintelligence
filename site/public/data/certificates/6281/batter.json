@@ -1,0 +1,45 @@
+{
+  "player_id": "6281",
+  "player_name": "Abhishek Sharma",
+  "role": "batter",
+  "tier": "Promising",
+  "rating": 70.77,
+  "rating_ci90": [
+    48.43,
+    93.43
+  ],
+  "p_outperform": 0.9365,
+  "top10_inclusion_prob": 0.1921,
+  "rank_ci90": [
+    4,
+    82
+  ],
+  "composite": 0.7727,
+  "components": {
+    "PV": {
+      "observed": 0.2147,
+      "adjusted": 0.2147,
+      "z_score": 1.528,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.0075,
+      "adjusted": -0.0075,
+      "z_score": 0.2025,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.6341,
+      "adjusted": 0.6341,
+      "z_score": 0.5877,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 416,
+    "neff_pressure": 343.78,
+    "n_pressure_matches": 34
+  },
+  "explanation": "Abhishek Sharma generated a pressure value of +21.47 runs/100 balls (Clutch Delta: -0.75) at a 190.4 strike rate with 69.2% consistency across 34 pressure matches (416 balls)."
+}

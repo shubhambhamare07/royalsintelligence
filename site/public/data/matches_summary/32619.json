@@ -1,0 +1,91 @@
+{
+  "match_id": 32619,
+  "competition_kind": "T20I",
+  "calendar_year": 2024,
+  "result": "West Indies Won by 8 wickets",
+  "innings_totals": {
+    "innings_1": 160.7,
+    "innings_1_sigma": 3.6,
+    "innings_2": 162.1
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 6
+    },
+    "2": {
+      "Elevated": 5,
+      "High": 5,
+      "Normal": 3
+    },
+    "3": {
+      "Elevated": 8,
+      "High": 2,
+      "Normal": 2
+    },
+    "4": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "6": {
+      "Normal": 8,
+      "Elevated": 4
+    },
+    "7": {
+      "Normal": 13
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 13
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 12
+    },
+    "12": {
+      "Normal": 13
+    },
+    "13": {
+      "Normal": 14
+    },
+    "14": {
+      "Normal": 11
+    },
+    "15": {
+      "Normal": 3,
+      "Elevated": 3
+    },
+    "16": {
+      "Elevated": 7
+    },
+    "17": {
+      "Elevated": 6
+    },
+    "18": {
+      "Elevated": 4,
+      "High": 3
+    },
+    "19": {
+      "High": 6
+    },
+    "20": {
+      "High": 6
+    }
+  },
+  "turning_point_count": 5
+}

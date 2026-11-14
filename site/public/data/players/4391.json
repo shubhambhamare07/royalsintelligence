@@ -1,0 +1,481 @@
+{
+  "player_id": "4391",
+  "player_name": "Liam Livingstone",
+  "batting": {
+    "matches": 67,
+    "innings": 67,
+    "not_outs": 12,
+    "runs": 1526,
+    "balls": 988,
+    "average": 27.75,
+    "strike_rate": 154.45,
+    "highest_score": 94,
+    "fours": 94,
+    "sixes": 105,
+    "dots": 332,
+    "singles": 396,
+    "twos": 59,
+    "threes": 2,
+    "ducks": 5,
+    "thirties": 9,
+    "fifties": 9,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 37,
+      "Bowled": 10,
+      "LBW": 5,
+      "Stump": 3
+    }
+  },
+  "bowling": {
+    "matches": 49,
+    "legal_balls": 594,
+    "overs": 99.0,
+    "runs_charged": 944.0,
+    "wickets": 32,
+    "economy": 9.54,
+    "average": 29.5,
+    "strike_rate": 18.56,
+    "dot_pct": 27.95,
+    "boundary_pct": 18.9,
+    "wides": 24,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 11.0,
+        "runs": 113.0,
+        "wickets": 1,
+        "economy": 10.27
+      },
+      "middle": {
+        "overs": 83.0,
+        "runs": 795.0,
+        "wickets": 29,
+        "economy": 9.58
+      },
+      "powerplay": {
+        "overs": 5.0,
+        "runs": 36.0,
+        "wickets": 2,
+        "economy": 7.2
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 32.59,
+    "tier": "Unproven",
+    "p_outperform": 0.1476,
+    "pressure_value_per_100": -9.46,
+    "clutch_delta_per_100": -17.9,
+    "consistency": 0.5593
+  },
+  "rated_bowling": {
+    "rating": 22.9,
+    "tier": "Unproven",
+    "p_outperform": 0.1808,
+    "pressure_value_per_6": -0.29,
+    "clutch_delta_per_6": 0.45,
+    "consistency": 0.4036
+  },
+  "recent_matches": [
+    {
+      "match_id": 50348,
+      "date": "2026-04-18",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "1 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -4.8
+    },
+    {
+      "match_id": 50134,
+      "date": "2026-04-05",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "14 (20)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40767,
+      "date": "2025-06-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "25 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40752,
+      "date": "2025-05-27",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 1,
+      "pressure_value": -12.38
+    },
+    {
+      "match_id": 40721,
+      "date": "2025-04-13",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/8 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40717,
+      "date": "2025-04-10",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "4 (6)",
+      "bowling_figures": "0/14 (1.0)",
+      "pressure_balls": 6,
+      "pressure_value": -7.06
+    },
+    {
+      "match_id": 40714,
+      "date": "2025-04-07",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40707,
+      "date": "2025-04-02",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "54 (40)",
+      "bowling_figures": "0/12 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40701,
+      "date": "2025-03-28",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "10 (9)",
+      "bowling_figures": "2/28 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40694,
+      "date": "2025-03-22",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "15 (5)",
+      "bowling_figures": "0/14 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40040,
+      "date": "2025-02-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (5)",
+      "bowling_figures": "0/29 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40039,
+      "date": "2025-01-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "9 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": -5.6
+    },
+    {
+      "match_id": 40038,
+      "date": "2025-01-28",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "43 (24)",
+      "bowling_figures": "0/11 (1.0)",
+      "pressure_balls": 6,
+      "pressure_value": -5.33
+    },
+    {
+      "match_id": 40037,
+      "date": "2025-01-25",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "13 (14)",
+      "bowling_figures": "1/14 (2.0)",
+      "pressure_balls": 12,
+      "pressure_value": 4.48
+    },
+    {
+      "match_id": 40036,
+      "date": "2025-01-22",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "0/7 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37352,
+      "date": "2024-11-17",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "4 (6)",
+      "bowling_figures": "0/26 (1.0)",
+      "pressure_balls": 8,
+      "pressure_value": -15.1
+    },
+    {
+      "match_id": 37351,
+      "date": "2024-11-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "39 (28)",
+      "bowling_figures": "0/14 (1.0)",
+      "pressure_balls": 25,
+      "pressure_value": 6.01
+    },
+    {
+      "match_id": 37350,
+      "date": "2024-11-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "23 (11)",
+      "bowling_figures": "2/16 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37349,
+      "date": "2024-11-09",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/21 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 36563,
+      "date": "2024-09-13",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "87 (47)",
+      "bowling_figures": "2/16 (3.0)",
+      "pressure_balls": 21,
+      "pressure_value": 24.44
+    },
+    {
+      "match_id": 36562,
+      "date": "2024-09-12",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "37 (27)",
+      "bowling_figures": "3/22 (3.0)",
+      "pressure_balls": 10,
+      "pressure_value": -10.9
+    },
+    {
+      "match_id": 32613,
+      "date": "2024-05-30",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/16 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32611,
+      "date": "2024-05-25",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "2 (3)",
+      "bowling_figures": "1/9 (1.0)",
+      "pressure_balls": 1,
+      "pressure_value": -0.35
+    },
+    {
+      "match_id": 31276,
+      "date": "2024-05-09",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "0/28 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31255,
+      "date": "2024-04-21",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "6 (9)",
+      "bowling_figures": "2/19 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": 0.4
+    },
+    {
+      "match_id": 31251,
+      "date": "2024-04-18",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "0/16 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31245,
+      "date": "2024-04-13",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "21 (14)",
+      "bowling_figures": "1/21 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30066,
+      "date": "2024-03-30",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "28 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 3,
+      "pressure_value": -2.78
+    },
+    {
+      "match_id": 30061,
+      "date": "2024-03-25",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "17 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30057,
+      "date": "2024-03-23",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": "38 (21)",
+      "bowling_figures": null,
+      "pressure_balls": 17,
+      "pressure_value": 4.35
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 4391,
+      "player_name": "Liam Livingstone",
+      "role": "batter",
+      "match_id": 20221,
+      "n_balls": 22,
+      "match_runs": 36,
+      "match_pressure_value": 0.2136,
+      "career_expected_value": 0.486,
+      "z_score": -6.21,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4391,
+      "player_name": "Liam Livingstone",
+      "role": "batter",
+      "match_id": 30057,
+      "n_balls": 17,
+      "match_runs": 25,
+      "match_pressure_value": 0.7897,
+      "career_expected_value": 0.486,
+      "z_score": 6.09,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4391,
+      "player_name": "Liam Livingstone",
+      "role": "batter",
+      "match_id": 37351,
+      "n_balls": 23,
+      "match_runs": 32,
+      "match_pressure_value": 0.7414,
+      "career_expected_value": 0.486,
+      "z_score": 5.96,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4391,
+      "player_name": "Liam Livingstone",
+      "role": "batter",
+      "match_id": 14135,
+      "n_balls": 16,
+      "match_runs": 18,
+      "match_pressure_value": 0.6641,
+      "career_expected_value": 0.486,
+      "z_score": 3.47,
+      "direction": "positive"
+    },
+    {
+      "player_id": 4391,
+      "player_name": "Liam Livingstone",
+      "role": "batter",
+      "match_id": 16041,
+      "n_balls": 7,
+      "match_runs": 7,
+      "match_pressure_value": 0.2164,
+      "career_expected_value": 0.486,
+      "z_score": -3.47,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4391,
+      "player_name": "Liam Livingstone",
+      "role": "batter",
+      "match_id": 36562,
+      "n_balls": 8,
+      "match_runs": 6,
+      "match_pressure_value": 0.2378,
+      "career_expected_value": 0.486,
+      "z_score": -3.42,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4391,
+      "player_name": "Liam Livingstone",
+      "role": "bowler",
+      "match_id": 14121,
+      "n_balls": 9,
+      "match_runs_conceded": 17,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2328,
+      "career_expected_value": 0.442,
+      "z_score": -3.05,
+      "direction": "negative"
+    },
+    {
+      "player_id": 4391,
+      "player_name": "Liam Livingstone",
+      "role": "batter",
+      "match_id": 40039,
+      "n_balls": 10,
+      "match_runs": 9,
+      "match_pressure_value": 0.3234,
+      "career_expected_value": 0.486,
+      "z_score": -2.5,
+      "direction": "negative"
+    }
+  ]
+}

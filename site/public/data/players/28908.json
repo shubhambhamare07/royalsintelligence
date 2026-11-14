@@ -1,0 +1,71 @@
+{
+  "player_id": "28908",
+  "player_name": "Vincent Masekesa",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 0,
+    "balls": 4,
+    "average": 0.0,
+    "strike_rate": 0.0,
+    "highest_score": 0,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 4,
+    "singles": 0,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 19,
+    "overs": 3.2,
+    "runs_charged": 27.0,
+    "wickets": 1,
+    "economy": 8.53,
+    "average": 27.0,
+    "strike_rate": 19.0,
+    "dot_pct": 31.58,
+    "boundary_pct": 15.79,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 3.2,
+        "runs": 27.0,
+        "wickets": 1,
+        "economy": 8.53
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 55561,
+      "date": "2026-11-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "0 (4)",
+      "bowling_figures": "0/6 (0.2)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 55560,
+      "date": "2026-10-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/21 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

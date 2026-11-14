@@ -1,0 +1,136 @@
+{
+  "player_id": "22188",
+  "player_name": "Aryan Dutt",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 2,
+    "runs": 52,
+    "balls": 44,
+    "average": 17.33,
+    "strike_rate": 118.18,
+    "highest_score": 30,
+    "fours": 4,
+    "sixes": 1,
+    "dots": 17,
+    "singles": 15,
+    "twos": 6,
+    "threes": 1,
+    "ducks": 1,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 2,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 7,
+    "legal_balls": 140,
+    "overs": 23.3,
+    "runs_charged": 143.0,
+    "wickets": 5,
+    "economy": 6.13,
+    "average": 28.6,
+    "strike_rate": 28.0,
+    "dot_pct": 50.0,
+    "boundary_pct": 12.68,
+    "wides": 1,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 2.3,
+        "runs": 12.0,
+        "wickets": 1,
+        "economy": 5.14
+      },
+      "middle": {
+        "overs": 6.0,
+        "runs": 27.0,
+        "wickets": 2,
+        "economy": 4.5
+      },
+      "powerplay": {
+        "overs": 15.0,
+        "runs": 104.0,
+        "wickets": 2,
+        "economy": 6.93
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 45908,
+      "date": "2025-09-03",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/19 (3.3)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45907,
+      "date": "2025-09-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "30 (24)",
+      "bowling_figures": "0/14 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45906,
+      "date": "2025-08-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "13 (8)",
+      "bowling_figures": "1/30 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 35429,
+      "date": "2024-08-28",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "3/22 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": 10.3
+    },
+    {
+      "match_id": 35425,
+      "date": "2024-08-25",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/22 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32623,
+      "date": "2024-05-22",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "7 (8)",
+      "bowling_figures": "0/16 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32620,
+      "date": "2024-05-18",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "2 (3)",
+      "bowling_figures": "0/20 (4.0)",
+      "pressure_balls": 9,
+      "pressure_value": -1.75
+    }
+  ]
+}

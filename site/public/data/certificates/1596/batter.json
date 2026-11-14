@@ -1,0 +1,45 @@
+{
+  "player_id": "1596",
+  "player_name": "Moeen Ali",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 41.69,
+  "rating_ci90": [
+    18.71,
+    64.96
+  ],
+  "p_outperform": 0.2779,
+  "top10_inclusion_prob": 0.0019,
+  "rank_ci90": [
+    38,
+    144
+  ],
+  "composite": -0.1064,
+  "components": {
+    "PV": {
+      "observed": -0.0831,
+      "adjusted": -0.0831,
+      "z_score": -0.1427,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.0423,
+      "adjusted": -0.0423,
+      "z_score": 0.0182,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.5626,
+      "adjusted": 0.5626,
+      "z_score": -0.1947,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 136,
+    "neff_pressure": 136.0,
+    "n_pressure_matches": 11
+  },
+  "explanation": "Moeen Ali generated a pressure value of -8.31 runs/100 balls (Clutch Delta: -4.23) at a 117.6 strike rate with 50.0% consistency across 11 pressure matches (136 balls)."
+}

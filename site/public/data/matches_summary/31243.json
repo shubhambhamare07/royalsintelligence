@@ -1,0 +1,101 @@
+{
+  "match_id": 31243,
+  "competition_kind": "IPL",
+  "calendar_year": 2024,
+  "result": "Mumbai Indians Won by 7 wickets",
+  "innings_totals": {
+    "innings_1": 197.4,
+    "innings_1_sigma": 2.02,
+    "innings_2": 199.0
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "High": 7,
+      "Normal": 6
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "Extreme": 6,
+      "Elevated": 4,
+      "Normal": 2,
+      "High": 1
+    },
+    "5": {
+      "Normal": 6,
+      "Extreme": 3,
+      "High": 3
+    },
+    "6": {
+      "Normal": 7,
+      "High": 4,
+      "Elevated": 1
+    },
+    "7": {
+      "Normal": 9,
+      "Elevated": 3
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 13
+    },
+    "10": {
+      "Normal": 14
+    },
+    "11": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "12": {
+      "Normal": 11,
+      "Elevated": 3
+    },
+    "13": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "14": {
+      "Normal": 9,
+      "Elevated": 3
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "16": {
+      "Elevated": 8,
+      "Normal": 3
+    },
+    "17": {
+      "Elevated": 4,
+      "High": 2
+    },
+    "18": {
+      "High": 5,
+      "Elevated": 2
+    },
+    "19": {
+      "High": 4,
+      "Elevated": 2
+    },
+    "20": {
+      "High": 7
+    }
+  },
+  "turning_point_count": 5
+}

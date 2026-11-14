@@ -1,0 +1,82 @@
+{
+  "match_id": 35424,
+  "competition_kind": "T20I",
+  "calendar_year": 2024,
+  "result": "No Result",
+  "innings_totals": {
+    "innings_1": 165.1,
+    "innings_1_sigma": 4.8,
+    "innings_2": null
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 4.8
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6
+    },
+    "2": {
+      "Elevated": 6
+    },
+    "3": {
+      "Elevated": 7
+    },
+    "4": {
+      "Elevated": 8
+    },
+    "5": {
+      "Elevated": 6
+    },
+    "6": {
+      "Normal": 6
+    },
+    "7": {
+      "Normal": 6
+    },
+    "8": {
+      "Normal": 6
+    },
+    "9": {
+      "Normal": 6
+    },
+    "10": {
+      "Normal": 6
+    },
+    "11": {
+      "Normal": 6
+    },
+    "12": {
+      "Normal": 6
+    },
+    "13": {
+      "Elevated": 5,
+      "Normal": 1
+    },
+    "14": {
+      "Elevated": 7
+    },
+    "15": {
+      "Elevated": 6
+    },
+    "16": {
+      "Elevated": 7
+    },
+    "17": {
+      "Elevated": 6
+    },
+    "18": {
+      "High": 6
+    },
+    "19": {
+      "High": 6
+    },
+    "20": {
+      "High": 6
+    }
+  },
+  "turning_point_count": 5
+}

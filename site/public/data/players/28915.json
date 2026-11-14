@@ -1,0 +1,145 @@
+{
+  "player_id": "28915",
+  "player_name": "Trevor Gwandu",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 4,
+    "runs": 14,
+    "balls": 26,
+    "average": 14.0,
+    "strike_rate": 53.85,
+    "highest_score": 7,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 15,
+    "singles": 8,
+    "twos": 3,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Stump": 1
+    }
+  },
+  "bowling": {
+    "matches": 8,
+    "legal_balls": 150,
+    "overs": 25.0,
+    "runs_charged": 219.0,
+    "wickets": 9,
+    "economy": 8.76,
+    "average": 24.33,
+    "strike_rate": 16.67,
+    "dot_pct": 31.48,
+    "boundary_pct": 17.28,
+    "wides": 11,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 6.0,
+        "runs": 62.0,
+        "wickets": 4,
+        "economy": 10.33
+      },
+      "middle": {
+        "overs": 9.0,
+        "runs": 71.0,
+        "wickets": 3,
+        "economy": 7.89
+      },
+      "powerplay": {
+        "overs": 10.0,
+        "runs": 86.0,
+        "wickets": 2,
+        "economy": 8.6
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 39984,
+      "date": "2025-02-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "3/24 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 38628,
+      "date": "2024-12-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "7 (9)",
+      "bowling_figures": "2/30 (4.0)",
+      "pressure_balls": 14,
+      "pressure_value": -4.94
+    },
+    {
+      "match_id": 38627,
+      "date": "2024-12-13",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (5)",
+      "bowling_figures": "2/29 (4.0)",
+      "pressure_balls": 3,
+      "pressure_value": 4.67
+    },
+    {
+      "match_id": 38626,
+      "date": "2024-12-11",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/35 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37927,
+      "date": "2024-12-03",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "0/13 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 37926,
+      "date": "2024-12-01",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (5)",
+      "bowling_figures": "0/14 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28058,
+      "date": "2023-12-09",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/36 (3.0)",
+      "pressure_balls": 21,
+      "pressure_value": -4.65
+    },
+    {
+      "match_id": 28057,
+      "date": "2023-12-07",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "5 (5)",
+      "bowling_figures": "0/38 (3.0)",
+      "pressure_balls": 5,
+      "pressure_value": 0.17
+    }
+  ]
+}

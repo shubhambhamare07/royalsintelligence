@@ -1,0 +1,77 @@
+{
+  "player_id": "59045",
+  "player_name": "Jai Moondra",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 2,
+    "runs": 3,
+    "balls": 3,
+    "average": 3.0,
+    "strike_rate": 100.0,
+    "highest_score": 2,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 0,
+    "singles": 3,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 48,
+    "overs": 8.0,
+    "runs_charged": 58.0,
+    "wickets": 5,
+    "economy": 7.25,
+    "average": 11.6,
+    "strike_rate": 9.6,
+    "dot_pct": 42.0,
+    "boundary_pct": 14.0,
+    "wides": 2,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 3.0,
+        "runs": 28.0,
+        "wickets": 1,
+        "economy": 9.33
+      },
+      "powerplay": {
+        "overs": 5.0,
+        "runs": 30.0,
+        "wickets": 4,
+        "economy": 6.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50341,
+      "date": "2026-06-28",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "3/32 (4.0)",
+      "pressure_balls": 14,
+      "pressure_value": 21.91
+    },
+    {
+      "match_id": 50340,
+      "date": "2026-06-26",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "2 (2)",
+      "bowling_figures": "2/26 (4.0)",
+      "pressure_balls": 19,
+      "pressure_value": 20.13
+    }
+  ]
+}

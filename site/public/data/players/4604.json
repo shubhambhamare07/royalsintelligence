@@ -1,0 +1,61 @@
+{
+  "player_id": "4604",
+  "player_name": "Mitchell Swepson",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 1,
+    "runs": 2,
+    "balls": 1,
+    "average": 2.0,
+    "strike_rate": 200.0,
+    "highest_score": 2,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 0,
+    "singles": 0,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 12,
+    "overs": 2.0,
+    "runs_charged": 31.0,
+    "wickets": 0,
+    "economy": 15.5,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 16.67,
+    "boundary_pct": 41.67,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "middle": {
+        "overs": 2.0,
+        "runs": 31.0,
+        "wickets": 0,
+        "economy": 15.5
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 17763,
+      "date": "2022-10-09",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "2 (1)",
+      "bowling_figures": "0/31 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "player_id": "33114",
+  "player_name": "Milan Rathnayake",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 1,
+    "runs": 82,
+    "balls": 52,
+    "average": 41.0,
+    "strike_rate": 157.69,
+    "highest_score": 41,
+    "fours": 9,
+    "sixes": 4,
+    "dots": 18,
+    "singles": 20,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 2,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "LBW": 2
+    }
+  },
+  "bowling": {
+    "matches": 4,
+    "legal_balls": 78,
+    "overs": 13.0,
+    "runs_charged": 117.0,
+    "wickets": 4,
+    "economy": 9.0,
+    "average": 29.25,
+    "strike_rate": 19.5,
+    "dot_pct": 38.27,
+    "boundary_pct": 20.99,
+    "wides": 3,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 18.0,
+        "wickets": 1,
+        "economy": 9.0
+      },
+      "middle": {
+        "overs": 2.0,
+        "runs": 17.0,
+        "wickets": 0,
+        "economy": 8.5
+      },
+      "powerplay": {
+        "overs": 9.0,
+        "runs": 82.0,
+        "wickets": 3,
+        "economy": 9.11
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48028,
+      "date": "2025-11-21",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "40 (32)",
+      "bowling_figures": "1/40 (4.0)",
+      "pressure_balls": 10,
+      "pressure_value": 1.68
+    },
+    {
+      "match_id": 48026,
+      "date": "2025-11-19",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "1/34 (3.0)",
+      "pressure_balls": 20,
+      "pressure_value": -13.35
+    },
+    {
+      "match_id": 48021,
+      "date": "2025-11-17",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/19 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48018,
+      "date": "2025-11-15",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "41 (19)",
+      "bowling_figures": "1/24 (3.0)",
+      "pressure_balls": 17,
+      "pressure_value": 4.63
+    }
+  ]
+}

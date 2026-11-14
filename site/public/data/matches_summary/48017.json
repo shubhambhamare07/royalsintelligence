@@ -1,0 +1,91 @@
+{
+  "match_id": 48017,
+  "competition_kind": "OTHER_T20",
+  "calendar_year": 2025,
+  "result": "Bangladesh A Won by 8 wickets",
+  "innings_totals": {
+    "innings_1": 167.0,
+    "innings_1_sigma": 2.81,
+    "innings_2": 170.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.81
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 5,
+      "Elevated": 2
+    },
+    "2": {
+      "High": 7,
+      "Normal": 6
+    },
+    "3": {
+      "Elevated": 8,
+      "High": 3,
+      "Normal": 1
+    },
+    "4": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "6": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "7": {
+      "Normal": 13
+    },
+    "8": {
+      "Normal": 13
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 14
+    },
+    "11": {
+      "Normal": 12
+    },
+    "12": {
+      "Normal": 6
+    },
+    "13": {
+      "Normal": 6
+    },
+    "14": {
+      "Normal": 4,
+      "Elevated": 2
+    },
+    "15": {
+      "Elevated": 6
+    },
+    "16": {
+      "Elevated": 6
+    },
+    "17": {
+      "Elevated": 6
+    },
+    "18": {
+      "Elevated": 6
+    },
+    "19": {
+      "High": 4,
+      "Elevated": 2
+    },
+    "20": {
+      "High": 7
+    }
+  },
+  "turning_point_count": 5
+}

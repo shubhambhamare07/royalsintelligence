@@ -1,0 +1,53 @@
+{
+  "player_id": "2872",
+  "player_name": "Siddarth Kaul",
+  "batting": null,
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 24,
+    "overs": 4.0,
+    "runs_charged": 43.0,
+    "wickets": 0,
+    "economy": 10.75,
+    "average": null,
+    "strike_rate": null,
+    "dot_pct": 25.0,
+    "boundary_pct": 29.17,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 21.0,
+        "wickets": 0,
+        "economy": 10.5
+      },
+      "middle": {
+        "overs": 1.0,
+        "runs": 8.0,
+        "wickets": 0,
+        "economy": 8.0
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 14.0,
+        "wickets": 0,
+        "economy": 14.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 14161,
+      "date": "2022-05-19",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/43 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -7.4
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "match_id": 32613,
+  "competition_kind": "T20I",
+  "calendar_year": 2024,
+  "result": "England Won by 7 wickets",
+  "innings_totals": {
+    "innings_1": 153.6,
+    "innings_1_sigma": 3.6,
+    "innings_2": 154.6
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "Elevated": 6,
+      "High": 1
+    },
+    "2": {
+      "Elevated": 13
+    },
+    "3": {
+      "Elevated": 7,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 8,
+      "High": 3,
+      "Normal": 1
+    },
+    "5": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "6": {
+      "Normal": 12
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 10,
+      "Elevated": 3
+    },
+    "12": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "13": {
+      "Elevated": 7,
+      "Normal": 7
+    },
+    "14": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "16": {
+      "Elevated": 4,
+      "High": 3,
+      "Normal": 3
+    },
+    "17": {
+      "Elevated": 6
+    },
+    "18": {
+      "Elevated": 6
+    },
+    "19": {
+      "Elevated": 4,
+      "High": 2
+    },
+    "20": {
+      "High": 4,
+      "Elevated": 1
+    }
+  },
+  "turning_point_count": 5
+}

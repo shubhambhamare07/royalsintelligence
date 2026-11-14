@@ -1,0 +1,163 @@
+{
+  "player_id": "1159",
+  "player_name": "Tendai Chatara",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 5,
+    "runs": 12,
+    "balls": 24,
+    "average": 12.0,
+    "strike_rate": 50.0,
+    "highest_score": 6,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 13,
+    "singles": 10,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {}
+  },
+  "bowling": {
+    "matches": 10,
+    "legal_balls": 217,
+    "overs": 36.2,
+    "runs_charged": 257.0,
+    "wickets": 11,
+    "economy": 7.11,
+    "average": 23.36,
+    "strike_rate": 19.73,
+    "dot_pct": 43.05,
+    "boundary_pct": 14.35,
+    "wides": 5,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 11.2,
+        "runs": 95.0,
+        "wickets": 4,
+        "economy": 8.51
+      },
+      "middle": {
+        "overs": 7.0,
+        "runs": 42.0,
+        "wickets": 0,
+        "economy": 6.0
+      },
+      "powerplay": {
+        "overs": 18.0,
+        "runs": 120.0,
+        "wickets": 7,
+        "economy": 6.67
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 33806,
+      "date": "2024-07-13",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/23 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 33805,
+      "date": "2024-07-10",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/30 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 33804,
+      "date": "2024-07-07",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "0/38 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 33803,
+      "date": "2024-07-06",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "0 (9)",
+      "bowling_figures": "3/16 (3.8)",
+      "pressure_balls": 9,
+      "pressure_value": 3.13
+    },
+    {
+      "match_id": 19692,
+      "date": "2023-01-15",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "2/26 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 19691,
+      "date": "2023-01-14",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "1/26 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": -2.31
+    },
+    {
+      "match_id": 19690,
+      "date": "2023-01-12",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "2/17 (3.3)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15611,
+      "date": "2022-06-14",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "6 (7)",
+      "bowling_figures": "1/24 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 15610,
+      "date": "2022-06-12",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "2/33 (4.0)",
+      "pressure_balls": 9,
+      "pressure_value": -0.25
+    },
+    {
+      "match_id": 15609,
+      "date": "2022-06-11",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "5 (4)",
+      "bowling_figures": "0/24 (4.0)",
+      "pressure_balls": 19,
+      "pressure_value": -2.99
+    }
+  ]
+}

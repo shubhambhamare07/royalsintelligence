@@ -1,0 +1,504 @@
+{
+  "player_id": "7240",
+  "player_name": "FazalHaq Farooqi",
+  "batting": {
+    "matches": 12,
+    "innings": 12,
+    "not_outs": 11,
+    "runs": 16,
+    "balls": 45,
+    "average": 16.0,
+    "strike_rate": 35.56,
+    "highest_score": 2,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 30,
+    "singles": 14,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 49,
+    "legal_balls": 1009,
+    "overs": 168.2,
+    "runs_charged": 1374.0,
+    "wickets": 46,
+    "economy": 8.17,
+    "average": 29.87,
+    "strike_rate": 21.93,
+    "dot_pct": 39.94,
+    "boundary_pct": 18.2,
+    "wides": 35,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 55.2,
+        "runs": 515.0,
+        "wickets": 16,
+        "economy": 9.34
+      },
+      "middle": {
+        "overs": 17.0,
+        "runs": 155.0,
+        "wickets": 3,
+        "economy": 9.12
+      },
+      "powerplay": {
+        "overs": 96.0,
+        "runs": 704.0,
+        "wickets": 27,
+        "economy": 7.33
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 44.97,
+    "tier": "Unproven",
+    "p_outperform": 0.4535,
+    "pressure_value_per_6": 0.09,
+    "clutch_delta_per_6": -0.09,
+    "consistency": 0.421
+  },
+  "recent_matches": [
+    {
+      "match_id": 55561,
+      "date": "2026-11-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/10 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 55559,
+      "date": "2026-10-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "3/13 (3.2)",
+      "pressure_balls": 14,
+      "pressure_value": 6.27
+    },
+    {
+      "match_id": 54410,
+      "date": "2026-09-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "0/39 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54409,
+      "date": "2026-09-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/6 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54408,
+      "date": "2026-09-13",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/34 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48597,
+      "date": "2026-01-21",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "2/28 (3.8)",
+      "pressure_balls": 12,
+      "pressure_value": 2.86
+    },
+    {
+      "match_id": 47262,
+      "date": "2025-11-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/29 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": -4.99
+    },
+    {
+      "match_id": 45505,
+      "date": "2025-09-18",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/34 (3.0)",
+      "pressure_balls": 18,
+      "pressure_value": -16.75
+    },
+    {
+      "match_id": 45503,
+      "date": "2025-09-16",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (3)",
+      "bowling_figures": "0/37 (4.0)",
+      "pressure_balls": 11,
+      "pressure_value": 0.1
+    },
+    {
+      "match_id": 45495,
+      "date": "2025-09-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/12 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45857,
+      "date": "2025-09-07",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (11)",
+      "bowling_figures": "2/19 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45854,
+      "date": "2025-09-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/21 (3.0)",
+      "pressure_balls": 12,
+      "pressure_value": 21.04
+    },
+    {
+      "match_id": 45853,
+      "date": "2025-09-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/24 (3.0)",
+      "pressure_balls": 11,
+      "pressure_value": 4.77
+    },
+    {
+      "match_id": 45851,
+      "date": "2025-08-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "1 (4)",
+      "bowling_figures": "0/31 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": -1.17
+    },
+    {
+      "match_id": 40760,
+      "date": "2025-05-18",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/39 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40743,
+      "date": "2025-05-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/54 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40735,
+      "date": "2025-04-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "2 (2)",
+      "bowling_figures": "0/30 (3.0)",
+      "pressure_balls": 7,
+      "pressure_value": -3.83
+    },
+    {
+      "match_id": 40716,
+      "date": "2025-04-09",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/38 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40695,
+      "date": "2025-03-23",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/49 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 38628,
+      "date": "2024-12-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/26 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 30730,
+      "date": "2024-03-18",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/19 (3.0)",
+      "pressure_balls": 8,
+      "pressure_value": 26.06
+    },
+    {
+      "match_id": 30729,
+      "date": "2024-03-17",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (1)",
+      "bowling_figures": "1/48 (4.0)",
+      "pressure_balls": 9,
+      "pressure_value": -9.7
+    },
+    {
+      "match_id": 30728,
+      "date": "2024-03-15",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "2 (4)",
+      "bowling_figures": "0/20 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 29925,
+      "date": "2024-02-19",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "2 (3)",
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 29924,
+      "date": "2024-02-17",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/25 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28961,
+      "date": "2024-01-14",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/28 (3.7)",
+      "pressure_balls": 11,
+      "pressure_value": 2.13
+    },
+    {
+      "match_id": 28960,
+      "date": "2024-01-11",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/26 (3.0)",
+      "pressure_balls": 10,
+      "pressure_value": -9.96
+    },
+    {
+      "match_id": 23673,
+      "date": "2023-07-14",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/36 (4.0)",
+      "pressure_balls": 19,
+      "pressure_value": -11.97
+    },
+    {
+      "match_id": 20242,
+      "date": "2023-05-15",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "1 (5)",
+      "bowling_figures": "1/31 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20238,
+      "date": "2023-05-13",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/32 (3.3)",
+      "pressure_balls": 7,
+      "pressure_value": 3.15
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 7240,
+      "player_name": "FazalHaq Farooqi",
+      "role": "bowler",
+      "match_id": 23673,
+      "n_balls": 19,
+      "match_runs_conceded": 31,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2512,
+      "career_expected_value": 0.507,
+      "z_score": -5.42,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7240,
+      "player_name": "FazalHaq Farooqi",
+      "role": "bowler",
+      "match_id": 47262,
+      "n_balls": 12,
+      "match_runs_conceded": 18,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7839,
+      "career_expected_value": 0.507,
+      "z_score": 4.66,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7240,
+      "player_name": "FazalHaq Farooqi",
+      "role": "bowler",
+      "match_id": 14159,
+      "n_balls": 19,
+      "match_runs_conceded": 23,
+      "match_wickets": 0,
+      "match_pressure_value": 0.6968,
+      "career_expected_value": 0.507,
+      "z_score": 4.02,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7240,
+      "player_name": "FazalHaq Farooqi",
+      "role": "bowler",
+      "match_id": 16750,
+      "n_balls": 25,
+      "match_runs_conceded": 32,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3615,
+      "career_expected_value": 0.507,
+      "z_score": -3.54,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7240,
+      "player_name": "FazalHaq Farooqi",
+      "role": "bowler",
+      "match_id": 48597,
+      "n_balls": 12,
+      "match_runs_conceded": 13,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7121,
+      "career_expected_value": 0.507,
+      "z_score": 3.45,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7240,
+      "player_name": "FazalHaq Farooqi",
+      "role": "bowler",
+      "match_id": 15610,
+      "n_balls": 18,
+      "match_runs_conceded": 12,
+      "match_wickets": 1,
+      "match_pressure_value": 0.6691,
+      "career_expected_value": 0.507,
+      "z_score": 3.34,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7240,
+      "player_name": "FazalHaq Farooqi",
+      "role": "bowler",
+      "match_id": 45853,
+      "n_balls": 11,
+      "match_runs_conceded": 13,
+      "match_wickets": 1,
+      "match_pressure_value": 0.7124,
+      "career_expected_value": 0.507,
+      "z_score": 3.31,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7240,
+      "player_name": "FazalHaq Farooqi",
+      "role": "bowler",
+      "match_id": 45505,
+      "n_balls": 18,
+      "match_runs_conceded": 31,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3562,
+      "career_expected_value": 0.507,
+      "z_score": -3.11,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7240,
+      "player_name": "FazalHaq Farooqi",
+      "role": "bowler",
+      "match_id": 14164,
+      "n_balls": 4,
+      "match_runs_conceded": 8,
+      "match_wickets": 0,
+      "match_pressure_value": 0.1956,
+      "career_expected_value": 0.507,
+      "z_score": -3.03,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7240,
+      "player_name": "FazalHaq Farooqi",
+      "role": "bowler",
+      "match_id": 30729,
+      "n_balls": 9,
+      "match_runs_conceded": 18,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3247,
+      "career_expected_value": 0.507,
+      "z_score": -2.66,
+      "direction": "negative"
+    }
+  ]
+}

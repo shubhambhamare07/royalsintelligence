@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="30" height="20">
+  <rect width="1200" height="600" fill="#00008B"/>
+  <!-- Union Jack Canton -->
+  <g>
+    <rect width="600" height="300" fill="#00247D"/>
+    <path d="M0,0 L600,300 M600,0 L0,300" stroke="#FFFFFF" stroke-width="60"/>
+    <path d="M0,0 L600,300 M600,0 L0,300" stroke="#CF142B" stroke-width="20"/>
+    <path d="M300,0 L300,300 M0,150 L600,150" stroke="#FFFFFF" stroke-width="100"/>
+    <path d="M300,0 L300,300 M0,150 L600,150" stroke="#CF142B" stroke-width="60"/>
+  </g>
+  <!-- Commonwealth Star -->
+  <polygon points="300,400 315,445 360,445 325,470 338,515 300,490 262,515 275,470 240,445 285,445" fill="#FFFFFF"/>
+  <!-- Southern Cross Stars -->
+  <polygon points="900,100 906,120 926,120 910,132 916,152 900,140 884,152 890,132 874,120 894,120" fill="#FFFFFF"/>
+  <polygon points="1000,240 1005,255 1020,255 1008,265 1012,280 1000,270 988,280 992,265 980,255 995,255" fill="#FFFFFF"/>
+  <polygon points="900,450 906,470 926,470 910,482 916,502 900,490 884,502 890,482 874,470 894,470" fill="#FFFFFF"/>
+  <polygon points="800,280 805,295 820,295 808,305 812,320 800,310 788,320 792,305 780,295 795,295" fill="#FFFFFF"/>
+  <polygon points="950,330 954,342 966,342 956,350 960,362 950,354 940,362 944,350 934,342 946,342" fill="#FFFFFF"/>
+</svg>

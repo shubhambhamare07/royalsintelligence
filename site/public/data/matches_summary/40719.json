@@ -1,0 +1,101 @@
+{
+  "match_id": 40719,
+  "competition_kind": "IPL",
+  "calendar_year": 2025,
+  "result": "Lucknow Super Giants Won by 6 wickets",
+  "innings_totals": {
+    "innings_1": 180.0,
+    "innings_1_sigma": 2.02,
+    "innings_2": 182.1
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "High": 6
+    },
+    "2": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "3": {
+      "High": 7,
+      "Elevated": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "5": {
+      "Elevated": 10,
+      "High": 3
+    },
+    "6": {
+      "Elevated": 10,
+      "Normal": 3
+    },
+    "7": {
+      "Elevated": 9,
+      "Normal": 4
+    },
+    "8": {
+      "Normal": 7,
+      "High": 3,
+      "Elevated": 3
+    },
+    "9": {
+      "Normal": 11,
+      "Elevated": 1
+    },
+    "10": {
+      "Normal": 14
+    },
+    "11": {
+      "Normal": 12
+    },
+    "12": {
+      "Normal": 12
+    },
+    "13": {
+      "Normal": 8,
+      "Elevated": 4
+    },
+    "14": {
+      "Elevated": 7,
+      "Normal": 7
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "16": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "17": {
+      "High": 6,
+      "Normal": 6
+    },
+    "18": {
+      "High": 9,
+      "Normal": 6
+    },
+    "19": {
+      "High": 7,
+      "Normal": 2,
+      "Extreme": 2,
+      "Elevated": 1
+    },
+    "20": {
+      "High": 6,
+      "Extreme": 3
+    }
+  },
+  "turning_point_count": 5
+}

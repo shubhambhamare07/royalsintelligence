@@ -1,0 +1,63 @@
+{
+  "player_id": "1028",
+  "player_name": "Varun Aaron",
+  "batting": null,
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 30,
+    "overs": 5.0,
+    "runs_charged": 52.0,
+    "wickets": 2,
+    "economy": 10.4,
+    "average": 26.0,
+    "strike_rate": 15.0,
+    "dot_pct": 21.21,
+    "boundary_pct": 24.24,
+    "wides": 3,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.0,
+        "runs": 9.0,
+        "wickets": 1,
+        "economy": 9.0
+      },
+      "middle": {
+        "overs": 2.0,
+        "runs": 24.0,
+        "wickets": 0,
+        "economy": 12.0
+      },
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 19.0,
+        "wickets": 1,
+        "economy": 9.5
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 14103,
+      "date": "2022-04-02",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "0/7 (1.0)",
+      "pressure_balls": 6,
+      "pressure_value": -2.43
+    },
+    {
+      "match_id": 14097,
+      "date": "2022-03-28",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "2/45 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": 2.25
+    }
+  ]
+}

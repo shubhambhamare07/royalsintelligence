@@ -1,0 +1,42 @@
+{
+  "player_id": "4983",
+  "player_name": "Sikander Zulfiqar",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 2,
+    "balls": 3,
+    "average": 2.0,
+    "strike_rate": 66.67,
+    "highest_score": 2,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 2,
+    "singles": 0,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 45907,
+      "date": "2025-09-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

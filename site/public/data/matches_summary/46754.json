@@ -1,0 +1,107 @@
+{
+  "match_id": 46754,
+  "competition_kind": "T20I",
+  "calendar_year": 2025,
+  "result": "Bangladesh Won by 2 wickets",
+  "innings_totals": {
+    "innings_1": 147.0,
+    "innings_1_sigma": 3.6,
+    "innings_2": 148.0
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 6,
+      "Elevated": 6
+    },
+    "2": {
+      "Elevated": 7,
+      "High": 5
+    },
+    "3": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "6": {
+      "Elevated": 6,
+      "High": 6
+    },
+    "7": {
+      "High": 7,
+      "Elevated": 6
+    },
+    "8": {
+      "High": 6,
+      "Elevated": 4,
+      "Normal": 2
+    },
+    "9": {
+      "Normal": 6,
+      "High": 6
+    },
+    "10": {
+      "Normal": 6,
+      "High": 6
+    },
+    "11": {
+      "High": 6,
+      "Elevated": 3,
+      "Normal": 3
+    },
+    "12": {
+      "Normal": 6,
+      "High": 5,
+      "Extreme": 1
+    },
+    "13": {
+      "Normal": 6,
+      "High": 6
+    },
+    "14": {
+      "Normal": 6,
+      "High": 6
+    },
+    "15": {
+      "Normal": 5,
+      "Extreme": 5,
+      "High": 2,
+      "Elevated": 1
+    },
+    "16": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "17": {
+      "Elevated": 6,
+      "Extreme": 5,
+      "High": 1
+    },
+    "18": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "19": {
+      "Extreme": 7,
+      "Elevated": 6
+    },
+    "20": {
+      "Elevated": 6,
+      "Extreme": 1
+    }
+  },
+  "turning_point_count": 5
+}

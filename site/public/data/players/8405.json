@@ -1,0 +1,42 @@
+{
+  "player_id": "8405",
+  "player_name": "Kanwarpal Tathgur",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 3,
+    "balls": 8,
+    "average": 3.0,
+    "strike_rate": 37.5,
+    "highest_score": 3,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 5,
+    "singles": 3,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 35428,
+      "date": "2024-08-27",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "3 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -12.22
+    }
+  ]
+}

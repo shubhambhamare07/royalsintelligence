@@ -1,0 +1,85 @@
+{
+  "player_id": "26988",
+  "player_name": "Jitenkumar Ramanandi",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 1,
+    "runs": 25,
+    "balls": 14,
+    "average": 25.0,
+    "strike_rate": 178.57,
+    "highest_score": 13,
+    "fours": 5,
+    "sixes": 0,
+    "dots": 6,
+    "singles": 1,
+    "twos": 2,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 48,
+    "overs": 8.0,
+    "runs_charged": 57.0,
+    "wickets": 4,
+    "economy": 7.12,
+    "average": 14.25,
+    "strike_rate": 12.0,
+    "dot_pct": 32.65,
+    "boundary_pct": 10.2,
+    "wides": 1,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 3.0,
+        "runs": 28.0,
+        "wickets": 2,
+        "economy": 9.33
+      },
+      "middle": {
+        "overs": 4.0,
+        "runs": 18.0,
+        "wickets": 2,
+        "economy": 4.5
+      },
+      "powerplay": {
+        "overs": 1.0,
+        "runs": 11.0,
+        "wickets": 0,
+        "economy": 11.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 45506,
+      "date": "2025-09-19",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "12 (5)",
+      "bowling_figures": "2/33 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45501,
+      "date": "2025-09-15",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "13 (9)",
+      "bowling_figures": "2/24 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": 0.41
+    }
+  ]
+}

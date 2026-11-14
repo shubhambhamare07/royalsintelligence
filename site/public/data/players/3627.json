@@ -1,0 +1,125 @@
+{
+  "player_id": "3627",
+  "player_name": "Andile Phehlukwayo",
+  "batting": {
+    "matches": 4,
+    "innings": 4,
+    "not_outs": 0,
+    "runs": 29,
+    "balls": 37,
+    "average": 7.25,
+    "strike_rate": 78.38,
+    "highest_score": 22,
+    "fours": 3,
+    "sixes": 0,
+    "dots": 18,
+    "singles": 15,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 4
+    }
+  },
+  "bowling": {
+    "matches": 6,
+    "legal_balls": 126,
+    "overs": 21.0,
+    "runs_charged": 237.0,
+    "wickets": 10,
+    "economy": 11.29,
+    "average": 23.7,
+    "strike_rate": 12.6,
+    "dot_pct": 27.61,
+    "boundary_pct": 23.88,
+    "wides": 8,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 3.0,
+        "runs": 64.0,
+        "wickets": 3,
+        "economy": 21.33
+      },
+      "middle": {
+        "overs": 15.0,
+        "runs": 139.0,
+        "wickets": 6,
+        "economy": 9.27
+      },
+      "powerplay": {
+        "overs": 3.0,
+        "runs": 34.0,
+        "wickets": 1,
+        "economy": 11.33
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 32618,
+      "date": "2024-05-26",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "3 (6)",
+      "bowling_figures": "2/51 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": -8.78
+    },
+    {
+      "match_id": 32617,
+      "date": "2024-05-24",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "4 (11)",
+      "bowling_figures": "3/28 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 28047,
+      "date": "2023-12-14",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "0 (3)",
+      "bowling_figures": "0/33 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16317,
+      "date": "2022-07-31",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "1/23 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16316,
+      "date": "2022-07-29",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": null,
+      "bowling_figures": "3/39 (3.0)",
+      "pressure_balls": 1,
+      "pressure_value": 8.96
+    },
+    {
+      "match_id": 16315,
+      "date": "2022-07-27",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "22 (17)",
+      "bowling_figures": "1/63 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

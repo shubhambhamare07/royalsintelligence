@@ -1,0 +1,479 @@
+{
+  "player_id": "2933",
+  "player_name": "Jasprit Bumrah",
+  "batting": {
+    "matches": 12,
+    "innings": 12,
+    "not_outs": 8,
+    "runs": 18,
+    "balls": 29,
+    "average": 4.5,
+    "strike_rate": 62.07,
+    "highest_score": 8,
+    "fours": 2,
+    "sixes": 0,
+    "dots": 18,
+    "singles": 8,
+    "twos": 1,
+    "threes": 0,
+    "ducks": 2,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "RunOut": 1
+    }
+  },
+  "bowling": {
+    "matches": 71,
+    "legal_balls": 1630,
+    "overs": 271.7,
+    "runs_charged": 1945.0,
+    "wickets": 80,
+    "economy": 7.16,
+    "average": 24.31,
+    "strike_rate": 20.38,
+    "dot_pct": 43.05,
+    "boundary_pct": 14.37,
+    "wides": 54,
+    "no_balls": 14,
+    "phase_splits": {
+      "death": {
+        "overs": 88.7,
+        "runs": 658.0,
+        "wickets": 39,
+        "economy": 7.42
+      },
+      "middle": {
+        "overs": 64.0,
+        "runs": 432.0,
+        "wickets": 17,
+        "economy": 6.75
+      },
+      "powerplay": {
+        "overs": 119.0,
+        "runs": 855.0,
+        "wickets": 24,
+        "economy": 7.18
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": {
+    "rating": 64.2,
+    "tier": "Promising",
+    "p_outperform": 0.8981,
+    "pressure_value_per_6": 0.63,
+    "clutch_delta_per_6": -0.87,
+    "consistency": 0.4548
+  },
+  "recent_matches": [
+    {
+      "match_id": 54410,
+      "date": "2026-09-17",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/16 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54409,
+      "date": "2026-09-15",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/25 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 54408,
+      "date": "2026-09-13",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/22 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50386,
+      "date": "2026-05-20",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/26 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50379,
+      "date": "2026-05-14",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/35 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": -1.79
+    },
+    {
+      "match_id": 50375,
+      "date": "2026-05-10",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/20 (4.0)",
+      "pressure_balls": 20,
+      "pressure_value": 3.75
+    },
+    {
+      "match_id": 50368,
+      "date": "2026-05-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/44 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50365,
+      "date": "2026-05-02",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/20 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50362,
+      "date": "2026-04-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/54 (4.0)",
+      "pressure_balls": 17,
+      "pressure_value": -16.36
+    },
+    {
+      "match_id": 50354,
+      "date": "2026-04-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (5)",
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 8,
+      "pressure_value": 3.93
+    },
+    {
+      "match_id": 50351,
+      "date": "2026-04-20",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/15 (3.0)",
+      "pressure_balls": 4,
+      "pressure_value": 16.52
+    },
+    {
+      "match_id": 50345,
+      "date": "2026-04-16",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/41 (4.0)",
+      "pressure_balls": 11,
+      "pressure_value": -4.66
+    },
+    {
+      "match_id": 50144,
+      "date": "2026-04-12",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/35 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50132,
+      "date": "2026-04-04",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/21 (4.0)",
+      "pressure_balls": 9,
+      "pressure_value": -3.64
+    },
+    {
+      "match_id": 50126,
+      "date": "2026-03-29",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/35 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48595,
+      "date": "2026-01-31",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/58 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48594,
+      "date": "2026-01-28",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "4 (2)",
+      "bowling_figures": "1/38 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48593,
+      "date": "2026-01-25",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "3/17 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48591,
+      "date": "2026-01-21",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/29 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42031,
+      "date": "2025-12-19",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/13 (4.0)",
+      "pressure_balls": 3,
+      "pressure_value": 7.14
+    },
+    {
+      "match_id": 42028,
+      "date": "2025-12-11",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/44 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 42027,
+      "date": "2025-12-09",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/17 (3.0)",
+      "pressure_balls": 4,
+      "pressure_value": -2.1
+    },
+    {
+      "match_id": 41978,
+      "date": "2025-11-06",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/27 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": -0.77
+    },
+    {
+      "match_id": 41977,
+      "date": "2025-11-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/26 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41976,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "2/22 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45513,
+      "date": "2025-09-28",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/25 (3.2)",
+      "pressure_balls": 2,
+      "pressure_value": 6.81
+    },
+    {
+      "match_id": 45510,
+      "date": "2025-09-24",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/14 (4.0)",
+      "pressure_balls": 19,
+      "pressure_value": 12.59
+    },
+    {
+      "match_id": 45508,
+      "date": "2025-09-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/45 (4.0)",
+      "pressure_balls": 7,
+      "pressure_value": -0.28
+    },
+    {
+      "match_id": 45500,
+      "date": "2025-09-14",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "2/28 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45496,
+      "date": "2025-09-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "1/19 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 2933,
+      "player_name": "Jasprit Bumrah",
+      "role": "bowler",
+      "match_id": 31256,
+      "n_balls": 12,
+      "match_runs_conceded": 11,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2284,
+      "career_expected_value": 0.502,
+      "z_score": -4.61,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2933,
+      "player_name": "Jasprit Bumrah",
+      "role": "bowler",
+      "match_id": 14126,
+      "n_balls": 26,
+      "match_runs_conceded": 29,
+      "match_wickets": 0,
+      "match_pressure_value": 0.677,
+      "career_expected_value": 0.502,
+      "z_score": 4.33,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2933,
+      "player_name": "Jasprit Bumrah",
+      "role": "bowler",
+      "match_id": 50362,
+      "n_balls": 17,
+      "match_runs_conceded": 43,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2953,
+      "career_expected_value": 0.502,
+      "z_score": -4.14,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2933,
+      "player_name": "Jasprit Bumrah",
+      "role": "bowler",
+      "match_id": 50375,
+      "n_balls": 20,
+      "match_runs_conceded": 16,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3163,
+      "career_expected_value": 0.502,
+      "z_score": -4.04,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2933,
+      "player_name": "Jasprit Bumrah",
+      "role": "bowler",
+      "match_id": 14111,
+      "n_balls": 5,
+      "match_runs_conceded": 3,
+      "match_wickets": 0,
+      "match_pressure_value": 0.2065,
+      "career_expected_value": 0.502,
+      "z_score": -3.21,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2933,
+      "player_name": "Jasprit Bumrah",
+      "role": "bowler",
+      "match_id": 40765,
+      "n_balls": 14,
+      "match_runs_conceded": 15,
+      "match_wickets": 1,
+      "match_pressure_value": 0.6698,
+      "career_expected_value": 0.502,
+      "z_score": 3.05,
+      "direction": "positive"
+    },
+    {
+      "player_id": 2933,
+      "player_name": "Jasprit Bumrah",
+      "role": "bowler",
+      "match_id": 50132,
+      "n_balls": 9,
+      "match_runs_conceded": 8,
+      "match_wickets": 0,
+      "match_pressure_value": 0.3026,
+      "career_expected_value": 0.502,
+      "z_score": -2.91,
+      "direction": "negative"
+    },
+    {
+      "player_id": 2933,
+      "player_name": "Jasprit Bumrah",
+      "role": "bowler",
+      "match_id": 45510,
+      "n_balls": 19,
+      "match_runs_conceded": 13,
+      "match_wickets": 1,
+      "match_pressure_value": 0.6239,
+      "career_expected_value": 0.502,
+      "z_score": 2.58,
+      "direction": "positive"
+    }
+  ]
+}

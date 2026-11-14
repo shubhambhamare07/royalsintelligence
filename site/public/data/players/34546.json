@@ -1,0 +1,101 @@
+{
+  "player_id": "34546",
+  "player_name": "Aryan Bisht",
+  "batting": {
+    "matches": 4,
+    "innings": 4,
+    "not_outs": 0,
+    "runs": 60,
+    "balls": 72,
+    "average": 15.0,
+    "strike_rate": 83.33,
+    "highest_score": 30,
+    "fours": 4,
+    "sixes": 1,
+    "dots": 33,
+    "singles": 30,
+    "twos": 4,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 2,
+      "Bowled": 1,
+      "LBW": 1
+    }
+  },
+  "bowling": {
+    "matches": 1,
+    "legal_balls": 23,
+    "overs": 3.8,
+    "runs_charged": 24.0,
+    "wickets": 1,
+    "economy": 6.26,
+    "average": 24.0,
+    "strike_rate": 23.0,
+    "dot_pct": 30.43,
+    "boundary_pct": 8.7,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 1.8,
+        "runs": 12.0,
+        "wickets": 1,
+        "economy": 6.55
+      },
+      "middle": {
+        "overs": 2.0,
+        "runs": 12.0,
+        "wickets": 0,
+        "economy": 6.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48024,
+      "date": "2025-11-18",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "4 (5)",
+      "bowling_figures": "1/24 (3.8)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48019,
+      "date": "2025-11-16",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "30 (30)",
+      "bowling_figures": null,
+      "pressure_balls": 20,
+      "pressure_value": -2.5
+    },
+    {
+      "match_id": 48015,
+      "date": "2025-11-14",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "2 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45501,
+      "date": "2025-09-15",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "24 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

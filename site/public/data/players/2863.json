@@ -1,0 +1,87 @@
+{
+  "player_id": "2863",
+  "player_name": "Sandeep Warrier",
+  "batting": null,
+  "bowling": {
+    "matches": 5,
+    "legal_balls": 66,
+    "overs": 11.0,
+    "runs_charged": 119.0,
+    "wickets": 6,
+    "economy": 10.82,
+    "average": 19.83,
+    "strike_rate": 11.0,
+    "dot_pct": 44.29,
+    "boundary_pct": 25.71,
+    "wides": 3,
+    "no_balls": 1,
+    "phase_splits": {
+      "middle": {
+        "overs": 1.0,
+        "runs": 15.0,
+        "wickets": 0,
+        "economy": 15.0
+      },
+      "powerplay": {
+        "overs": 10.0,
+        "runs": 104.0,
+        "wickets": 6,
+        "economy": 10.4
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 31277,
+      "date": "2024-05-10",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "1/28 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31263,
+      "date": "2024-04-28",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/15 (1.0)",
+      "pressure_balls": 8,
+      "pressure_value": -7.69
+    },
+    {
+      "match_id": 31258,
+      "date": "2024-04-24",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "3/15 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31255,
+      "date": "2024-04-21",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "0/21 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 31249,
+      "date": "2024-04-17",
+      "competition": "IPL",
+      "year": 2024,
+      "batting_figures": null,
+      "bowling_figures": "2/40 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

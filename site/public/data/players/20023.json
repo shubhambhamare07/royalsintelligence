@@ -1,0 +1,62 @@
+{
+  "player_id": "20023",
+  "player_name": "Karan Sharma",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 0,
+    "runs": 16,
+    "balls": 25,
+    "average": 5.33,
+    "strike_rate": 64.0,
+    "highest_score": 9,
+    "fours": 1,
+    "sixes": 0,
+    "dots": 12,
+    "singles": 12,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 20248,
+      "date": "2023-05-20",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "3 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20226,
+      "date": "2023-05-03",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "9 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 14151,
+      "date": "2022-05-10",
+      "competition": "IPL",
+      "year": 2022,
+      "batting_figures": "4 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": -17.46
+    }
+  ]
+}

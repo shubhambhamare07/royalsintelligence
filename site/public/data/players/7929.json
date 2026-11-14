@@ -1,0 +1,96 @@
+{
+  "player_id": "7929",
+  "player_name": "Aryaman Sunil Uchil",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 1,
+    "runs": 17,
+    "balls": 17,
+    "average": 8.5,
+    "strike_rate": 100.0,
+    "highest_score": 12,
+    "fours": 2,
+    "sixes": 1,
+    "dots": 11,
+    "singles": 3,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 1,
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 42,
+    "overs": 7.0,
+    "runs_charged": 57.0,
+    "wickets": 1,
+    "economy": 8.14,
+    "average": 57.0,
+    "strike_rate": 42.0,
+    "dot_pct": 37.78,
+    "boundary_pct": 15.56,
+    "wides": 3,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 3.0,
+        "runs": 20.0,
+        "wickets": 1,
+        "economy": 6.67
+      },
+      "middle": {
+        "overs": 1.0,
+        "runs": 11.0,
+        "wickets": 0,
+        "economy": 11.0
+      },
+      "powerplay": {
+        "overs": 3.0,
+        "runs": 26.0,
+        "wickets": 0,
+        "economy": 8.67
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 16867,
+      "date": "2022-08-24",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "12 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 16864,
+      "date": "2022-08-22",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/22 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": 2.36
+    },
+    {
+      "match_id": 16862,
+      "date": "2022-08-20",
+      "competition": "T20I",
+      "year": 2022,
+      "batting_figures": "5 (6)",
+      "bowling_figures": "1/35 (4.0)",
+      "pressure_balls": 6,
+      "pressure_value": -3.58
+    }
+  ]
+}

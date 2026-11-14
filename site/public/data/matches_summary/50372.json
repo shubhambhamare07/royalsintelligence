@@ -1,0 +1,88 @@
+{
+  "match_id": 50372,
+  "competition_kind": "IPL",
+  "calendar_year": 2026,
+  "result": "Kolkata Knight Riders Won by 8 wickets",
+  "innings_totals": {
+    "innings_1": 142.0,
+    "innings_1_sigma": 2.02,
+    "innings_2": 147.0
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 12
+    },
+    "2": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "6": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "7": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "8": {
+      "Normal": 10,
+      "Elevated": 2
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 14
+    },
+    "12": {
+      "Normal": 12
+    },
+    "13": {
+      "Normal": 12
+    },
+    "14": {
+      "Normal": 12
+    },
+    "15": {
+      "Normal": 8
+    },
+    "16": {
+      "Normal": 6
+    },
+    "17": {
+      "Normal": 6
+    },
+    "18": {
+      "Normal": 6
+    },
+    "19": {
+      "Normal": 6
+    },
+    "20": {
+      "Normal": 6
+    }
+  },
+  "turning_point_count": 5
+}

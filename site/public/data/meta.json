@@ -1,0 +1,20 @@
+{
+  "model_version": "pressure-v1.1",
+  "config_hash": "da080d49d24d19d126d69763ebaaaf994c6abfeaf2efd3b2161e2224c39ee6bb",
+  "dataset_sha256_manifest": "dfb6a05187dcbf708dac11a3e191750e8b4f497665a9afc226d80ed0ba191e17",
+  "git_commit": "682b90b6f5d7489ba1f397ecea16eab1aa5f8783",
+  "built_at": "2026-11-13T14:56:29Z",
+  "plan_live": "Plan C (Transparent Logistic CDI)",
+  "gates": {
+    "G0": "PASSED",
+    "G1": "PASSED",
+    "G2": "FAIL",
+    "G3": "PASSED",
+    "G4": "FAIL",
+    "G5": "PENDING",
+    "G6": "PENDING",
+    "G7": "PENDING"
+  },
+  "g2_notes": "G2 marked FAIL per strict pre-registered thresholds: G-G1 ECE (0.0905 > 0.0400), G-A2 Ball 0 Brier (0.2459 > 0.2456), G-A3 Defense Slope (0.6805 < 0.80). G-T1, G-A1, G-B, G-C2, Canonical States, and Coverage all PASS.",
+  "g4_notes": "G4 marked FAIL per strict Gate G-G7 backtest bias threshold (|bias| <= 5.0 runs): Out-of-sample 2026 matches exhibited mean bias +10.12 runs (+7.50 IPL, +13.07 T20I). Central 80% coverage (78.7% in [70%, 90%]), CRPS (22.75 beats baseline 24.18), and chase calibration slope (1.135 in [0.80, 1.20]) all PASS. Simulator parameters exported with validated=false with fallback plans S2/S3 documented per spec."
+}

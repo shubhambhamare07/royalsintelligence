@@ -1,0 +1,191 @@
+{
+  "player_id": "19781",
+  "player_name": "Mitchell Owen",
+  "batting": {
+    "matches": 12,
+    "innings": 12,
+    "not_outs": 2,
+    "runs": 179,
+    "balls": 123,
+    "average": 17.9,
+    "strike_rate": 145.53,
+    "highest_score": 50,
+    "fours": 7,
+    "sixes": 14,
+    "dots": 45,
+    "singles": 47,
+    "twos": 10,
+    "threes": 0,
+    "ducks": 2,
+    "thirties": 2,
+    "fifties": 1,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 6,
+      "Bowled": 3,
+      "LBW": 1
+    }
+  },
+  "bowling": {
+    "matches": 4,
+    "legal_balls": 30,
+    "overs": 5.0,
+    "runs_charged": 58.0,
+    "wickets": 2,
+    "economy": 11.6,
+    "average": 29.0,
+    "strike_rate": 15.0,
+    "dot_pct": 30.3,
+    "boundary_pct": 24.24,
+    "wides": 3,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 22.0,
+        "wickets": 1,
+        "economy": 11.0
+      },
+      "middle": {
+        "overs": 3.0,
+        "runs": 36.0,
+        "wickets": 1,
+        "economy": 12.0
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48917,
+      "date": "2026-02-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "8 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48915,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "8 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 8,
+      "pressure_value": 3.34
+    },
+    {
+      "match_id": 41977,
+      "date": "2025-11-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41976,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "14 (10)",
+      "bowling_figures": "0/13 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46312,
+      "date": "2025-10-04",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "14 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": -0.72
+    },
+    {
+      "match_id": 41970,
+      "date": "2025-08-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "8 (13)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41969,
+      "date": "2025-08-10",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41509,
+      "date": "2025-07-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "37 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 10,
+      "pressure_value": 19.87
+    },
+    {
+      "match_id": 41508,
+      "date": "2025-07-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 5,
+      "pressure_value": -10.24
+    },
+    {
+      "match_id": 41507,
+      "date": "2025-07-25",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "36 (16)",
+      "bowling_figures": "1/23 (2.0)",
+      "pressure_balls": 7,
+      "pressure_value": 4.07
+    },
+    {
+      "match_id": 41506,
+      "date": "2025-07-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": null,
+      "bowling_figures": "0/8 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 41505,
+      "date": "2025-07-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "50 (27)",
+      "bowling_figures": "1/14 (1.0)",
+      "pressure_balls": 17,
+      "pressure_value": 12.25
+    },
+    {
+      "match_id": 40760,
+      "date": "2025-05-18",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

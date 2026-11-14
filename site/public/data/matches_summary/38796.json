@@ -1,0 +1,105 @@
+{
+  "match_id": 38796,
+  "competition_kind": "T20I",
+  "calendar_year": 2024,
+  "result": "South Africa Won by 7 wickets",
+  "innings_totals": {
+    "innings_1": 204.0,
+    "innings_1_sigma": 3.6,
+    "innings_2": 210.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 12
+    },
+    "2": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "3": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "4": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "5": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "6": {
+      "Normal": 9,
+      "Elevated": 4
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 13
+    },
+    "9": {
+      "Normal": 14,
+      "Elevated": 1
+    },
+    "10": {
+      "Normal": 6,
+      "Elevated": 6
+    },
+    "11": {
+      "Normal": 6,
+      "High": 4,
+      "Elevated": 2
+    },
+    "12": {
+      "Normal": 6,
+      "High": 6
+    },
+    "13": {
+      "Normal": 8,
+      "Extreme": 6,
+      "High": 1
+    },
+    "14": {
+      "Normal": 6,
+      "Extreme": 6
+    },
+    "15": {
+      "Extreme": 6,
+      "Elevated": 5,
+      "Normal": 2
+    },
+    "16": {
+      "Elevated": 6,
+      "Extreme": 4,
+      "High": 2
+    },
+    "17": {
+      "Elevated": 9,
+      "High": 5,
+      "Normal": 1,
+      "Extreme": 1
+    },
+    "18": {
+      "Normal": 10,
+      "Extreme": 4,
+      "High": 2
+    },
+    "19": {
+      "Normal": 6,
+      "Extreme": 6
+    },
+    "20": {
+      "Normal": 8,
+      "Elevated": 1
+    }
+  },
+  "turning_point_count": 5
+}

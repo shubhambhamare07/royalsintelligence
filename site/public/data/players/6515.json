@@ -1,0 +1,185 @@
+{
+  "player_id": "6515",
+  "player_name": "Benjamin Lister",
+  "batting": {
+    "matches": 3,
+    "innings": 3,
+    "not_outs": 1,
+    "runs": 1,
+    "balls": 6,
+    "average": 0.5,
+    "strike_rate": 16.67,
+    "highest_score": 1,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 5,
+    "singles": 1,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 2
+    }
+  },
+  "bowling": {
+    "matches": 12,
+    "legal_balls": 245,
+    "overs": 40.8,
+    "runs_charged": 338.0,
+    "wickets": 11,
+    "economy": 8.28,
+    "average": 30.73,
+    "strike_rate": 22.27,
+    "dot_pct": 36.43,
+    "boundary_pct": 18.22,
+    "wides": 13,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 11.8,
+        "runs": 98.0,
+        "wickets": 7,
+        "economy": 8.28
+      },
+      "middle": {
+        "overs": 6.0,
+        "runs": 48.0,
+        "wickets": 1,
+        "economy": 8.0
+      },
+      "powerplay": {
+        "overs": 23.0,
+        "runs": 192.0,
+        "wickets": 3,
+        "economy": 8.35
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50188,
+      "date": "2026-04-27",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "0/23 (4.0)",
+      "pressure_balls": 19,
+      "pressure_value": 3.73
+    },
+    {
+      "match_id": 31708,
+      "date": "2024-04-20",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "1 (2)",
+      "bowling_figures": "1/10 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 24794,
+      "date": "2023-08-20",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "3/35 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": 1.62
+    },
+    {
+      "match_id": 24793,
+      "date": "2023-08-19",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/17 (2.0)",
+      "pressure_balls": 12,
+      "pressure_value": -12.94
+    },
+    {
+      "match_id": 24792,
+      "date": "2023-08-17",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/24 (3.0)",
+      "pressure_balls": 20,
+      "pressure_value": -15.76
+    },
+    {
+      "match_id": 21405,
+      "date": "2023-04-17",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/11 (2.0)",
+      "pressure_balls": 13,
+      "pressure_value": -6.78
+    },
+    {
+      "match_id": 21404,
+      "date": "2023-04-15",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/41 (4.0)",
+      "pressure_balls": 4,
+      "pressure_value": -1.18
+    },
+    {
+      "match_id": 21403,
+      "date": "2023-04-14",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "0 (3)",
+      "bowling_figures": "2/29 (3.8)",
+      "pressure_balls": 1,
+      "pressure_value": 0.93
+    },
+    {
+      "match_id": 21178,
+      "date": "2023-04-08",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "2/37 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21177,
+      "date": "2023-04-05",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "2/26 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 21176,
+      "date": "2023-04-02",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/43 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 19717,
+      "date": "2023-02-01",
+      "competition": "T20I",
+      "year": 2023,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "0/42 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

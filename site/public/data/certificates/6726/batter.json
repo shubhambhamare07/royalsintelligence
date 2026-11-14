@@ -1,0 +1,45 @@
+{
+  "player_id": "6726",
+  "player_name": "Romario Shepherd",
+  "role": "batter",
+  "tier": "Unproven",
+  "rating": 56.55,
+  "rating_ci90": [
+    28.83,
+    82.89
+  ],
+  "p_outperform": 0.6576,
+  "top10_inclusion_prob": 0.0524,
+  "rank_ci90": [
+    10,
+    130
+  ],
+  "composite": 0.3428,
+  "components": {
+    "PV": {
+      "observed": 0.1368,
+      "adjusted": 0.1368,
+      "z_score": 1.0908,
+      "weight": 0.3333333333333333
+    },
+    "CD": {
+      "observed": -0.1562,
+      "adjusted": -0.1562,
+      "z_score": -0.5855,
+      "orthogonalized": false,
+      "weight": 0.3333333333333333
+    },
+    "PC": {
+      "observed": 0.6282,
+      "adjusted": 0.6282,
+      "z_score": 0.523,
+      "weight": 0.3333333333333333
+    }
+  },
+  "exposure": {
+    "n_pressure_deliveries": 119,
+    "neff_pressure": 65.65,
+    "n_pressure_matches": 24
+  },
+  "explanation": "Romario Shepherd generated a pressure value of +13.68 runs/100 balls (Clutch Delta: -15.62) at a 173.1 strike rate with 77.8% consistency across 24 pressure matches (119 balls)."
+}

@@ -1,0 +1,441 @@
+{
+  "player_id": "7216",
+  "player_name": "Prabhsimran Singh",
+  "batting": {
+    "matches": 61,
+    "innings": 61,
+    "not_outs": 3,
+    "runs": 1842,
+    "balls": 1151,
+    "average": 31.76,
+    "strike_rate": 160.03,
+    "highest_score": 103,
+    "fours": 193,
+    "sixes": 95,
+    "dots": 424,
+    "singles": 381,
+    "twos": 55,
+    "threes": 3,
+    "ducks": 5,
+    "thirties": 11,
+    "fifties": 14,
+    "hundreds": 1,
+    "dismissals_by_type": {
+      "Caught": 45,
+      "Bowled": 6,
+      "LBW": 5,
+      "Stump": 1,
+      "RunOut": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": {
+    "rating": 57.94,
+    "tier": "Unproven",
+    "p_outperform": 0.7052,
+    "pressure_value_per_100": 4.34,
+    "clutch_delta_per_100": 7.84,
+    "consistency": 0.5739
+  },
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 50389,
+      "date": "2026-05-23",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "69 (39)",
+      "bowling_figures": null,
+      "pressure_balls": 29,
+      "pressure_value": 28.11
+    },
+    {
+      "match_id": 50382,
+      "date": "2026-05-17",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "2 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50379,
+      "date": "2026-05-14",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "57 (32)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 2.4
+    },
+    {
+      "match_id": 50376,
+      "date": "2026-05-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "18 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50370,
+      "date": "2026-05-06",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "3 (4)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50367,
+      "date": "2026-05-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "15 (14)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50361,
+      "date": "2026-04-28",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "59 (44)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50356,
+      "date": "2026-04-25",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "76 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 19,
+      "pressure_value": 16.29
+    },
+    {
+      "match_id": 50350,
+      "date": "2026-04-19",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "0 (1)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 50345,
+      "date": "2026-04-16",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "80 (39)",
+      "bowling_figures": null,
+      "pressure_balls": 23,
+      "pressure_value": 27.21
+    },
+    {
+      "match_id": 50141,
+      "date": "2026-04-11",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "51 (25)",
+      "bowling_figures": null,
+      "pressure_balls": 20,
+      "pressure_value": 16.13
+    },
+    {
+      "match_id": 50131,
+      "date": "2026-04-03",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "43 (34)",
+      "bowling_figures": null,
+      "pressure_balls": 36,
+      "pressure_value": -4.24
+    },
+    {
+      "match_id": 50128,
+      "date": "2026-03-31",
+      "competition": "IPL",
+      "year": 2026,
+      "batting_figures": "37 (24)",
+      "bowling_figures": null,
+      "pressure_balls": 4,
+      "pressure_value": 5.52
+    },
+    {
+      "match_id": 40767,
+      "date": "2025-06-03",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "26 (22)",
+      "bowling_figures": null,
+      "pressure_balls": 22,
+      "pressure_value": -5.48
+    },
+    {
+      "match_id": 40766,
+      "date": "2025-06-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "6 (9)",
+      "bowling_figures": null,
+      "pressure_balls": 9,
+      "pressure_value": -9.69
+    },
+    {
+      "match_id": 40764,
+      "date": "2025-05-29",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "18 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40754,
+      "date": "2025-05-26",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "13 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 16,
+      "pressure_value": -11.93
+    },
+    {
+      "match_id": 43057,
+      "date": "2025-05-24",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "28 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40760,
+      "date": "2025-05-18",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "21 (10)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40751,
+      "date": "2025-05-08",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "50 (28)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40747,
+      "date": "2025-05-04",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "91 (48)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40742,
+      "date": "2025-04-30",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "54 (36)",
+      "bowling_figures": null,
+      "pressure_balls": 36,
+      "pressure_value": 2.75
+    },
+    {
+      "match_id": 40737,
+      "date": "2025-04-26",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "83 (49)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40730,
+      "date": "2025-04-20",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "33 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40724,
+      "date": "2025-04-15",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "30 (15)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40720,
+      "date": "2025-04-12",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "42 (23)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40715,
+      "date": "2025-04-08",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "0 (2)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40711,
+      "date": "2025-04-05",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "17 (16)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 40706,
+      "date": "2025-04-01",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "69 (34)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 4.12
+    },
+    {
+      "match_id": 40698,
+      "date": "2025-03-25",
+      "competition": "IPL",
+      "year": 2025,
+      "batting_figures": "5 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 7216,
+      "player_name": "Prabhsimran Singh",
+      "role": "batter",
+      "match_id": 30072,
+      "n_balls": 24,
+      "match_runs": 35,
+      "match_pressure_value": 0.3541,
+      "career_expected_value": 0.5503,
+      "z_score": -4.68,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7216,
+      "player_name": "Prabhsimran Singh",
+      "role": "batter",
+      "match_id": 50131,
+      "n_balls": 34,
+      "match_runs": 43,
+      "match_pressure_value": 0.6908,
+      "career_expected_value": 0.5503,
+      "z_score": 3.98,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7216,
+      "player_name": "Prabhsimran Singh",
+      "role": "batter",
+      "match_id": 20221,
+      "n_balls": 23,
+      "match_runs": 41,
+      "match_pressure_value": 0.4132,
+      "career_expected_value": 0.5503,
+      "z_score": -3.2,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7216,
+      "player_name": "Prabhsimran Singh",
+      "role": "batter",
+      "match_id": 40742,
+      "n_balls": 36,
+      "match_runs": 54,
+      "match_pressure_value": 0.6553,
+      "career_expected_value": 0.5503,
+      "z_score": 3.06,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7216,
+      "player_name": "Prabhsimran Singh",
+      "role": "batter",
+      "match_id": 40754,
+      "n_balls": 16,
+      "match_runs": 13,
+      "match_pressure_value": 0.7057,
+      "career_expected_value": 0.5503,
+      "z_score": 3.02,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7216,
+      "player_name": "Prabhsimran Singh",
+      "role": "batter",
+      "match_id": 20207,
+      "n_balls": 9,
+      "match_runs": 19,
+      "match_pressure_value": 0.3469,
+      "career_expected_value": 0.5503,
+      "z_score": -2.97,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7216,
+      "player_name": "Prabhsimran Singh",
+      "role": "batter",
+      "match_id": 40766,
+      "n_balls": 9,
+      "match_runs": 6,
+      "match_pressure_value": 0.3499,
+      "career_expected_value": 0.5503,
+      "z_score": -2.92,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7216,
+      "player_name": "Prabhsimran Singh",
+      "role": "batter",
+      "match_id": 31241,
+      "n_balls": 6,
+      "match_runs": 4,
+      "match_pressure_value": 0.3349,
+      "career_expected_value": 0.5503,
+      "z_score": -2.57,
+      "direction": "negative"
+    }
+  ]
+}

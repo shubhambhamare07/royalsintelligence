@@ -1,0 +1,63 @@
+{
+  "player_id": "20693",
+  "player_name": "Kuldip Yadav",
+  "batting": null,
+  "bowling": {
+    "matches": 2,
+    "legal_balls": 42,
+    "overs": 7.0,
+    "runs_charged": 68.0,
+    "wickets": 2,
+    "economy": 9.71,
+    "average": 34.0,
+    "strike_rate": 21.0,
+    "dot_pct": 21.43,
+    "boundary_pct": 16.67,
+    "wides": 0,
+    "no_balls": 0,
+    "phase_splits": {
+      "death": {
+        "overs": 2.0,
+        "runs": 28.0,
+        "wickets": 2,
+        "economy": 14.0
+      },
+      "middle": {
+        "overs": 3.0,
+        "runs": 27.0,
+        "wickets": 0,
+        "economy": 9.0
+      },
+      "powerplay": {
+        "overs": 2.0,
+        "runs": 13.0,
+        "wickets": 0,
+        "economy": 6.5
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 20232,
+      "date": "2023-05-07",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/50 (4.0)",
+      "pressure_balls": 11,
+      "pressure_value": -9.46
+    },
+    {
+      "match_id": 20217,
+      "date": "2023-04-27",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/18 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

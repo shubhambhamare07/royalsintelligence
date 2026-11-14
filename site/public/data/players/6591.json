@@ -1,0 +1,105 @@
+{
+  "player_id": "6591",
+  "player_name": "KM Asif",
+  "batting": {
+    "matches": 1,
+    "innings": 1,
+    "not_outs": 0,
+    "runs": 0,
+    "balls": 2,
+    "average": 0.0,
+    "strike_rate": 0.0,
+    "highest_score": 0,
+    "fours": 0,
+    "sixes": 0,
+    "dots": 2,
+    "singles": 0,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 1,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 1
+    }
+  },
+  "bowling": {
+    "matches": 4,
+    "legal_balls": 84,
+    "overs": 14.0,
+    "runs_charged": 137.0,
+    "wickets": 3,
+    "economy": 9.79,
+    "average": 45.67,
+    "strike_rate": 28.0,
+    "dot_pct": 30.77,
+    "boundary_pct": 17.58,
+    "wides": 6,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 3.0,
+        "runs": 45.0,
+        "wickets": 0,
+        "economy": 15.0
+      },
+      "middle": {
+        "overs": 8.0,
+        "runs": 57.0,
+        "wickets": 3,
+        "economy": 7.12
+      },
+      "powerplay": {
+        "overs": 3.0,
+        "runs": 35.0,
+        "wickets": 0,
+        "economy": 11.67
+      }
+    }
+  },
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 20240,
+      "date": "2023-05-14",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "2/41 (4.0)",
+      "pressure_balls": 12,
+      "pressure_value": -7.48
+    },
+    {
+      "match_id": 20236,
+      "date": "2023-05-11",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "1/27 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20188,
+      "date": "2023-04-05",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/54 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 20184,
+      "date": "2023-04-02",
+      "competition": "IPL",
+      "year": 2023,
+      "batting_figures": null,
+      "bowling_figures": "0/15 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ]
+}

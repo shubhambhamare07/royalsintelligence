@@ -1,0 +1,101 @@
+{
+  "match_id": 31286,
+  "competition_kind": "IPL",
+  "calendar_year": 2024,
+  "result": "Royal Challengers Bengaluru Won by 27 runs",
+  "innings_totals": {
+    "innings_1": 215.3,
+    "innings_1_sigma": 1.91,
+    "innings_2": 185.4
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 1.91
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 13
+    },
+    "2": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "3": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "4": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "5": {
+      "Normal": 6,
+      "Elevated": 4,
+      "High": 2
+    },
+    "6": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "7": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "8": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "9": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "10": {
+      "Normal": 9,
+      "Elevated": 3
+    },
+    "11": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "12": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "13": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "14": {
+      "Elevated": 8,
+      "Normal": 7
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "16": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "17": {
+      "Elevated": 7,
+      "Normal": 7
+    },
+    "18": {
+      "Normal": 12,
+      "Elevated": 1
+    },
+    "19": {
+      "Normal": 10,
+      "Elevated": 5
+    },
+    "20": {
+      "Normal": 11,
+      "Elevated": 1
+    }
+  },
+  "turning_point_count": 5
+}

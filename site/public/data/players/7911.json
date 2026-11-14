@@ -1,0 +1,83 @@
+{
+  "player_id": "7911",
+  "player_name": "Oliver Hairs",
+  "batting": {
+    "matches": 5,
+    "innings": 5,
+    "not_outs": 0,
+    "runs": 46,
+    "balls": 50,
+    "average": 9.2,
+    "strike_rate": 92.0,
+    "highest_score": 15,
+    "fours": 6,
+    "sixes": 2,
+    "dots": 32,
+    "singles": 10,
+    "twos": 0,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 0,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 3,
+      "Bowled": 2
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 36561,
+      "date": "2024-09-07",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "12 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 36559,
+      "date": "2024-09-04",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "6 (6)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32624,
+      "date": "2024-05-23",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "9 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32623,
+      "date": "2024-05-22",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "15 (17)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 32620,
+      "date": "2024-05-18",
+      "competition": "T20I",
+      "year": 2024,
+      "batting_figures": "4 (11)",
+      "bowling_figures": null,
+      "pressure_balls": 12,
+      "pressure_value": -16.41
+    }
+  ]
+}

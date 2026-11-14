@@ -1,0 +1,107 @@
+{
+  "match_id": 20193,
+  "competition_kind": "IPL",
+  "calendar_year": 2023,
+  "result": "Kolkata Knight Riders Won By 3 Wickets",
+  "innings_totals": {
+    "innings_1": 202.3,
+    "innings_1_sigma": 2.02,
+    "innings_2": 207.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 2.02
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 12
+    },
+    "2": {
+      "Elevated": 9,
+      "Normal": 2,
+      "High": 2
+    },
+    "3": {
+      "Elevated": 8,
+      "High": 3,
+      "Normal": 2
+    },
+    "4": {
+      "Elevated": 8,
+      "Normal": 5
+    },
+    "5": {
+      "Elevated": 7,
+      "Normal": 6
+    },
+    "6": {
+      "Normal": 8,
+      "Elevated": 5
+    },
+    "7": {
+      "Normal": 12
+    },
+    "8": {
+      "Normal": 12
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 11,
+      "Elevated": 2
+    },
+    "11": {
+      "Elevated": 9,
+      "High": 2,
+      "Normal": 1
+    },
+    "12": {
+      "Elevated": 6,
+      "Extreme": 4,
+      "High": 2
+    },
+    "13": {
+      "Extreme": 6,
+      "Elevated": 5,
+      "Normal": 1
+    },
+    "14": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "15": {
+      "Extreme": 7,
+      "Elevated": 6
+    },
+    "16": {
+      "Elevated": 6,
+      "Extreme": 6
+    },
+    "17": {
+      "Elevated": 5,
+      "Normal": 3,
+      "High": 2,
+      "Extreme": 2
+    },
+    "18": {
+      "High": 6,
+      "Normal": 6
+    },
+    "19": {
+      "Normal": 8,
+      "High": 6,
+      "Elevated": 1
+    },
+    "20": {
+      "Elevated": 4,
+      "Normal": 4,
+      "High": 2,
+      "Extreme": 2
+    }
+  },
+  "turning_point_count": 5
+}

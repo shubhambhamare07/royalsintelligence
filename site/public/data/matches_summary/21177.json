@@ -1,0 +1,84 @@
+{
+  "match_id": 21177,
+  "competition_kind": "T20I",
+  "calendar_year": 2023,
+  "result": "New Zealand Won by 9 Wickets",
+  "innings_totals": {
+    "innings_1": 137.3,
+    "innings_1_sigma": 3.6,
+    "innings_2": 138.3
+  },
+  "quality_flags": {
+    "dls": false,
+    "incomplete_innings": false,
+    "low_confidence_totals": false,
+    "target_reconstructed": true,
+    "t1_sigma": 3.6
+  },
+  "over_pressure_band_counts": {
+    "1": {
+      "Normal": 12
+    },
+    "2": {
+      "Elevated": 6,
+      "Normal": 6
+    },
+    "3": {
+      "Normal": 7,
+      "Elevated": 6
+    },
+    "4": {
+      "Normal": 8,
+      "Elevated": 6
+    },
+    "5": {
+      "Normal": 8,
+      "Elevated": 7
+    },
+    "6": {
+      "Normal": 12
+    },
+    "7": {
+      "Normal": 13
+    },
+    "8": {
+      "Normal": 13
+    },
+    "9": {
+      "Normal": 12
+    },
+    "10": {
+      "Normal": 12
+    },
+    "11": {
+      "Normal": 12
+    },
+    "12": {
+      "Normal": 14
+    },
+    "13": {
+      "Normal": 12
+    },
+    "14": {
+      "Normal": 12
+    },
+    "15": {
+      "Elevated": 6,
+      "Normal": 4
+    },
+    "16": {
+      "Elevated": 6
+    },
+    "17": {
+      "Elevated": 7
+    },
+    "18": {
+      "Elevated": 6
+    },
+    "19": {
+      "Elevated": 5,
+      "High": 2
+    }
+  },
+  "turning_point_count": 5
+}

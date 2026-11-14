@@ -1,0 +1,53 @@
+{
+  "player_id": "41509",
+  "player_name": "Yayin Rai",
+  "batting": {
+    "matches": 2,
+    "innings": 2,
+    "not_outs": 0,
+    "runs": 41,
+    "balls": 38,
+    "average": 20.5,
+    "strike_rate": 107.89,
+    "highest_score": 34,
+    "fours": 1,
+    "sixes": 2,
+    "dots": 13,
+    "singles": 19,
+    "twos": 3,
+    "threes": 0,
+    "ducks": 0,
+    "thirties": 1,
+    "fifties": 0,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Bowled": 1,
+      "Caught": 1
+    }
+  },
+  "bowling": null,
+  "rated_batting": null,
+  "rated_bowling": null,
+  "recent_matches": [
+    {
+      "match_id": 48023,
+      "date": "2025-11-18",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "7 (12)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48019,
+      "date": "2025-11-16",
+      "competition": "OTHER_T20",
+      "year": 2025,
+      "batting_figures": "34 (26)",
+      "bowling_figures": null,
+      "pressure_balls": 2,
+      "pressure_value": 1.4
+    }
+  ]
+}

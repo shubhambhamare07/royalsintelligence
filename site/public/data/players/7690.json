@@ -1,0 +1,449 @@
+{
+  "player_id": "7690",
+  "player_name": "Saim Ayub",
+  "batting": {
+    "matches": 58,
+    "innings": 58,
+    "not_outs": 5,
+    "runs": 1213,
+    "balls": 880,
+    "average": 22.89,
+    "strike_rate": 137.84,
+    "highest_score": 98,
+    "fours": 127,
+    "sixes": 54,
+    "dots": 367,
+    "singles": 285,
+    "twos": 45,
+    "threes": 2,
+    "ducks": 10,
+    "thirties": 10,
+    "fifties": 6,
+    "hundreds": 0,
+    "dismissals_by_type": {
+      "Caught": 41,
+      "Bowled": 5,
+      "LBW": 4,
+      "RunOut": 2,
+      "Stump": 1
+    }
+  },
+  "bowling": {
+    "matches": 32,
+    "legal_balls": 510,
+    "overs": 85.0,
+    "runs_charged": 606.0,
+    "wickets": 26,
+    "economy": 7.13,
+    "average": 23.31,
+    "strike_rate": 19.62,
+    "dot_pct": 38.24,
+    "boundary_pct": 12.62,
+    "wides": 12,
+    "no_balls": 1,
+    "phase_splits": {
+      "death": {
+        "overs": 4.0,
+        "runs": 26.0,
+        "wickets": 1,
+        "economy": 6.5
+      },
+      "middle": {
+        "overs": 57.0,
+        "runs": 378.0,
+        "wickets": 15,
+        "economy": 6.63
+      },
+      "powerplay": {
+        "overs": 24.0,
+        "runs": 202.0,
+        "wickets": 10,
+        "economy": 8.42
+      }
+    }
+  },
+  "rated_batting": {
+    "rating": 45.98,
+    "tier": "Unproven",
+    "p_outperform": 0.3986,
+    "pressure_value_per_100": -8.75,
+    "clutch_delta_per_100": -2.13,
+    "consistency": 0.5903
+  },
+  "rated_bowling": {
+    "rating": 58.04,
+    "tier": "Unproven",
+    "p_outperform": 0.4066,
+    "pressure_value_per_6": -0.04,
+    "clutch_delta_per_6": 0.11,
+    "consistency": 0.4294
+  },
+  "recent_matches": [
+    {
+      "match_id": 55079,
+      "date": "2026-10-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": null,
+      "bowling_figures": "1/19 (3.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 55078,
+      "date": "2026-10-09",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "8 (5)",
+      "bowling_figures": "1/17 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48917,
+      "date": "2026-02-01",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "56 (37)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48916,
+      "date": "2026-01-31",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "23 (11)",
+      "bowling_figures": "1/32 (3.0)",
+      "pressure_balls": 7,
+      "pressure_value": 14.51
+    },
+    {
+      "match_id": 48915,
+      "date": "2026-01-29",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "40 (22)",
+      "bowling_figures": "2/29 (3.0)",
+      "pressure_balls": 14,
+      "pressure_value": -0.88
+    },
+    {
+      "match_id": 48514,
+      "date": "2026-01-11",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "6 (5)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 48512,
+      "date": "2026-01-07",
+      "competition": "T20I",
+      "year": 2026,
+      "batting_figures": "24 (18)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47982,
+      "date": "2025-11-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "36 (33)",
+      "bowling_figures": "1/17 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47981,
+      "date": "2025-11-27",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "27 (18)",
+      "bowling_figures": "1/18 (2.0)",
+      "pressure_balls": 14,
+      "pressure_value": 5.79
+    },
+    {
+      "match_id": 47979,
+      "date": "2025-11-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "13 (8)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47978,
+      "date": "2025-11-22",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "20 (18)",
+      "bowling_figures": "0/15 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 47976,
+      "date": "2025-11-18",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "22 (26)",
+      "bowling_figures": "1/31 (4.0)",
+      "pressure_balls": 21,
+      "pressure_value": -7.04
+    },
+    {
+      "match_id": 46742,
+      "date": "2025-11-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (6)",
+      "bowling_figures": "0/5 (1.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46741,
+      "date": "2025-10-31",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "71 (38)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 46740,
+      "date": "2025-10-28",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "37 (28)",
+      "bowling_figures": "2/31 (4.0)",
+      "pressure_balls": 8,
+      "pressure_value": -7.17
+    },
+    {
+      "match_id": 45513,
+      "date": "2025-09-28",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "14 (11)",
+      "bowling_figures": "0/16 (3.0)",
+      "pressure_balls": 18,
+      "pressure_value": 2.32
+    },
+    {
+      "match_id": 45511,
+      "date": "2025-09-25",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (3)",
+      "bowling_figures": "2/16 (4.0)",
+      "pressure_balls": 23,
+      "pressure_value": 12.3
+    },
+    {
+      "match_id": 45509,
+      "date": "2025-09-23",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "2 (3)",
+      "bowling_figures": null,
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45508,
+      "date": "2025-09-21",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "21 (17)",
+      "bowling_figures": "0/35 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": -5.62
+    },
+    {
+      "match_id": 45504,
+      "date": "2025-09-17",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (2)",
+      "bowling_figures": "1/18 (4.0)",
+      "pressure_balls": 25,
+      "pressure_value": 20.04
+    },
+    {
+      "match_id": 45500,
+      "date": "2025-09-14",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "3/35 (4.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45498,
+      "date": "2025-09-12",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "2/8 (2.0)",
+      "pressure_balls": 12,
+      "pressure_value": 21.7
+    },
+    {
+      "match_id": 45857,
+      "date": "2025-09-07",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "17 (19)",
+      "bowling_figures": "0/10 (3.0)",
+      "pressure_balls": 6,
+      "pressure_value": -1.98
+    },
+    {
+      "match_id": 45855,
+      "date": "2025-09-04",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "11 (10)",
+      "bowling_figures": "0/29 (3.0)",
+      "pressure_balls": 16,
+      "pressure_value": 0.21
+    },
+    {
+      "match_id": 45854,
+      "date": "2025-09-02",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "0 (1)",
+      "bowling_figures": "1/18 (4.0)",
+      "pressure_balls": 1,
+      "pressure_value": -15.98
+    },
+    {
+      "match_id": 45852,
+      "date": "2025-08-30",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "69 (38)",
+      "bowling_figures": "1/6 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    },
+    {
+      "match_id": 45851,
+      "date": "2025-08-29",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "14 (16)",
+      "bowling_figures": "0/21 (2.0)",
+      "pressure_balls": 12,
+      "pressure_value": -10.34
+    },
+    {
+      "match_id": 41512,
+      "date": "2025-08-04",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "66 (49)",
+      "bowling_figures": "1/38 (4.0)",
+      "pressure_balls": 26,
+      "pressure_value": -3.0
+    },
+    {
+      "match_id": 41511,
+      "date": "2025-08-03",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "7 (9)",
+      "bowling_figures": "2/20 (4.0)",
+      "pressure_balls": 24,
+      "pressure_value": 18.59
+    },
+    {
+      "match_id": 41510,
+      "date": "2025-08-01",
+      "competition": "T20I",
+      "year": 2025,
+      "batting_figures": "57 (38)",
+      "bowling_figures": "2/19 (2.0)",
+      "pressure_balls": 0,
+      "pressure_value": 0.0
+    }
+  ],
+  "anomalies": [
+    {
+      "player_id": 7690,
+      "player_name": "Saim Ayub",
+      "role": "bowler",
+      "match_id": 45855,
+      "n_balls": 16,
+      "match_runs_conceded": 17,
+      "match_wickets": 0,
+      "match_pressure_value": 0.8031,
+      "career_expected_value": 0.5771,
+      "z_score": 4.39,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7690,
+      "player_name": "Saim Ayub",
+      "role": "bowler",
+      "match_id": 45857,
+      "n_balls": 6,
+      "match_runs_conceded": 5,
+      "match_wickets": 0,
+      "match_pressure_value": 0.279,
+      "career_expected_value": 0.5771,
+      "z_score": -3.55,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7690,
+      "player_name": "Saim Ayub",
+      "role": "bowler",
+      "match_id": 48915,
+      "n_balls": 14,
+      "match_runs_conceded": 24,
+      "match_wickets": 1,
+      "match_pressure_value": 0.3882,
+      "career_expected_value": 0.5771,
+      "z_score": -3.43,
+      "direction": "negative"
+    },
+    {
+      "player_id": 7690,
+      "player_name": "Saim Ayub",
+      "role": "batter",
+      "match_id": 47976,
+      "n_balls": 21,
+      "match_runs": 21,
+      "match_pressure_value": 0.5261,
+      "career_expected_value": 0.375,
+      "z_score": 3.37,
+      "direction": "positive"
+    },
+    {
+      "player_id": 7690,
+      "player_name": "Saim Ayub",
+      "role": "bowler",
+      "match_id": 45511,
+      "n_balls": 23,
+      "match_runs_conceded": 16,
+      "match_wickets": 2,
+      "match_pressure_value": 0.7016,
+      "career_expected_value": 0.5771,
+      "z_score": 2.9,
+      "direction": "positive"
+    }
+  ]
+}
