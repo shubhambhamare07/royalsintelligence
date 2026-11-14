@@ -1,0 +1,13 @@
+{
+  "name": "royals-intelligence-root",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "site"
+  ],
+  "scripts": {
+    "build": "cd site && npm install && npm run build:public",
+    "dev": "npm --prefix site run dev",
+    "preview": "npm --prefix site run preview"
+  }
+}
