@@ -93,6 +93,46 @@ export const DirectoryPage: React.FC = () => {
     return Array.from(set).sort();
   }, [players]);
 
+  // Helper to determine player active rank based on context/roleFilter
+  const getPlayerActiveRank = (
+    playerId: string | number,
+    role: string
+  ): { primaryRank: RankedPlayer | null; secondaryRank: RankedPlayer | null } => {
+    const batRank = canonicalRegistry.getBattingRank(playerId) || null;
+    const bowlRank = canonicalRegistry.getBowlingRank(playerId) || null;
+
+    if (role === 'BAT') {
+      return {
+        primaryRank: batRank || bowlRank,
+        secondaryRank: batRank ? bowlRank : null,
+      };
+    }
+    if (role === 'BOWL') {
+      return {
+        primaryRank: bowlRank || batRank,
+        secondaryRank: bowlRank ? batRank : null,
+      };
+    }
+
+    // For ALL or ALL_ROUNDER: pick the strongest / numerically lower rank
+    if (batRank && bowlRank) {
+      if (batRank.rank < bowlRank.rank) {
+        return { primaryRank: batRank, secondaryRank: bowlRank };
+      } else if (bowlRank.rank < batRank.rank) {
+        return { primaryRank: bowlRank, secondaryRank: batRank };
+      } else {
+        return batRank.rating >= bowlRank.rating
+          ? { primaryRank: batRank, secondaryRank: bowlRank }
+          : { primaryRank: bowlRank, secondaryRank: batRank };
+      }
+    }
+
+    return {
+      primaryRank: batRank || bowlRank,
+      secondaryRank: null,
+    };
+  };
+
   // Filtered and sorted players
   const processedPlayers = useMemo(() => {
     let list = players.filter((p) => {
@@ -175,17 +215,15 @@ export const DirectoryPage: React.FC = () => {
 
     // Sort
     list.sort((a, b) => {
-      const batRankA = canonicalRegistry.getBattingRank(a.player_id);
-      const bowlRankA = canonicalRegistry.getBowlingRank(a.player_id);
-      const qualA = batRankA || bowlRankA;
-
-      const batRankB = canonicalRegistry.getBattingRank(b.player_id);
-      const bowlRankB = canonicalRegistry.getBowlingRank(b.player_id);
-      const qualB = batRankB || bowlRankB;
+      const { primaryRank: qualA } = getPlayerActiveRank(a.player_id, roleFilter);
+      const { primaryRank: qualB } = getPlayerActiveRank(b.player_id, roleFilter);
 
       switch (sort) {
         case 'rank': {
-          if (qualA && qualB) return qualA.rank - qualB.rank;
+          if (qualA && qualB) {
+            if (qualA.rank !== qualB.rank) return qualA.rank - qualB.rank;
+            return qualB.rating - qualA.rating;
+          }
           if (qualA) return -1;
           if (qualB) return 1;
           return a.name.localeCompare(b.name);
@@ -424,9 +462,10 @@ export const DirectoryPage: React.FC = () => {
               <tbody className="divide-y divide-slate-100">
                 {paginatedPlayers.map((player, idx) => {
                   const serialNumber = startIndex + idx + 1;
-                  const batRank = canonicalRegistry.getBattingRank(player.player_id);
-                  const bowlRank = canonicalRegistry.getBowlingRank(player.player_id);
-                  const qualifiedRank: RankedPlayer | null = batRank || bowlRank || null;
+                  const { primaryRank: qualifiedRank, secondaryRank } = getPlayerActiveRank(
+                    player.player_id,
+                    roleFilter
+                  );
 
                   const country = getPlayerNationality(player.player_id, player.national_teams);
                   const flagSrc = getCountryFlag(country);
@@ -574,9 +613,16 @@ export const DirectoryPage: React.FC = () => {
                       {/* Rank */}
                       <td className="py-2.5 px-2.5 text-center">
                         {qualifiedRank ? (
-                          <span className="inline-flex px-1.5 py-0.5 rounded bg-slate-100 text-slate-900 font-bold text-[10px] tabular-nums">
-                            #{qualifiedRank.rank} {qualifiedRank.role === 'batter' ? 'BAT' : 'BOWL'}
-                          </span>
+                          <div className="flex flex-col items-center gap-0.5">
+                            <span className="inline-flex px-1.5 py-0.5 rounded bg-[#14213D] text-white font-bold text-[10px] tabular-nums shadow-2xs">
+                              #{qualifiedRank.rank} {qualifiedRank.role === 'batter' ? 'BAT' : 'BOWL'}
+                            </span>
+                            {secondaryRank && (
+                              <span className="text-[8.5px] font-semibold text-slate-500 tabular-nums">
+                                #{secondaryRank.rank} {secondaryRank.role === 'batter' ? 'BAT' : 'BOWL'}
+                              </span>
+                            )}
+                          </div>
                         ) : (
                           <span className="text-slate-400 text-xs">—</span>
                         )}

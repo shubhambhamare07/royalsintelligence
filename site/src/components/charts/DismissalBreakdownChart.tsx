@@ -26,6 +26,9 @@ export const DismissalBreakdownChart: React.FC<DismissalBreakdownChartProps> = (
   const counts = entries.map(([_, count]) => count);
 
   const option = {
+    animation: true,
+    animationDuration: 1000,
+    animationEasing: 'cubicOut',
     tooltip: {
       trigger: 'axis',
       axisPointer: { type: 'shadow' },

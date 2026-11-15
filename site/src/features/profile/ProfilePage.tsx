@@ -71,6 +71,7 @@ export const ProfilePage: React.FC = () => {
   const [dirPlayer, setDirPlayer] = useState<PlayerDirectoryItem | null>(null);
   const [dnaData, setDnaData] = useState<any | null>(null);
   const [matchesIndex, setMatchesIndex] = useState<Record<string, MatchIndexItem>>({});
+  const [bowlingConcessions, setBowlingConcessions] = useState<any>(null);
   const [loading, setLoading] = useState(true);
   const [activeTab, setActiveTab] = useState('overview');
 
@@ -85,13 +86,14 @@ export const ProfilePage: React.FC = () => {
     async function loadProfile() {
       setLoading(true);
       try {
-        const [pDossier, pCert, rData, pDir, dData, mIndex] = await Promise.all([
+        const [pDossier, pCert, rData, pDir, dData, mIndex, bConcessions] = await Promise.all([
           dataLoader.getPlayerDossier(id!),
           dataLoader.getPlayerCertificate(id!, 'batter'),
           dataLoader.getRankings(),
           dataLoader.getPlayersIndex(),
           dataLoader.getDnaData(),
           dataLoader.getMatchesIndex(),
+          dataLoader.getBowlingConcessions(),
         ]);
 
         canonicalRegistry.initialize(
@@ -106,6 +108,7 @@ export const ProfilePage: React.FC = () => {
         setBowlRank(canonicalRegistry.getBowlingRank(id!) || null);
         setDirPlayer(canonicalRegistry.getPlayerById(id!) || null);
         setDnaData(dData);
+        setBowlingConcessions(bConcessions);
 
         // Build match lookup map
         const mMap: Record<string, MatchIndexItem> = {};
@@ -845,17 +848,19 @@ export const ProfilePage: React.FC = () => {
                 <div>
                   <ChartWrapper
                     title="Delivery Concession Breakdown"
-                    subtitle="Legal ball distribution between dot balls and boundaries."
+                    subtitle="Ball-by-ball concession breakdown: dots, 1s, 2s, 3s, 4s, 5s, 6s, wides, and no-balls."
                     sourceKey="CONCEDE-DIST"
                     provenance="Observed"
-                    height={280}
+                    height={340}
                   >
                     <BowlingDistributionChart
+                      concessions={bowlingConcessions?.[String(id)]}
                       legalBalls={dossier.bowling.legal_balls ?? Math.round(dossier.bowling.overs * 6)}
                       dots={dossier.bowling.dots ?? 0}
                       fours={dossier.bowling.fours || 0}
                       sixes={dossier.bowling.sixes || 0}
-                      height={260}
+                      wickets={dossier.bowling.wickets || 0}
+                      height={270}
                     />
                   </ChartWrapper>
                 </div>

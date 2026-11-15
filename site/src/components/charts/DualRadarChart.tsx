@@ -67,6 +67,9 @@ export const DualRadarChart: React.FC<DualRadarChartProps> = ({
   }
 
   const option = {
+    animation: true,
+    animationDuration: 1000,
+    animationEasing: 'cubicOut',
     tooltip: {
       trigger: 'item',
       backgroundColor: '#14213D',

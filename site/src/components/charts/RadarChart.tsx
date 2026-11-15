@@ -22,6 +22,9 @@ export const RadarChart: React.FC<RadarChartProps> = ({
   height = '300px',
 }) => {
   const option = {
+    animation: true,
+    animationDuration: 1000,
+    animationEasing: 'cubicOut',
     tooltip: {
       trigger: 'item',
       backgroundColor: '#14213D',

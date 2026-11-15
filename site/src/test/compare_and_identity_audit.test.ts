@@ -89,4 +89,25 @@ describe('Player Identity & Franchise Mapping Forensic Audit', () => {
       expect(getPlayerImageUrl(id)).toBe(path);
     }
   });
+
+  it('provides authentic delivery concessions data for bowler profiles', async () => {
+    const fs = await import('fs');
+    const concessionsRaw = fs.readFileSync('public/data/bowling_concessions.json', 'utf8');
+    const concessions = JSON.parse(concessionsRaw);
+
+    // Pathirana (8661)
+    const p8661 = concessions['8661'];
+    expect(p8661).toBeDefined();
+    expect(p8661.total_balls).toBe(1279);
+    expect(p8661.dots).toBeGreaterThan(300);
+    expect(p8661.wickets).toBe(89);
+    expect(p8661.dots + p8661.ones + p8661.twos + p8661.threes + p8661.fours + p8661.sixes + p8661.wides).toBe(1279);
+
+    // Krunal Pandya (4219)
+    const p4219 = concessions['4219'];
+    expect(p4219).toBeDefined();
+    expect(p4219.total_balls).toBe(1286);
+    expect(p4219.dots).toBeGreaterThan(300);
+    expect(p4219.wickets).toBe(57);
+  });
 });

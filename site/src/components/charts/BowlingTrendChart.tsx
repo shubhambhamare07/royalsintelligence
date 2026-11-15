@@ -38,6 +38,9 @@ export const BowlingTrendChart: React.FC<BowlingTrendChartProps> = ({
   const economies = sorted.map((d) => d.economy);
 
   const option = {
+    animation: true,
+    animationDuration: 1000,
+    animationEasing: 'cubicOut',
     tooltip: {
       trigger: 'axis',
       backgroundColor: '#14213D',

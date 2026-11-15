@@ -39,6 +39,9 @@ export const BowlingPhaseChart: React.FC<BowlingPhaseChartProps> = ({
   const economies = [pp.economy, mid.economy, dth.economy];
 
   const option = {
+    animation: true,
+    animationDuration: 1000,
+    animationEasing: 'cubicOut',
     tooltip: {
       trigger: 'axis',
       axisPointer: { type: 'shadow' },

@@ -37,6 +37,9 @@ export const BattingTrendChart: React.FC<BattingTrendChartProps> = ({
   const srs = sorted.map((d) => d.strikeRate);
 
   const option = {
+    animation: true,
+    animationDuration: 1000,
+    animationEasing: 'cubicOut',
     tooltip: {
       trigger: 'axis',
       backgroundColor: '#14213D',

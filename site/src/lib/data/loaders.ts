@@ -188,6 +188,14 @@ class DataLoader {
   public async getValidationExpected(): Promise<any> {
     return this.fetchJson<any>('/data/validation_expected.json');
   }
+
+  public async getBowlingConcessions(): Promise<Record<string, any>> {
+    try {
+      return await this.fetchJson<Record<string, any>>('/data/bowling_concessions.json');
+    } catch {
+      return {};
+    }
+  }
 }
 
 export const dataLoader = new DataLoader();
