@@ -8,7 +8,11 @@ import {
   ChevronDown,
   ChevronUp,
   Info,
-  ExternalLink,
+  Search,
+  RefreshCw,
+  Users,
+  Award,
+  ArrowRight,
 } from 'lucide-react';
 import { Card } from '../../components/ui/Card';
 import { Button } from '../../components/ui/Button';
@@ -27,21 +31,44 @@ import { getPlayerFranchise, getPlayerNationality, getCountryFlag } from '../../
 
 export const ComparePage: React.FC = () => {
   const [searchParams, setSearchParams] = useSearchParams();
-  const [rankedPlayers, setRankedPlayers] = useState<Map<string, RankedPlayer>>(new Map());
-  const [allDirectory, setAllDirectory] = useState<PlayerDirectoryItem[]>([]);
-  const [dnaData, setDnaData] = useState<any | null>(null);
-  const [loading, setLoading] = useState(true);
+
+  // Initialize synchronously from cache if already loaded
+  const cachedRankings = dataLoader.getCachedRankings();
+  const cachedDir = dataLoader.getCachedDirectory();
+  const cachedDna = dataLoader.getCachedDna();
+
+  const [rankedPlayers, setRankedPlayers] = useState<Map<string, RankedPlayer>>(() => {
+    const map = new Map<string, RankedPlayer>();
+    if (cachedRankings) {
+      const allList = [
+        ...(cachedRankings.eligible_batters || cachedRankings.top_10_batters || []),
+        ...(cachedRankings.eligible_bowlers || cachedRankings.top_10_bowlers || []),
+      ];
+      for (const p of allList) {
+        map.set(String(p.player_id), p);
+      }
+    }
+    return map;
+  });
+
+  const [allDirectory, setAllDirectory] = useState<PlayerDirectoryItem[]>(() => cachedDir || []);
+  const [dnaData, setDnaData] = useState<any | null>(() => cachedDna || null);
+  const [loading, setLoading] = useState(() => !cachedRankings);
 
   // Search picker state
-  const [isAdding, setIsAdding] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
+  const [activeSlotForReplace, setActiveSlotForReplace] = useState<number | null>(null);
+  const [isAddingOpen, setIsAddingOpen] = useState(false);
+  const [searchRoleFilter, setSearchRoleFilter] = useState<'all' | 'batter' | 'bowler'>('all');
   const [showMathExplanation, setShowMathExplanation] = useState(false);
 
-  // Raw selected IDs from URL query
-  const rawIds = (searchParams.get('ids') || '')
-    .split(',')
-    .map((s) => s.trim())
-    .filter(Boolean);
+  // Raw selected IDs from URL query (no hardcoded defaults)
+  const rawIds = useMemo(() => {
+    return (searchParams.get('ids') || '')
+      .split(',')
+      .map((s) => s.trim())
+      .filter(Boolean);
+  }, [searchParams]);
 
   useEffect(() => {
     async function loadCompareData() {
@@ -79,32 +106,7 @@ export const ComparePage: React.FC = () => {
     loadCompareData();
   }, []);
 
-  // Compute effective selected player objects
-  const effectivePlayerIds = useMemo(() => {
-    // If no IDs provided, default to Pathum Nissanka (#6931) and Heinrich Klaasen (#4260)
-    if (rawIds.length === 0) {
-      return ['6931', '4260'];
-    }
-
-    // If only 1 ID is provided (e.g. from clicking "Compare" on a player profile),
-    // automatically pair them with an appropriate rival of the same role
-    if (rawIds.length === 1 && rankedPlayers.size > 0) {
-      const p1Id = rawIds[0];
-      const p1 = rankedPlayers.get(p1Id);
-      if (p1) {
-        let rivalId: string;
-        if (p1.role === 'batter') {
-          rivalId = p1Id === '6931' ? '4260' : '6931';
-        } else {
-          rivalId = p1Id === '8661' ? '4219' : '8661';
-        }
-        return [p1Id, rivalId];
-      }
-    }
-
-    return rawIds.slice(0, 3);
-  }, [rawIds, rankedPlayers]);
-
+  // Update URL query parameters
   const updateSelectedIds = (ids: string[]) => {
     const next = new URLSearchParams(searchParams);
     if (ids.length === 0) {
@@ -112,25 +114,43 @@ export const ComparePage: React.FC = () => {
     } else {
       next.set('ids', ids.join(','));
     }
-    setSearchParams(next);
+    setSearchParams(next, { replace: true });
   };
 
+  // Remove player at specific index or by ID
   const removePlayer = (idToRemove: string) => {
-    updateSelectedIds(effectivePlayerIds.filter((id) => id !== idToRemove));
+    const nextIds = rawIds.filter((id) => id !== idToRemove);
+    updateSelectedIds(nextIds);
+    setIsAddingOpen(false);
+    setActiveSlotForReplace(null);
   };
 
+  // Add player to next available slot
   const addPlayer = (idToAdd: string) => {
-    if (effectivePlayerIds.length >= 3 || effectivePlayerIds.includes(idToAdd)) return;
-    updateSelectedIds([...effectivePlayerIds, idToAdd]);
-    setIsAdding(false);
+    const strId = String(idToAdd);
+    if (rawIds.includes(strId)) return;
+
+    if (activeSlotForReplace !== null && activeSlotForReplace < rawIds.length) {
+      const nextIds = [...rawIds];
+      nextIds[activeSlotForReplace] = strId;
+      updateSelectedIds(nextIds);
+    } else {
+      if (rawIds.length >= 3) return;
+      updateSelectedIds([...rawIds, strId]);
+    }
+
+    setIsAddingOpen(false);
+    setActiveSlotForReplace(null);
     setSearchQuery('');
   };
 
+  // Compute effective selected player objects
   const selectedPlayers: RankedPlayer[] = useMemo(() => {
-    return effectivePlayerIds
+    return rawIds
+      .slice(0, 3)
       .map((id) => rankedPlayers.get(id))
       .filter((p): p is RankedPlayer => !!p);
-  }, [effectivePlayerIds, rankedPlayers]);
+  }, [rawIds, rankedPlayers]);
 
   // Discipline compatibility check
   const roles = new Set(selectedPlayers.map((p) => p.role));
@@ -246,7 +266,32 @@ export const ComparePage: React.FC = () => {
     return `Comparative analysis reveals contrasting situational profiles: ${pvLeader.player_name} leads overall run value under pressure (${formatPerHundred((pvLeader.pressure_value || 0) * 100)} /100b), while ${cdLeader.player_name} exhibits greater clutch elevation over baseline (+${formatPerHundred((cdLeader.CD || 0) * 100)} /100b). Consistency favors ${pcLeader.player_name} (${formatPercent(pcLeader.PC || 0)}).`;
   }, [p1, p2, hasRoleMismatch]);
 
-  if (loading) {
+  // Filtered player search results
+  const searchResults = useMemo(() => {
+    const q = searchQuery.toLowerCase().trim();
+    return Array.from(rankedPlayers.values())
+      .filter((p) => {
+        // Role filter
+        if (searchRoleFilter !== 'all' && p.role !== searchRoleFilter) return false;
+        // Don't show already selected players (unless replacing)
+        if (activeSlotForReplace === null && rawIds.includes(String(p.player_id))) return false;
+        if (activeSlotForReplace !== null && rawIds[activeSlotForReplace] === String(p.player_id)) return false;
+
+        if (!q) return true;
+
+        const nameMatch = p.player_name.toLowerCase().includes(q);
+        const idMatch = String(p.player_id).includes(q);
+        const franchise = getPlayerFranchise(p.player_id);
+        const franchiseMatch = franchise
+          ? franchise.short.toLowerCase().includes(q) || franchise.name.toLowerCase().includes(q)
+          : false;
+
+        return nameMatch || idMatch || franchiseMatch;
+      })
+      .slice(0, 10);
+  }, [rankedPlayers, searchQuery, searchRoleFilter, rawIds, activeSlotForReplace]);
+
+  if (loading && rankedPlayers.size === 0) {
     return (
       <div className="py-24 text-center text-slate-400 font-sans">
         <GitCompare className="w-8 h-8 text-[#E6007E] animate-pulse mx-auto mb-2" />
@@ -256,7 +301,7 @@ export const ComparePage: React.FC = () => {
   }
 
   return (
-    <div className="space-y-5 animate-in fade-in duration-200 font-sans">
+    <div className="space-y-5 animate-in fade-in duration-150 font-sans">
       {/* 1. Header & Controls */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 bg-white p-4 rounded-xl border border-slate-200 shadow-2xs">
         <div>
@@ -265,23 +310,176 @@ export const ComparePage: React.FC = () => {
             <span>Player Comparison Matrix</span>
           </h1>
           <p className="text-xs text-slate-500 mt-0.5 font-sans">
-            Side-by-side analytical benchmarking across certified Bayesian parameters and situational DNA.
+            Side-by-side analytical benchmarking across certified Bayesian parameters, situational DNA, and clutch elevation.
           </p>
         </div>
 
-        {selectedPlayers.length < 3 && (
-          <Button
-            size="sm"
-            variant="outline"
-            onClick={() => setIsAdding(!isAdding)}
-            icon={<Plus className="w-4 h-4 text-[#E6007E]" />}
-          >
-            Add Player (Up to 3)
-          </Button>
-        )}
+        <div className="flex items-center gap-2">
+          {selectedPlayers.length > 0 && (
+            <Button
+              size="sm"
+              variant="outline"
+              onClick={() => updateSelectedIds([])}
+              className="text-xs text-slate-600 hover:text-rose-600"
+            >
+              Clear Comparison
+            </Button>
+          )}
+
+          {selectedPlayers.length < 3 && (
+            <Button
+              size="sm"
+              variant="primary"
+              onClick={() => {
+                setActiveSlotForReplace(null);
+                setIsAddingOpen(true);
+              }}
+              icon={<Plus className="w-4 h-4 text-white" />}
+              className="bg-[#14213D] hover:bg-slate-800 text-white font-bold"
+            >
+              Add Player ({selectedPlayers.length}/3)
+            </Button>
+          )}
+        </div>
       </div>
 
-      {/* 2. Role Mismatch Warning Banner */}
+      {/* 2. Searchable Player Picker Modal / Dropdown */}
+      {isAddingOpen && (
+        <Card className="p-4 border-[#E6007E]/40 bg-pink-subtle/10 space-y-3 shadow-md animate-in fade-in duration-150">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <Search className="w-4 h-4 text-[#E6007E]" />
+              <span className="text-xs font-bold text-[#14213D] uppercase tracking-wider">
+                {activeSlotForReplace !== null
+                  ? `Replace Player ${activeSlotForReplace + 1}`
+                  : `Add Player to Comparison (${selectedPlayers.length + 1} of 3)`}
+              </span>
+            </div>
+            <button
+              onClick={() => {
+                setIsAddingOpen(false);
+                setActiveSlotForReplace(null);
+                setSearchQuery('');
+              }}
+              className="text-slate-400 hover:text-slate-600 p-1 rounded-full hover:bg-slate-100 transition-colors"
+            >
+              <X className="w-4 h-4" />
+            </button>
+          </div>
+
+          {/* Search Inputs & Filters */}
+          <div className="flex flex-col sm:flex-row gap-2">
+            <div className="relative flex-1">
+              <Search className="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none" />
+              <input
+                type="text"
+                autoFocus
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                placeholder="Search by player name, canonical ID (e.g. 6931, 360), or franchise..."
+                className="w-full pl-9 pr-3 py-2 text-xs bg-white border border-slate-200 rounded-lg text-[#14213D] focus:outline-none focus:ring-2 focus:ring-[#E6007E]/30"
+              />
+            </div>
+
+            {/* Role Filter Chips */}
+            <div className="flex items-center gap-1 bg-white p-1 rounded-lg border border-slate-200">
+              <button
+                type="button"
+                onClick={() => setSearchRoleFilter('all')}
+                className={`px-2.5 py-1 text-[11px] font-bold rounded-md transition-colors ${
+                  searchRoleFilter === 'all'
+                    ? 'bg-[#14213D] text-white'
+                    : 'text-slate-600 hover:bg-slate-100'
+                }`}
+              >
+                All Roles
+              </button>
+              <button
+                type="button"
+                onClick={() => setSearchRoleFilter('batter')}
+                className={`px-2.5 py-1 text-[11px] font-bold rounded-md transition-colors ${
+                  searchRoleFilter === 'batter'
+                    ? 'bg-[#E6007E] text-white'
+                    : 'text-slate-600 hover:bg-slate-100'
+                }`}
+              >
+                Batters
+              </button>
+              <button
+                type="button"
+                onClick={() => setSearchRoleFilter('bowler')}
+                className={`px-2.5 py-1 text-[11px] font-bold rounded-md transition-colors ${
+                  searchRoleFilter === 'bowler'
+                    ? 'bg-[#C6A15B] text-white'
+                    : 'text-slate-600 hover:bg-slate-100'
+                }`}
+              >
+                Bowlers
+              </button>
+            </div>
+          </div>
+
+          {/* Search Results List */}
+          <div className="divide-y divide-slate-100 max-h-60 overflow-y-auto bg-white rounded-lg border border-slate-200 shadow-2xs">
+            {searchResults.length > 0 ? (
+              searchResults.map((p) => {
+                const franchise = getPlayerFranchise(p.player_id);
+                const country = getPlayerNationality(p.player_id);
+                const flagSrc = getCountryFlag(country);
+
+                return (
+                  <button
+                    key={p.player_id}
+                    onClick={() => addPlayer(String(p.player_id))}
+                    className="w-full px-3 py-2.5 text-left hover:bg-slate-50 flex items-center justify-between text-xs font-medium transition-colors group"
+                  >
+                    <div className="flex items-center gap-2.5 min-w-0">
+                      <PlayerAvatar playerId={p.player_id} playerName={p.player_name} size="xs" />
+                      <div className="min-w-0">
+                        <div className="flex items-center gap-1.5">
+                          <span className="font-bold text-slate-900 group-hover:text-[#E6007E] transition-colors truncate">
+                            {p.player_name}
+                          </span>
+                          <span className="text-[10px] text-slate-400 font-mono">#{p.player_id}</span>
+                        </div>
+                        <div className="flex items-center gap-1.5 text-[10px] text-slate-500 mt-0.5">
+                          <span className="font-semibold text-slate-700">
+                            #{p.rank} {p.role === 'batter' ? 'BAT' : 'BOWL'}
+                          </span>
+                          <span>•</span>
+                          {flagSrc && (
+                            <img src={flagSrc} alt={country} className="w-3.5 h-2.5 object-cover rounded-2xs inline-block" />
+                          )}
+                          <span>{country}</span>
+                          {franchise && (
+                            <>
+                              <span>•</span>
+                              <span className="font-bold text-[#14213D]">{franchise.short}</span>
+                            </>
+                          )}
+                        </div>
+                      </div>
+                    </div>
+
+                    <div className="text-right shrink-0 pl-2">
+                      <div className="text-[10px] text-slate-400 uppercase font-semibold">Rating</div>
+                      <span className="font-black text-[#E6007E] text-xs tabular-nums">
+                        {p.rating.toFixed(2)}
+                      </span>
+                    </div>
+                  </button>
+                );
+              })
+            ) : (
+              <div className="p-6 text-center text-xs text-slate-400">
+                No matching eligible players found. Try a different name, role, or ID.
+              </div>
+            )}
+          </div>
+        </Card>
+      )}
+
+      {/* 3. Role Mismatch Warning Banner */}
       {hasRoleMismatch && (
         <div className="p-3.5 rounded-xl bg-amber-50 border border-amber-200 flex items-start gap-3 text-amber-900 text-xs">
           <AlertTriangle className="w-4 h-4 text-amber-600 shrink-0 mt-0.5" />
@@ -291,123 +489,200 @@ export const ComparePage: React.FC = () => {
         </div>
       )}
 
-      {/* 3. Searchable Player Selector Modal / Card */}
-      {isAdding && (
-        <Card className="p-3.5 border-[#E6007E]/40 bg-pink-subtle/20 space-y-2.5 shadow-xs">
-          <div className="flex items-center justify-between">
-            <span className="text-xs font-bold text-[#14213D] uppercase tracking-wider">
-              Add Player to Comparison
-            </span>
-            <button
-              onClick={() => setIsAdding(false)}
-              className="text-slate-400 hover:text-slate-600"
-            >
-              <X className="w-4 h-4" />
-            </button>
-          </div>
-
-          <input
-            type="text"
-            value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-            placeholder="Type player name, canonical ID, or franchise..."
-            className="w-full px-3 py-1.5 text-xs bg-white border border-slate-200 rounded-lg text-[#14213D] focus:outline-none focus:ring-2 focus:ring-[#E6007E]/30"
-          />
-
-          {searchQuery && (
-            <div className="divide-y divide-slate-100 max-h-48 overflow-y-auto bg-white rounded-lg border border-slate-200 shadow-2xs">
-              {Array.from(rankedPlayers.values())
-                .filter(
-                  (p) =>
-                    (p.player_name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                      String(p.player_id).includes(searchQuery)) &&
-                    !effectivePlayerIds.includes(String(p.player_id))
-                )
-                .slice(0, 6)
-                .map((p) => {
-                  const franchise = getPlayerFranchise(p.player_id);
-
-                  return (
-                    <button
-                      key={p.player_id}
-                      onClick={() => addPlayer(String(p.player_id))}
-                      className="w-full px-3 py-2 text-left hover:bg-slate-50 flex items-center justify-between text-xs font-medium transition-colors"
-                    >
-                      <div className="flex items-center gap-2">
-                        <PlayerAvatar playerId={p.player_id} playerName={p.player_name} size="xs" />
-                        <span className="font-bold text-slate-900">{p.player_name}</span>
-                        <span className="text-slate-400 font-normal">
-                          (#{p.rank} {p.role === 'batter' ? 'BAT' : 'BOWL'})
-                        </span>
-                        {franchise && <span className="font-semibold text-slate-500 text-[10px]">{franchise.short}</span>}
-                      </div>
-                      <span className="font-bold text-[#E6007E] tabular-nums">
-                        {p.rating.toFixed(2)}
-                      </span>
-                    </button>
-                  );
-                })}
-            </div>
-          )}
-        </Card>
-      )}
-
-      {/* 4. Selected Players Identity Showcase */}
+      {/* 4. Interactive 3-Slot Player Comparison Showcase */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-3.5">
-        {selectedPlayers.map((player, idx) => {
+        {[0, 1, 2].map((slotIdx) => {
+          const player = selectedPlayers[slotIdx];
           const accentColor =
-            idx === 0 ? 'border-slate-800' : idx === 1 ? 'border-[#E6007E]' : 'border-[#C6A15B]';
-          const country = getPlayerNationality(player.player_id);
-          const flagSrc = getCountryFlag(country);
-          const franchise = getPlayerFranchise(player.player_id);
+            slotIdx === 0 ? 'border-slate-800' : slotIdx === 1 ? 'border-[#E6007E]' : 'border-[#C6A15B]';
 
-          return (
-            <Card key={player.player_id} className={`p-4 border-2 ${accentColor} relative shadow-2xs`}>
-              {selectedPlayers.length > 1 && (
+          if (player) {
+            const country = getPlayerNationality(player.player_id);
+            const flagSrc = getCountryFlag(country);
+            const franchise = getPlayerFranchise(player.player_id);
+
+            return (
+              <Card key={player.player_id} className={`p-4 border-2 ${accentColor} relative shadow-2xs flex flex-col justify-between`}>
+                {/* Remove button */}
                 <button
                   onClick={() => removePlayer(String(player.player_id))}
                   className="absolute top-2.5 right-2.5 p-1 rounded-full text-slate-400 hover:text-rose-600 hover:bg-slate-100 transition-colors"
                   title="Remove player"
+                  aria-label={`Remove ${player.player_name}`}
                 >
-                  <X className="w-3.5 h-3.5" />
+                  <X className="w-4 h-4" />
                 </button>
-              )}
 
-              <div className="flex items-center gap-3 mb-3">
-                <PlayerAvatar
-                  playerId={player.player_id}
-                  playerName={player.player_name}
-                  size="md"
-                />
-                <div className="min-w-0 pr-6">
-                  <Link
-                    to={`/player/${player.player_id}`}
-                    className="font-bold text-sm text-[#14213D] truncate block hover:text-[#E6007E] transition-colors"
-                  >
-                    {player.player_name}
-                  </Link>
-                  <div className="flex items-center gap-1.5 text-[11px] text-slate-500 mt-0.5">
-                    <span className="tabular-nums">#{player.player_id}</span>
-                    <span>•</span>
-                    <span className="font-semibold">Rank #{player.rank} {player.role === 'batter' ? 'BAT' : 'BOWL'}</span>
-                    {flagSrc && (
-                      <img src={flagSrc} alt={country} className="w-3.5 h-2.5 object-cover rounded-2xs inline-block" />
-                    )}
-                    {franchise && <span className="font-bold text-slate-700">{franchise.short}</span>}
+                <div>
+                  <div className="flex items-center gap-3 mb-3">
+                    <PlayerAvatar
+                      playerId={player.player_id}
+                      playerName={player.player_name}
+                      size="md"
+                    />
+                    <div className="min-w-0 pr-6">
+                      <Link
+                        to={`/player/${player.player_id}`}
+                        className="font-bold text-sm text-[#14213D] truncate block hover:text-[#E6007E] transition-colors"
+                      >
+                        {player.player_name}
+                      </Link>
+                      <div className="flex items-center gap-1.5 text-[11px] text-slate-500 mt-0.5">
+                        <span className="tabular-nums font-mono text-[10px]">#{player.player_id}</span>
+                        <span>•</span>
+                        <span className="font-semibold">Rank #{player.rank} {player.role === 'batter' ? 'BAT' : 'BOWL'}</span>
+                        {flagSrc && (
+                          <img src={flagSrc} alt={country} title={country} className="w-3.5 h-2.5 object-cover rounded-2xs inline-block" />
+                        )}
+                        {franchise && (
+                          <div className="flex items-center gap-1 font-bold text-slate-700">
+                            {franchise.logo && (
+                              <img src={franchise.logo} alt={franchise.short} className="w-3.5 h-3.5 object-contain" />
+                            )}
+                            <span>{franchise.short}</span>
+                          </div>
+                        )}
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="flex items-baseline justify-between pt-2.5 border-t border-slate-100 font-sans">
+                    <RatingDisplay value={player.rating} size="sm" />
+                    <TierBadge tier={player.tier} size="sm" />
                   </div>
                 </div>
-              </div>
 
-              <div className="flex items-baseline justify-between pt-2.5 border-t border-slate-100 font-sans">
-                <RatingDisplay value={player.rating} size="sm" />
-                <TierBadge tier={player.tier} size="sm" />
+                {/* Replace button control */}
+                <div className="pt-2.5 mt-2.5 border-t border-slate-100 flex items-center justify-between text-xs">
+                  <span className="text-[10px] text-slate-400 font-semibold uppercase">Slot {slotIdx + 1}</span>
+                  <button
+                    onClick={() => {
+                      setActiveSlotForReplace(slotIdx);
+                      setIsAddingOpen(true);
+                    }}
+                    className="text-[11px] font-bold text-[#E6007E] hover:text-[#D8005A] flex items-center gap-1"
+                  >
+                    <RefreshCw className="w-3 h-3" />
+                    <span>Replace</span>
+                  </button>
+                </div>
+              </Card>
+            );
+          }
+
+          // Empty slot placeholder
+          return (
+            <div
+              key={`empty-slot-${slotIdx}`}
+              onClick={() => {
+                setActiveSlotForReplace(slotIdx);
+                setIsAddingOpen(true);
+              }}
+              className="border-2 border-dashed border-slate-200 hover:border-[#E6007E]/50 rounded-xl p-6 flex flex-col items-center justify-center text-center cursor-pointer bg-slate-50/50 hover:bg-pink-subtle/10 transition-all min-h-[160px] group"
+            >
+              <div className="w-10 h-10 rounded-full bg-white border border-slate-200 group-hover:border-[#E6007E]/40 flex items-center justify-center text-slate-400 group-hover:text-[#E6007E] mb-2 transition-colors">
+                <Plus className="w-5 h-5" />
               </div>
-            </Card>
+              <span className="text-xs font-bold text-slate-700 group-hover:text-[#14213D]">
+                {slotIdx === 0
+                  ? 'Select Player 1'
+                  : slotIdx === 1
+                  ? 'Select Player 2'
+                  : 'Add 3rd Player (Optional)'}
+              </span>
+              <span className="text-[10px] text-slate-400 mt-0.5">Click to search canonical registry</span>
+            </div>
           );
         })}
       </div>
 
-      {/* 5. Direct Head-to-Head Analytical Summary */}
+      {/* 5. Empty State Prompt with 1-Click Popular Benchmarks when fewer than 2 players selected */}
+      {selectedPlayers.length === 0 && (
+        <Card className="p-8 text-center space-y-4 border-slate-200">
+          <div className="w-12 h-12 rounded-full bg-[#14213D]/5 flex items-center justify-center mx-auto text-[#14213D]">
+            <GitCompare className="w-6 h-6 text-[#E6007E]" />
+          </div>
+          <div>
+            <h2 className="text-base font-bold text-[#14213D]">Select Players to Begin Comparison</h2>
+            <p className="text-xs text-slate-500 max-w-md mx-auto mt-1 leading-relaxed">
+              Search and add any eligible batter or bowler from the certified 306-player registry, or load one of the quick benchmark presets below.
+            </p>
+          </div>
+
+          <div className="pt-2">
+            <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider block mb-2">
+              Popular Certified Benchmarks
+            </span>
+            <div className="flex flex-wrap justify-center gap-2">
+              <Button
+                size="sm"
+                variant="outline"
+                onClick={() => updateSelectedIds(['6931', '4260'])}
+                className="text-xs font-semibold"
+              >
+                Pathum Nissanka vs Heinrich Klaasen
+              </Button>
+              <Button
+                size="sm"
+                variant="outline"
+                onClick={() => updateSelectedIds(['8661', '830'])}
+                className="text-xs font-semibold"
+              >
+                Matheesha Pathirana vs Josh Hazlewood
+              </Button>
+              <Button
+                size="sm"
+                variant="outline"
+                onClick={() => updateSelectedIds(['1318', '2756'])}
+                className="text-xs font-semibold"
+              >
+                Andre Russell vs Shashank Singh
+              </Button>
+              <Button
+                size="sm"
+                variant="outline"
+                onClick={() => updateSelectedIds(['360', '1758'])}
+                className="text-xs font-semibold"
+              >
+                Bhuvneshwar Kumar vs Pat Cummins
+              </Button>
+              <Button
+                size="sm"
+                variant="outline"
+                onClick={() => updateSelectedIds(['781', '2876'])}
+                className="text-xs font-semibold"
+              >
+                Sunil Narine vs Axar Patel
+              </Button>
+            </div>
+          </div>
+        </Card>
+      )}
+
+      {/* 6. Single-Player Guidance Banner */}
+      {selectedPlayers.length === 1 && (
+        <div className="p-4 rounded-xl bg-slate-50 border border-slate-200 flex items-center justify-between text-xs text-slate-600">
+          <div className="flex items-center gap-2">
+            <Info className="w-4 h-4 text-[#E6007E] shrink-0" />
+            <span>
+              <strong>{selectedPlayers[0].player_name}</strong> selected. Select a second player above to generate head-to-head delta comparisons, relative advantage bars, and Bayesian benchmark matrices.
+            </span>
+          </div>
+          <Button
+            size="sm"
+            variant="outline"
+            onClick={() => {
+              setActiveSlotForReplace(1);
+              setIsAddingOpen(true);
+            }}
+            icon={<Plus className="w-3.5 h-3.5" />}
+          >
+            Add 2nd Player
+          </Button>
+        </div>
+      )}
+
+      {/* 7. Direct Head-to-Head Analytical Summary */}
       {selectedPlayers.length >= 2 && p1 && p2 && (
         <Card className="p-4 border-slate-200 bg-slate-50/50 shadow-2xs space-y-3">
           <div className="flex items-center justify-between border-b border-slate-200 pb-2">
@@ -467,7 +742,7 @@ export const ComparePage: React.FC = () => {
         </Card>
       )}
 
-      {/* 6. Visual Analytics Row: Dual Radar + Diverging Bar */}
+      {/* 8. Visual Analytics Row: Dual/Triple Radar + Diverging Bar */}
       {selectedPlayers.length >= 2 && p1 && p2 && (
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
           <ChartWrapper
@@ -506,7 +781,7 @@ export const ComparePage: React.FC = () => {
         </div>
       )}
 
-      {/* 7. Detailed Side-by-Side Metric Benchmark Table */}
+      {/* 9. Detailed Side-by-Side Metric Benchmark Table */}
       {selectedPlayers.length >= 2 && p1 && p2 && (
         <Card className="p-0 overflow-hidden border-slate-200 shadow-2xs">
           <div className="px-4 py-3 bg-[#14213D] text-white font-bold text-xs uppercase tracking-wider flex items-center justify-between">
@@ -650,7 +925,7 @@ export const ComparePage: React.FC = () => {
         </Card>
       )}
 
-      {/* 8. Expandable Mathematical Trace & Provenance */}
+      {/* 10. Expandable Mathematical Trace & Provenance */}
       <Card className="p-4 border-slate-200">
         <button
           onClick={() => setShowMathExplanation(!showMathExplanation)}

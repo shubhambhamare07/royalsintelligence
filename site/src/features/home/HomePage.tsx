@@ -218,8 +218,8 @@ export const HomePage: React.FC = () => {
       rating: 72.60,
       country: 'India',
       flagSrc: '/assets/flags/in.svg',
-      team: 'SRH',
-      teamLogo: '/assets/teams/user_logos/srh.png',
+      team: 'RCB',
+      teamLogo: '/assets/teams/user_logos/rcb.png',
       photoSrc: '/assets/players/top10/bhuvneshwar-kumar.webp',
     },
     {
@@ -240,8 +240,8 @@ export const HomePage: React.FC = () => {
       rating: 72.24,
       country: 'Australia',
       flagSrc: '/assets/flags/au.svg',
-      team: 'SRH',
-      teamLogo: '/assets/teams/user_logos/srh.png',
+      team: 'CSK',
+      teamLogo: '/assets/teams/user_logos/csk.png',
       photoSrc: '/assets/players/top10/nathan-ellis.png',
     },
     {
@@ -301,7 +301,7 @@ export const HomePage: React.FC = () => {
           return (
             <div
               key={item.label}
-              className="bg-[#FFF5F8] border border-[#FCE7F0] rounded-xl px-4 py-2 flex items-center gap-3 h-[74px] transition-transform hover:-translate-y-0.5 duration-150"
+              className="bg-[#FFF5F8] border border-[#FCE7F0] rounded-xl px-4 py-2 flex items-center gap-3 h-[74px] transition-all duration-150 ease-out hover:-translate-y-0.5 hover:shadow-xs active:scale-[0.99] motion-reduce:transform-none"
             >
               <div className="w-10 h-10 rounded-xl bg-white border border-[#FCE7F0] flex items-center justify-center text-[#E60067] shrink-0 shadow-2xs">
                 <Icon className="w-4.5 h-4.5" />
@@ -400,7 +400,7 @@ export const HomePage: React.FC = () => {
               <Link
                 key={player.playerId}
                 to={`/player/${player.playerId}`}
-                className="group bg-[#F8F9FA] border border-slate-200/80 hover:border-[#E60067]/60 rounded-2xl p-2.5 flex flex-col justify-between shadow-2xs hover:shadow-xs transition-all duration-150 h-full"
+                className="group bg-[#F8F9FA] border border-slate-200/80 hover:border-[#E60067]/60 rounded-2xl p-2.5 flex flex-col justify-between shadow-2xs hover:shadow-md hover:-translate-y-1 active:scale-[0.99] transition-all duration-150 ease-out h-full motion-reduce:transform-none"
               >
                 {/* Card Top: Rank & National Flag */}
                 <div className="flex items-center justify-between shrink-0 mb-1">

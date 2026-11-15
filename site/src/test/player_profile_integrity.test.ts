@@ -28,7 +28,7 @@ describe('Universal Player Profile & Identity Integrity', () => {
     expect(getPlayerImageUrl(999999)).toBeNull();
   });
 
-  it('enforces explicit user trade assignments for Nissanka, Pathirana, and Ellis', () => {
+  it('enforces verified franchise assignments for Nissanka, Pathirana, Bhuvneshwar, and Ellis', () => {
     // 1. Pathum Nissanka -> DC (Delhi Capitals)
     const nissankaFranchise = getPlayerFranchise(6931);
     expect(nissankaFranchise).not.toBeNull();
@@ -43,12 +43,19 @@ describe('Universal Player Profile & Identity Integrity', () => {
     expect(pathiranaFranchise?.name).toBe('Kolkata Knight Riders');
     expect(pathiranaFranchise?.logo).toBe('/assets/teams/user_logos/kkr.png');
 
-    // 3. Nathan Ellis -> SRH (Sunrisers Hyderabad, Trade Nov 2026)
+    // 3. Bhuvneshwar Kumar -> RCB (Royal Challengers Bengaluru)
+    const bhuviFranchise = getPlayerFranchise(360);
+    expect(bhuviFranchise).not.toBeNull();
+    expect(bhuviFranchise?.short).toBe('RCB');
+    expect(bhuviFranchise?.name).toBe('Royal Challengers Bengaluru');
+    expect(bhuviFranchise?.logo).toBe('/assets/teams/user_logos/rcb.png');
+
+    // 4. Nathan Ellis -> CSK (Chennai Super Kings)
     const ellisFranchise = getPlayerFranchise(7920);
     expect(ellisFranchise).not.toBeNull();
-    expect(ellisFranchise?.short).toBe('SRH');
-    expect(ellisFranchise?.name).toBe('Sunrisers Hyderabad');
-    expect(ellisFranchise?.logo).toBe('/assets/teams/user_logos/srh.png');
+    expect(ellisFranchise?.short).toBe('CSK');
+    expect(ellisFranchise?.name).toBe('Chennai Super Kings');
+    expect(ellisFranchise?.logo).toBe('/assets/teams/user_logos/csk.png');
   });
 
   it('correctly resolves official IPL team logos from user_logos directory', () => {

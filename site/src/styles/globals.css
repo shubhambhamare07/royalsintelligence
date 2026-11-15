@@ -105,6 +105,24 @@
   }
 }
 
+/* Zero-delay desktop layout stability */
+@media (min-width: 1024px) {
+  .desktop-sidebar {
+    display: block !important;
+    width: 225px !important;
+    min-width: 225px !important;
+    flex-shrink: 0 !important;
+  }
+  .mobile-nav-toggle {
+    display: none !important;
+  }
+}
+@media (max-width: 1023.98px) {
+  .desktop-sidebar {
+    display: none !important;
+  }
+}
+
 /* Reduced motion accessibility */
 @media (prefers-reduced-motion: reduce) {
   *, ::before, ::after {

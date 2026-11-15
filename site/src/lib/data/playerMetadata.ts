@@ -2,6 +2,8 @@
  * Central authoritative player metadata, franchise trade, and nationality resolver
  */
 
+import { getTeamBranding } from './teams';
+
 // Explicit verified trade and top-20 franchise assignments
 export const VERIFIED_FRANCHISE_MAP: Record<number, { name: string; short: string }> = {
   // Top 10 Batters
@@ -23,13 +25,13 @@ export const VERIFIED_FRANCHISE_MAP: Record<number, { name: string; short: strin
   830: { name: 'Royal Challengers Bengaluru', short: 'RCB' },
   2876: { name: 'Delhi Capitals', short: 'DC' },
   3644: { name: 'Delhi Capitals', short: 'DC' },
-  360: { name: 'Sunrisers Hyderabad', short: 'SRH' },
+  360: { name: 'Royal Challengers Bengaluru', short: 'RCB' }, // Verified RCB assignment
   1758: { name: 'Sunrisers Hyderabad', short: 'SRH' },
-  7920: { name: 'Sunrisers Hyderabad', short: 'SRH' }, // Trade Nov 2026 to SRH
+  7920: { name: 'Chennai Super Kings', short: 'CSK' }, // Verified CSK assignment
   7327: { name: 'Delhi Capitals', short: 'DC' },
 };
 
-// Canonical nationality mapping for Top 20 players
+// Canonical nationality mapping for Top 20 and certified qualified players
 export const VERIFIED_NATIONALITY_MAP: Record<number, string> = {
   6931: 'Sri Lanka',
   4260: 'South Africa',
@@ -51,6 +53,47 @@ export const VERIFIED_NATIONALITY_MAP: Record<number, string> = {
   1758: 'Australia',
   7920: 'Australia',
   7327: 'India',
+
+  // All domestic/international qualified players without T20I matches in sample window
+  8: 'India', // MS Dhoni
+  28: 'India', // Ishant Sharma
+  88: 'South Africa', // Faf du Plessis
+  109: 'India', // Wriddhiman Saha
+  142: 'India', // Shikhar Dhawan
+  167: 'India', // Ajinkya Rahane
+  198: 'India', // Manish Pandey
+  992: 'India', // Mayank Agarwal
+  1071: 'India', // Jaydev Unadkat
+  2411: 'India', // Sandeep Sharma
+  2877: 'India', // Vijay Shankar
+  2878: 'India', // Mohit Sharma
+  3782: 'India', // M Shahrukh Khan
+  3926: 'India', // Rahul Tewatia
+  4246: 'India', // Nitish Rana
+  4265: 'India', // T Natarajan
+  4494: 'India', // Abhinav Manohar
+  5039: 'India', // Rajat Patidar
+  5577: 'India', // Sai Kishore
+  6161: 'India', // Rahul Chahar
+  6314: 'India', // Devdutt Padikkal
+  6460: 'India', // Ayush Badoni
+  6467: 'India', // Anuj Rawat
+  6669: 'India', // Mohsin Khan
+  7059: 'India', // Nehal Wadhera
+  7250: 'India', // Mukesh Choudhary
+  7325: 'India', // Harpreet Brar
+  7446: 'India', // Abdul Samad
+  7545: 'India', // Kuldeep Sen
+  8101: 'India', // Ashutosh Sharma
+  8238: 'India', // Sameer Rizvi
+  8530: 'India', // Kartik Tyagi
+  8746: 'India', // Vaibhav Arora
+  19714: 'India', // Abishek Porel
+  25669: 'India', // Priyansh Arya
+  27964: 'India', // Anshul Kamboj
+  36982: 'India', // Suyash Sharma
+  58134: 'India', // Digvesh Rathi
+  67036: 'India', // Brijesh Sharma
 };
 
 // Country name to SVG flag mapping
@@ -104,22 +147,26 @@ export function getPlayerFranchise(
   // 1. Check verified trade map
   if (!isNaN(idNum) && VERIFIED_FRANCHISE_MAP[idNum]) {
     const verified = VERIFIED_FRANCHISE_MAP[idNum];
+    const branding = getTeamBranding(verified.short) || getTeamBranding(verified.name);
     return {
       name: verified.name,
       short: verified.short,
-      logo: `/assets/teams/user_logos/${verified.short.toLowerCase()}.png`,
+      logo: branding ? branding.logo_path : `/assets/teams/user_logos/${verified.short.toLowerCase()}.png`,
     };
   }
 
-  // 2. Check fallback franchises
+  // 2. Check fallback franchises with authentic IPL branding lookup
   if (fallbackTeams && fallbackTeams.length > 0) {
-    const primary = fallbackTeams[0];
-    const short = primary.split(' ').map(w => w[0]).join('').toUpperCase();
-    return {
-      name: primary,
-      short: short,
-      logo: `/assets/teams/user_logos/${short.toLowerCase()}.png`,
-    };
+    for (const team of fallbackTeams) {
+      const branding = getTeamBranding(team);
+      if (branding) {
+        return {
+          name: branding.team_name,
+          short: branding.short_name,
+          logo: branding.logo_path,
+        };
+      }
+    }
   }
 
   return null;

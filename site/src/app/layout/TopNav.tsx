@@ -75,7 +75,7 @@ export const TopNav: React.FC<TopNavProps> = ({
       <div className="flex items-center gap-3">
         <button
           onClick={onToggleMobileMenu}
-          className="lg:hidden p-1.5 rounded-lg text-slate-600 hover:bg-slate-100"
+          className="mobile-nav-toggle lg:hidden p-1.5 rounded-lg text-slate-600 hover:bg-slate-100"
           aria-label="Toggle navigation menu"
         >
           {isMobileMenuOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}

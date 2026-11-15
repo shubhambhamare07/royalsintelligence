@@ -12,9 +12,9 @@ export const AppShell: React.FC = () => {
   return (
     <div className="min-h-screen lg:h-screen flex bg-white font-sans text-slate-900 antialiased selection:bg-[#E60067] selection:text-white">
       {/* Desktop Fixed Sidebar (225px) */}
-      <div className="hidden lg:block shrink-0 sticky top-0 h-screen w-[225px] z-30">
+      <aside className="desktop-sidebar hidden lg:block shrink-0 sticky top-0 h-screen w-[225px] z-30">
         <Sidebar />
-      </div>
+      </aside>
 
       {/* Mobile Sidebar Overlay Drawer */}
       {isMobileMenuOpen && (

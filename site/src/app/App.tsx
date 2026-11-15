@@ -2,20 +2,16 @@ import React, { useEffect, useState } from 'react';
 import { RouterProvider } from 'react-router-dom';
 import { router } from './routes';
 import { dataLoader } from '../lib/data/loaders';
-import { Skeleton } from '../components/ui/Skeleton';
 
 export const App: React.FC = () => {
-  const [initialized, setInitialized] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     async function boot() {
       try {
         await dataLoader.initializeApp();
-        setInitialized(true);
       } catch (err: any) {
-        console.error('Boot initialization error:', err);
-        setError(err.message || 'Failed to initialize application data layer');
+        console.error('Data initialization background error:', err);
       }
     }
     boot();
@@ -41,20 +37,7 @@ export const App: React.FC = () => {
     );
   }
 
-  if (!initialized) {
-    return (
-      <div className="min-h-screen bg-[#14213D] text-white flex flex-col items-center justify-center p-6 space-y-4">
-        <img src="/assets/brand/rr-crest.svg" alt="Loading" className="w-16 h-16 animate-pulse" />
-        <div className="text-sm font-extrabold tracking-widest text-[#C6A15B] font-mono">
-          INITIALIZING ROYALS INTELLIGENCE ENGINE…
-        </div>
-        <div className="w-48">
-          <Skeleton className="h-1.5 w-full bg-slate-700" />
-        </div>
-      </div>
-    );
-  }
-
+  // Immediate rendering of the application dashboard without artificial splash screen delay
   return <RouterProvider router={router} />;
 };
 

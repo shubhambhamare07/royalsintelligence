@@ -79,7 +79,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ onCloseMobile }) => {
                 onClick={onCloseMobile}
                 className={({ isActive }) =>
                   clsx(
-                    'flex items-center gap-2.5 px-3 py-2 rounded-lg text-[13px] font-medium h-[38px] transition-all duration-150',
+                    'flex items-center gap-2.5 px-3 py-2 rounded-lg text-[13px] font-medium h-[38px] transition-all duration-150 ease-out active:scale-[0.98] motion-reduce:transform-none select-none',
                     isActive
                       ? 'bg-gradient-to-r from-[#E60067] to-[#D8005A] text-white font-semibold shadow-2xs'
                       : 'text-[#14213D] hover:text-slate-900 hover:bg-slate-50'

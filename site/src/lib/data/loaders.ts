@@ -19,6 +19,22 @@ import { canonicalRegistry } from './canonical';
 class DataLoader {
   private cache = new Map<string, any>();
 
+  public getCached<T>(url: string): T | undefined {
+    return this.cache.get(url);
+  }
+
+  public getCachedRankings(): RankingsData | undefined {
+    return this.cache.get('/data/rankings.json');
+  }
+
+  public getCachedDirectory(): PlayerDirectoryItem[] | undefined {
+    return this.cache.get('/data/players_index.json');
+  }
+
+  public getCachedDna(): any | undefined {
+    return this.cache.get('/data/dna.json');
+  }
+
   private async fetchJson<T>(url: string): Promise<T> {
     if (this.cache.has(url)) {
       return this.cache.get(url) as T;
