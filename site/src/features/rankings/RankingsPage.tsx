@@ -334,7 +334,14 @@ export const RankingsPage: React.FC = () => {
                               />
                             )}
                             {franchise && (
-                              <span className="font-semibold text-slate-600">{franchise.short}</span>
+                              <div className="flex items-center gap-1">
+                                <span className="font-semibold text-slate-600">{franchise.short}</span>
+                                {franchise.note && (
+                                  <span className="text-[8.5px] font-bold text-amber-700 bg-amber-50 px-1 py-0.2 rounded border border-amber-200">
+                                    {franchise.note}
+                                  </span>
+                                )}
+                              </div>
                             )}
                           </div>
                         </div>

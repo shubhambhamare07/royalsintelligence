@@ -455,6 +455,11 @@ export const ComparePage: React.FC = () => {
                             <>
                               <span>•</span>
                               <span className="font-bold text-[#14213D]">{franchise.short}</span>
+                              {franchise.note && (
+                                <span className="text-[9px] font-bold text-amber-700 bg-amber-50 px-1 py-0.2 rounded border border-amber-200">
+                                  {franchise.note}
+                                </span>
+                              )}
                             </>
                           )}
                         </div>
@@ -540,6 +545,11 @@ export const ComparePage: React.FC = () => {
                               <img src={franchise.logo} alt={franchise.short} className="w-3.5 h-3.5 object-contain" />
                             )}
                             <span>{franchise.short}</span>
+                            {franchise.note && (
+                              <span className="text-[9px] font-bold text-amber-700 bg-amber-50 px-1 py-0.2 rounded border border-amber-200">
+                                {franchise.note}
+                              </span>
+                            )}
                           </div>
                         )}
                       </div>

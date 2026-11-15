@@ -50,12 +50,20 @@ describe('Universal Player Profile & Identity Integrity', () => {
     expect(bhuviFranchise?.name).toBe('Royal Challengers Bengaluru');
     expect(bhuviFranchise?.logo).toBe('/assets/teams/user_logos/rcb.png');
 
-    // 4. Nathan Ellis -> CSK (Chennai Super Kings)
+    // 4. Nathan Ellis -> SRH (Sunrisers Hyderabad in 2027, CSK till 2026)
     const ellisFranchise = getPlayerFranchise(7920);
     expect(ellisFranchise).not.toBeNull();
-    expect(ellisFranchise?.short).toBe('CSK');
-    expect(ellisFranchise?.name).toBe('Chennai Super Kings');
-    expect(ellisFranchise?.logo).toBe('/assets/teams/user_logos/csk.png');
+    expect(ellisFranchise?.short).toBe('SRH');
+    expect(ellisFranchise?.name).toBe('Sunrisers Hyderabad');
+    expect(ellisFranchise?.logo).toBe('/assets/teams/user_logos/srh.png');
+    expect(ellisFranchise?.note).toBe('2027 (CSK till 2026)');
+
+    // 5. Krunal Pandya -> RCB (Royal Challengers Bengaluru)
+    const krunalFranchise = getPlayerFranchise(4219);
+    expect(krunalFranchise).not.toBeNull();
+    expect(krunalFranchise?.short).toBe('RCB');
+    expect(krunalFranchise?.name).toBe('Royal Challengers Bengaluru');
+    expect(krunalFranchise?.logo).toBe('/assets/teams/user_logos/rcb.png');
   });
 
   it('correctly resolves official IPL team logos from user_logos directory', () => {

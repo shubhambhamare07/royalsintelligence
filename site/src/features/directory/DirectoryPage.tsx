@@ -33,9 +33,9 @@ type SortOption =
 export const DirectoryPage: React.FC = () => {
   const [searchParams, setSearchParams] = useSearchParams();
   const navigate = useNavigate();
-  const [players, setPlayers] = useState<PlayerDirectoryItem[]>([]);
-  const [rankings, setRankings] = useState<RankingsData | null>(null);
-  const [loading, setLoading] = useState(true);
+  const [players, setPlayers] = useState<PlayerDirectoryItem[]>(() => dataLoader.getCachedDirectory() || []);
+  const [rankings, setRankings] = useState<RankingsData | null>(() => dataLoader.getCachedRankings() || null);
+  const [loading, setLoading] = useState(() => !dataLoader.getCachedDirectory());
 
   // Filters from URL
   const query = searchParams.get('q') || '';
@@ -104,26 +104,57 @@ export const DirectoryPage: React.FC = () => {
         const nat = getPlayerNationality(p.player_id, p.national_teams).toLowerCase();
         const matchesCountry = nat.includes(q);
         const franchise = getPlayerFranchise(p.player_id, p.franchise_teams);
-        const matchesTeam = franchise?.name.toLowerCase().includes(q) || franchise?.short.toLowerCase().includes(q);
-        if (!matchesName && !matchesId && !matchesCountry && !matchesTeam) return false;
+        const matchesFranchise =
+          franchise?.name.toLowerCase().includes(q) ||
+          franchise?.short.toLowerCase().includes(q) ||
+          Boolean(franchise?.note && franchise.note.toLowerCase().includes(q));
+        const matchesTeams = p.teams?.some((t) => t.toLowerCase().includes(q));
+        const matchesFranchiseTeams = p.franchise_teams?.some((t) => t.toLowerCase().includes(q));
+        if (!matchesName && !matchesId && !matchesCountry && !matchesFranchise && !matchesTeams && !matchesFranchiseTeams) {
+          return false;
+        }
       }
 
       // Role filter
       if (roleFilter !== 'ALL') {
-        if (roleFilter === 'BAT' && p.derived_role !== 'BAT') return false;
-        if (roleFilter === 'BOWL' && p.derived_role !== 'BOWL') return false;
-        if (roleFilter === 'ALL_ROUNDER' && p.derived_role !== 'ALL') return false;
+        const hasBatRank = Boolean(canonicalRegistry.getBattingRank(p.player_id));
+        const hasBowlRank = Boolean(canonicalRegistry.getBowlingRank(p.player_id));
+
+        if (roleFilter === 'BAT') {
+          const isBatter = p.derived_role === 'BAT' || p.derived_role === 'WK' || p.derived_role === 'ALL' || hasBatRank;
+          if (!isBatter) return false;
+        } else if (roleFilter === 'BOWL') {
+          const isBowler = p.derived_role === 'BOWL' || p.derived_role === 'ALL' || hasBowlRank;
+          if (!isBowler) return false;
+        } else if (roleFilter === 'ALL_ROUNDER') {
+          const isAllRounder = p.derived_role === 'ALL' || (hasBatRank && hasBowlRank);
+          if (!isAllRounder) return false;
+        }
       }
 
       // Team filter
       if (teamFilter !== 'ALL') {
+        const filterLower = teamFilter.toLowerCase();
         const franchise = getPlayerFranchise(p.player_id, p.franchise_teams);
-        const hasTeam =
-          franchise?.short === teamFilter ||
-          p.teams.includes(teamFilter) ||
-          p.franchise_teams.includes(teamFilter) ||
-          p.national_teams.includes(teamFilter);
-        if (!hasTeam) return false;
+        const selectedBranding = IPL_TEAMS[teamFilter];
+        const selectedShort = selectedBranding?.short_name.toLowerCase();
+
+        const matchesFranchiseName = franchise?.name.toLowerCase() === filterLower;
+        const matchesFranchiseShort =
+          franchise?.short.toLowerCase() === filterLower ||
+          (Boolean(selectedShort) && franchise?.short.toLowerCase() === selectedShort);
+        const matchesNote = Boolean(franchise?.note && franchise.note.toLowerCase().includes(filterLower));
+
+        const inTeams = p.teams?.some(
+          (t) => t.toLowerCase() === filterLower || (Boolean(selectedShort) && t.toLowerCase() === selectedShort)
+        );
+        const inFranchiseTeams = p.franchise_teams?.some(
+          (t) => t.toLowerCase() === filterLower || (Boolean(selectedShort) && t.toLowerCase() === selectedShort)
+        );
+
+        if (!matchesFranchiseName && !matchesFranchiseShort && !matchesNote && !inTeams && !inFranchiseTeams) {
+          return false;
+        }
       }
 
       // Country filter
@@ -465,10 +496,10 @@ export const DirectoryPage: React.FC = () => {
                         </div>
                       </td>
 
-                      {/* Franchise: Logo + Code */}
+                      {/* Franchise: Logo + Code + Contextual Trade Note */}
                       <td className="py-2.5 px-3 text-slate-700">
                         {franchise ? (
-                          <div className="flex items-center gap-1.5">
+                          <div className="flex items-center gap-1.5 flex-wrap">
                             <img
                               src={franchise.logo}
                               alt={franchise.short}
@@ -478,6 +509,11 @@ export const DirectoryPage: React.FC = () => {
                               }}
                             />
                             <span className="font-semibold text-xs text-slate-800">{franchise.short}</span>
+                            {franchise.note && (
+                              <span className="text-[9px] font-bold text-amber-700 bg-amber-50 px-1 py-0.5 rounded border border-amber-200 shrink-0 leading-none">
+                                {franchise.note}
+                              </span>
+                            )}
                           </div>
                         ) : (
                           <span className="text-slate-400 text-xs">—</span>

@@ -321,6 +321,11 @@ export const ProfilePage: React.FC = () => {
                   <span className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded bg-white text-slate-700 border border-slate-200 text-xs font-semibold">
                     <img src={franchise.logo} alt={franchise.name} className="h-4 max-w-[28px] object-contain shrink-0" />
                     <span>{franchise.name}</span>
+                    {franchise.note && (
+                      <span className="ml-1 text-[10px] font-bold text-amber-700 bg-amber-50 px-1.5 py-0.5 rounded border border-amber-200">
+                        {franchise.note}
+                      </span>
+                    )}
                   </span>
                 )}
 

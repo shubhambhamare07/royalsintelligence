@@ -24,6 +24,7 @@ interface TopPlayerCardData {
   team: string;
   teamLogo: string;
   photoSrc: string;
+  note?: string;
 }
 
 export const HomePage: React.FC = () => {
@@ -163,8 +164,8 @@ export const HomePage: React.FC = () => {
       rating: 81.61,
       country: 'India',
       flagSrc: '/assets/flags/in.svg',
-      team: 'LSG',
-      teamLogo: '/assets/teams/user_logos/lsg.png',
+      team: 'RCB',
+      teamLogo: '/assets/teams/user_logos/rcb.png',
       photoSrc: '/assets/players/top10/krunal-pandya.webp',
     },
     {
@@ -240,9 +241,10 @@ export const HomePage: React.FC = () => {
       rating: 72.24,
       country: 'Australia',
       flagSrc: '/assets/flags/au.svg',
-      team: 'CSK',
-      teamLogo: '/assets/teams/user_logos/csk.png',
+      team: 'SRH',
+      teamLogo: '/assets/teams/user_logos/srh.png',
       photoSrc: '/assets/players/top10/nathan-ellis.png',
+      note: "2027 (CSK ≤'26)",
     },
     {
       rank: 10,
@@ -431,13 +433,18 @@ export const HomePage: React.FC = () => {
                   </div>
                 </div>
 
-                {/* Team Logo */}
-                <div className="h-6 flex items-center justify-center shrink-0 my-0.5">
+                {/* Team Logo & Context Badge */}
+                <div className="h-6 flex items-center justify-center gap-1.5 shrink-0 my-0.5">
                   <img
                     src={player.teamLogo}
                     alt={player.team}
                     className="h-5 w-auto max-w-[44px] object-contain drop-shadow-2xs"
                   />
+                  {player.note && (
+                    <span className="text-[8px] font-bold text-amber-800 bg-amber-50 px-1 py-0.5 rounded border border-amber-200 shrink-0 leading-none">
+                      {player.note}
+                    </span>
+                  )}
                 </div>
 
                 {/* Card Bottom: Pressure Rating Pill */}

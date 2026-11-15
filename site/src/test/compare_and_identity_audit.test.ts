@@ -17,17 +17,31 @@ describe('Player Identity & Franchise Mapping Forensic Audit', () => {
     expect(getPlayerImageUrl(360)).toBe('/assets/players/top10/bhuvneshwar-kumar.webp');
   });
 
-  it('correctly maps Nathan Ellis (ID 7920) to CSK with authentic CSK logo', () => {
+  it('correctly maps Nathan Ellis (ID 7920) to SRH (2027) with CSK historical context note', () => {
     const franchise = getPlayerFranchise(7920);
     expect(franchise).not.toBeNull();
-    expect(franchise?.short).toBe('CSK');
-    expect(franchise?.name).toBe('Chennai Super Kings');
-    expect(franchise?.logo).toBe('/assets/teams/user_logos/csk.png');
+    expect(franchise?.short).toBe('SRH');
+    expect(franchise?.name).toBe('Sunrisers Hyderabad');
+    expect(franchise?.logo).toBe('/assets/teams/user_logos/srh.png');
+    expect(franchise?.note).toBe('2027 (CSK till 2026)');
 
     const nationality = getPlayerNationality(7920);
     expect(nationality).toBe('Australia');
     expect(getCountryFlag(nationality)).toBe('/assets/flags/au.svg');
     expect(getPlayerImageUrl(7920)).toBe('/assets/players/top10/nathan-ellis.png');
+  });
+
+  it('correctly maps Krunal Pandya (ID 4219) to RCB with authentic RCB logo', () => {
+    const franchise = getPlayerFranchise(4219);
+    expect(franchise).not.toBeNull();
+    expect(franchise?.short).toBe('RCB');
+    expect(franchise?.name).toBe('Royal Challengers Bengaluru');
+    expect(franchise?.logo).toBe('/assets/teams/user_logos/rcb.png');
+
+    const nationality = getPlayerNationality(4219);
+    expect(nationality).toBe('India');
+    expect(getCountryFlag(nationality)).toBe('/assets/flags/in.svg');
+    expect(getPlayerImageUrl(4219)).toBe('/assets/players/top10/krunal-pandya.webp');
   });
 
   it('correctly resolves verified domestic player nationalities without "International" fallback', () => {

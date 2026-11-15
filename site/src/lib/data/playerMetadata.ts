@@ -5,7 +5,7 @@
 import { getTeamBranding } from './teams';
 
 // Explicit verified trade and top-20 franchise assignments
-export const VERIFIED_FRANCHISE_MAP: Record<number, { name: string; short: string }> = {
+export const VERIFIED_FRANCHISE_MAP: Record<number, { name: string; short: string; note?: string }> = {
   // Top 10 Batters
   6931: { name: 'Delhi Capitals', short: 'DC' }, // Trade to DC
   4260: { name: 'Sunrisers Hyderabad', short: 'SRH' },
@@ -20,14 +20,14 @@ export const VERIFIED_FRANCHISE_MAP: Record<number, { name: string; short: strin
 
   // Top 10 Bowlers
   8661: { name: 'Kolkata Knight Riders', short: 'KKR' }, // Trade to KKR
-  4219: { name: 'Lucknow Super Giants', short: 'LSG' },
+  4219: { name: 'Royal Challengers Bengaluru', short: 'RCB' }, // Verified RCB assignment
   781: { name: 'Kolkata Knight Riders', short: 'KKR' },
   830: { name: 'Royal Challengers Bengaluru', short: 'RCB' },
   2876: { name: 'Delhi Capitals', short: 'DC' },
   3644: { name: 'Delhi Capitals', short: 'DC' },
   360: { name: 'Royal Challengers Bengaluru', short: 'RCB' }, // Verified RCB assignment
   1758: { name: 'Sunrisers Hyderabad', short: 'SRH' },
-  7920: { name: 'Chennai Super Kings', short: 'CSK' }, // Verified CSK assignment
+  7920: { name: 'Sunrisers Hyderabad', short: 'SRH', note: '2027 (CSK till 2026)' }, // Trade to SRH (2027), CSK till 2026
   7327: { name: 'Delhi Capitals', short: 'DC' },
 };
 
@@ -140,7 +140,7 @@ export function getCountryFlag(countryName?: string | null): string | null {
 export function getPlayerFranchise(
   playerId: string | number | undefined,
   fallbackTeams?: string[]
-): { name: string; short: string; logo: string } | null {
+): { name: string; short: string; logo: string; note?: string } | null {
   if (!playerId) return null;
   const idNum = typeof playerId === 'number' ? playerId : parseInt(String(playerId), 10);
   
@@ -152,6 +152,7 @@ export function getPlayerFranchise(
       name: verified.name,
       short: verified.short,
       logo: branding ? branding.logo_path : `/assets/teams/user_logos/${verified.short.toLowerCase()}.png`,
+      note: verified.note,
     };
   }
 
